@@ -1,15 +1,15 @@
 .radio-item {
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    display: block;
-    position: relative;
-    min-height: 40px;
-    margin-bottom: 10px;
-    padding-left: 40px;
-    clear:left;
-	font-size: 		$font-size-base;
-	font-weight: 	$font-weight;
-	line-height: 	$font-line-height;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: block;
+  position: relative;
+  min-height: 40px;
+  margin-bottom: 10px;
+  padding-left: 40px;
+  clear: left;
+  font-size: $font-size-base;
+  font-weight: $font-weight;
+  line-height: $font-line-height;
 }
 
 .radio-item input {
@@ -21,19 +21,19 @@
   width: 44px;
   height: 44px;
   margin: 0;
-  opacity:0
+  opacity: 0;
 }
 
 .radio-item label {
-    display: inline-block;
-    margin-bottom: 0;
-    padding: 8px 15px 5px;
-    cursor: pointer;
-    -ms-touch-action: manipulation;
-    touch-action:manipulation
+  display: inline-block;
+  margin-bottom: 0;
+  padding: 8px 15px 5px;
+  cursor: pointer;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
 }
 
-.radio-item label::before{
+.radio-item label::before {
   content: "";
   box-sizing: border-box;
   position: absolute;
@@ -60,10 +60,10 @@
 }
 
 input:focus + label::before {
-    border-width: 4px;
-    box-shadow:0 0 0 4px #ffdd00
+  border-width: 4px;
+  box-shadow: 0 0 0 4px #fd0;
 }
 
 input:checked + label::after {
-    opacity:1
+  opacity: 1;
 }
