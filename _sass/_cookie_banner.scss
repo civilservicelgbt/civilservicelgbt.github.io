@@ -1,15 +1,17 @@
 #cookie-notice {
-  padding: 1rem 1rem;
   display: none;
-  text-align: left;
-  top: 10px;
-  width: 100%;
-  background: #f3f2f1;
 }
 
 #cookie-notice-nojs {
-  padding: 1rem 1rem;
   display: block;
+
+  p {
+    margin-bottom: initial;
+  }
+}
+
+.cookie-banner {
+  padding: 1rem 1rem;
   text-align: left;
   top: 10px;
   width: 100%;
