@@ -93,7 +93,8 @@
 	<link rel="stylesheet" media="print" href="{{ site.url | append: site.baseurl | append: '/assets/styles/print.css' }}">
 
 	{% if jekyll.environment == 'production' %}
-	{% include analytics.html %}
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google-analytics }}"></script>
 	{% endif %}
 
 	<script type="text/javascript" src="{{ site.url | append: site.baseurl | append: '/assets/scripts/scripts.js' }}"></script>
