@@ -18,4 +18,4 @@ Whilst in complete solidarity with those that are suffering greatly from this pa
 
 And living up to the lesbian stereotype, I have a cat named Puccini. He is definitely benefiting from this lockdown as he is able to get a lot more treats out of me. 
 
-Happy Lesbian Visibility Week! 
+Happy Lesbian Visibility Week!
