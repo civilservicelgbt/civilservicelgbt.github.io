@@ -89,7 +89,7 @@ Google Analytics sets the following cookies.
 |-------|--------|---------|
 | _ga | To help us count how many people visit the website by tracking if you’ve visited before | 2 years |
 | _gid | To help us count how many people visit the website by tracking if you’ve visited before | 24 hours |
-| _gat | Used to manage the efficiency of loading analytics | 1 minute |
+| _gat | To help us count how many people visit the website by tracking if you’ve visited before | 1 minute |
 
 Set your preference for measurement cookies:
 
