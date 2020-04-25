@@ -12,7 +12,7 @@ published: true
 
 <tr>
 	<td>
-		{% if volunteer.Picture %}<img src="{{ site.url | append: site.baseurl | append: volunteer.Picture }}">{% endif %}
+		{% if volunteer.Picture %}<img src="{{ site.url | append: site.baseurl | append: volunteer.Picture }}" alt="{{ volunteer.Name }}">{% endif %}
 	</td>
 	<td>
 		<h2>
