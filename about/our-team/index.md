@@ -13,11 +13,6 @@ The **Civil Service LGBT+ Network** is led by a small team of volunteers. These 
 {% for volunteer in site.data.team %}{% if volunteer.Team == "Leadership" %}
 | {% if volunteer.Position %}{% if volunteer.Link %}[**{{ volunteer.Position }}**]({{ site.url | append: site.baseurl | append: volunteer.Link }}){% else %}**{{ volunteer.Position }}**{% endif %}{% endif %} | {% if volunteer.Email %}[{{ volunteer.Name }}]({{ volunteer.Email }}){% else %}{{ volunteer.Name }}{% endif %} |{% endif %}{% endfor %}
 
-## Communications team
-
-{% for volunteer in site.data.team %}{% if volunteer.Team == "Communications" %}
-| {% if volunteer.Position %}{% if volunteer.Link %}[**{{ volunteer.Position }}**]({{ site.url | append: site.baseurl | append: volunteer.Link }}){% else %}**{{ volunteer.Position }}**{% endif %}{% endif %} | {% if volunteer.Email %}[{{ volunteer.Name }}]({{ volunteer.Email }}){% else %}{{ volunteer.Name }}{% endif %} |{% endif %}{% endfor %}
-
 ## Local organisers
 
 Our local organisers help us deliver work in places near you. This includes our events, campaigns and social activities.
