@@ -48,12 +48,14 @@ function gtag() {
   dataLayer.push(arguments);
 }
 
-function startGA(trackingId){
+function startGA(trackingId, domain){
   window['ga-disable-' + trackingId] = false;
   window.dataLayer = window.dataLayer || [];
   gtag("js", new Date());
 
-  gtag("config", trackingId);
+  gtag("config", trackingId, {
+  'cookie_domain': domain
+});
 }
 
 function stopGA(trackingId) {
