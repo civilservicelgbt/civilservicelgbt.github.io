@@ -24,7 +24,7 @@
 
 <script>
 if (getCookie("cookie-policy") == "true") {
-  startGA("{{ site.google-analytics }}");
+  startGA("{{ site.google-analytics }}", "{{ site.google-analytics-domain }}");
 } else if (getCookie("cookie-policy") == "false") {
   stopGA("{{ site.google-analytics }}");
 } else {
