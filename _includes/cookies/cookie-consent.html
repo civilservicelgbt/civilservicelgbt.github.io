@@ -26,9 +26,9 @@
 if (getCookie("cookie-policy") == "true") {
   startGA("{{ site.google-analytics }}", "{{ site.google-analytics-domain }}");
 } else if (getCookie("cookie-policy") == "false") {
-  stopGA("{{ site.google-analytics }}");
+  stopGA("{{ site.google-analytics }}", "{{ site.google-analytics-domain }}");
 } else {
-  stopGA("{{ site.google-analytics }}");
+  stopGA("{{ site.google-analytics }}", "{{ site.google-analytics-domain }}");
   document.getElementById("cookie-notice").style.display = "block";
   document.getElementById("cookie-choice").style.display = "block";
   document.getElementById("cookie-choice-confirmation").style.display = "none";
