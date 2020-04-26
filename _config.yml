@@ -112,7 +112,7 @@ github-handle:  "civilservicelgbt"
 # Google settings
 google-site-verification: "RA-YBjxyRYVSuSFAYLKkufs6gjme6kMcihoB2KgKrTA"
 google-analytics: "UA-47423042-2" # GA ID code
-google-analytics-domain: "www.civilservice.lgbt"
+google-analytics-domain: ".www.civilservice.lgbt"
 
 # Mailchimp
 unsubscribe-form: "https://us17.admin.mailchimp.com/lists/designer/?id=118945"

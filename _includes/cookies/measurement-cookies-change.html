@@ -36,6 +36,6 @@ document
   .getElementById("disable-measurement-cookies")
   .addEventListener("click", function () {
     setCookie("cookie-policy", "false", 31);
-    stopGA("{{ site.google-analytics }}");
+    stopGA("{{ site.google-analytics }}", "{{ site.google-analytics-domain }}");
   });
 </script>
