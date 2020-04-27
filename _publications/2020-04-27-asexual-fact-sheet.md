@@ -1,7 +1,7 @@
 ---
 layout: publication
 author: Civil Service LGBT+ Network
-date: '2020-04-22'
+date: '2020-04-27'
 preview: false
 published: true
 title: Asexuality fact sheet
