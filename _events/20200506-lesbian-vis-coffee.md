@@ -1,5 +1,5 @@
 ---
-title: 'Lesbian Visibility virtual Coffee morning'
+title: 'Lesbian Visibility Virtual Coffee Morning'
 excerpt: Join us for an informal chat with fellow members, over your favourite morning beverage.
 event-date: 2020-05-06 09:30:00
 location: "Online (via Zoom)"
