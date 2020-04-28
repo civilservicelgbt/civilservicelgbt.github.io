@@ -5,7 +5,7 @@ event-date: 2020-05-06 09:30:00
 location: "Online (via Zoom)"
 link: "https://www.eventbrite.co.uk/e/lesbian-visibility-virtual-coffee-morning-tickets-103820503922"
 layout: event
-slug: /2020/05/06/lesbain-visibility-coffee-morning
+slug: /2020/05/06/lesbian-visibility-coffee-morning
 published: true
 ---
 
