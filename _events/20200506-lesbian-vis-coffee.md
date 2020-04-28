@@ -1,6 +1,6 @@
 ---
 title: 'Lesbian Visibility virtual Coffee morning'
-excerpt: Join us for an informal chat with fellow members, over our favourite morning beverage.
+excerpt: Join us for an informal chat with fellow members, over your favourite morning beverage.
 event-date: 2020-05-06 09:30:00
 location: "Online (via Zoom)"
 link: "https://www.eventbrite.co.uk/e/lesbian-visibility-virtual-coffee-morning-tickets-103820503922"
@@ -9,7 +9,9 @@ slug: /2020/05/06/lesbain-visibility-coffee-morning
 published: true
 ---
 
-Following on from Lesbian Visibility Week, we’re thinking of new ways to stay in touch with our members. We are planning to run a virtual coffee morning on Wednesday 6th May 2020 at 9:30 – 10:30AM, for our members who identify as lesbian, to talk about what more we can do to support you. Do join us for an informal chat with fellow members, over our favourite morning beverage.  
+Following on from Lesbian Visibility Week, we’re thinking of new ways to stay in touch with our members. We are planning to run a virtual coffee morning for our members who identify as lesbian, to talk about what more we can do to support you. 
+
+Do join us for an informal chat with fellow members, over your favourite morning beverage.  
 
 If you are unable to participate vocally, please let us know and we will make sure you can still join in safely. 
 
