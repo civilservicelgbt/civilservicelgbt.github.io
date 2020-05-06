@@ -17,10 +17,6 @@ Like last time, we will be using the Zoom feature of breakout sessions to facili
 
 ## Important to note: ## 
 
-We expect interest to exceed capacity as our Zoom account can only hold up to 100 participants. Therefore, there will be an initial 100 tickets released - those 100 ticket holders will be sent the link to register for the Zoom access codes by COP Tuesday 5th May. 
-
-You will have until 18:00 on Wednesday 6th May to register via Zoom to receive your access codes. After this, any spare spaces will be made available to those on the waiting list via Eventbrite on a first come first serve basis. 
-
 Registering your interest via Eventbrite does not guarantee your place. Your Zoom registration link will be sent to the email address you register your interest with. 
 
 If you are unable to participate vocally, please let us know and we will make sure you can still join in safely. 
