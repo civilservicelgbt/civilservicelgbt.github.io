@@ -1,11 +1,11 @@
 ---
 title: 'National Staff Networks Day CSLGBT+ Forum'
 excerpt: Join via Zoom for a discussion with other network members to mark National Staff Networks Day. 
-event-date: 2020-05-11 10:00:00
+event-date: 2020-05-13 10:00:00
 location: "Online (via Zoom)"
 link: "https://www.eventbrite.co.uk/e/national-staff-networks-day-cslgbt-forum-tickets-104991059084"
 layout: event
-slug: /2020/05/11/staff-network-day
+slug: /2020/05/13/staff-network-day
 published: true
 ---
 
