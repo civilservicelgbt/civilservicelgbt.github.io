@@ -6,8 +6,6 @@ excerpt: "Our contact details, in case you want to get in touch."
 permalink: /about/contact-us/
 ---
 
-## Contact us
-
 You can contact us via:
 
 - Email at [info@civilservice.lgbt](mailto:info@civilservice.lgbt)
@@ -18,12 +16,18 @@ We aim to reply to most correspondence within a week, but please remember we are
 
 ### Ask us to share your content
 
-If you have written a blog post, are holding an event or have written a publication, and you want to share it with LGBT+ civil servants, then complete one of the forms below and we’ll add it to our website[^1].
+We are happy to publish content that you want to share with LGBT+ civil servants. This includes:
 
-- [Submit a blog post or news article](https://docs.google.com/forms/d/e/1FAIpQLSeXUakASP-92eGAHFV-1S7f8vFLFyIbhjXan2XvDYFeaJ56Gw/viewform)
-- [Submit an event](https://docs.google.com/forms/d/e/1FAIpQLSc44JVkqzJarxljvRksuqjXQnqt0k4cb9Ix0taCqc7ianHDew/viewform)
-- [Submit a publication](https://docs.google.com/forms/d/e/1FAIpQLScYK-0IPeRS_mZD7bQg5tyZ_-otkQ9w9m-SbtEeFbGiD_nsMg/viewform)
+- blog posts
+- news articles
+- events
+- publications
 
-If you want to consult with our members on a particular issue relevant to LGBT+ civil servants, then [complete this form](https://docs.google.com/forms/d/e/1FAIpQLSe_y6NwmrLf2sKLSmQXGUdfvjlSNoziqtde7TJCxNIcnsmXDg/viewform).
+Send us an email at [info@civilservice.lgbt](mailto:info@civilservice.lgbt) and we’ll add it to our website.
 
-[^1]: Please note, due to the voluntary nature of our network, and the Civil Service Code, we can’t accept all requests to publish content. In general, if your content is relevant to LGBT+ civil servants as civil servants, and adheres to the 4 Civil Service principles of ‘honesty’, ‘integrity’, ‘objectivity’, and ‘impartiality’, we will be happy to publish your content.
+We can’t accept all requests to publish content due to the voluntary nature of our network. Content should be relevant to LGBT+ civil servants as civil servants and adhere to the [Civil Service Code](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code). 
+
+### Hold a consultation
+
+If you want to consult with our members on a particular issue relevant to LGBT+ civil servants, send us an email at [info@civilservice.lgbt](mailto:info@civilservice.lgbt).
+
