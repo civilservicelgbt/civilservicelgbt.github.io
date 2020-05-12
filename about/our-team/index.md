@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Our team
-excerpt: 'We are a volunteer-led network, made up of members from across the UK.'
+excerpt: 'We are a volunteer-led network, made up of members from across the UK. These volunteers give up their spare time to support LGBT+ civil servants.'
 permalink: /about/our-team/
 published: true
 ---
 
-The **Civil Service LGBT+ Network** is led by a small team of volunteers. These volunteers give up their spare time to support LGBT+ civil servants.
-
 ## Leadership team
+
+The Civil Service LGBT+ Network is led by a small team of volunteers.
 
 {% for volunteer in site.data.team %}{% if volunteer.Team == "Leadership" %}
 | {% if volunteer.Position %}{% if volunteer.Link %}[**{{ volunteer.Position }}**]({{ site.url | append: site.baseurl | append: volunteer.Link }}){% else %}**{{ volunteer.Position }}**{% endif %}{% endif %} | {% if volunteer.Email %}{{ volunteer.Name }}{% else %}{{ volunteer.Name }}{% endif %} |{% endif %}{% endfor %}
