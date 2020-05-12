@@ -10,9 +10,9 @@ permalink: /about/contact-us/
 
 You can contact us via:
 
-- **Email:** [info@civilservice.lgbt](mailto:info@civilservice.lgbt)
-- **Facebook:** Like **[our Facebook Page]({{ site.facebook-url }})**
-- **Twitter:** Follow us [@cslgbt]({{ site.twitter-url}})
+- Email at [info@civilservice.lgbt](mailto:info@civilservice.lgbt)
+- Facebook at [civilservicelgbt]({{ site.facebook-url }})
+- Twitter at [@cslgbt]({{ site.twitter-url}})
 
 We aim to reply to most correspondence within a week, but please remember we are volunteers, doing this on top of our day jobs, so it sometimes takes longer for us to respond.
 
