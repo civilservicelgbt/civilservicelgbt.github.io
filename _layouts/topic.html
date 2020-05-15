@@ -92,6 +92,35 @@ layout: skeleton
 				</ul>
 				
 			</section>
+			
+			<section id="topic-section">
+
+				<h2 class="section-title">Publications</h2>
+
+				<ul>
+
+					{% assign today-date = 'now' | date: '%Y' %}
+					{% assign publications = site.publications | where: 'category', page.category %}
+
+					{% for post in publications %}
+
+						<li>
+							<article>
+								<h2><a href="{{ site.url | append: site.baseurl | append: post.url }}" title="Read {{ post.title }}">{{ post.title }}</a></h2>
+								<p class="post-metadata"><time datetime="{{ post.date | date: '%Y-%m-%d %H:%M' }}">{{ post.date  | date:'%-d %B %Y' }}</time></p>
+							</article>
+						</li>
+						
+						{% assign not-empty = not-empty | plus: 1 %}
+
+					{% endfor %}
+
+					{% if not-empty == 0 %}
+						<li><article><h2>No publications</h2></article></li>
+					{% endif %}
+
+				</ul>
+					</section>
 
 			
 		</div>
