@@ -1,14 +1,15 @@
 ---
-title: "Civil Service Pride"
+title: "Civil Service PrideOn"
 excerpt: "Everything you need to know about this year's Civil Service Pride activities."
 
 layout: topic
 collection: events
-category: pride
-permalink: /pride/index.html
+category: pride-2020
+permalink: /pride.html
 redirect_from: 
-- /pride-2018/
-- /pride-2019/
+- /prideon/
+- /pride-on/
+- /pride-2020/
 
 image: /assets/images/site/pride.png
 ---
