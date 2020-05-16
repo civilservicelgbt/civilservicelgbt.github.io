@@ -234,6 +234,22 @@ layout: default
 				{% endif %}
 			{% endfor %}
 			</ul>
+
+		
+		{% elsif page.collection == "topics" %}
+		
+			<ul>
+			{% for post in site.topics %}
+				{% if post.preview != true %}
+				<li>
+					<article>
+						<h2><a href="{{ site.url | append: site.baseurl | append: post.url }}" title="Find out more about {{ post.title }}">{{ post.title }}</a></h2>
+						<p class="post-metadata">{% if post.excerpt %}{{ post.excerpt }}{% endif %}</p>
+					</article>
+				</li>
+				{% endif %}
+			{% endfor %}
+			</ul>
 		
 		{% endif %}		
 		
@@ -305,6 +321,16 @@ layout: default
 		{% elsif page.collection == "manuals" %}
 
 			<h2 class="page-share-title">Volunteer with us</h2>
+			
+		{% elsif page.collection == "topics" %}
+
+			<h2 class="page-share-title">Become a member</h2>
+			
+			<p>If you're an LGBT+ civil servant or an ally, become a member.</p>
+
+			<p>We'll send you regular updates about our work and how you can get involved; including our regular networking events across the UK.</p>
+
+			<p><a href="{{ site.url | append: site.base-url | append: '/join-us' }}">Sign up as a member</a>.</p>
 
 		{% endif %}
 		

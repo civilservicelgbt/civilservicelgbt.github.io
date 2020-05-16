@@ -50,6 +50,7 @@ home-events:		true
 home-publications:	true
 home-consultations:	true
 home-manuals:		false
+home-topics:		true
 
 # HEADER
 
@@ -170,6 +171,9 @@ collections:
     defaults:
       values:
         layout: news
+  topics:
+    output: true
+    permalink: /
 
 #####################################################
 #####################################################
