@@ -102,7 +102,7 @@ layout: skeleton
 					{% assign today-date = 'now' | date: '%Y' %}
 					{% assign publications = site.publications | where: 'category', page.category %}
 
-					{% for post in publications %}
+					{% for post in publications reversed %}
 
 						<li>
 							<article>
