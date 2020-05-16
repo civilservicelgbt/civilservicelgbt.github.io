@@ -131,9 +131,9 @@ body.home {
           "join"
           "publications"
           "consutlations"
+          "topics"
           "social"
-          "manuals"
-          "topics";
+          "manuals";
 
         @include md-up {
           grid-template-rows: auto auto auto auto auto auto;
