@@ -6,8 +6,8 @@ preview: false
 published: true
 title: Bisexuality fact sheet
 permalink: /publication/bi-fact-sheet
-excerpt: "We’ve created this fact sheet about bisexuality to raise awareness of bisexuality and the
-experiences of bisexual people.."
+excerpt: "We’ve created this fact sheet about bisexuality to raise awareness of bisexuality and the experiences of bisexual people."
+category: bispace
 ---
 
 <!-- Include the following to generate a Table of Contents -->
