@@ -6,5 +6,22 @@ collection: events
 category: bispace
 permalink: /bispace/index.html
 image: /assets/images/pages/bispace.png
+
+#Social Media
+
+# Set to 'true' to turn on the social links
+social-links: false
+
+twitter-url: "https://twitter.com/cslgbt"
+twitter-text: "cslgbt"
+
+facebook-url:	"https://facebook.com/civilservicelgbt"
+facebook-text: "civilservicelgbt"
+
+instagram-url:  "https://www.instagram.com/civilservicelgbt"
+instagram-text:  "civilservicelgbt"
+
+youtube-url:  "https://www.youtube.com"
+youtube-text:  "Watch on YouTube"
 ---
 
