@@ -11,7 +11,7 @@ excerpt: >-
   Service's Pride season.
 image: /assets/images/posts/pride-2019.png
 image-alt: Civil Service Pride
-category: pride
+category: pride-2019
 ---
 
 50 years ago this month, a riot at a bar in New York — the Stonewall Inn — sparked a LGBT rights movement, and kickstarted annual pride protests around the world. This year, we're once again taking part in pride events across the UK — and celebrating this important milestone.
