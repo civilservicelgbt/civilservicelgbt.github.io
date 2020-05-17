@@ -7,6 +7,6 @@ collection: events
 category: pride-2019
 permalink: /pride-2019.html
 
-image: /assets/images/site/pride.png
+image: assets/images/pages/pride.png
 ---
 

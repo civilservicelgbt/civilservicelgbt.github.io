@@ -11,6 +11,6 @@ redirect_from:
 - /pride-on/
 - /pride-2020/
 
-image: /assets/images/site/pride.png
+image: assets/images/pages/pride.png
 ---
 
