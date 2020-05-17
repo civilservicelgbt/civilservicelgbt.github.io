@@ -237,9 +237,9 @@ layout: default
 
 		
 		{% elsif page.collection == "topics" %}
-		
+				
 			<ul>
-			{% for post in site.topics %}
+			{% for post in site.topics reversed %}
 				{% if post.preview != true %}
 				<li>
 					<article>

@@ -1,7 +1,6 @@
 ---
 title: "Civil Service PrideOn"
 excerpt: "Everything you need to know about this year's Civil Service Pride activities."
-
 layout: topic
 collection: events
 category: pride-2020

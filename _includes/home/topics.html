@@ -2,7 +2,7 @@
 	
 	<h1 class="section-title"><a href="{{ site.url | append: site.baseurl | append: '/topics/' }}" title="Go to the topics page">Explore topics</a></h1>
 
-	{% assign topics = site.topics %}
+	{% assign topics = site.topics | sort: "date" | reverse %}
 
 	<ul>
 		{% for post in topics %}
