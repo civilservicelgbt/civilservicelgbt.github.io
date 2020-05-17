@@ -4,7 +4,7 @@ excerpt: "Everything you need to know about BiSpace: our initiative that's by bi
 layout: topic
 collection: events
 category: bispace
-permalink: /bispace/index.html
+permalink: /bispace/
 image: /assets/images/pages/bispace.png
 
 #Social Media

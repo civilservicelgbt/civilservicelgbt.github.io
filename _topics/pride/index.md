@@ -5,12 +5,12 @@ excerpt: "Everything you need to know about this year's Civil Service Pride acti
 layout: topic
 collection: events
 category: pride-2020
-permalink: /pride.html
+permalink: /pride/
 redirect_from: 
 - /prideon/
 - /pride-on/
 - /pride-2020/
 
-image: assets/images/pages/pride.png
+image: /assets/images/site/pride.png
 ---
 
