@@ -5,6 +5,6 @@ layout: topic
 collection: events
 category: bispace
 permalink: /bispace/index.html
-image: /assets/images/site/bispace.png
+image: /assets/images/pages/bispace.png
 ---
 

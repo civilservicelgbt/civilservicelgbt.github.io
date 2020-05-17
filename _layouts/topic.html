@@ -6,7 +6,8 @@ layout: skeleton
 
 <header id="{{ page.category }}">
   <div class="container">
-    <img src="{{ page.image | default: site.url | append: site.baseurl | append: '/assets/images/pages/' | append: page.category | append: '.png' }} ">
+    {% assign default_image_path = site.url | append: site.baseurl | append: '/assets/images/pages/' | append: page.category | append: '.png' %}
+    <img src="{{ page.image | default: default_image_path  }} ">
   </div>
 </header>
 
