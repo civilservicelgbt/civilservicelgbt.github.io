@@ -173,7 +173,7 @@ collections:
         layout: news
   topics:
     output: true
-    permalink: /
+    permalink: /:title/
 
 #####################################################
 #####################################################
