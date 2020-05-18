@@ -2,7 +2,7 @@
 layout: news
 author: Civil Service LGBT+ Network
 date: '2020-04-24'
-preview: true
+preview: false
 published: true
 title: Let's get visible... meet Phoebe
 excerpt: 'To mark Lesbian Visibility Week, we’re celebrating the lesbians who make the Civil Service a great place to work for all colleagues.'
