@@ -239,12 +239,12 @@ layout: default
 		{% elsif page.collection == "topics" %}
 				
 			<ul>
-			{% for post in site.topics reversed %}
-				{% if post.preview != true %}
+			{% for topic in site.topics reversed %}
+				{% if topic.preview != true %}
 				<li>
 					<article>
-						<h2><a href="{{ site.url | append: site.baseurl | append: post.url }}" title="Find out more about {{ post.title }}">{{ post.title }}</a></h2>
-						<p class="post-metadata">{% if post.excerpt %}{{ post.excerpt }}{% endif %}</p>
+						<h2><a href="{{ site.url | append: site.baseurl | append: topic.url }}" title="Find out more about {{ topic.title }}">{{ topic.title }}</a></h2>
+						<p class="post-metadata">{% if topic.excerpt %}{{ topic.excerpt }}{% endif %}</p>
 					</article>
 				</li>
 				{% endif %}

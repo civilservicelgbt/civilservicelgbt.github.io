@@ -5,18 +5,17 @@
 	{% assign topics = site.topics | sort: "date" | reverse %}
 
 	<ul>
-		{% for post in topics %}
+		{% for topic in topics %}
 		<li>
 			<article>
 				<h2>
-					<a href="{{ site.url | append: site.baseurl | append: post.url }}" title="Find out more about {{ post.title }}">
-						{{ post.title }}
+					<a href="{{ site.url | append: site.baseurl | append: topic.url }}" title="Find out more about {{ topic.title }}">
+						{{ topic.title }}
 					</a>
-          <p class="post-metadata">{% if post.excerpt %}{{ post.excerpt }}{% endif %}</p>
+          <p class="post-metadata">{% if topic.excerpt %}{{ topic.excerpt }}{% endif %}</p>
 				</h2>
 			</article>
 		</li>
 		{% endfor %}
 	</ul>
-	
 </section>

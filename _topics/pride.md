@@ -10,6 +10,6 @@ redirect_from:
 
 published: false
 
-image: /assets/images/site/pride.png
+image: /assets/images/pages/pride.png
 ---
 
