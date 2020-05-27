@@ -21,7 +21,7 @@ excerpt: "We’ve created this communications tool kit for you to use during Pri
 
 ## Image Maker
 
-We are keeping PrideON in 2020 for the Civil Service, to make sure our voices are heard, and we continue to be visible.
+We are keeping PrideON in 2020 for the Civil Service, to make sure our voices are heard and we continue to be visible.
 
 We have created a tool for you to market your events under our PrideON branding across your social media pages and departments. 
 
