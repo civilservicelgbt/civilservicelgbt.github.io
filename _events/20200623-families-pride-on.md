@@ -19,7 +19,7 @@ The event will be hosted on Zoom, but please register before using the link abov
 
 These sessions are open to everyone and will be facilitated inclusively.
 
-Full list of speakers to be confirmed. Dates may change. 
+Full list of speakers to be confirmed. Dates and time may change, if they do, we will notify you through Eventbrite. 
 
 ## How do I join?
 
