@@ -21,7 +21,8 @@ excerpt: "We’ve created these digital assets for you to download, to keep Prid
 
 ## Publication description
 
-A big part of Pride is to ensure LGBT+ people continue to be visible and our voices are heard. While there is no physical pride this year, we are keeping PrideON in the Civil Service to make sure we continue to visible. 
+We are keeping PrideON in 2020 for the Civil Service, to make sure our voices are heard and we continue to visible. 
+
 We have created a whole package of digital assets for you to use and share around your teams. 
 
 The default text has been set to ‘Civil Servant, LGBT+ and Proud’ in magenta. However, we have created a tool where you are able to change the text and colour. For example, ‘Civil Servant, Lesbian and Proud’ in magenta, cyan and yellow. 
