@@ -7,7 +7,7 @@ published: true
 tag: pride-2020
 title: Communications tool kit PrideON
 permalink: /publication/prideON-communications-tool-kit-2020
-excerpt: "We’ve created this communications tool kit for you to use during PrideON"
+excerpt: "We’ve created this communications tool kit for you to use during PrideON."
 ---
 
 <!-- Include the following to generate a Table of Contents -->
