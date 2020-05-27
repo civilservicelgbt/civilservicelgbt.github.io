@@ -41,7 +41,7 @@ The default text has been set to ‘Civil Servant, LGBT+ and Proud’ in magenta
 8. [Download Profile picture image](/assets/documents/PrideON - Profile Picture.png)
 9. [Download Poster](/assets/documents/PrideON - Poster.png)
 
-## Preview of posters
+## Previews
 
 ![](/assets/images/posts/PrideON - poster previews.png)
 
