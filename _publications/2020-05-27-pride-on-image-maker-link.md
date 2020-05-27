@@ -35,17 +35,17 @@ Be sure to use this tool to create assets to advertise your own events and conte
 
 ![](/assets/images/posts/PrideON - image maker.png)
 
-## Deparmental communications
+## Departmental communications
 
 To ensure PrideON reaches as many Civil Servants as possible, please encourage your colleagues to share our resources, events and content. 
 
 We have created an example blog post that you can ask your communications or digital team to publish on your departments intranet. 
 
- 1.[Download Example blog post] 
+ 1.[Download Example blog post COMING SOON] 
 
 We have also created an example email you can send to senior civil servants in your departments, explaining what PrideON is and how they can help. 
  
- 2.[Download Example email] 
+ 2.[Download Example email COMING SOON] 
 
 <!-- Include this line to process the Markdown and format the content properly -->
 </div>
