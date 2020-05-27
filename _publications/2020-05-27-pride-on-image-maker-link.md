@@ -25,7 +25,7 @@ We are keeping PrideON in 2020 for the Civil Service, to make sure our voices ar
 
 We have created a tool for you to market your events under our PrideON branding across your social media pages and departments. 
 
-You are able to use this tool to create images for social media with your own text. The tool produces images in the correct sizes for Twitter, Facebook and Instagram. Use it to advertise events and publicise upcoming content. 
+You are able to use this tool to create images for social media with your own text. The tool produces images in the correct sizes for Twitter, Facebook and Instagram. 
 
 Be sure to use this tool to create assets to advertise your own events and content. Please tag @cslgbt on Twitter, @civilservicelgbt on Instagram and 'Civil Service LGBT+ Network' on Facebook so we can repost. 
 
