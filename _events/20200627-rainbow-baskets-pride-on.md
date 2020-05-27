@@ -9,7 +9,7 @@ slug: /2020/06/27/walls-of-pride-pride-on
 published: true
 ---
 
-Get crafty for Pride! 
+Get crafty for PrideON! 
 
 Weave yourself a rainbow basket from strips of paper. You can use coloured paper or paint it yourself. You could even use pre-printed paper. It’s up to you!
 
