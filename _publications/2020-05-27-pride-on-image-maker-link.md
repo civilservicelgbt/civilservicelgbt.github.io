@@ -43,7 +43,7 @@ We have created an example blog post that you can ask your communications or dig
 
  1.[Download Example blog post COMING SOON] 
 
-We have also created an example email you can send to senior civil servants in your departments, explaining what PrideON is and how they can help. 
+We have also created an example email you can send to senior civil servants in your department, explaining what PrideON is and how they can help. 
  
  2.[Download Example email COMING SOON] 
 
