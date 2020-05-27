@@ -26,7 +26,7 @@ We have created a whole package of digital assets for you to use and share aroun
 
 The default text has been set to ‘Civil Servant, LGBT+ and Proud’ in magenta. However, we have created a tool where you are able to change the text and colour. For example, ‘Civil Servant, Lesbian and Proud’ in magenta, cyan and yellow. 
 
-To create your own, please [click here](https://www.civilservice.lgbt/image-maker/civil-servant-and-proud/). 
+## To create your own, please [click here](https://www.civilservice.lgbt/image-maker/civil-servant-and-proud/). 
 
 ## Download  
 
@@ -42,8 +42,7 @@ To create your own, please [click here](https://www.civilservice.lgbt/image-make
 
 ## Preview of posters
 
-![](/assets/images/posts/preview-pride-posters-2019.png)
-
+![](/assets/images/posts/PrideON - poster previews.png)
 
 <!-- Include this line to process the Markdown and format the content properly -->
 </div>
