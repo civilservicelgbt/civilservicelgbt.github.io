@@ -3,8 +3,9 @@ title: 'Bake Along - PrideON'
 excerpt: Join us LIVE and make fabulous rainbow roses for cupcakes.
 event-date: 2020-06-16 20:00:00
 location: "Online (via Zoom)"
-link: "TBC"
+link: "https://www.eventbrite.co.uk/e/bake-along-prideon-tickets-106967127558"
 layout: event
+category: pride-2020
 slug: /2020/06/16/bake-along-pride-on
 published: true
 ---
@@ -34,7 +35,7 @@ Knife
 
 ## More Bake Off activities during PrideON:
 
-Throughout the month we will be posting pictures, recipes and ideas on our [Facebook group](ENTER LINK), that you can request to join - which is also where the voting will take place (sadly Paul and Mary weren’t available!). If you don’t have Facebook, you can send over your pictures to our [email](mailto:info@civilservice.lgbt). 
+Throughout the month we will be posting pictures, recipes and ideas on our [Facebook group](https://www.facebook.com/groups/2053923544740803/?ref=share), that you can request to join - which is also where the voting will take place (sadly Paul and Mary weren’t available!). If you don’t have Facebook, you can send over your pictures to our [email](mailto:info@civilservice.lgbt). 
 
 ## How do I join?
 
