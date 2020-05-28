@@ -1,11 +1,12 @@
 ---
-title: 'Walls of Pride - PrideON (Whole of June)'
+title: 'Walls of Pride - PrideON'
 excerpt: Tap into your creative side. Choose a wall in your house and decorate it in a Pride theme.
-event-date: 2020-06-27 00:00:00
-location: "At home"
+event-date: 2020-06-26 13:00:00
+location: "Online via Zoom"
 link: 
+category: pride-2020
 layout: event
-slug: /2020/06/27/walls-of-pride-pride-on
+slug: /2020/06/26/walls-of-pride-pride-on
 published: true
 ---
 
@@ -13,7 +14,9 @@ Calling all LGBT+ people and allies. We would love to see your Walls of Pride di
 
 Use paper, card, white tac, glitter card, print outs from the internet...anything you would like.
 
-Tweet us your pictures @cslgbt or send them over in an (email)[mailto:info@civilservice.lgbt) and we will be share them throughout the month. 
+Tweet us your pictures @cslgbt or send them over in an (email)[mailto:info@civilservice.lgbt) and we will be share them throughout the month.
+
+We will be showcasing all your fabulous displays during a Zoom call on Friday 26th June. 
 
 ## Questions
 
