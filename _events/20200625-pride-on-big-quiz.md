@@ -3,7 +3,7 @@ title: 'Big Pride Quiz - PrideON
 excerpt: Celebrate PrideON by joining our Big Pride Quiz. 
 event-date: 2020-06-25 18:30:00
 location: "Online (via Zoom)"
-link: "TBC"
+link: "https://www.eventbrite.co.uk/e/big-pride-quiz-prideon-tickets-107099220652"
 category: pride-2020
 layout: event
 slug: /2020/06/25/pride-on-big-quiz
