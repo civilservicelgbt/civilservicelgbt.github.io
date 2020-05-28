@@ -5,6 +5,7 @@ event-date: 2020-06-16 10:00:00
 location: "Online (via Zoom)"
 link: "TBC"
 layout: event
+tag: pride-2020
 slug: /2020/06/16/coffee-roulette-pride-on
 published: true
 ---
@@ -13,7 +14,7 @@ Get to know other LGBT+ Civil Servants over a speedy coffee during our PrideON c
 
 ## How will it work? 
 
-We will be randomly allocating you into a Zoom breakout room for 10 minutes, before swfitly moving you onto another. 
+We will be randomly allocating you into a Zoom breakout room for 10 minutes to meet another LGBT+ Civil Servant, before swfitly moving you onto another. Be sure to use your time wisely to get to know each other.
 
 ## How do I join?
 
