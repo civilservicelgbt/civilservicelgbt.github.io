@@ -1,5 +1,5 @@
 ---
-title: 'Big Pride Quiz - PrideON
+title: Big Pride Quiz - PrideON
 excerpt: Celebrate PrideON by joining our Big Pride Quiz. 
 event-date: 2020-06-25 18:30:00
 location: "Online (via Zoom)"
