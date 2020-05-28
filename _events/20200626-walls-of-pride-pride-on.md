@@ -3,7 +3,7 @@ title: 'Walls of Pride - PrideON'
 excerpt: Tap into your creative side. Choose a wall in your house and decorate it in a Pride theme.
 event-date: 2020-06-26 13:00:00
 location: "At Home and Online (via Zoom)"
-link: 
+link: https://www.eventbrite.co.uk/e/digital-showcase-of-prideon-crafting-activities-tickets-107096570726
 category: pride-2020
 layout: event
 slug: /2020/06/26/walls-of-pride-pride-on
