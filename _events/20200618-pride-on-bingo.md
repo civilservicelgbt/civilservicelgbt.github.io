@@ -4,12 +4,13 @@ excerpt: Join us for a game of Bingo during our PrideON celebrations.
 event-date: 2020-06-18 19:00:00
 location: "Online (via Zoom)"
 link: "TBC"
+category: pride-2020
 layout: event
 slug: /2020/06/18/bingo-pride-on
 published: true
 ---
 
-Join us for a game of Bingo via Zoom during our PrideON celebrations. 
+Join us for a game of Bingo via Zoom, during our PrideON celebrations. 
 
 ## How do I join?
 
