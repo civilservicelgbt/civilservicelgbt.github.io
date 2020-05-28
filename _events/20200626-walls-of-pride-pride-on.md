@@ -2,7 +2,7 @@
 title: 'Walls of Pride - PrideON'
 excerpt: Tap into your creative side. Choose a wall in your house and decorate it in a Pride theme.
 event-date: 2020-06-26 13:00:00
-location: "Online via Zoom"
+location: "At Home and Online (via Zoom)"
 link: 
 category: pride-2020
 layout: event
@@ -16,7 +16,7 @@ Use paper, card, white tac, glitter card, print outs from the internet...anythin
 
 Tweet us your pictures @cslgbt or send them over in an (email)[mailto:info@civilservice.lgbt) and we will be share them throughout the month.
 
-We will be showcasing all your fabulous displays during a Zoom call on Friday 26th June. 
+We will be showcasing all your fabulous displays during a Zoom call on Friday 26th June. Sign up via Eventbrite using the above link. 
 
 ## Questions
 
