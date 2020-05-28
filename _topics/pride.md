@@ -10,7 +10,7 @@ redirect_from:
 
 image: /assets/images/pages/pride-on.png
 
-#Social Media
+# Social Media
 # Set to 'true' to turn on the social links
 social-links: true
 
@@ -22,6 +22,7 @@ facebook-text: "civilservicelgbt"
 
 instagram-url:  "https://www.instagram.com/civilservicelgbt"
 instagram-text:  "civilservicelgbt"
+
 ---
 
 + Check our upcoming digital events - sign up as some spaces are limited.
