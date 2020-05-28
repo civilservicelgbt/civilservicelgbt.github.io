@@ -1,7 +1,7 @@
 ---
 title: 'Blooming Proud - PrideON'
 excerpt: Get your creativity going - crochet, knit, draw, paint or even press a flower in a rainbow colour, and post it to our digital garden. 
-event-date: 2020-06-27 13:00:00
+event-date: 2020-06-26 13:00:00
 location: "At home and Online (via Zoom)"
 link: https://www.eventbrite.co.uk/e/digital-showcase-of-prideon-crafting-activities-tickets-107096570726
 category: pride-2020
