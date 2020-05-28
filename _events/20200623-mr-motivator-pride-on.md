@@ -3,7 +3,8 @@ title: 'Get moving, with special guest: Mr Motivator - PrideON'
 excerpt: Mr Motivator has created a customised workout session especially for the Civil Service LGBT+ network PrideON celebrations. Join the watch party to be one of the first to see the video.
 event-date: 2020-06-23 11:00:00
 location: "Online (via Facebook)"
-link: "TBC"
+no-register: "You don't need to register for this event. Just head over to our Facebook page."
+cateogory: pride-2020
 layout: event
 slug: /2020/06/23/mr-motivator-pride-on
 published: true
@@ -17,7 +18,9 @@ We would love for you to tune in and take part in this uplifting and energising 
 
 ## How do I join?
 
-There is no need to register, simply head over to our Facebook page at 11:00 on 23th June to join the watch party, and watch the video. Can't make this date and time? Don't worry we will be sharing the video on our social media shortly after.
+There is no need to register, simply head over to our Facebook page at 11:00 on 23th June to join the watch party, and watch the video. 
+
+Can't make this date and time? Don't worry we will be sharing the video on our social media shortly after.
  
 ## Questions
 
