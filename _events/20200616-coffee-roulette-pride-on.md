@@ -5,7 +5,7 @@ event-date: 2020-06-16 10:00:00
 location: "Online (via Zoom)"
 link: "TBC"
 layout: event
-tag: pride-2020
+category: pride-2020
 slug: /2020/06/16/coffee-roulette-pride-on
 published: true
 ---
