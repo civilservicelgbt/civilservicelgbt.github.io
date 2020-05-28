@@ -1,6 +1,6 @@
 ---
-title: "Civil Service PrideOn"
-excerpt: "A series of digital events and content across the Civil Service throughout the month of June to celebrate pride. We're making sure that even with the Coronavirus restrictions, Pride in 2020 is not forgotten about."
+title: "Civil Service PrideON"
+excerpt: "Everything you need to know about #PrideON, a programme of digital events, content and resources from the Civil Service LGBT+ Network."
 layout: topic
 category: pride-2020
 redirect_from: 
@@ -25,6 +25,4 @@ instagram-text:  "civilservicelgbt"
 
 ---
 
-+ Check our upcoming digital events - sign up as some spaces are limited.
-+ Use the digital resources to spread the word and promote LGBT+ visibility.
-+ Got ideas for an event and want to run it as part of PrideON? Email <info@civilservice.lgbt> - we can help set it up and advertise it.
+While we can’t celebrate in our usual way, we are ensuring that Pride in 2020 is not forgotten about.
