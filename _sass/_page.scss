@@ -648,6 +648,14 @@ main#topic {
     }
   }
   
+    div#page-lead-paragraph {
+    @supports (display: grid) {
+      grid-area: page-lead-paragraph;
+    }
+    
+    margin-bottom: 0px;
+  }
+  
   #page-social {
     @supports (display: grid) {
       grid-area: page-social;
