@@ -1,12 +1,12 @@
 ---
-title: 'PrideON - Big Pride Quiz
+title: 'Big Pride Quiz - PrideON
 excerpt: Celebrate PrideON by joining our Big Pride Quiz. 
 event-date: 2020-06-25 18:30:00
 location: "Online (via Zoom)"
 link: "TBC"
-tag: pride-2020
+category: pride-2020
 layout: event
-slug: /2020/06/18/pride-on-big-quiz
+slug: /2020/06/25/pride-on-big-quiz
 published: true
 ---
 
