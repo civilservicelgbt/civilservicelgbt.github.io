@@ -3,7 +3,7 @@ title: 'Bingo - PrideON'
 excerpt: Join us for a game of Bingo during our PrideON celebrations.
 event-date: 2020-06-18 19:00:00
 location: "Online (via Zoom)"
-link: "TBC"
+link: "https://www.eventbrite.co.uk/e/bingo-prideon-tickets-107098671008"
 category: pride-2020
 layout: event
 slug: /2020/06/18/bingo-pride-on
