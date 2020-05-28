@@ -25,11 +25,11 @@ We are keeping PrideON in 2020 for the Civil Service, to make sure our voices ar
 
 We have created a whole package of digital assets for you to use and share around your teams to promote LGBT+ visibility. Be sure to post these on social media, add one to your email signature, change your video call background and encourage your colleagues to do it too.
 
-The default text has been set to ‘Civil Servant, LGBT+ and Proud’ in magenta. However, we have created a tool where you are able to change the text and colour. For example, ‘Civil Servant, Lesbian and Proud’ in magenta, cyan or yellow. 
+The default text has been set to ‘Civil Servant, LGBT+ and Proud’ in magenta and 'Civil Servnat, LGBT+ Ally and Proud' in magenta. However, we have created a tool where you are able to change the text and colour. For example, ‘Civil Servant, Lesbian and Proud’ in magenta, cyan or yellow. 
 
 ## To create your own, please [click here](https://www.civilservice.lgbt/image-maker/civil-servant-and-proud/). 
 
-## Download  
+## Download  (LGBT+)
 
 1. [Download Twitter timeline image](/assets/documents/PrideON - twitter timeline.png)
 2. [Download Twitter profile header](/assets/documents/PrideON - Twitter profile header.png) 
@@ -41,9 +41,23 @@ The default text has been set to ‘Civil Servant, LGBT+ and Proud’ in magenta
 8. [Download Profile picture image](/assets/documents/PrideON - Profile Picture.png)
 9. [Download Poster](/assets/documents/PrideON - Poster.png)
 
+
+## Download (LGBT+ Ally)
+
+1. [Download Twitter timeline image](/assets/documents/PrideON Ally - twitter timeline.png)
+2. [Download Twitter profile header](/assets/documents/PrideON Ally - Twitter profile header.png) 
+3. [Download Facebook timeline image](/assets/documents/PrideON Ally - Facebook timeline.png) 
+4. [Download Facebook profile cover](/assets/documents/PrideON Ally - Facebook profile cover.png)
+5. [Download Instagram Grid image](/assets/documents/PrideON Ally - Instagram Grid.png)
+6. [Download Instagram Stories image](/assets/documents/PrideON Ally - Instagram Stories.png)
+7. [Download Video call background - Zoom and MS Teams](/assets/documents/PrideON Ally - Video call background (Zoom and MS teams).png)
+8. [Download Profile picture image](/assets/documents/PrideON Ally - Profile Picture.png)
+9. [Download Poster](/assets/documents/PrideON Ally - Poster.png)
+
 ## Previews
 
 ![](/assets/images/posts/PrideON - poster previews.png)
+![](/assets/images/posts/PrideON Ally - poster previews.png)
 
 <!-- Include this line to process the Markdown and format the content properly -->
 </div>
