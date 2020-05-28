@@ -8,8 +8,6 @@ redirect_from:
 - /pride-on/
 - /pride-2020/
 
-published: false
-
 image: /assets/images/pages/pride.png
 ---
 
