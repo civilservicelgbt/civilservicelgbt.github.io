@@ -2,8 +2,9 @@
 title: 'Rainbow Baskets - PrideON'
 excerpt: Get crafty for Pride and weave yourself a rainbow basket out of paper strips you can paint yourself.
 event-date: 2020-06-26 13:00:00
-location: "Online (Via Zoom)"
-link: 
+location: "At Home and Online (Via Zoom)"
+link: https://www.eventbrite.co.uk/e/digital-showcase-of-prideon-crafting-activities-tickets-107096570726
+category: pride-2020
 layout: event
 slug: /2020/06/26/rainbow-basket-pride-on
 published: true
@@ -17,7 +18,7 @@ These easy to follow instructions will show you how to prepare your paper and ma
 
 Tweet us your woven results @cslgbt, share them on Instagram and tag @civilservicelgbt, or send them over in an (email)[mailto:info@civilservice.lgbt]. We will be share them throughout the month across our social media.  
 
-To end the month, we will be showcasing all your fabulous baskets during a Zoom call on Friday 26th June.
+To end the month, we will be showcasing all your fabulous baskets during a Zoom call on Friday 26th June. Sign up via Eventbrite using the above link. 
 
 ## Questions
 
