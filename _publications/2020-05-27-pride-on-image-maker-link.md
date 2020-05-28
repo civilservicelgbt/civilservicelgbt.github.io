@@ -37,18 +37,22 @@ Be sure to use this tool to create assets to advertise your own events and conte
 
 ## Departmental communications
 
-To ensure PrideON reaches as many Civil Servants as possible, please encourage your colleagues to share our resources, events and content. 
+To ensure PrideON reaches as many Civil Servants as possible, please encourage your colleagues to share our events, contnet and resources.
 
 We have created an example blog post that you can ask your communications or digital team to publish on your departments intranet. 
 
  1.[Download Example blog post COMING SOON] 
 
-We have also created an example email you can send to senior civil servants in your department, explaining what PrideON is and how they can help. 
+We have also created an example email you can send to your colleagues and senior civil servants in your department, explaining what PrideON is and how they can help. 
  
  2.[Download Example email COMING SOON] 
+ 
+
+## Social Media
+
+Be sure to tag us on social media and use the hashtag #PrideON and #Yearofinclusion. We will share your content throughout the month.
+
 
 <!-- Include this line to process the Markdown and format the content properly -->
 </div>
 <!-- Don't remove the line of code above -->
-
-
