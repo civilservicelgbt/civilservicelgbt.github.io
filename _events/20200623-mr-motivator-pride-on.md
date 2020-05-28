@@ -4,7 +4,7 @@ excerpt: Mr Motivator has created a customised workout session especially for th
 event-date: 2020-06-23 11:00:00
 location: "Online (via Facebook)"
 no-register: "You don't need to register for this event. Just head over to our Facebook page."
-cateogory: pride-2020
+category: pride-2020
 layout: event
 slug: /2020/06/23/mr-motivator-pride-on
 published: true
