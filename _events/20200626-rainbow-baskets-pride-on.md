@@ -1,11 +1,11 @@
 ---
-title: 'Rainbow Baskets - PrideON (Whole of June)'
+title: 'Rainbow Baskets - PrideON'
 excerpt: Get crafty for Pride and weave yourself a rainbow basket out of paper strips you can paint yourself.
-event-date: 2020-06-27 00:00:00
-location: "At home"
+event-date: 2020-06-26 13:00:00
+location: "Online (Via Zoom)"
 link: 
 layout: event
-slug: /2020/06/27/walls-of-pride-pride-on
+slug: /2020/06/26/rainbow-basket-pride-on
 published: true
 ---
 
@@ -15,7 +15,9 @@ Weave yourself a rainbow basket from strips of paper. You can use coloured paper
 
 These easy to follow instructions will show you how to prepare your paper and make a simple basket. There will be suggestions for ways you can get different rainbow colour patterns on your basket. Fun for adults and children, though younger children may need a bit more help and supervision. 
 
-Tweet us your woven results @cslgbt, Share them on Instagram and tag us @civilservicelgbt, or send them over in an (email)[mailto:info@civilservice.lgbt] and we will be share them throughout the month. 
+Tweet us your woven results @cslgbt, share them on Instagram and tag @civilservicelgbt, or send them over in an (email)[mailto:info@civilservice.lgbt]. We will be share them throughout the month across our social media.  
+
+To end the month, we will be showcasing all your fabulous baskets during a Zoom call on Friday 26th June.
 
 ## Questions
 
