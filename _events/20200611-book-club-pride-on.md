@@ -1,8 +1,9 @@
+---
 title: 'Book club - PrideON'
-excerpt: An informal, friendly book club to share recommendations and opinions on books, poems, plays, articles, and more by LGBTQ+ writers or with LGBTQ+ themes, with a focus on intersectionality.
+excerpt: An informal, friendly book club to share opinions on books, poems, plays, articles, and more by LGBTQ+ writers.
 event-date: 2020-06-11 18:00:00
 location: "Online (via Zoom)"
-link: "https://www.eventbrite.co.uk/e/book-club-prideon-tickets-107099706104"
+link: https://www.eventbrite.co.uk/e/book-club-prideon-tickets-107099706104
 layout: event
 category: pride-2020
 slug: /2020/06/11/book-club-pride-on
