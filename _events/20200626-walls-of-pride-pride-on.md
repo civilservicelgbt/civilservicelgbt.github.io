@@ -14,7 +14,7 @@ Calling all LGBT+ people and allies. We would love to see your Walls of Pride di
 
 Use paper, card, white tac, glitter card, print outs from the internet...anything you would like.
 
-Tweet us your pictures @cslgbt or send them over in an (email)[mailto:info@civilservice.lgbt) and we will be share them throughout the month.
+Tweet us your walls [@cslgbt](https://twitter.com/cslgbt), tag us on Instagram [@civilservicelgbt](https://www.instagram.com/civilservicelgbt/?hl=en) or, send them over in an [email](mailto:info@civilservice.lgbt). We will share them throughout the month.
 
 We will be showcasing all your fabulous displays during a Zoom call on Friday 26th June. Sign up via Eventbrite using the above link. 
 
