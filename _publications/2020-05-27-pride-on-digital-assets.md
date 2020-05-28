@@ -4,7 +4,7 @@ author: Civil Service LGBT+ Network
 date: '2020-05-27'
 preview: false
 published: true
-tag: pride-2020
+category: pride-2020
 title: Digital assets PrideON
 permalink: /publication/prideON-digital-assets-2020
 excerpt: "We’ve created these digital assets for you to download, to keep PrideON in 2020."
