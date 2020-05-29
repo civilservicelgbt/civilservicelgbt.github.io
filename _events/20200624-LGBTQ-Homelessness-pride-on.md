@@ -2,7 +2,7 @@
 title: 'LGBTQ+ Homelessness Presentation and Q&A by the Albert Kennedy Trust - PrideON'
 excerpt: Join us for an informative and insightful panel event on the issues faced by LGBTQ+ young people facing or experiencing homelessness. 
 event-date: 2020-06-24 13:00:00
-location: "Online (via Zoom or Hangouts)"
+location: "Online (via Zoom or Google Meet)"
 link: https://www.eventbrite.co.uk/e/lgbtq-homelessness-by-the-albert-kennedy-trust-prideon-tickets-107102719116
 layout: event
 category: pride-2020
