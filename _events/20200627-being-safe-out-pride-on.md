@@ -1,18 +1,21 @@
 ---
 title: 'Panel Discussion, Being Safe and Out in the Civil Service - PrideON'
-excerpt: Join us for panel discussion on being safe and out in the Civil Service.
-event-date: 2020-06-27 00:00:00
-location: "Online (via Zoom)"
-link: "TBC"
+excerpt: Join us for panel discussion on being safe and out in the Civil Service as part of our PrideON celebrations. 
+event-date: 2020-06-15 13:00:00
+location: "Online (via Zoom or Google Hangouts)"
+link: "https://www.eventbrite.co.uk/e/being-safe-and-out-in-the-civil-service-prideon-tickets-107205751288"
+category: pride-2020
 layout: event
-slug: /2020/06/27/panel-discussion-being-safe-and-out-pride-on
+slug: /2020/06/15/panel-discussion-being-safe-and-out-pride-on
 published: true
 ---
+Join us for a panel discussion on ‘What can we do in the Civil Service to make it safer for people to be out?’
 
-## DATE NOT CONFIRMED
+We know that diverse teams perform better and people are happier and more productive if they can bring their whole selves to work, but not everyone feels its safe to be out at work. What can we do to change this? How can we create an environment where all our colleagues feel safe to be out or come out?
 
-## no description 
+Hear experiences and suggestions from our expert D&I panel members, Sarah Maskell MBE (Home Office) and Jacqui Gavin (Cambridgeshire Fire & Rescue), followed by a Q&A session facilitated by Pete Gracey (Office of Rail and Road).
 
+We will provide a Sli.do link so participants can contribute questions openly or anonymously as they wish.
 
 ## How do I join?
 
