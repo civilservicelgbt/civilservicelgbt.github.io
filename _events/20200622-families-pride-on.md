@@ -6,7 +6,7 @@ location: "Online (via Zoom or Google Meet)"
 link: "https://www.eventbrite.co.uk/e/panel-event-lgbt-families-prideon-tickets-107206696114"
 layout: event
 category: pride-2020
-slug: /2020/06/22/panel-Discussion-families-pride-on
+slug: /2020/06/22/panel-event-families-pride-on
 published: true
 ---
 
