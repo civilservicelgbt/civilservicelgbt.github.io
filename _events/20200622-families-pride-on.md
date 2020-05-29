@@ -5,6 +5,7 @@ event-date: 2020-06-22 12:00:00
 location: "Online (via Zoom or Google Hangouts)"
 link: "https://www.eventbrite.co.uk/e/panel-discussion-lgbt-families-prideon-tickets-107206696114"
 layout: event
+category: pride-2020
 slug: /2020/06/22/panel-Discussion-families-pride-on
 published: true
 ---
