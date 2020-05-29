@@ -1,9 +1,9 @@
 ---
 title: 'Meditate with Adam - PrideON'
-excerpt: Take a breather from the stresses of the day with a short meditation session..
+excerpt: Take a breather from the stresses of the day, and join us on a Facebook Watch Party with a short meditation session.
 event-date: 2020-06-15 14:30:00
 location: "Online (via Facebook Watch Party)"
-link: "TBC"
+no-register: There is no need to register, simply head of over to our Facebook page at 14:30 on 15th June, to join in the session. 
 layout: event
 slug: /2020/06/15/meditate-with-Adam-pride-on
 published: true
