@@ -1,7 +1,7 @@
 ---
 title: 'Panel Discussion, LGBT+ Families - PrideON'
 excerpt: Join us to hear from a panel of guest speakers discussing issues relating to LGBTQ+ families, including surrogacy, birth registration of LGBTQ+ parents and the experience of trans parents. 
-event-date: 2020-06-22 13:00:00
+event-date: 2020-06-22 12:00:00
 location: "Online (via Zoom or Google Hangouts)"
 link: "https://www.eventbrite.co.uk/e/panel-discussion-lgbt-families-prideon-tickets-107206696114"
 layout: event
