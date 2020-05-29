@@ -2,7 +2,7 @@
 title: 'Panel Discussion: Intersectionality and LGBT+ - PrideON'
 excerpt: Join us for a panel discussion on Intersectionality and LGBT+ for our PrideON celebrations. 
 event-date: 2020-06-18 13:00:00
-location: "Online (via Zoom or Google Hangouts)"
+location: "Online (via Zoom or Google Meet)"
 link: "https://www.eventbrite.co.uk/e/panel-discussion-intersectionality-and-lgbt-prideon-tickets-107195145566"
 layout: event
 category: pride-2020
