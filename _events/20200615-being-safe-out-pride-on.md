@@ -2,7 +2,7 @@
 title: 'Panel Discussion, Being Safe and Out in the Civil Service - PrideON'
 excerpt: Join us for panel discussion on being safe and out in the Civil Service as part of our PrideON celebrations. 
 event-date: 2020-06-15 13:00:00
-location: "Online (via Zoom or Google Hangouts)"
+location: "Online (via Zoom or Google Meet)"
 link: "https://www.eventbrite.co.uk/e/being-safe-and-out-in-the-civil-service-prideon-tickets-107205751288"
 category: pride-2020
 layout: event
@@ -19,11 +19,11 @@ We will provide a Sli.do link so participants can contribute questions openly or
 
 ## How do I join?
 
-Please register your interest on Eventbrite using the above link and your GOV.UK email. Our Zoom capacity is limited to 100 participants, so if you can no longer attend, please cancel your place. 
+Please register your interest on Eventbrite through the above link and using your GOV.UK email. Our Zoom capacity is limited to 100 participants, so if you can no longer attend, please cancel your place.
 
-You may be required to register for Zoom access codes in advance of the event, so please keep an eye on your inbox. 
+Depending on how many people sign up, you may be required to register for Zoom access codes, so please keep an eye on your inbox in advance of the event. 
 
-Any other instructions and materials needed for the event, will also be distributed to the email you register with in advance. 
+Any other instructions and materials needed for the event, will also be distributed to the email you register with in advance.
  
 ## Questions
 
@@ -31,4 +31,4 @@ If you have any issues or questions about the event, please [email us](mailto:in
 
 If you are unable to participate vocally, please let us know and we will make sure you can still join in safely. 
 
-> Do you have a digital event coming up during PrideON? [Contact us](/about/contact-us/) and we can help you promote it.
+> PrideON is a programme of digital events and content across the month of June to help celebrate Pride in the Civil Service. Do you have a digital event or content that you want us to share? [Contact us](/about/contact-us/).
