@@ -26,4 +26,4 @@ If you have any issues or questions about the event, please [email us](mailto:in
 
 If you are unable to participate vocally, please let us know and we will make sure you can still join in safely. 
 
-> PrideON is a programme of digital events and content across the month of June to help celebrate Pride in the Civil Service. Do you have a digital event or content that you want us to share? [Contact us](/about/contact-us/)..
+> PrideON is a programme of digital events and content across the month of June to help celebrate Pride in the Civil Service. Do you have a digital event or content that you want us to share? [Contact us](/about/contact-us/).
