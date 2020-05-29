@@ -1,15 +1,14 @@
 ---
 title: 'Panel Discussion: Intersectionality and LGBT+ - PrideON'
-excerpt: Join us for a game of Bingo during our PrideON celebrations.
-event-date: 2020-06-18 00:00:00
-location: "Online (via Zoom)"
-link: "TBC"
+excerpt: Join us for a panel discussion on Intersectionality and LGBT+ for our PrideON celebrations. 
+event-date: 2020-06-18 13:00:00
+location: "Online (via Zoom or Google Hangouts)"
+link: "https://www.eventbrite.co.uk/e/panel-discussion-intersectionality-and-lgbt-prideon-tickets-107195145566"
 layout: event
-slug: /2020/06/27/panel-discussion-intersectionality-pride-on
+category: pride-2020
+slug: /2020/06/18/panel-discussion-intersectionality-pride-on
 published: true
 ---
-
-## Date not confirmed 
 
 Intersectionality is a theoretical framework for understanding how aspects of one's social and political identities (e.g., gender, race, class, sexuality, disability, etc.) might combine to create unique modes of discrimination.
 
@@ -49,7 +48,7 @@ EUSS caseworker in Liverpool, working in the civil service for over 3 years. Dep
 
 Please register your interest on Eventbrite using the above link and your GOV.UK email. Our Zoom capacity is limited to 100 participants, so if you can no longer attend, please cancel your place. 
 
-You may be required to register for Zoom access codes in advance of the event, so please keep an eye on your inbox. 
+Depending on interest, you may be required to register for Zoom access codes in advance of the event, so please keep an eye on your inbox. 
 
 Any other instructions and materials needed for the event, will also be distributed to the email you register with in advance. 
  
