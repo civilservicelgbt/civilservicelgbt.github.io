@@ -2,7 +2,7 @@
 title: 'Rainbow Baskets - PrideON'
 excerpt: Get crafty for Pride and weave yourself a rainbow basket out of paper strips you can paint yourself.
 event-date: 2020-06-26 13:00:00
-location: "At Home and Online (Via Zoom)"
+location: "At Home and Online (Via Zoom or Google Meet)"
 link: https://www.eventbrite.co.uk/e/digital-showcase-of-prideon-crafting-activities-tickets-107096570726
 category: pride-2020
 layout: event
@@ -32,4 +32,4 @@ Any other instructions and materials needed for the event, will also be distribu
 
 If you have any issues or questions about the event, please [email us](mailto:info@civilservice.lgbt)
 
-> Do you have a digital event coming up during PrideON? [Contact us](/about/contact-us/) and we can help you promote it.
+> PrideON is a programme of digital events and content across the month of June to help celebrate Pride in the Civil Service. Do you have a digital event or content that you want us to share? [Contact us](/about/contact-us/).
