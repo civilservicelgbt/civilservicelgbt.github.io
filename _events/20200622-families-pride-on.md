@@ -1,9 +1,9 @@
 ---
-title: 'Panel Discussion, LGBT+ Families - PrideON'
+title: 'Panel Event, LGBT+ Families - PrideON'
 excerpt: Join us to hear from a panel of guest speakers discussing issues relating to LGBTQ+ families, including surrogacy, birth registration of LGBTQ+ parents and the experience of trans parents. 
 event-date: 2020-06-22 12:00:00
 location: "Online (via Zoom or Google Hangouts)"
-link: "https://www.eventbrite.co.uk/e/panel-discussion-lgbt-families-prideon-tickets-107206696114"
+link: "https://www.eventbrite.co.uk/e/panel-event-lgbt-families-prideon-tickets-107206696114"
 layout: event
 category: pride-2020
 slug: /2020/06/22/panel-Discussion-families-pride-on
@@ -12,9 +12,9 @@ published: true
 
 Join us for an informative and insightful panel event on the issues faced by LGBTQ+ families in 2020. 
 
-We’re running this hour long panel event to highlight the diverse issues faced by members in the LGBTQ+ community when building a family. Guest speakers will discuss topics such as surrogacy, how birth registration is geared towards the cisgender heteronormative model of the family and their own experiences of LGBTQ+ parenting.
+We’re running this hour long panel event to highlight the diverse issues faced by members in the LGBTQ+ community when building a family. Guest speakers will talk on issues such as surrogacy, how birth registration is geared towards the cisgender heteronormative model of the family and their own experiences of LGBTQ+ parenting.
 
-You don’t need prepare for this event, just bring your enthusiasm to learn more about the challenges facing our community. Each panel member will deliver a short talk on a topic of their choosing, with a chance for questions/discussion at the end.
+You don’t need to prepare for this event. Just bring your enthusiasm to learn more about the challenges facing our community! Each panel member will deliver a short talk on a topic of their choosing, with a chance for questions at the end.
 
 The event will be hosted on Zoom or Google Hangouts, but please register before using the link above. 
 
