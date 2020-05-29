@@ -2,7 +2,7 @@
 title: 'LGBTQ+ Homelessness Presentation and Q&A by the Albert Kennedy Trust - PrideON'
 excerpt: Join us for an informative and insightful panel event on the issues faced by LGBTQ+ young people facing or experiencing homelessness. 
 event-date: 2020-06-24 13:00:00
-location: "Online (via Zoom)"
+location: "Online (via Zoom or Hangouts)"
 link: https://www.eventbrite.co.uk/e/lgbtq-homelessness-by-the-albert-kennedy-trust-prideon-tickets-107102719116
 layout: event
 category: pride-2020
@@ -18,15 +18,15 @@ You don’t need prepare for this event, just bring your enthusiasm to learn mor
 
 These sessions are open to everyone and will be facilitated inclusively.
 
-Full list of speakers to be confirmed. Dates and time may change - if they do, we will notify you through Eventbrite.
+Full list of speakers to be confirmed. Dates and time may change, if they do, we will notify you through Eventbrite.
 
-## How do I join?
+## How do I join? 
 
-Please register your interest on Eventbrite using the above link and your GOV.UK email. Our Zoom capacity is limited to 100 participants, so if you can no longer attend, if you can no longer attend the event please cancel your place. 
+Please register your interest on Eventbrite through the above link and using your GOV.UK email. Our Zoom capacity is limited to 100 participants, so if you can no longer attend, please cancel your place.
 
-You may be required to register for Zoom access codes in advance of the event depending on how many people sign-up, so please keep an eye on your inbox. 
+Depending on how many people sign up, you may be required to register for Zoom access codes, so please keep an eye on your inbox in advance of the event.
 
-Any other instructions and materials needed for the event, will also be distributed to the email you register with in advance. 
+Any other instructions and materials needed for the event, will also be distributed to the email you register with in advance.
  
 ## Questions
 
@@ -34,4 +34,4 @@ If you have any issues or questions about the event, please [email us](mailto:in
 
 If you are unable to participate vocally, please let us know and we will make sure you can still join in safely. 
 
-> Do you have a digital event coming up during PrideON? [Contact us](/about/contact-us/) and we can help you promote it.
+> PrideON is a programme of digital events and content across the month of June to help celebrate Pride in the Civil Service. Do you have a digital event or content that you want us to share? [Contact us](/about/contact-us/).
