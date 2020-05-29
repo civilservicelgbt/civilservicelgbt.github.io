@@ -18,7 +18,7 @@ Tweet us your walls [@cslgbt](https://twitter.com/cslgbt), tag us on Instagram [
 
 We will be showcasing all your fabulous displays during a Zoom call on Friday 26th June. 
 
-![](/assets/images/posts/pride-on-wall.jpeg)
+![](/assets/images/posts/pride-on-wall.jpg)
 
 ## How do I join the showcase? 
 
