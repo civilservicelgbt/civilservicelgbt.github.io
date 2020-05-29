@@ -20,6 +20,14 @@ Tweet us your pictures [@cslgbt](https://twitter.com/cslgbt), tag us on Instagra
 
 We will also be showcasing your fabulous flowers during a Zoom call on Friday 26th June. Sign up via Eventbrite using the above link. 
 
+## How do I join the showcase? 
+
+Please register your interest on Eventbrite through the above link and using your GOV.UK email. Our Zoom capacity is limited to 100 participants, so if you can no longer attend, please cancel your place.
+
+Depending on how many people sign up, you may be required to register for Zoom access codes, so please keep an eye on your inbox in advance of the event. 
+
+Any other instructions and materials needed for the event, will also be distributed to the email you register with in advance.
+
 ## Questions
 
 If you have any issues or questions about the event, please [email us](mailto:info@civilservice.lgbt)
