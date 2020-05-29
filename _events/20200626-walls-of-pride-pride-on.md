@@ -16,7 +16,9 @@ Use paper, card, white tac, glitter card, print outs from the internet...anythin
 
 Tweet us your walls [@cslgbt](https://twitter.com/cslgbt), tag us on Instagram [@civilservicelgbt](https://www.instagram.com/civilservicelgbt/?hl=en) or, send them over in an [email](mailto:info@civilservice.lgbt). We will share them throughout the month.
 
-We will be showcasing all your fabulous displays during a Zoom call on Friday 26th June.  
+We will be showcasing all your fabulous displays during a Zoom call on Friday 26th June. 
+
+![](/assets/images/posts/pride-on-wall.jpeg)
 
 ## How do I join the showcase? 
 
