@@ -26,6 +26,4 @@ Can't make this date and time? Don't worry we will be sharing the video on our s
 
 If you have any issues or questions about the event, please [email us](mailto:info@civilservice.lgbt)
 
-If you are unable to participate vocally, please let us know and we will make sure you can still join in safely. 
-
-> Do you have a digital event coming up during PrideON? [Contact us](/about/contact-us/) and we can help you promote it.
+> PrideON is a programme of digital events and content across the month of June to help celebrate Pride in the Civil Service. Do you have a digital event or content that you want us to share? [Contact us](/about/contact-us/).
