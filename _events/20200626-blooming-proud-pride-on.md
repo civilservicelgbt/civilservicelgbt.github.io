@@ -16,7 +16,7 @@ Whether you crochet, draw, paint, knit, build it out of Lego, press it between b
 
 We want you to join us in creating flowers and share the images to our Instagram in the final week of June.
 
-Tweet us your pictures [@cslgbt](https://twitter.com/cslgbt), tag us on Instagram [@civilservicelgbt](https://www.instagram.com/civilservicelgbt/?hl=en) or, send them over in an [email](mailto:info@civilservice.lgbt) by Wednesday 24th June and we will collate them into a collage to be shared at the end of the month.
+Tweet us your pictures [@cslgbt](https://twitter.com/cslgbt), tag us on Instagram [@civilservicelgbt](https://www.instagram.com/civilservicelgbt/?hl=en) or, send them over in an [email](mailto:info@civilservice.lgbt) and we will collate them into a collage to be shared at the end of the month.
 
 We will also be showcasing your fabulous flowers during a Zoom call on Friday 26th June. Sign up via Eventbrite using the above link. 
 
