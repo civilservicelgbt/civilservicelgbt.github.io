@@ -2,7 +2,7 @@
 title: 'Coffee Roulette - PrideON'
 excerpt: Get to know other LGBT+ Civil Servants over a speedy coffee during our PrideON celebrations.
 event-date: 2020-06-16 10:00:00
-location: "Online (via Zoom or Google Hangouts)"
+location: "Online (via Zoom or Google Meet)"
 link: https://www.eventbrite.co.uk/e/coffee-roulette-prideon-tickets-107097704116
 layout: event
 category: pride-2020
