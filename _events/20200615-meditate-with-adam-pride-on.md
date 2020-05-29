@@ -24,4 +24,4 @@ There is no need to register, simply head of over to our Facebook page at 14:30 
 
 If you have any issues or questions about the event, please [email us](mailto:info@civilservice.lgbt)
 
-> Do you have a digital event coming up during PrideON? [Contact us](/about/contact-us/) and we can help you promote it.
+> PrideON is a programme of digital events and content across the month of June to help celebrate Pride in the Civil Service. Do you have a digital event or content that you want us to share? [Contact us](/about/contact-us/).
