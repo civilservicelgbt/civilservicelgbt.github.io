@@ -63,3 +63,11 @@ If you have any issues or questions about the event, please [email us](mailto:in
 If you are unable to participate vocally, please let us know and we will make sure you can still join in safely. 
 
 > PrideON is a programme of digital events and content across the month of June to help celebrate Pride in the Civil Service. Do you have a digital event or content that you want us to share? [Contact us](/about/contact-us/).
+
+## Civil Service LGBT+ Network’s Statement of Impartiality
+
+We would like to make Civil Servants who choose to attend PrideON aware that there will be guest speakers for several events – including podcasts, panel discussions, roundtables, and Q&A’s. Please be mindful that these will include discussions of the speaker’s own experiences, ideas and opinions.
+
+We have both internal and external guest speakers for PrideON. Internally, we will have LGBT speakers from different departments as well as representatives from LGBT Networks and the Government Equalities Office responsible for LGBT Policy. External speakers include LGBT activists, including representatives from LGBT charities and organisations. You may be aware of their interests and perspectives already as some are in the public eye.
+
+We want to make it clear that the views discussed in these events are those of the guest speakers. Therefore, they are not the views of the Civil Service nor the Government. Likewise, these are not the views of the Civil Service LGBT+ Network.
