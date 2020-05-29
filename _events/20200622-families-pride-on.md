@@ -1,0 +1,38 @@
+---
+title: 'Panel Discussion, LGBT+ Families - PrideON'
+excerpt: Join us to hear from a panel of guest speakers discussing issues relating to LGBTQ+ families, including surrogacy, birth registration of LGBTQ+ parents and the experience of trans parents. 
+event-date: 2020-06-22 13:00:00
+location: "Online (via Zoom or Google Hangouts)"
+link: "https://www.eventbrite.co.uk/e/panel-discussion-lgbt-families-prideon-tickets-107206696114"
+layout: event
+slug: /2020/06/22/panel-Discussion-families-pride-on
+published: true
+---
+
+Join us for an informative and insightful panel event on the issues faced by LGBTQ+ families in 2020. 
+
+We’re running this hour long panel event to highlight the diverse issues faced by members in the LGBTQ+ community when building a family. Guest speakers will discuss topics such as surrogacy, how birth registration is geared towards the cisgender heteronormative model of the family and their own experiences of LGBTQ+ parenting.
+
+You don’t need prepare for this event, just bring your enthusiasm to learn more about the challenges facing our community. Each panel member will deliver a short talk on a topic of their choosing, with a chance for questions/discussion at the end.
+
+The event will be hosted on Zoom or Google Hangouts, but please register before using the link above. 
+
+These sessions are open to everyone and will be facilitated inclusively.
+
+Full list of speakers to be confirmed. Dates and time may change, if they do, we will notify you through Eventbrite. 
+
+## How do I join?
+
+Please register your interest on Eventbrite using the above link and your GOV.UK email. Our Zoom capacity is limited to 100 participants, so if you can no longer attend, please cancel your place. 
+
+You may be required to register for Zoom access codes in advance of the event, so please keep an eye on your inbox. 
+
+Any other instructions and materials needed for the event, will also be distributed to the email you register with in advance. 
+ 
+## Questions
+
+If you have any issues or questions about the event, please [email us](mailto:info@civilservice.lgbt)
+
+If you are unable to participate vocally, please let us know and we will make sure you can still join in safely. 
+
+> Do you have a digital event coming up during PrideON? [Contact us](/about/contact-us/) and we can help you promote it.
