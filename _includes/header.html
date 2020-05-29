@@ -26,3 +26,7 @@
 		</div>
 	</div>
 </nav>
+
+{% if site.show-banner == true and page.url != site.banner-link %}
+{% include banner.html %}
+{% endif %}
