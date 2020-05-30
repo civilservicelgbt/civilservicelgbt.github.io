@@ -27,6 +27,8 @@
 	</div>
 </nav>
 
-{% if site.show-banner == true and page.url != site.banner-link %}
+{% for banner in site.data.global-banner %}
+{% if banner.show == true and page.url != banner.link %}
 {% include banner.html %}
 {% endif %}
+{% endfor %}

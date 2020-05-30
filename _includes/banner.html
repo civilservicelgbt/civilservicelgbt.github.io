@@ -2,7 +2,9 @@
  <div id="banner">
  <div class="container">
   <ul id="banner-items">
-   <li>{{ site.banner-text }}: <a href="{{ site.banner-link }}" title="{{ site.banner-link-text }}">{{ site.banner-link-text }}</a></li>
+    {% for banner in site.data.global-banner %}
+   <li>{{ banner.text }}: <a href="{{ banner.link }}" title="{{ banner.link-text }}">{{ banner.link-text }}</a></li>
+  {% endfor %}
   </ul>
  </div>
  </div>
