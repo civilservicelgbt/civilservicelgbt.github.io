@@ -4,23 +4,23 @@ author: Civil Service LGBT+ Network
 date: '2020-06-01'
 preview: false
 published: true
-title: "Get involved in our digital content..."
+title: "Share your story..."
 excerpt: 'We need your help with our digital content during PrideON' 
-permalink: /2020/06/01/digital-content
+permalink: /2020/06/01/share-your-story
 image: /assets/images/posts/pride-on-website.png
 ---
 
 A huge part of Pride is telling stories of the LGBT+ community and being visible. We want to know: 
 
-- What does pride mean to you? 
+- What does Pride mean to you? 
 
 - Why intersectionality matters?
 
-- How are you celebrating pride this year?
+- How are you celebrating Pride this year?
 
 We want to run a series of blogs and vlogs answering these questions, so please email [info@civilservice.lgbt](mailto:info@civilservice.lgbt) to get involved.
 
-If you would like to write a vlog or blog or anything else, please send it over and we will aim to publish it. 
+If you would like to write a vlog or blog or anything else, please send it over.
 
 #### Coming soon: our PrideON Podcast and PrideON Playlist. 
 
