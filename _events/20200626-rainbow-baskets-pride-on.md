@@ -16,7 +16,7 @@ Weave yourself a rainbow basket from strips of paper. You can use coloured paper
 
 These easy to follow instructions will show you how to prepare your paper and make a simple basket. There will be suggestions for ways you can get different rainbow colour patterns on your basket. Fun for adults and children, though younger children may need a bit more help and supervision. 
 
-[CLICK HERE TO DOWNLOAD THE INSTRUCTIONS](/assets/documents/Plaited rainbow basket instructions PrideON.pdf)
+[CLICK HERE TO DOWNLOAD THE INSTRUCTIONS.pdf](/assets/documents/Plaited rainbow basket instructions PrideON.pdf)
 
 Tweet us your woven results [@cslgbt](https://twitter.com/cslgbt), tag us on Instagram [@civilservicelgbt](https://www.instagram.com/civilservicelgbt/?hl=en) or, send them over in an [email](mailto:info@civilservice.lgbt). We will share them throughout the month across our social media.  
 
