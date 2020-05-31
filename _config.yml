@@ -56,12 +56,6 @@ home-topics:		true
 
 # To customise the navigation bar, edit 'menu.csv' in the '_data' folder
 
-# SITE-WIDE BANNER
-show-banner: true
-banner-text: "#PrideON - a programme of digital events, content and resources"
-banner-link-text: "find out how you can get involved"
-banner-link: /pride/
-
 # FOOTER
 
 created-by:			"John Peart"
