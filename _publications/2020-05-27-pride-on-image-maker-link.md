@@ -41,15 +41,15 @@ To ensure PrideON reaches as many Civil Servants as possible, please encourage y
 
 We have created an example blog post that you can ask your communications or digital team to publish on your departments intranet. 
 
- 1. [Download Example blog post.docx](/assets/documents/Template departmental intranet post for PrideON upload.docx)
+ - [Download Example blog post.docx](/assets/documents/Template departmental intranet post for PrideON upload.docx)
 
 We have also created an example email you can send to your colleagues and senior civil servants in your department, explaining what PrideON is and how they can help. 
  
- 2. [Download Example email.docx](/assets/documents/Template email for PrideON upload.docx)
+ - [Download Example email.docx](/assets/documents/Template email for PrideON upload.docx)
  
  Be sure to add our banner to your email signature. Here is a template you can copy and paste. 
  
- 3. [Download Email Signature.docx](/assets/documents/PrideON email signature upload.docx)
+ - [Download Email Signature.docx](/assets/documents/PrideON email signature upload.docx)
 
 
 ## Social Media
