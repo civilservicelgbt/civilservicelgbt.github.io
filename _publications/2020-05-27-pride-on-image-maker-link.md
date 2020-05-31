@@ -47,6 +47,10 @@ We have also created an example email you can send to your colleagues and senior
  
  2.[Download Example email COMING SOON] 
  
+ Be sure to add our banner to your email signature. Here is a template you can copy and paste. 
+ 
+ 3. [Download Email Signature.docx](/assets/documents/PrideON email signature upload.docx)
+
 
 ## Social Media
 
