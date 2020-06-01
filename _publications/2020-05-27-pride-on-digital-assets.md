@@ -37,7 +37,7 @@ The default text has been set to ‘Civil Servant, LGBT+ and Proud’ in magenta
 4. [Download Facebook profile cover](/assets/documents/PrideON - Facebook profile cover.png)
 5. [Download Instagram Grid image](/assets/documents/PrideON - Instagram Grid.png)
 6. [Download Instagram Stories image](/assets/documents/PrideON - Instagram Stories.png)
-7. [Download Video call background - Zoom and MS Teams](/assets/documents/PrideON - Video call background Zoom and MS teams.png)
+7. [Download Video call background - Zoom and MS Teams](/assets/documents/PrideON - Video call background.png)
 8. [Download Profile picture image](/assets/documents/PrideON - Profile Picture.png)
 9. [Download Poster](/assets/documents/PrideON - Poster.png)
 
@@ -50,7 +50,7 @@ The default text has been set to ‘Civil Servant, LGBT+ and Proud’ in magenta
 4. [Download Facebook profile cover](/assets/documents/PrideON Ally - Facebook profile cover.png)
 5. [Download Instagram Grid image](/assets/documents/PrideON Ally - Instagram Grid.png)
 6. [Download Instagram Stories image](/assets/documents/PrideON Ally - Instagram Stories.png)
-7. [Download Video call background - Zoom and MS Teams](/assets/documents/PrideON Ally - Video call background Zoom and MS teams.png)
+7. [Download Video call background - Zoom and MS Teams](/assets/documents/PrideON Ally - Video call background.png)
 8. [Download Profile picture image](/assets/documents/PrideON Ally - Profile Picture.png)
 9. [Download Poster](/assets/documents/PrideON Ally - Poster.png)
 
