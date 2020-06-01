@@ -26,3 +26,9 @@
 		</div>
 	</div>
 </nav>
+
+{% for banner in site.data.global-banner %}
+{% if banner.show == true and page.url != banner.link %}
+{% include banner.html %}
+{% endif %}
+{% endfor %}

@@ -1,0 +1,11 @@
+<div id="site-banner">
+ <div id="banner">
+ <div class="container">
+  <ul id="banner-items">
+    {% for banner in site.data.global-banner %}
+   <li>{{ banner.text }}: <a href="{{ banner.link }}" title="{{ banner.link-text }}">{{ banner.link-text }}</a></li>
+  {% endfor %}
+  </ul>
+ </div>
+ </div>
+</div>
