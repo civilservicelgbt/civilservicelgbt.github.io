@@ -4,7 +4,7 @@ author: Civil Service LGBT+ Network
 date: '2020-06-01'
 preview: false
 published: true
-cateogy: pride-2020
+category: pride-2020
 title: "Launching PrideON"
 excerpt: While we can’t celebrate in our usual way, we are ensuring that Pride in 2020 is not forgotten about.
 permalink: /2020/06/01/launching-pride-on
