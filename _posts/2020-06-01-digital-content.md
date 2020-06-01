@@ -5,6 +5,7 @@ date: '2020-06-01'
 preview: false
 published: true
 title: "Share your story..."
+category: pride-2020
 excerpt: 'We need your help with our digital content during PrideON' 
 permalink: /2020/06/01/share-your-story
 image: /assets/images/posts/pride-on-website.png
