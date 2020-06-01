@@ -4,7 +4,7 @@ author: Civil Service LGBT+ Network
 date: '2020-06-01'
 preview: false
 published: true
-cateogy: pride-2020
+category: pride-2020
 title: "Why do we need Pride?"
 excerpt: Prides are empowering. They are events about human rights and empowering LGBT+ individuals to reclaim the rights and freedoms they are denied, and the public space they are often excluded from. 
 permalink: /2020/06/01/why-do-we-need-pride-on
