@@ -37,7 +37,7 @@ Be sure to use this tool to create assets to advertise your own events and conte
 
 ## Departmental communications
 
-To ensure PrideON reaches as many Civil Servants as possible, please encourage your colleagues to share our events, contnet and resources.
+To ensure PrideON reaches as many Civil Servants as possible, please encourage your colleagues to share our events, content and resources.
 
 We have created an example blog post that you can ask your communications or digital team to publish on your departments intranet. 
 
