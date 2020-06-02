@@ -20,6 +20,8 @@ These easy to follow instructions will show you how to prepare your paper and ma
 
 Tweet us your woven results [@cslgbt](https://twitter.com/cslgbt), tag us on Instagram [@civilservicelgbt](https://www.instagram.com/civilservicelgbt/?hl=en) or, send them over in an [email](mailto:info@civilservice.lgbt). We will share them throughout the month across our social media.  
 
+![](/assets/images/posts/Two baskets.jpg)
+
 To end the month, we will be showcasing all your fabulous baskets during a Zoom call on Friday 26th June. 
 
 ## How do I join the showcase? 
