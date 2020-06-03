@@ -1,18 +1,19 @@
 ---
 layout: news
 author: Civil Service LGBT+ Network
-date: '2020-06-03'
+date: '2020-06-04'
 preview: false
 published: true
 category: pride-2020
 title: "A video message from Jonathan Slater, the Civil Service LGB&TI Champion"
-excerpt: A message from Jonathan Slater, the Civil Service LGB&TI Champion and Department for Education Permanent Secretary, for Civil Service PrideON. A programme of digital events, content and resources organised by the Civil Service LGBT+ Network, to celebrate pride month in June.
+excerpt: A message from Jonathan Slater, the Civil Service LGB&TI Champion and Department for Education Permanent Secretary, for Civil Service PrideON.
 permalink: /2020/06/04/jonathan-slater-video-message-pride-on
 ---
 
 A video message from Jonathan Slater, the Civil Service LGB&TI Champion and Department for Education Permanent Secretary, for Civil Service PrideON. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yJ5D1xpwSIw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Transcript: 
 
