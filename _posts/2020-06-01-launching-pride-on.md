@@ -46,6 +46,6 @@ We want to run a series of blogs and vlogs answering these questions, so please 
 
 If you would like to write a vlog or blog or anything else, please send it over. 
 
-Be sure to check back on our [website](www.civilservice.lgbt/pride) for new content.
+Be sure to check back on our [website](/pride) for new content.
 
 # Happy Pride month everyone, and together we will keep PrideON. 
