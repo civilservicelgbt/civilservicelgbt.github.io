@@ -5,12 +5,12 @@ date: '2020-06-08'
 preview: false
 published: true
 category: pride-2020
-title: "A video message from Mark Grey, the LGBTI Champion at the Crown Prosectuion Service"
-excerpt: Mark Grey wishes LGBT+ Civil Servants a very safe and Happy Pride 2020. 
-permalink: /2020/06/08/mark-grey-video-message-pride-on
+title: "A video message from Mark Gray, the LGBTI Champion at the Crown Prosectuion Service"
+excerpt: Mark Gray wishes LGBT+ Civil Servants a very safe and Happy Pride 2020. 
+permalink: /2020/06/08/mark-gray-video-message-pride-on
 ---
 
-A video message from Mark Grey, the LGBTI Champion at the Crown Prosectuion Service, for Civil Service PrideON. 
+A video message from Mark Gray, the LGBTI Champion at the Crown Prosectuion Service, for Civil Service PrideON. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w63j7CTkaew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
