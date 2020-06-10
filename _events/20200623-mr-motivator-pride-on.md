@@ -24,6 +24,7 @@ OR join our YouTube Premiere, be sure to set your reminder now:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ycbvmDzZwjE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 Can't make this date and time? Don't worry we will be sharing the video on our social media shortly after.
  
 ## Questions
