@@ -8,7 +8,7 @@ category: pride-2020
 title: "Pride in our crafts: using art to make us visible"
 excerpt: Crafts have had a radical history within the LGBT+ community, from making our own clothes and flags to designing pride protest signs to baking rainbow cakes, it has been a way to express and enjoy our identity. As part of the Civil Service network’s PrideON events, our volunteers have organised some events so that you can craft-along at home.
 permalink: /2020/06/11/craft-blog
-image: /assets/images/posts/assets/images/posts/Two baskets.jpg
+image: /assets/images/posts/Two baskets.jpg
 ---
 
 ## Pride On Events
