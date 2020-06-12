@@ -6,7 +6,7 @@ location: "Digital"
 email: hannah.toulson@geo.gov.uk
 category: pride-2020
 layout: event
-slug: /2020/06/29/geo-video-pride-on
+slug: /2020/06/19/geo-video-pride-on
 published: true
 ---
 
