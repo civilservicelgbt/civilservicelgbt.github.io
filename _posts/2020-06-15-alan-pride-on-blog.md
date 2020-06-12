@@ -7,6 +7,7 @@ published: true
 category: pride-2020
 title: Alan De’Ath - "How meeting the love of my life made me an advocate for LGBT rights"
 excerpt: As part of our PrideON content, Alan sets out how he became involved in an LGBT charity, and why it is important we use Pride Month to be visible for those who can’t be.
+slug: /2020/06/15/alan-pride-on-blog
 image: /assets/images/posts/alan-pride-on-blog.jpg
 ---
 
