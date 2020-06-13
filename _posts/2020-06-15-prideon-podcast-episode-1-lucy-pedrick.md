@@ -1,7 +1,7 @@
 ---
 layout: news
 author: John Peart
-date: '2020-06-15’
+date: '2020-06-15'
 preview: false
 published: false
 category: 
