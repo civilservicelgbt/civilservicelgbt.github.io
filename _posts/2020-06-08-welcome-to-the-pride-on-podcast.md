@@ -4,7 +4,9 @@ author: John Peart
 date: '2020-06-08'
 preview: false
 published: true
-category: pride-2020
+category: 
+- pride-2020
+- podcast
 title: "Welcome to the PrideON podcast"
 excerpt: "A brand new podcast for the pride season from the Civil Service LGBT+ Network."
 image: /assets/images/posts/pride-on-podcast.png
