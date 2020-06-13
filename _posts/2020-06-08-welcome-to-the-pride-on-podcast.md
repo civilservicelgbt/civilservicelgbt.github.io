@@ -25,6 +25,10 @@ In the first few episodes, we're talking to:
 
 The first episode of *the PrideON podcast* will launch on Monday 15 June 2020 and new episodes will be released every week.
 
+## Listen to the trailer
+
+<iframe src="https://anchor.fm/civilservicelgbt/embed/episodes/Welcome-to-the-PrideON-Podcast-ef20c7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 ## Subscribe on your favourite podcast app
 
 *The PrideON podcast* will be available on all major podcasting platforms over the next few days. Subscribe now to hear the trailer episode, and get notified as new episodes become available.
