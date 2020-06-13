@@ -41,6 +41,12 @@ You can subscribe via:
 - [RadioPublic](https://radiopublic.com/prideon-from-the-civil-service-lg-WDa9pw)
 - [RSS](https://anchor.fm/s/239df864/podcast/rss)
 
+## Listen to the trailer
+
+Listen to the trailer for the PrideON podcast using the embedded player below.
+
+<iframe src="https://anchor.fm/civilservicelgbt/embed/episodes/Welcome-to-the-PrideON-Podcast-ef20c7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 ## Be a guest on the podcast
 
 We'd like to keep this podcast going for as long as possible and we're still looking for more guests.
