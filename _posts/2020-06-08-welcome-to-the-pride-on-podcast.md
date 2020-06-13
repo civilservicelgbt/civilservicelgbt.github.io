@@ -25,23 +25,27 @@ In the first few episodes, we're talking to:
 
 The first episode of *the PrideON podcast* will launch on Monday 15 June 2020 and new episodes will be released every week.
 
-## Listen to the trailer
-
-<iframe src="https://anchor.fm/civilservicelgbt/embed/episodes/Welcome-to-the-PrideON-Podcast-ef20c7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
 ## Subscribe on your favourite podcast app
 
 *The PrideON podcast* will be available on all major podcasting platforms over the next few days. Subscribe now to hear the trailer episode, and get notified as new episodes become available.
 
 You can subscribe via:
 
-- Apple Podcasts — *Coming very soon*
-- Google Podcasts — *Coming very soon*
+- [Apple Podcasts](https://podcasts.apple.com/gb/podcast/prideon-from-the-civil-service-lgbt-network/id1517317754)
+- [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yMzlkZjg2NC9wb2RjYXN0L3Jzcw==)
 - [Spotify](https://open.spotify.com/show/6qDk8KzMbhPJY7FjCnyECa)
 - [Anchor](https://anchor.fm/civilservicelgbt)
 - [Pocketcasts](https://pca.st/uyf7skc1)
-- Overcast — *Coming very soon*
+- [Overcast](https://overcast.fm/itunes1517317754/prideon-from-the-civil-service-lgbt-network)
+- [Breaker](https://www.breaker.audio/prideon-from-the-civil-service-lgbt-plus-network)
+- [RadioPublic](https://radiopublic.com/prideon-from-the-civil-service-lg-WDa9pw)
 - [RSS](https://anchor.fm/s/239df864/podcast/rss)
+
+## Listen to the trailer
+
+Listen to the trailer for the PrideON podcast using the embedded player below.
+
+<iframe src="https://anchor.fm/civilservicelgbt/embed/episodes/Welcome-to-the-PrideON-Podcast-ef20c7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## Be a guest on the podcast
 
