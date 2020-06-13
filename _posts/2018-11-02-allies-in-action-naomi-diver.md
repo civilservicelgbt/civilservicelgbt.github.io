@@ -9,6 +9,7 @@ excerpt: "This week, we’re celebrating the allies making the Civil Service a g
 permalink: /2018/11/02/allies-week-naomni-diver
 image: /assets/images/posts/allies-week-no-date.png
 image-alt: Civil Service allies Week
+category: allies-week
 ---
 
 My name is Naomi Diver and have been working for the Environment Agency (EA) for almost 6 years and during that time I’ve moved around different areas and teams. I have always been impressed with how friendly and kind my colleagues are and the great diversity that is championed everywhere you go.

@@ -9,6 +9,7 @@ excerpt: "This week, we’re celebrating the allies making the Civil Service a g
 permalink: /2018/11/01/allies-week-paul-wilson
 image: /assets/images/posts/allies-week-no-date.png
 image-alt: Civil Service allies Week
+category: allies-week
 ---
 
 ## What’s your job role and where do you work? 

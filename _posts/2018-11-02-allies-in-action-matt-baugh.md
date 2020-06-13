@@ -9,6 +9,7 @@ excerpt: "This week, we’re celebrating the allies making the Civil Service a g
 permalink: /2018/11/02/allies-week-matt-baugh
 image: /assets/images/posts/allies-week-no-date.png
 image-alt: Civil Service allies Week
+category: allies-week
 ---
 
 Hi, my name's Matt. I'm a Director in the Department for Exiting the European Union (DExEU) and have been an LGBT+ ally for two years. I'm a Board champion and proud supporter of my department's LGBT+ network, Out and Proud.

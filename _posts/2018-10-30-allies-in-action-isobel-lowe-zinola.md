@@ -9,6 +9,7 @@ excerpt: "This week, we’re celebrating the allies making the Civil Service a g
 permalink: /2018/10/30/allies-week-isobel-lowe-zinola
 image: /assets/images/posts/allies-week-no-date.png
 image-alt: Civil Service Allies Week
+category: allies-week
 ---
 
 ## What’s your job role and where do you work? 
