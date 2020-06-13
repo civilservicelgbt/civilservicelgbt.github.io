@@ -9,6 +9,7 @@ excerpt: "This week, we’re celebrating the allies making the Civil Service a g
 permalink: /2018/10/31/allies-week-tom-read
 image: /assets/images/posts/allies-week-no-date.png
 image-alt: Civil Service allies Week
+category: allies-week
 ---
 
 ## What’s your job role and where do you work? 
