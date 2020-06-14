@@ -25,6 +25,12 @@ John and Lucy talk about:
 - the work Lucy has done on bi-inclusion
 - how to be a better ally 
 
+## Listen online
+
+You can listen to the first episode of *the PrideON podcast* using the embedded player, below.
+
+<iframe src="https://anchor.fm/civilservicelgbt/embed/episodes/Lucy-Pedrick-on-accessible-LGBT-spaces-and-being-a-better-ally-ef18nq" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 ## Subscribe on your favourite podcast app
 
 You can get *the PrideON podcast* on all major podcasting platforms or subscribe in your favourite app. Subscribe now listen to this episode and get notified as new episodes become available.
