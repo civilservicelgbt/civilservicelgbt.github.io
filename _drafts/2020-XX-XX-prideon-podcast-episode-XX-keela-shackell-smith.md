@@ -1,29 +1,28 @@
 ---
 layout: news
 author: John Peart
-date: '2020-06-22'
+date: '2020-XX-XX'
 preview: false
 published: false
 category: 
 - pride-2020
 - podcast
-title: "Episode 2 of the PrideON podcast with Marc Fitchett and James Jefferson"
-excerpt: "Listen to episode 2 now, with host John Peart and guests Marc Fitchett and James Jefferson from the Civil Service LGBT+ Network."
+title: "Episode XX of the PrideON podcast with Keela Shackell-Smith"
+excerpt: "Listen to episode XX now, with host John Peart and guest Keela Shackell-Smith from the Cabinet Office."
 image: /assets/images/posts/pride-on-podcast.png
-permalink: /2020/06/22/prideon-podcast-episode-2
+permalink: /2020/XX/XX/prideon-podcast-episode-XX
 ---
 
-*The PrideON podcast* is the Civil Service LGBT+ Network's new podcast for the pride season. In each episode we'll be chatting to inspiring LGBT+ civil servants and keeping pride *on*. 
+*The PrideON podcast* is the new podcast for the pride season from the Civil Service LGBT+ Network. In each episode we'll be chatting to inspiring LGBT+ civil servants about pride, work and life. 
 
-**Episode 2 of the podcast is now available**. You can download it from wherever you get podcasts.
+**Episode XX of the podcast is now available**. You can download it from wherever you get podcasts.
 
-In this episode, John Peart – former vice-chair for the Civil Service LGBT+ Network – talks to Marc Fitchett and James Jefferson, two of the new vice-chairs for the network. Marc and James both work in the Ministry for Housing, Communities and Local Government. They're also the people who've been working behind the scenes to make sure that PrideON happens. 
+In this episode, John Peart – former vice-chair for the Civil Service LGBT+ Network – talks to Keela Shackell-Smith. Keela is a Diversity and Inclusion Manager at the Cabinet Office.
 
-John, Marc and James talk about:
+John and Keela talk about:
 
-- the inspiration for PrideON
-- how the work of the Civil Service LGBT+ Network is changing to meet the needs of LGBT+ civil servants in the current pandemic
-- what you can expect from this season of events 
+- how Keela is celebrating Pride season with her family
+- the process Keela and her same-sex partner went through to have their daughter
 
 ## Subscribe on your favourite podcast app
 
