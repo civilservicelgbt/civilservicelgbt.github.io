@@ -2,7 +2,7 @@
 title: 'DIT PRIDE Book group - Rainbow Milk: A Discussion with Paul Mendez'
 excerpt: Join DIT LGBT+ network for a discussion with author Paul Mendez about his new novel 'Rainbow Milk'.
 event-date: 2020-06-24 17:00:00
-location: "Online (via Zoom)"
+location: "Online (via Zoom or Google Meet)"
 link: https://www.eventbrite.co.uk/e/dit-pride-book-group-rainbow-milk-a-discussion-with-paul-mendez-tickets-109789142280
 layout: event
 category: pride-2020
