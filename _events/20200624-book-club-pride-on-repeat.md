@@ -18,10 +18,13 @@ Following the success of the first Book Club event we will be hosting another se
 
 Feel free to read some or all of the following:
 
-Audre Lorde, ‘I am your sister: Black Women Organizing Across Sexualities’ available [here](https://www.marxists.org/subject/lgbtq/pamphlets/I%20Am%20Your%20Sister-Audrey%20Lorde.pdf)
-Audre Lorde, ‘Uses of the Erotic: The Erotic as Power’ available [here](http://www.peacewithpurpose.org/uploads/8/2/1/6/8216786/audre_lorde_cool-beans.pdf)
-Pat Parker, ‘My Lover is a Woman’ available [here](https://poets.org/poem/my-lover-woman)
-James Baldwin, ‘Munich, Winter 1973’ available [here](https://www.poetryfoundation.org/poems/88926/munich-winter-1973-for-ys)
+- Audre Lorde, ‘I am your sister: Black Women Organizing Across Sexualities’ available [here](https://www.marxists.org/subject/lgbtq/pamphlets/I%20Am%20Your%20Sister-Audrey%20Lorde.pdf)
+
+- Audre Lorde, ‘Uses of the Erotic: The Erotic as Power’ available [here](http://www.peacewithpurpose.org/uploads/8/2/1/6/8216786/audre_lorde_cool-beans.pdf)
+
+- Pat Parker, ‘My Lover is a Woman’ available [here](https://poets.org/poem/my-lover-woman)
+
+- James Baldwin, ‘Munich, Winter 1973’ available [here](https://www.poetryfoundation.org/poems/88926/munich-winter-1973-for-ys)
 
 Our discussion will be informal and friendly. Attendees are also welcome to speak about any book that fits the topic of Intersectionality
 
