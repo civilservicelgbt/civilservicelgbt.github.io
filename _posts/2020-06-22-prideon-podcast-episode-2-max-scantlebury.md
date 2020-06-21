@@ -3,7 +3,7 @@ layout: news
 author: Jordan Ledger
 date: '2020-06-22'
 preview: false
-published: false
+published: true
 category: 
 - pride-2020
 - podcast
