@@ -24,6 +24,12 @@ Jordan and Max talk about:
 - what it means to be an ally and how non-LGBT+ people being allies to the LGBT+ people
 - inclusion of people from black and ethnic minority backgrounds in LGBT+ communities
 
+## Listen online
+
+You can listen to the first episode of *the PrideON podcast* using the embedded player, below.
+
+<iframe src="https://anchor.fm/civilservicelgbt/embed/episodes/Max-Scantlebury-on-being-an-allies-and-BAME-inclusion-in-LGBT-communities-efnikp" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 ## Subscribe on your favourite podcast app
 
 You can get *the PrideON podcast* on all major podcasting platforms or subscribe in your favourite app. Subscribe now listen to this episode and get notified as new episodes become available.
