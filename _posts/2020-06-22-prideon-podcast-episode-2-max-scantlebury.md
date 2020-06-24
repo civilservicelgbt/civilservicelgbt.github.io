@@ -11,6 +11,7 @@ title: "Episode 2 of the PrideON podcast with Max Scantlebury"
 excerpt: "Listen to episode 2 now, with host Jordan Ledger and guest Max Scantlebury from the Home Office."
 image: /assets/images/posts/pride-on-podcast.png
 permalink: /2020/06/22/prideon-podcast-episode-2
+redirect_from: /podcast/episode/2
 ---
 
 *The PrideON podcast* is the Civil Service LGBT+ Network's new podcast for the pride season. In each episode we'll be chatting to inspiring LGBT+ civil servants and keeping pride *on*. 

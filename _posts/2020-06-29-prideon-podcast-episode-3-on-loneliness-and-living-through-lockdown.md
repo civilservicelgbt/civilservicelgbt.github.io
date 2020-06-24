@@ -1,36 +1,26 @@
 ---
 layout: news
 author: John Peart
-date: '2020-06-15'
+date: '2020-06-26'
 preview: false
-published: true
+published: false
 category: 
 - pride-2020
 - podcast
-title: "Episode 1 of the PrideON podcast with Lucy Pedrick"
-excerpt: "You can listen to episode 1 now, with host John Peart and guest Lucy Pedrick, wherever you get podcasts."
+title: "Episode 3 of the PrideON podcast on loneliness and lockdown"
+excerpt: "Listen to episode 3 now, with host John Peart and guests Marc Fitchett and James Jefferson from the Civil Service LGBT+ Network."
 image: /assets/images/posts/pride-on-podcast.png
-permalink: /2020/06/15/prideon-podcast-episode-1
-redirect_from: /podcast/episode/1
+permalink: /2020/06/26/prideon-podcast-episode-3
+redirect_from: /podcast/episode/3
 ---
 
-*The PrideON podcast* is a brand new podcast from the Civil Service LGBT+ Network. In each episode we'll be chatting to inspiring LGBT+ civil servants about their lives, identities what pride means to them. 
+*The PrideON podcast* is the Civil Service LGBT+ Network's new podcast for the pride season. In each episode we'll be chatting to inspiring LGBT+ civil servants and keeping pride *on*. 
 
-**Episode 1 of the podcast is now available**. You can download it from wherever you get podcasts.
+**Episode 3 of the podcast is now available**. You can download it from wherever you get podcasts.
 
-In the first episode, John Peart – former vice-chair for the Civil Service LGBT+ Network – talks to Lucy Pedrick. Lucy works at the Department for Digital, Culture, Media and Sport. She’s also been doing lots to improve the inclusion of bisexual people within the Civil Service, helping to establish “[BiSpace](/bispace/)”. 
+In this extra bonus episode, John Peart – former vice-chair for the Civil Service LGBT+ Network – talks to Caroline Airs and Jordan Zaman from Cabinet Office's Civil Service Diversity and Inclusion team, Kate Hughes, the Civil Service LGBT+ Network's chair, and Edward He and Rikesh Nagamah who (along with Jordan) are some of the vice-chairs for the network.
 
-John and Lucy talk about:
-
-- the opportunities a socially-distant pride season provides for creating more accessible LGBT+ spaces
-- the work Lucy has done on bi-inclusion
-- how to be a better ally 
-
-## Listen online
-
-You can listen to the first episode of *the PrideON podcast* using the embedded player, below.
-
-<iframe src="https://anchor.fm/civilservicelgbt/embed/episodes/Lucy-Pedrick-on-accessible-LGBT-spaces-and-being-a-better-ally-ef18nq" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+In this episode, they talk about loneliness and living through lockdown.
 
 ## Subscribe on your favourite podcast app
 
