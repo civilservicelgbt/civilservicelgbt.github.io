@@ -6,12 +6,12 @@ preview: false
 published: true
 category: pride-2020
 title: Celebrating LGBT+ Pride month at Oxford Job Centre
-excerpt: 
+excerpt: Mark gives us an insight into the Oxford Job Centre pride celebrations. 
 slug: /2020/06/25/oxford-job-centre-pride-month-celebrations
 image: /assets/images/posts/oxford-jcp-pride-1.jpg
 ---
 
-### Mark is currently the Civil Service  LGBT+ lead for South East England and a DWPride Committee Member and Lead for Southern England. 
+### Mark is currently the Civil Service LGBT+ lead for South East England and a DWPride Committee Member and Lead for Southern England. 
 
 Today at Oxford Job Centre (24 June 2020) we celebrated LGBT  Pride month.
 
