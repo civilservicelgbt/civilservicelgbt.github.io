@@ -5,6 +5,7 @@ preview: false
 published: true
 title: "Celebrating Pride 2020: Jonathan Slater"
 permalink: 2020/06/26/jonathan-slater-pride-2020
+category: pride-2020
 date: 2020-06-26
 excerpt: Civil Service LGB&TI Champion Jonathan Slater on Celebrating Pride 2020.
 ---
