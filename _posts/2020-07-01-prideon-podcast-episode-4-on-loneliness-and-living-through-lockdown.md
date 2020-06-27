@@ -1,7 +1,7 @@
 ---
 layout: news
 author: John Peart
-date: '2020-06-26'
+date: '2020-07-01'
 preview: false
 published: false
 category: 
@@ -10,7 +10,7 @@ category:
 title: "Episode 4 of the PrideON podcast on loneliness and lockdown"
 excerpt: "Listen to episode 4 now, with host John Peart and guests Marc Fitchett and James Jefferson from the Civil Service LGBT+ Network."
 image: /assets/images/posts/pride-on-podcast.png
-permalink: /2020/06/26/prideon-podcast-episode-4
+permalink: /2020/07/01/prideon-podcast-episode-4
 redirect_from: /podcast/episode/4
 ---
 
