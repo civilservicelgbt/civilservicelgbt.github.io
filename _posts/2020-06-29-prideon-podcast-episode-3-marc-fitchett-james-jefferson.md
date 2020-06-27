@@ -7,16 +7,16 @@ published: false
 category: 
 - pride-2020
 - podcast
-title: "Episode 4 of the PrideON podcast with Marc Fitchett and James Jefferson"
-excerpt: "Listen to episode 4 now, with host John Peart and guests Marc Fitchett and James Jefferson from the Civil Service LGBT+ Network."
+title: "Episode 3 of the PrideON podcast with Marc Fitchett and James Jefferson"
+excerpt: "Listen to episode 3 now, with host John Peart and guests Marc Fitchett and James Jefferson from the Civil Service LGBT+ Network."
 image: /assets/images/posts/pride-on-podcast.png
-permalink: /2020/06/29/prideon-podcast-episode-4
-redirect_from: /podcast/episode/4
+permalink: /2020/06/29/prideon-podcast-episode-3
+redirect_from: /podcast/episode/3
 ---
 
 *The PrideON podcast* is the Civil Service LGBT+ Network's new podcast for the pride season. In each episode we'll be chatting to inspiring LGBT+ civil servants and keeping pride *on*. 
 
-**Episode 4 of the podcast is now available**. You can download it from wherever you get podcasts.
+**Episode 3 of the podcast is now available**. You can download it from wherever you get podcasts.
 
 In this episode, John Peart – former vice-chair for the Civil Service LGBT+ Network – talks to Marc Fitchett and James Jefferson, two of the new vice-chairs for the network. Marc and James both work in the Ministry for Housing, Communities and Local Government. They're also the people who've been working behind the scenes to make sure that PrideON happens. 
 

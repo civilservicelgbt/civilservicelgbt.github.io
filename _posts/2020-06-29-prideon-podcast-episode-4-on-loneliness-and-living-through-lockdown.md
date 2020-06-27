@@ -7,16 +7,16 @@ published: false
 category: 
 - pride-2020
 - podcast
-title: "Episode 3 of the PrideON podcast on loneliness and lockdown"
-excerpt: "Listen to episode 3 now, with host John Peart and guests Marc Fitchett and James Jefferson from the Civil Service LGBT+ Network."
+title: "Episode 4 of the PrideON podcast on loneliness and lockdown"
+excerpt: "Listen to episode 4 now, with host John Peart and guests Marc Fitchett and James Jefferson from the Civil Service LGBT+ Network."
 image: /assets/images/posts/pride-on-podcast.png
-permalink: /2020/06/26/prideon-podcast-episode-3
-redirect_from: /podcast/episode/3
+permalink: /2020/06/26/prideon-podcast-episode-4
+redirect_from: /podcast/episode/4
 ---
 
 *The PrideON podcast* is the Civil Service LGBT+ Network's new podcast for the pride season. In each episode we'll be chatting to inspiring LGBT+ civil servants and keeping pride *on*. 
 
-**Episode 3 of the podcast is now available**. You can download it from wherever you get podcasts.
+**Episode 4 of the podcast is now available**. You can download it from wherever you get podcasts.
 
 In this extra bonus episode, John Peart – former vice-chair for the Civil Service LGBT+ Network – talks to Caroline Airs and Jordan Zaman from Cabinet Office's Civil Service Diversity and Inclusion team, Kate Hughes, the Civil Service LGBT+ Network's chair, and Edward He and Rikesh Nagamah who (along with Jordan) are some of the vice-chairs for the network.
 
