@@ -3,7 +3,7 @@ layout: news
 author: John Peart
 date: '2020-06-29'
 preview: false
-published: false
+published: true
 category: 
 - pride-2020
 - podcast
