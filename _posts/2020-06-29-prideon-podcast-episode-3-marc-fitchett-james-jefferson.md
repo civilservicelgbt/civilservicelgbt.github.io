@@ -46,7 +46,7 @@ You can subscribe via:
 
 You can listen to the first episode of *the PrideON podcast* using the embedded player, below.
 
-<iframe src="https://anchor.fm/civilservicelgbt/embed/episodes/Max-Scantlebury-on-being-an-allies-and-BAME-inclusion-in-LGBT-communities-efnikp" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/civilservicelgbt/embed/episodes/James-Jefferson-and-Marc-Fitchett-on-what-to-expect-from-PrideON-eev6ov" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## Be a guest on the podcast
 
