@@ -6,13 +6,15 @@ preview: false
 published: true
 category: pride-2020
 title: "What does Pride mean to you?"
-excerpt: We spoke to our members about what Pride means to them. 
+excerpt: We spoke to our members at the Insolvency Service about what Pride means to them. 
 permalink: /2020/06/30/what-does-pride-mean-to-you
 ---
 
-What does Pride mean to you? A video from the Civil Service LGBT+ Network, for Civil Service #PrideON. 
+Colleagues at the Insolvency Service have been discussing what pride means to them, especially during the difficult and uncertain times that we currently find ourselves in. Here are their thoughts: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZzxuKV5rkI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+What does pride mean to you? 
 
 ### Transcript: 
 
