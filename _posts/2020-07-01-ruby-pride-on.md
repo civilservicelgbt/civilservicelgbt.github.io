@@ -6,8 +6,9 @@ preview: false
 published: true
 category: pride-2020
 title: "Ruby: Why going to Pride is a big deal?"
-excerpt: Pride is a protest, a celebration. It gives us visibility and a connection. 
+excerpt: "Pride is a protest, a celebration. It gives us visibility and a connection."
 permalink: /2020/07/01/ruby-pride-on
+---
 
 Ruby reflects on Pride this year and shows us a badge they collected at their first ever pride in London, 1992. 
 
