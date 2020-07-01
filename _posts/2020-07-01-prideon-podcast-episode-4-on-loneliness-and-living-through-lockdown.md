@@ -8,7 +8,7 @@ category:
 - pride-2020
 - podcast
 title: "Episode 4 of the PrideON podcast on loneliness and lockdown"
-excerpt: "Listen to episode 4 now, with host John Peart and guests Marc Fitchett and James Jefferson from the Civil Service LGBT+ Network."
+excerpt: "Listen to episode 4 now, with host John Peart and guests Caroline Airs, Jordan Zaman, Kate Hughes, Edward He and Rikesh Nagamah."
 image: /assets/images/posts/pride-on-podcast.png
 permalink: /2020/07/01/prideon-podcast-episode-4
 redirect_from: /podcast/episode/4
