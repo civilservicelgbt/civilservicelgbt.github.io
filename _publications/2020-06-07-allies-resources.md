@@ -40,11 +40,11 @@ You may like to:
 
 - Allies Guidance resource produced by the Civil Service LGBT+ Network - [Download this publication](/assets/documents/20200607-allies-guidance.pdf)
 
-- Allies Training Presentation produced by the Cabinet Office - [Download this publication](/assets/documents/20200706_allies_training_text_resource_cabinet_office.DOCX)
+- Allies Training Presentation produced by the Cabinet Office - [Download this publication](/assets/documents/20200706_allies_training_cabinet_office.pptx)
 
 - Allies Terminology resource produced by the Cabinet Office - [Download this publication](/assets/documents/20200706_allies_training_terminology_cabinet_office.docx)
 
-- Allies Guidance resource produced by the Cabinet Office - [Download this publication](/assets/documents/20200706_allies_training_cabinet_office.pptxx)
+- Allies Guidance resource produced by the Cabinet Office - [Download this publication](/assets/documents/20200706_allies_training_text_resource_cabinet_office.DOCX)
 
 
 
