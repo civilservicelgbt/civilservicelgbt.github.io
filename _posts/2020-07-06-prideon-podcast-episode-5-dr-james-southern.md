@@ -41,6 +41,12 @@ You can subscribe via:
 - [RadioPublic](https://radiopublic.com/prideon-from-the-civil-service-lg-WDa9pw)
 - [RSS](https://anchor.fm/s/239df864/podcast/rss)
 
+## Listen online
+
+You can listen to the PrideON podcast using the embeded web player, below.
+
+<iframe src="https://anchor.fm/civilservicelgbt/embed/episodes/Dr-James-Southern-on-the-history-of-LGBT-people-in-the-Foreign-Office-effhjd/a-a2kkflv" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 ## Be a guest on the podcast
 
 We'd like to keep this podcast going for as long as possible and we're still looking for more guests.
