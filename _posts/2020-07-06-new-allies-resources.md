@@ -3,10 +3,9 @@ layout: news
 title: Introducing our new allies resources
 author: Civil Service LGBT+ Network
 excerpt: Want to be a good ally to your LGBT+ colleagues? We’ve produced and collated a range of resources to help you.
-image: /assets/images/posts/ace-fact-sheet-front.PNG
-image-alt: "The front cover of the new asexuality fact sheet"
-permalink: /2020/04/27/introducing-new-ace-fact-sheet/
-category: bispace
+image: /assets/images/posts/20200706_allies_front_cover.PNG
+image-alt: "The front cover of the allies resources"
+permalink: /2020/07/06/introducing-new-allies-resources/
 published: true
 preview: false
 ---
