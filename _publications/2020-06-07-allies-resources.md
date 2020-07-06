@@ -9,8 +9,6 @@ permalink: /publication/allies-resources
 excerpt: "Want to be a good ally to your LGBT+ colleagues? We’ve produced and collated a range of resources to help you."
 ---
 
-Want to be a good ally to your LGBT+ colleagues? We’ve produced and collated a range of resources to help you.
-
 <!-- Include the following to generate a Table of Contents -->
 * Table of contents will generate here
 {:toc}
@@ -38,13 +36,17 @@ You may like to:
 
 ## Download
 
-- Allies Guidance resource produced by the Civil Service LGBT+ Network - [Download this publication](/assets/documents/20200607-allies-guidance.pdf)
+- Allies Guidance resource produced by the Civil Service LGBT+ Network - 
+[Download this publication](/assets/documents/20200607-allies-guidance.pdf)
 
-- Allies Training Presentation produced by the Cabinet Office - [Download this publication](/assets/documents/20200706_allies_training_cabinet_office.pptx)
+- Allies Training Presentation produced by the Cabinet Office - 
+[Download this publication](/assets/documents/20200706_allies_training_cabinet_office.pptx)
 
-- Allies Terminology resource produced by the Cabinet Office - [Download this publication](/assets/documents/20200706_allies_training_terminology_cabinet_office.docx)
+- Allies Terminology resource produced by the Cabinet Office - 
+[Download this publication](/assets/documents/20200706_allies_training_terminology_cabinet_office.docx)
 
-- Allies Guidance resource produced by the Cabinet Office - [Download this publication](/assets/documents/20200706_allies_training_text_resource_cabinet_office.DOCX)
+- Allies Guidance resource produced by the Cabinet Office - 
+[Download this publication](/assets/documents/20200706_allies_training_text_resource_cabinet_office.DOCX)
 
 
 
