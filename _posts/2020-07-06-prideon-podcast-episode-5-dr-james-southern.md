@@ -3,15 +3,15 @@ layout: news
 author: Jordan Ledger
 date: '2020-07-06'
 preview: false
-published: false
+published: true
 category: 
 - pride-2020
 - podcast
 title: "Episode 5 of the PrideON podcast with Dr. James Southern"
 excerpt: "Listen to episode 5 now, with host Jordan Ledger and guest Dr James Southern, a Civil Service historian."
 image: /assets/images/posts/pride-on-podcast.png
-permalink: /2020/07/06/prideon-podcast-episode-6
-redirect_from: /podcast/episode/6
+permalink: /2020/07/06/prideon-podcast-episode-5
+redirect_from: /podcast/episode/5
 ---
 
 *The PrideON podcast* is the new podcast for the pride season from the Civil Service LGBT+ Network. In each episode we'll be chatting to inspiring LGBT+ civil servants about pride, work and life. 
