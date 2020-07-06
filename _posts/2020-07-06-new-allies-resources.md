@@ -9,14 +9,13 @@ permalink: /2020/07/06/introducing-new-allies-resources/
 published: true
 preview: false
 ---
-  
+
+
 To mark the end of Pride Month, in which the theme was allyship, the Civil Service LGBT+ Network, in partnership with the Cabinet Office is pleased to launch our [allies resources](/publication/allies-resources).
 
 ## How can I use the resources?
 
-These resources are designed to help you understand what being an ally is and resources to help. This involves guidance around terminology, why we need allies in the workplace and what allies can do to support.
-
-You can help by sharing these resources with your colleagues and networks.
+These resources are designed to help you understand what being an ally is and resources to help. This involves guidance around terminology, why we need allies in the workplace and what allies can do to support. You can help by sharing these resources with your colleagues and networks.
 
 How can I use the resources?
 
