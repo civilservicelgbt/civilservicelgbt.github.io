@@ -4,7 +4,7 @@ author: Civil Service LGBT+ Network
 date: '2020-06-07'
 preview: false
 published: true
-title: Allies resources
+title: Resources for allies
 permalink: /publication/allies-resources
 excerpt: "Want to be a good ally to your LGBT+ colleagues? We’ve produced and collated a range of resources to help you."
 ---
