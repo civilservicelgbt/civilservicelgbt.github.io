@@ -1,17 +1,17 @@
 ---
 layout: news
-title: Introducing our new allies resources
+title: Introducing our new resources for allies
 author: Civil Service LGBT+ Network
 excerpt: Want to be a good ally to your LGBT+ colleagues? We’ve produced and collated a range of resources to help you.
 image: /assets/images/posts/20200706_allies_front_cover.PNG
-image-alt: "The front cover of the allies resources"
+image-alt: "The front cover of the ally resources"
 permalink: /2020/07/06/introducing-new-allies-resources/
 published: true
 preview: false
 ---
 
 
-To mark the end of Pride Month, in which the theme was allyship, the Civil Service LGBT+ Network, in partnership with the Cabinet Office is pleased to launch our [allies resources](/publication/allies-resources).
+To mark the end of Pride Month, in which the theme was allyship, the Civil Service LGBT+ Network, in partnership with the Cabinet Office is pleased to launch our [resources for allies](/publication/allies-resources).
 
 ## How can I use the resources?
 
