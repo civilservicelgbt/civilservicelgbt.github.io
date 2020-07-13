@@ -4,7 +4,7 @@ author: Naomi Diver
 date: 2020-07-13
 preview: false
 published: true
-title: "Naomi Diver: Whilst being an ally all my life, it was only once I got invovled in the network did I start to see that I could be doing a whole lot more"
+title: "Naomi Diver: Whilst being an ally all my life, it was only once I got involved in the network did I start to see that I could be doing a whole lot more"
 excerpt: "This month we hear from Civil Servants about allyship and how to be a good ally."
 permalink: /2020/07/013/naomi-diver-allyship
 image: /assets/images/posts/naomi-diver-allyship.jpg
