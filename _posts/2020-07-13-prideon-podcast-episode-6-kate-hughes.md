@@ -1,21 +1,22 @@
 ---
 layout: news
 author: John Peart
-date: '2020-XX-XX'
+date: '2020-07-13'
 preview: false
 published: false
 category: 
 - pride-2020
 - podcast
-title: "Episode XX of the PrideON podcast with Kate Hughes"
-excerpt: "Listen to episode XX now, with host John Peart and guest Kate Hughes from the Civil Service LGBT+ Network."
+title: "Episode 6 of the PrideON podcast with Kate Hughes"
+excerpt: "Listen to episode 6 now, with host John Peart and guest Kate Hughes from the Civil Service LGBT+ Network."
 image: /assets/images/posts/pride-on-podcast.png
-permalink: /2020/XX/XX/prideon-podcast-episode-XX
+permalink: /2020/07/13/prideon-podcast-episode-XX
+redirect_from: /podcast/episode/6
 ---
 
 *The PrideON podcast* is the new podcast for the pride season from the Civil Service LGBT+ Network. In each episode we'll be chatting to inspiring LGBT+ civil servants about pride, work and life. 
 
-**Episode XX of the podcast is now available**. You can download it from wherever you get podcasts.
+**Episode 6 of the podcast is now available**. You can download it from wherever you get podcasts.
 
 In this episode, John Peart – former vice-chair for the Civil Service LGBT+ Network – talks to Kate Hughes, the current chair of the Network. Kate works in the Cabinet Office as part of Civil Service HR.
 
