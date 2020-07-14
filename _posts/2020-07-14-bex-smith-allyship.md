@@ -4,7 +4,7 @@ author: Bex Smith
 date: 2020-07-14
 preview: false
 published: true
-title: "Bex Smith: As an ally it is my job to challenge those who do not accept it and help those people to understand."
+title: "Bex Smith: As an ally it is my job to challenge those who do not accept it and help those people to understand"
 excerpt: "This month we hear from Civil Servants about allyship and how to be a good ally."
 permalink: /2020/07/14/bex-smith-allyship
 image: /assets/images/posts/bex-smith-allyship.jpg
