@@ -4,7 +4,7 @@ author: Leah Cunnah
 date: 2020-07-15
 preview: false
 published: true
-title: "Leah Cunnah: We live in times where it is no longer enough to just say you are an ally. We need to challenge discriminative language and behaviour to speak up for LGBT+ people"
+title: "Leah Cunnah: It is no longer enough to just say you are an ally. We need to challenge discriminative language and behaviour to speak up for LGBT+ people"
 excerpt: "This month we hear from Civil Servants about allyship and how to be a good ally."
 permalink: /2020/07/15/leah-cunnah-allyship
 image: /assets/images/posts/leah-cunnah-allyship.jpg
