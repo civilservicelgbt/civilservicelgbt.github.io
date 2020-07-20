@@ -10,8 +10,10 @@ category:
 title: "Episode 6 of the PrideON podcast with Kate Hughes"
 excerpt: "Listen to episode 6 now, with host John Peart and guest Kate Hughes from the Civil Service LGBT+ Network."
 image: /assets/images/posts/pride-on-podcast.png
-permalink: /2020/07/13/prideon-podcast-episode-XX
-redirect_from: /podcast/episode/6
+permalink: /2020/07/13/prideon-podcast-episode-6
+redirect_from: 
+- /podcast/episode/6
+- /2020/07/13/prideon-podcast-episode-XX
 ---
 
 *The PrideON podcast* is the new podcast for the pride season from the Civil Service LGBT+ Network. In each episode we'll be chatting to inspiring LGBT+ civil servants about pride, work and life. 
@@ -40,6 +42,12 @@ You can subscribe via:
 - [Breaker](https://www.breaker.audio/prideon-from-the-civil-service-lgbt-plus-network)
 - [RadioPublic](https://radiopublic.com/prideon-from-the-civil-service-lg-WDa9pw)
 - [RSS](https://anchor.fm/s/239df864/podcast/rss)
+
+## Listen online
+
+You can listen to the PrideON podcast using the embeded web player, below.
+
+<iframe src="https://anchor.fm/civilservicelgbt/embed/episodes/Kate-Hughes-on-the-work-of-the-Civil-Service-LGBT-network-and-Pride-eenufh" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## Be a guest on the podcast
 

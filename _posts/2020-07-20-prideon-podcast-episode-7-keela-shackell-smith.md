@@ -1,21 +1,23 @@
 ---
 layout: news
 author: John Peart
-date: '2020-XX-XX'
+date: '2020-07-20'
 preview: false
 published: false
 category: 
 - pride-2020
 - podcast
-title: "Episode XX of the PrideON podcast with Keela Shackell-Smith"
-excerpt: "Listen to episode XX now, with host John Peart and guest Keela Shackell-Smith from the Cabinet Office."
+title: "Episode 7 of the PrideON podcast with Keela Shackell-Smith"
+excerpt: "Listen to episode 7 now, with host John Peart and guest Keela Shackell-Smith from the Cabinet Office."
 image: /assets/images/posts/pride-on-podcast.png
-permalink: /2020/XX/XX/prideon-podcast-episode-XX
+permalink: /2020/07/20/prideon-podcast-episode-7
+redirect_from: 
+- /podcast/episode/7
 ---
 
 *The PrideON podcast* is the new podcast for the pride season from the Civil Service LGBT+ Network. In each episode we'll be chatting to inspiring LGBT+ civil servants about pride, work and life. 
 
-**Episode XX of the podcast is now available**. You can download it from wherever you get podcasts.
+**Episode 7 of the podcast is now available**. You can download it from wherever you get podcasts.
 
 In this episode, John Peart – former vice-chair for the Civil Service LGBT+ Network – talks to Keela Shackell-Smith. Keela is a Diversity and Inclusion Manager at the Cabinet Office.
 
@@ -39,6 +41,12 @@ You can subscribe via:
 - [Breaker](https://www.breaker.audio/prideon-from-the-civil-service-lgbt-plus-network)
 - [RadioPublic](https://radiopublic.com/prideon-from-the-civil-service-lg-WDa9pw)
 - [RSS](https://anchor.fm/s/239df864/podcast/rss)
+
+## Listen online
+
+You can listen to the PrideON podcast using the embeded web player, below.
+
+<iframe src="https://anchor.fm/civilservicelgbt/embed/episodes/Keela-Shackell-Smith-on-same-sex-parenting-effgob" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## Be a guest on the podcast
 
