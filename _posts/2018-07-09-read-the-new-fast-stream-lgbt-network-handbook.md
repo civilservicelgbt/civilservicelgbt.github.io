@@ -25,4 +25,3 @@ The network has come leaps and bounds since its initial creation. This handbook 
 
 If you'd like to get more involved, you can [find us on Facebook](https://facebook.com/groups/FastStreamLGBT) and follow us on Instagram [@fast_stream_lgbt](https://instagram.com/fast_stream_lgbt). You can also subscribe to our mailing list by [emailing us](lgbt.fast.stream@gmail.com).
 
-> **You can [download the new handbook](/publication/fast-stream-handbook) on the Civil Service LGBT+ Network website.**
