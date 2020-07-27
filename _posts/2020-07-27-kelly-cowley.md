@@ -9,7 +9,7 @@ excerpt: "This month we hear from Civil Servants about allyship and how to be a 
 permalink: /2020/07/27/kelly-cowley-allyship
 ---
 
-####  Kelly Cowley is a National Insurance Interviewing Officer at tht Oxford Job Centre (Department for Work and Pensions).
+####  Kelly Cowley is a National Insurance Interviewing Officer at the Oxford Job Centre (Department for Work and Pensions).
 
 For me being a LGBT+ Ally means to stand alongside my colleagues in their fight for equality and inclusion. To stand up and be counted and to challenge some of the negative behaviours that I see around me. I have always held a strong belief that people have the right to be heard and as an Ally, I feel proud (yes that word) to be able to lend my support to my colleagues and play an active part in the great work they are doing – in not only educating others but also ensuring that everyone can rightly feel they can ‘Be me in DWP’.
 
