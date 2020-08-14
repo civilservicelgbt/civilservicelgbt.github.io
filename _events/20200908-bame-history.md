@@ -3,7 +3,7 @@ title: 'Our BAME LGBT+ History'
 excerpt: Join the Civil Service LGBT+ Network in learning about BAME LGBT+ History. 
 event-date: 2020-09-08 16:00:00
 location: "Online (MS Teams)"
-register: https://www.eventbrite.co.uk/e/our-bame-lgbt-history-tickets-116984631181
+link: https://www.eventbrite.co.uk/e/our-bame-lgbt-history-tickets-116984631181
 layout: event
 slug: /2020/09/08/our-bame-lgbt-history
 published: true
