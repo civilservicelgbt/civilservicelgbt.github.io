@@ -1,12 +1,12 @@
 ---
 layout: news
 author: Civil Service LGBT+ Network
-date: 2020-08-21
+date: 2020-07-27
 preview: false
 published: true
-title: LGB&TI Inclusion: Micro Behaviours
-excerpt: "This month we hear from Civil Servants about allyship and how to be a good ally."
-permalink: /2020/08/21/Micro-Behaviours-video
+title: "LGB&TI Inclusion - Micro Behaviours
+excerpt: "Watch LGB&TI Civil Servants talk about the micro behaviours they experience which make them feel excluded."
+permalink: /2020/08/21/micro-behaviours-video
 ---
 
 At Civil Service Live in 2019, the Civil Service D&I team ran a workshop on LGB&TI Inclusion. This included a video of civil servants talking about the micro behaviours they experience which make them feel excluded.
