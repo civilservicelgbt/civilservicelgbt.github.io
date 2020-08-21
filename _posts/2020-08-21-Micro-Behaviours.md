@@ -4,7 +4,7 @@ author: Civil Service LGBT+ Network
 date: 2020-07-27
 preview: false
 published: true
-title: "LGB&TI Inclusion - Micro Behaviours
+title: "LGB&TI Inclusion - Micro Behaviours"
 excerpt: "Watch LGB&TI Civil Servants talk about the micro behaviours they experience which make them feel excluded."
 permalink: /2020/08/21/micro-behaviours-video
 ---
