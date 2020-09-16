@@ -6,6 +6,7 @@ location: "Online (Zoom)"
 link: https://www.eventbrite.co.uk/e/bisectionality-tickets-121350088381
 layout: event
 slug: /2020/09/23/bisectionality
+category:bispace
 published: true
 ---
 
