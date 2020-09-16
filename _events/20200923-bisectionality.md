@@ -15,5 +15,4 @@ In these extraordinary times, more and more of us are noticing the multiplicity 
 
 This event is open to all members of the UK Civil Service who consider themselves to be a member of the widening bi+ community and to anyone who wants to learn more about being an ally.
 
-> Please register through Eventbrite, using your GOV.UK email address. Joining instructions will be sent out prior to the event. 
-> If you'd like to access the event through your personal email, please email Alan.Edwards@dhsc.gov.uk using your GOV.UK email to have these joining details sent through to you separately.
+> Please register through Eventbrite, using your GOV.UK email address. Joining instructions will be sent out prior to the event. To receive joining details to a personal email, please contact Alan.Edwards@dhsc.gov.uk via your GOV.UK email to have these joining details sent through to you separately.
