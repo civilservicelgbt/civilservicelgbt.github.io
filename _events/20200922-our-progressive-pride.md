@@ -3,7 +3,7 @@ title: 'Our Progressive Pride'
 excerpt: Join the Civil Service LGBT Network in discussion on the Progressive Pride flag and how this powerful, internationals symbol is confrontingt discrimination in LGBT+ spaces.
 event-date: 2020-09-22 16:30:00
 location: "Online (Zoom)"
-link: hhttps://www.eventbrite.co.uk/e/our-progressive-pride-tickets-117291226215
+link: https://www.eventbrite.co.uk/e/our-progressive-pride-tickets-117291226215
 layout: event
 slug: /2020/09/22/our-progressive-pride
 published: true
