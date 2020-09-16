@@ -3,7 +3,7 @@ title: 'Bi+Sectionality'
 excerpt: Join us for a talk and group discussion about bi+ visibility and intersectionality to celebrate Bi+ Visibility Day.
 event-date: 2020-09-23 16:30:00
 location: "Online (Zoom)"
-link: https://www.eventbrite.co.uk/e/our-progressive-pride-tickets-117291226215
+link: https://www.eventbrite.co.uk/e/bisectionality-tickets-121350088381
 layout: event
 slug: /2020/09/23/bisectionality
 published: true
