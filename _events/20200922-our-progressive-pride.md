@@ -1,15 +1,15 @@
 ---
 title: 'Our Progressive Pride'
-excerpt: Join the Civil Service LGBT+ Network in discussion on the Progressive Pride flag and how this powerful, international symbol is confronting discrimination in LGBT+ spaces. 
-event-date: 2020-09-22 16:00:00
-location: "Online (MS Teams)"
-link: https://www.eventbrite.co.uk/e/our-progressive-pride-tickets-117291226215
+excerpt: Join the Bi+ Inclusion Team for a talk and group discussion about bi+ visibility and intersectionality to celebrate Bi+ Visibility Day.
+event-date: 2020-09-23 16:30:00
+location: "Online (Zoom)"
+link: https://www.eventbrite.co.uk/e/bisectionality-tickets-121350088381
 layout: event
-slug: /2020/09/22/our-progressive-pride
+slug: /2020/09/23/bisectionality
 published: true
 ---
-The Civil Service LGBT+ Network welcomes our members and allies to continue the ongoing discussion on the Progressive Pride flag and how this powerful, international symbol is confronting discrimination in LGBT+ spaces. 
+In these extraordinary times, more and more of us are noticing the multiplicity of oppressions that have existed for so long within our society. We are interested in how were are made up of many different stories, the ways in which diversity makes us stronger and how a multiplicity of allyship can create a better world.
 
-Originated by the Co-Chairs of the BEIS LGBT+ Network, Flora Strange and James Foster, David Seivwright and Civil Service LGBT+ Network Vice-Chair, Rikesh Nagamah, they will be providing an insightful history of the journey of the Pride flag. Speakers will also be addressing how the rainbow emblem has been adopted as a symbol of the NHS and what impact this has on our community. We encourage attendees to actively take part in the conversation, offer their views on the flags and share what it represents to them.
+This event is open to all members of the UK civil service who consider themselves to be a member of the widening bi+ community and to anyone who wants to learn more about being an ally. 
 
-> Please register through Eventbrite, using your GOV.UK email address. Joining instructions will be sent out prior to the event. 
+> Please register through Eventbrite, using your GOV.UK email address. Joining instructions will be sent out prior to the event. If you'd like to access the event through your personal email, please email Alan.Edwards@dhsc.gov.uk from your GOV.UK email address to have these joining details sent through to you separately.
