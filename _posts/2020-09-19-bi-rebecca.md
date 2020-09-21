@@ -18,6 +18,8 @@ Bi visibility day creates a safe space for bisexual people to talk about how the
 
 Being myself in public and among family and friends, gave me so much confidence, I had no idea just how much I was hiding myself from everyone I knew. Many friends have asked me why as a married woman, I felt the need to come out? The answer is very simple, I was walking around day to day, wearing a mask and not fully knowing who I was. 
 
-Bi visibility highlighted these issues and I learned of events that were for other people feeling the exact same way I was. I began talking to other bisexual people in groups and on forums and I finally felt like I understood who I was, which in turn gave me the confidence to come out to everyone. In general, most aspects of my life have not changed but my emotional/ mental well-being has improved greatly, I am a much happier person and I believe I have bi visibility to thank for that. 
+Bi visibility highlighted these issues and I learned of events that were for other people feeling the exact same way I was. I began talking to other bisexual people in groups and on forums and I finally felt like I understood who I was, which in turn gave me the confidence to come out to everyone. In general, most aspects of my life have not changed but my emotional/ mental well-being has improved greatly, I am a much happier person and I believe I have bi visibility to thank for that.
+
+Get in touch with the Home Office LGBT+ Network [SPECTRUM](mailto:spectrum@homeoffice.gov.uk).
 
 > Does your department network have a blog post to share on our website celebrating Bisexual Awareness Week or Day? [Email the Civil Service LGBT+ Network](mailto:info@civilservice.lgbt) with your contribution.
