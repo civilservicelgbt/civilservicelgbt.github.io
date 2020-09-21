@@ -3,7 +3,7 @@ layout: news
 author: Civil Service LGBT+ Network
 preview: false
 published: true
-title: "Bi Awareness Week blog series: Rebecca, Home Office"
+title: "#BiWeek Blogs: Rebecca, Home Office"
 permalink: 2020/09/19/bi-rebecca
 date: 2020-09-19
 category: bispace
