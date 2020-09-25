@@ -42,7 +42,7 @@ You may like to:
 ## Download
 
 - The impact of COVID-19 on LGBTI+ colleagues, management support & future working arrangements resource produced by the Civil Service LGBT+ Network and a:gender - 
-[Download this publication](/assets/documents/The impact of COVID-19 on LGBTI+ colleagues, management support & future working arrangements Final 200917.pdf)
+[Download this publication](/assets/documents/The_impact_of_COVID-19_on_LGBTI+_colleagues_management_support_future_working_arrangements_Final_202009.pdf)
 
 
 
