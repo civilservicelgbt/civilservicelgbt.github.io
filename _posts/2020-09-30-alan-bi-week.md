@@ -3,7 +3,7 @@ layout: news
 author: Civil Service LGBT+ Network
 preview: false
 published: true
-title: "#BiWeek Blogs – Alan, Serious Fraud Officey"
+title: "#BiWeek Blogs – Alan, Serious Fraud Office"
 permalink: 2020/09/30/bi-alan
 date: 2020-09-30
 category: bispace
