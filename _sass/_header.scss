@@ -210,11 +210,21 @@ div#site-banner {
   padding: 0px;
   margin: 0;
 
-  div#banner {
-    background: $magenta;
-
+  div#banner {   
     padding: 0 15px;
     margin: 0;
+    
+    &.magenta {
+      background: $magenta;
+    }
+    
+    &.cyan {
+      background: $cyan;
+    }
+    
+    &.black {
+      background: $black;
+    }
 
     &::after {
       content: "";
@@ -257,8 +267,11 @@ div#site-banner {
     }
 
     li {
-      display: block;
       padding: 0px;
+    
+    p {
+      display: block;
+      padding: inherit;
       font-size: $font-size-base - 2px;
       color: $white;
       font-weight: bold;
@@ -276,19 +289,16 @@ div#site-banner {
 
       a {
         color: $white;
-        font-weight: normal;
         text-decoration: underline;
-      }
       
-      &:hover a,
-      &:focus a  {
-        -webkit-color: $light-gray;
-        color: $light-gray;
-      }
-
-      &.active a {
-        color: $cyan;
+      
+      &:hover,
+      &:focus  {
+        -webkit-color: $dark-gray;
+        color: $dark-gray;
       }
     }
+    }
+  }
   }
 }

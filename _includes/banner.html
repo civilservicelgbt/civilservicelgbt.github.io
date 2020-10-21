@@ -1,9 +1,9 @@
 <div id="site-banner">
- <div id="banner">
+  {% for banner in site.data.global-banner %}
+ <div id="banner" class="{{ banner.background }}">
  <div class="container">
   <ul id="banner-items">
-    {% for banner in site.data.global-banner %}
-   <li>{{ banner.text }}: <a href="{{ banner.link }}" title="{{ banner.link-text }}">{{ banner.link-text }}</a></li>
+  <li>{{ banner.content | markdownify }}</li>
   {% endfor %}
   </ul>
  </div>

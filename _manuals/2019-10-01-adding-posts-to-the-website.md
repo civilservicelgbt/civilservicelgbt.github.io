@@ -179,6 +179,22 @@ Some post layouts require additional HTML mark up to be included in order to dis
 
 The templates in `_templates` already contain the necessary code. Include your post content in the appropriate place, and do not edit the wrap around code or the formatting of posts will break.
 
+## Updating the site-wide banner
+
+The site-wide banner can be used to promote events and featured news items across every page on the website.
+
+The banner can be edited from `_data/global_banner.yaml`. You must include:
+
+**show**: this either needs to be `true` (on) or `false` (off)
+
+**background**: the banner can have a `magenta`, `cyan` or `black` background
+
+**end-date**: this is the date when the banner will be automatically turned off in `YYYY-MM-DD` format
+
+**exclude**: add the slug of the page linked to in the banner, for example `/pride/`. This means the banner won't show on this page. This is only needed if the banner is linking to another page on `www.civilservice.lgbt`.
+
+**content**: this is the text in the banner. Use normal markdown. The banner content should be less than 119 characters, minus any markdown.
+
 ## Forcing the site to regenerate
 
 The website is a 'static' website, meaning that the content only updates when it is rebuilt because the content of a page has changed. In order to trigger a refresh you will need to 'push' a new or updated page to the website.
