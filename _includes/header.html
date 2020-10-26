@@ -27,8 +27,12 @@
 	</div>
 </nav>
 
+{% assign today-date = site.time | date: "%Y-%m-%d" %}
 {% for banner in site.data.global-banner %}
-{% if banner.show == true and page.url != banner.link %}
+{% assign end-date = banner.end-date | date: "%Y-%m-%d" %}
+{% if today-date < end-date %}
+{% if banner.show == true and page.url != banner.exclude %}
 {% include banner.html %}
+{% endif %}
 {% endif %}
 {% endfor %}
