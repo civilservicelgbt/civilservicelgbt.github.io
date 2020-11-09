@@ -5,7 +5,7 @@ event-date: 2020-11-20 13:00:00
 location: "Online - MS Teams"
 link: https://www.eventbrite.co.uk/e/transport-exploring-trans-experiences-of-transport-tickets-127368601917
 layout: event
-slug: /2020/11/20/trans-transport-experiences.md
+slug: /2020/11/20/trans-transport-experiences
 published: true
 ---
 
