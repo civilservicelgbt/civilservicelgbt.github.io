@@ -26,10 +26,10 @@ How can I use the information sheet?
 
 You may like to:
 
-send it to your team or directorate
-create space to discuss the information sheet at a team-meeting, away-day or in other relevant meetings
-use it as an opportunity to engage with your HR Diversity and Inclusion Team, LGBT+ staff network, or senior LGBT+ Champion on how to create an inclusive work environment
-print out some copies of the factsheet to leave in the communal areas of your workplace
+- send it to your team or directorate
+- create space to discuss the information sheet at a team-meeting, away-day or in other relevant meetings
+- use it as an opportunity to engage with your HR Diversity and Inclusion Team, LGBT+ staff network, or senior LGBT+ Champion on how to create an inclusive work environment
+- print out some copies of the factsheet to leave in the communal areas of your workplace
 
 
 ## Download
