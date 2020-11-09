@@ -1,6 +1,6 @@
 ---
-title: 'LGBT+ and Jewish Identities: A Discussion with KeshetUK'
-excerpt: 'As part of DfT's Interfaith Week, please join the Jewish and LGBT+ and Allies Networks as we talk with Dalia Fleming from KeshetUK.'
+title: "LGBT+ and Jewish Identities: A Discussion with KeshetUK"
+excerpt: "As part of DfT's Interfaith Week, please join the Jewish and LGBT+ and Allies Networks as we talk with Dalia Fleming from KeshetUK."
 event-date: 2020-11-11 14:00:00
 location: "Online - MS Teams"
 link: https://www.eventbrite.co.uk/e/lgbt-and-jewish-identities-a-discussion-with-keshetuk-registration-127200146061
