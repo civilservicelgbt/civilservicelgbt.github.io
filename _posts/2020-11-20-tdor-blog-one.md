@@ -4,7 +4,7 @@ author: Civil Service LGBT+ Network & a:gender
 preview: false
 published: true
 title: "TDoR 2020: I don’t want to dwell on individual losses this year: I want to write about myself"
-permalink: 2020/11/19/tdor-blog-1
+permalink: 2020/11/20/tdor-blog-1
 date: 2020-11-20
 excerpt: A blog post from a:gender, to mark TDoR.
 ---
