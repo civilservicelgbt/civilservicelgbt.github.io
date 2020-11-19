@@ -4,7 +4,7 @@ author: Civil Service LGBT+ Network & a:gender
 preview: false
 published: true
 title: "TDoR 2020: What Trans Day of Remembrance actually represents"
-permalink: 2020/11/19/tdor-blog-2
+permalink: 2020/11/20/tdor-blog-2
 date: 2020-11-20
 excerpt: A blog post from a:gender, to mark TDoR.
 ---
