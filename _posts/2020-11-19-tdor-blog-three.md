@@ -4,7 +4,7 @@ author: Civil Service LGBT+ Network & a:gender
 preview: false
 published: true
 title: "TDoR 2020: Before I changed my gender presentation, I would not give a second thought about when and where I went."
-permalink: 2020/11/19/tdor-blog-3
+permalink: 2020/11/20/tdor-blog-3
 date: 2020-11-20
 excerpt: A blog post from a:gender, to mark TDoR.
 ---
