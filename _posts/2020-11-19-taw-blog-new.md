@@ -4,9 +4,9 @@ author: Civil Service LGBT+ Network & a:gender
 preview: false
 published: true
 title: "Trans Awareness Week 2020: Mum’s sewing machine"
-permalink: 2020/11/20/taw-blog-ea-gov
-date: 2020-11-20
-excerpt: A blog post from a:gender, to mark TDoR.
+permalink: 2020/11/19/taw-blog-ea-gov
+date: 2020-11-19
+excerpt: A blog post to mark Transgender Awareness Week.
 ---
 
 > This blog post originally appeared on [GOV.UK]( https://environmentagency.blog.gov.uk/2020/11/16/mums-sewing-machine/).
