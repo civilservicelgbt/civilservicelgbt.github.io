@@ -1,6 +1,6 @@
 ---
 layout: news
-author: Civil Service LGBT+ Network & a:gender
+author: Civil Service LGBT+ Network
 preview: false
 published: true
 title: "Trans Awareness Week 2020: Mum’s sewing machine"
