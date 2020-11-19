@@ -3,11 +3,13 @@ layout: news
 author: Civil Service LGBT+ Network & a:gender
 preview: false
 published: true
-title: "TDoR 2020: A blog post for Trans Day of Remembrance"
+title: "TDoR 2020: I don’t want to dwell on individual losses this year: I want to write about myself"
 permalink: 2020/11/19/tdor-blog-1
 date: 2020-11-20
-excerpt: An anonymous contribution from a:gender.
+excerpt: A blog post from a:gender, to mark TDoR.
 ---
+
+#### This blog post has been written by a member of a:gender. 
 
 November 20th brings us this sombre event once more, on which we take a moment to remember those trans people who have lost their lives in the past year. I have written a number of pieces for Spectrum (Spectrum is the Home Office LGBT+ Network) on this subject, and unsurprisingly they have concentrated on the victims of violence and hatred who have died unnecessarily over the years, simply for the ‘crime’ of being a transgender person. From its origins as an event initiated after the brutal murder of Rita Hester, stabbed more than thirty times, through deaths of women like Dee Whigham, 25, stabbed more than a hundred times, mostly in the face, or the suicide of Leelah Alcorn at 17, to reports that the life expectancy of a trans woman of colour in the USA is no more than 35 years, it remains a brutal and painful subject.
 
