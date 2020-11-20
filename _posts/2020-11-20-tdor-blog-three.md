@@ -9,7 +9,7 @@ date: 2020-11-20
 excerpt: A blog post from a:gender, to mark TDoR.
 ---
 
-#### This blog post has been written by Patricia Hughes, a member of a:gender and shOUT (The MoD LGBT+ Network). It was originally published in 2019. 
+#### This blog post has been written by Patricia, a member of a:gender. It was originally published in 2019. 
 
 November 20th Is Transgender Day of Remembrance, a day where people across the world remember trans men and trans women killed. It is a day to reflect and think about victims of hate crime. Often in horrific circumstances. Think about Naomi Hersi, found stabbed to death in a hotel room in West London. Or Islan Nettles, beaten to death in the street. Maybe the case of Chucha Reyes, whose decapitated head was placed in a refrigerator left dumped in front of the City Hall. Or the body of Maya Akbar, which was found, riddled with bullets on a river bank. As a proud trans woman, I would ask for your support for me and my community, however, if you are reading these words, chances are that you probably already support trans rights. I will ask you to spare a few moments of your time to think and reflect on the lives of fellow human beings murdered. People executed for whom they are. Sons, daughters, lovers, strangers, all human, none of whom deserved the death that they met.
 
