@@ -173,3 +173,36 @@ main#admin {
     }
   }
 }
+
+.pagination .pagination_list-items {
+
+  li {
+    display: inline-block;
+    }
+}
+
+.padding {
+  padding-left: 15px;
+}
+
+.pagination {
+  padding: 0;
+}
+.pagination__item {
+  display: inline-block;
+  list-style: none;
+  border-bottom: 0px !important;
+}
+.pagination__link {
+  display: block;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+.pagination__summary {
+  padding: 8px 0  ;
+
+  @media (min-width: 642px) {
+    float: right;
+  }
+}
