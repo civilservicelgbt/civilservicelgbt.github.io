@@ -17,7 +17,7 @@ layout: default
 		{% if page.collection == "news" %}
 		
 			<ul>
-			{% for post in paginator.posts %}
+			{% for post in site.posts %}
 				{% if post.preview != true %}
 				<li>
 					<article>
@@ -29,24 +29,6 @@ layout: default
 				{% endif %}
 			{% endfor %}
 			</ul>
-			
-			<!-- Pagination links -->
-			
-			<nav role="navigation" aria-label="Pagination">
-	  <div class="pagination__summary">Page {{ paginator.page }} of {{ paginator.total_pages }}</div>
-	  <ul class="pagination">
-			{% if paginator.previous_page %}
-	    <li class="pagination__item"><a class="pagination__link" href="{{ paginator.previous_page_path }}" aria-label="Previous page"><span aria-hidden="true" role="presentation">&laquo;</span> Previous</a></li>
-			{% else %}
-			<li class="pagination__item" aria-label="Previous page"><span aria-hidden="true" role="presentation">&laquo;</span> Previous</li>
-			{% endif %}
-		  {% if paginator.next_page %}
-	    <li class="pagination__item"><a class="pagination__link" href="{{ paginator.next_page_path }}" aria-label="Next page">Next <span aria-hidden="true" role="presentation">&raquo;</span></a></li>
-			{% else %}
-			<li class="pagination__item" aria-label="Next page">Next <span aria-hidden="true" role="presentation">&raquo;</span></li>
-  {% endif %}
-	  </ul>
-	</nav>
 			
 		{% elsif page.collection == "notices" %}
 		
