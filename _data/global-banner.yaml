@@ -1,6 +1,6 @@
 - show: true #This turns the banner on and off. For example: 'true' is on, 'false' is off
   background: cyan #Options are magenta, cyan or black
-  end-date: "2020-12-05" #date in YEAR-MONTH-DAY, example 2020-10-21
+  end-date: "2021-01-31" #date in YEAR-MONTH-DAY, example 2020-10-21
   exclude:  #If linking to a page on the website, add the URL here. For example: /pride/
   
   #Use normal markdown - the text should be no more than 119 characters.
