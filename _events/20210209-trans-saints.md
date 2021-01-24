@@ -1,6 +1,6 @@
 ---
 title: "Knightly love and medieval trans saints"
-excerpt: "LGBT+ History Month: Join Blake Gutt and Erik Wade as they discuss late medieval queer history, chaired by Jonah Coman."
+excerpt: "LGBT+ History Month: Join us for a discussion on late medieval queer history, chaired by Jonah Coman."
 event-date: 2021-02-09 15:00:00
 location: "Online (Google Meet)"
 link: "https://www.eventbrite.co.uk/e/knightly-love-and-medieval-trans-saints-tickets-138153678371"
@@ -9,7 +9,7 @@ slug: /2021/02/09/Knightly_love_and_medieval_trans_saints
 published: true
 ---
 
-Join Blake Gutt and Erik Wade as they discuss late medieval queer history, chaired by Jonah Coman.
+Join us for a discussion on late medieval queer history, chaired by Jonah Coman.
 
 Speakers will be focusing on Western European medieval history. They will be exploring 	topics like queerness during the crusades, inter-faith queer relationships across the European continent, queer and trans sanctity and mysticism, and bawdy stories.
 
