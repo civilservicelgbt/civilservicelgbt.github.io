@@ -1,6 +1,6 @@
 ---
 title: "The witch, the molly and Shakespeare"
-excerpt: "LGBT+ History Month: Join Kit Heyam and Dominic Janes as they explore early modern concepts of queerness, chaired by Jonah Coman."
+excerpt: "LGBT+ History Month: Join us to explore early modern concepts of queerness, chaired by Jonah Coman."
 event-date: 2021-02-11 12:00:00
 location: "Online (Google Meet)"
 link: "https://www.eventbrite.co.uk/e/the-witch-the-molly-and-shakespeare-tickets-138154392507"
@@ -9,7 +9,7 @@ slug: /2021/02/11/The_witch_the_molly_and_Shakespeare
 published: true
 ---
 
-Join Kit Heyam and Dominic Janes as they explore early modern concepts of queerness, chaired by Jonah Coman.
+Join us to explore early modern concepts of queerness, chaired by Jonah Coman.
 
 Speakers will be discussing witch trials and the connection of witchcraft and queerness, accusations of sodomy as political tools, the start of organised gay male communities, and gender-crossing in theatre after the 1500s.
 
