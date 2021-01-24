@@ -1,6 +1,6 @@
 ---
 title: "Empire and the birth of sexualities"
-excerpt: "LGBT+ History Month: Join Julia Ftacek and Onni Gust as they discuss ‘the long 18C’ and its significance for queer history, chaired by Jonah Coman."
+excerpt: "LGBT+ History Month: Join us for a discussion on ‘the long 18C’ and its significance for queer history, chaired by Jonah Coman."
 event-date: 2021-02-16 15:00:00
 location: "Online (Google Meet)"
 link: "https://www.eventbrite.co.uk/e/empire-and-the-birth-of-sexualities-tickets-138155082571"
@@ -9,7 +9,7 @@ slug: /2021/02/16/Empire_and_the_birth_of_sexualities
 published: true
 ---
 
-Join Julia Ftacek and Onni Gust as they discuss ‘the long 18C’ and its significance for queer history, chaired by Jonah Coman.
+Join us for a discusion on ‘the long 18C’ and its significance for queer history, chaired by Jonah Coman.
 
 Speakers will explore the surveying global influence of the British Empire. This session will cover queerness in organised professions (naval, trade, military) in the 18 and 19 centuries, native queer genders and sexualities in the Empire’s colonies, as well as the beginnings of medicalisation of queerness.
 
