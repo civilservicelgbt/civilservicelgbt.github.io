@@ -1,6 +1,6 @@
 ---
 title: "Section 28 and its legacy"
-excerpt: "LGBT+ History Month: Join Rhiannon Spears and another speaker (TBC soon) as they talk about making modern queer history, chaired by Jonah Coman."
+excerpt: "LGBT+ History Month: Join us for a discussion on making modern queer history, chaired by Jonah Coman."
 event-date: 2021-02-25 00:00:00
 location: "Online (Google Meet)"
 link: "https://www.eventbrite.co.uk/e/section-28-and-its-legacy-tickets-138155888983"
@@ -9,7 +9,7 @@ slug: /2021/02/25/Section_28_and_its_legacy
 published: true
 ---
 
-Join Rhiannon Spears and another speaker (TBC soon) as they talk about making modern queer history, chaired by Jonah Coman.
+Join us for a discussion on making modern queer history, chaired by Jonah Coman.
 
 Speakers will discuss the birth of section 28, its effects for UK culture, law and education, as well as where we are now and how we can use our own voices to educate.
 
