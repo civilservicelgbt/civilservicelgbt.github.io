@@ -1,7 +1,7 @@
 ---
 title: "Section 28 and its legacy"
 excerpt: "LGBT+ History Month: Join us for a discussion on making modern queer history, chaired by Jonah Coman."
-event-date: 2021-02-25 00:00:00
+event-date: 2021-02-25 16:00:00
 location: "Online (Google Meet)"
 link: "https://www.eventbrite.co.uk/e/section-28-and-its-legacy-tickets-138155888983"
 layout: event
