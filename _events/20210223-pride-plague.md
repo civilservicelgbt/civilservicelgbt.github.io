@@ -1,7 +1,7 @@
 ---
 title: "Protests, prides and plague"
 excerpt: "LGBT+ History Month: Join us as we discuss civil movements from the 60s to 80s, chaired by Jonah Coman."
-event-date: 2021-02-23 00:00:00
+event-date: 2021-02-23 12:00:00
 location: "Online (Google Meet)"
 link: "https://www.eventbrite.co.uk/e/protests-prides-and-plague-tickets-138155820779"
 layout: event
