@@ -3,7 +3,7 @@ title: "Understanding Crossing Thresholds - Civil Service Race Forum"
 excerpt: "The Civil Service Race Forum, has invited Thresholds to present a session to raise awareness of their courses they organise to support women"
 event-date: 2021-02-16 13:00:00
 location: "Online"
-register: "https://www.eventbrite.co.uk/e/understanding-crossing-thresholds-tickets-135959599823"
+link: "https://www.eventbrite.co.uk/e/understanding-crossing-thresholds-tickets-135959599823"
 layout: event
 slug: /2021/02/16/crossing-thresholds
 published: true
