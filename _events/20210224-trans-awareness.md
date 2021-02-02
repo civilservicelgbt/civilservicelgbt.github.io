@@ -3,7 +3,7 @@ title: "a:gender - Trans and Intersex Awareness Workshop"
 excerpt: "To celebrate LGBTQ+ Month, join Civil Service Race Forum & a:gender Network to host a Trans & Intersex Awareness workshop"
 event-date: 2021-02-24 10:00:00
 location: "Online"
-register: "https://www.eventbrite.co.uk/e/agender-cross-government-network-trans-and-intersex-awareness-workshop-tickets-137293230749"
+link: "https://www.eventbrite.co.uk/e/agender-cross-government-network-trans-and-intersex-awareness-workshop-tickets-137293230749"
 layout: event
 slug: /2021/02/24/agedner-trans-awareness-history-month-event
 published: true
