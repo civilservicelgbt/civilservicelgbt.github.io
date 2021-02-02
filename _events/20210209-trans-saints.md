@@ -2,7 +2,7 @@
 title: "Knightly love and medieval trans saints"
 excerpt: "LGBT+ History Month: Join us for a discussion on late medieval queer history, chaired by Jonah Coman."
 event-date: 2021-02-09 15:00:00
-location: "Online (Google Meet)"
+location: "Online (MS Teams)"
 link: "https://www.eventbrite.co.uk/e/knightly-love-and-medieval-trans-saints-tickets-138153678371"
 layout: event
 slug: /2021/02/09/Knightly_love_and_medieval_trans_saints
@@ -14,6 +14,12 @@ Join us for a discussion on late medieval queer history, chaired by Jonah Coman.
 Speakers will be focusing on Western European medieval history. They will be exploring 	topics like queerness during the crusades, inter-faith queer relationships across the European continent, queer and trans sanctity and mysticism, and bawdy stories.
 
 Joining instructions will be sent via a scheduler no later than 2 hours before the event. Please ensure you manually block out the time in your calendar in advance. 
+
+#### This session is for Civil Servants only.
+
+A friendly reminder to please only register for this event using your work email. In most instances this should end in GOV.UK. We are aware that some areas of the Civil Service do not use GOV.UK emails, if this is the case, please continue to register through Eventbrite using your work email and drop us an email at info@civilserivce.lgbt to let us know. 
+
+If you use a personal email and we can not verify you are a civil servant, you will not be sent joining instructions to the event. If your work device does not support the systems we are using, we suggest forwarding the details to your personal device or using the dial in options.
 
 ### Civil Service LGBT+ Network’s Statement of Impartiality
 
