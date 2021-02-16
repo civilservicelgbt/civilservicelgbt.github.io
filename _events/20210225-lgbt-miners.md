@@ -1,6 +1,6 @@
 ---
-title: "LGBT+ History Month: A discussion with Ben Hunte"
-excerpt: "DfT LGBT+ Netowrk: Solidarity in Action From The Miners' Strike to Today"
+title: "LGBT+ History Month: Solidarity in Action From The Miners' Strike to Today"
+excerpt: "LGBT+ History Month at CCS: From mining unions to civil unions - Mike Jackson and Dai Donovan discuss Lesbians and Gays Support the Miners."
 event-date: 2021-02-25 12:30:00
 location: "Online"
 link: "https://www.eventbrite.co.uk/e/lgbt-history-month-solidarity-in-action-from-the-miners-strike-to-today-tickets-138309331935"
