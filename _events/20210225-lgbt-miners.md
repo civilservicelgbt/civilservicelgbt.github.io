@@ -13,7 +13,7 @@ published: true
 
 As part of LGBT+ History Month at the Crown Commercial Service, guest speakers Dai Donovan and Mike Jackson discuss Lesbians and Gays Support The Miners and how activism during the 80s miners' strike still reverberates nearly forty years later.
 
-Guest speakers, Dai Donovan and Mike Jackson, were portrayed in the hit 2014 movie Pride by actors Paddy Considine and Joseph Gilgun.
+Guest speakers, Dai Donovan and Mike Jackson, were portrayed in the hit 2014 movie *Pride* by actors Paddy Considine and Joseph Gilgun.
 
 This event is open to civil servants and contractors only: to receive joining instructions, please sign up with your gov.uk or business email address.
 
