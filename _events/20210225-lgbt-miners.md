@@ -15,13 +15,13 @@ As part of LGBT+ History Month at the Crown Commercial Service, guest speakers D
 
 Guest speakers, Dai Donovan and Mike Jackson, were portrayed in the hit 2014 movie *Pride* by actors Paddy Considine and Joseph Gilgun.
 
-This event is open to civil servants and contractors only: to receive joining instructions, please sign up with your gov.uk or business email address.
+This event is open to civil servants and contractors only: to receive joining instructions, please sign up with your GOV.UK or business email address.
 
 If you have signed up for a ticket and find you are unable to attend, please release your tickets so that we can get a true picture of our attendee numbers and ensure everyone interested in attending is able to get a ticket. If you are not sure how to do this, please email the organiser at [Bethan.Cable@crowncommercial.gov.uk](email:Bethan.Cable@crowncommercial.gov.uk).
 
 ### How do I join in?
 
-This event is open to civil servants and contractors only: to receive joining instructions, please sign up with your GOV.UK or business email address.
+This event is open to civil servants and contractors only: to receive joining instructions, please [sign up on Eventbrite](https://www.eventbrite.co.uk/e/lgbt-history-month-solidarity-in-action-from-the-miners-strike-to-today-tickets-138309331935) with your GOV.UK or business email address.
 
 If you have signed up for a ticket and find you are unable to attend, please release your tickets so that we can get a true picture of our attendee numbers and ensure everyone interested in attending is able to get a ticket. If you are not sure how to do this, please email the organiser at [Bethan.Cable@crowncommercial.gov.uk](email:Bethan.Cable@crowncommercial.gov.uk).
 
