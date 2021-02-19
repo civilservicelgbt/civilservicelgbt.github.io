@@ -4,6 +4,7 @@ excerpt: "Exploring the origins of gender norms and their effects on the LGBTIA+
 event-date: 2021-02-26 11:30:00
 location: "Online (MS Teams)"
 link: "https://www.eventbrite.co.uk/e/sexuality-mythbusting-tickets-142102673923"
+layout: event
 slug: /2021/02/26/sexuality-mythbusting
 published: true
 ---
