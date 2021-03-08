@@ -16,7 +16,7 @@ redirect_from:
 
 *The PrideON podcast* is a podcast series from the Civil Service LGBT+ Network.  
 
-This week the Civil Service LGBT+ Network will be speaking with lesbian, gay and bisexual women from across the Civil Service for International Women's Day (8 March 2021). Each episode we will be discussing a number of topics including career success and aspirations as well as gender inequality and stereotypes at work. We will also discuss the importance of Women and LGBT+ Networks along with increasing visibility and allyship in the workplace.
+This week the Civil Service LGBT+ Network will be speaking with LGBT+ women from across the Civil Service for International Women's Day (8 March 2021). Each episode we will be discussing a number of topics including career success and aspirations as well as gender inequality and stereotypes at work. We will also discuss the importance of Women and LGBT+ Networks along with increasing visibility and allyship in the workplace.
 
 **Episode 8 of the podcast is now available**. You can download it from wherever you get podcasts.
 
