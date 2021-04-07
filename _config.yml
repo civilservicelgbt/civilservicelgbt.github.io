@@ -186,15 +186,22 @@ collections:
 url: "https://www.civilservice.lgbt" # e.g. http://example.com
 baseurl: "" # e.g. /blog
 
+##################
+# Build settings #
+##################
+remote_theme: civilservicelgbt/cslgbt-theme
+permalink: pretty
 markdown: kramdown
+future: false
+highlighter: rouge
+sass:
+  sass_dir: _sass
 
 plugins:
-  - jekyll-sitemap
-  - jekyll-redirect-from
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-redirect-from
 
-future: false
-
-remote_theme: civilservicelgbt/cslgbt-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
