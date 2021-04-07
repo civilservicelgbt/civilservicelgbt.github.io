@@ -1,8 +1,9 @@
 _site/
 .sass-cache/
+.jekyll-cache/
 .jekyll-metadata
+*DS_Store
 rebuild.sh
-*.DS_Store
 
 # Temporary folders
 tmp/
