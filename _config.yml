@@ -189,7 +189,6 @@ baseurl: "" # e.g. /blog
 ##################
 # Build settings #
 ##################
-remote_theme: civilservicelgbt/cslgbt-theme
 permalink: pretty
 markdown: kramdown
 future: false
@@ -198,10 +197,12 @@ sass:
   sass_dir: _sass
 
 plugins:
+- jekyll-remote-theme
 - jekyll-sitemap
 - jekyll-feed
 - jekyll-redirect-from
 
+remote_theme: civilservicelgbt/cslgbt-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
