@@ -3,6 +3,6 @@ title: "Archive"
 excerpt: "Read news and blog posts from our old website."
 
 layout: loop
-collection: archives
+loop: archives
 permalink: /archives
 ---

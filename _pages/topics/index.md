@@ -3,6 +3,6 @@ title: "Topics"
 excerpt: "Explore our topics."
 
 layout: loop
-collection: topics
+loop: topics
 permalink: /topics
 ---

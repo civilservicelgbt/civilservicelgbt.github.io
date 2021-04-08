@@ -3,6 +3,6 @@ title: "News"
 excerpt: "Read our latest news and blog posts."
 
 layout: loop
-collection: news
+loop: news
 permalink: /news
 ---
