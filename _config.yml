@@ -240,7 +240,7 @@ collections:
 ##################
 # Build settings #
 ##################
-# remote_theme: civilservicelgbt/cslgbt-theme
+remote_theme: civilservicelgbt/cslgbt-theme@2021-rebuild
 permalink: pretty
 markdown: kramdown
 future: false
