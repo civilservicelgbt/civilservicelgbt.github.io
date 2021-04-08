@@ -5,7 +5,7 @@ event-date: 2019-10-03 18:00:00
 location: Retro Bar, 2 George Ct, Charing Cross, London WC2N 6HH
 email: mary.peart@civilservice.lgbt
 layout: event
-slug: /2019/09/05/bispace-social
+slug: /2019/10/03/bispace-social
 published: true
 ---
 
