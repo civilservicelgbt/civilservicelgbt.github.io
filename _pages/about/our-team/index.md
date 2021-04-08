@@ -2,7 +2,7 @@
 layout: page
 title: Our team
 excerpt: 'We are a volunteer-led network, made up of members from across the UK. These volunteers give up their spare time to support LGBT+ civil servants.'
-permalink: /about/our-team
+permalink: /about/our-team/
 published: true
 ---
 

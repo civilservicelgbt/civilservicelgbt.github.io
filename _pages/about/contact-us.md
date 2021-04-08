@@ -3,7 +3,7 @@ layout: page
 title: Contact us
 excerpt: "Our contact details, in case you want to get in touch."
 
-permalink: /about/contact-us
+permalink: /about/contact-us/
 ---
 
 You can contact us via:

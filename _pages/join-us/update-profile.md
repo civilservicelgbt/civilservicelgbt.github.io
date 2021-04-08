@@ -3,7 +3,7 @@ layout: update-profile
 title: Update your profile
 excerpt: "Use this form to update your contact details and contact preferences."
 category: join
-permalink: /update-profile
+permalink: /update-profile/
 ---
 
 Enter your current name and email address in the form below. 

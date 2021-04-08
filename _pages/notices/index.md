@@ -4,5 +4,5 @@ excerpt: "Notices regarding issues we identify with the management or processing
 
 layout: loop
 loop: notices
-permalink: /notices
+permalink: /notices/
 ---

@@ -3,7 +3,7 @@ layout: page
 title: Our mission statement and objectives
 excerpt: "Our mission statement details our priorities and focus as a network."
 
-permalink: /about/mission-statement
+permalink: /about/mission-statement/
 ---
 
 The **Civil Service LGBT+ Network** exists to ensure that each and every one of you can come to work each day feeling safe about being yourself. We do not want anyone to experience, or be in fear of experiencing, discrimination because they have a minority sexual orientation or gender identity. We believe that you will be more effective if you can be yourself at work.

@@ -4,5 +4,5 @@ excerpt: "Sign up to our regular social, networking, and learning and developmen
 
 layout: loop
 loop: events
-permalink: /events
+permalink: /events/
 ---
