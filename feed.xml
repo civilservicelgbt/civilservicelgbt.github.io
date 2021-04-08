@@ -4,8 +4,8 @@
 	<generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
 	<link href="https://www.civilservice.lgbt/feed.xml" rel="self" type="application/atom+xml" />
 	<link href="https://www.civilservice.lgbt/" rel="alternate" type="text/html" />
-	<pubDate>Thu, 08 Apr 2021 08:22:38 +0000</pubDate>
-	<updated>2021-04-08T20:22:38+00:00</updated>
+	<pubDate>Thu, 08 Apr 2021 08:29:52 +0000</pubDate>
+	<updated>2021-04-08T20:29:52+00:00</updated>
 	<id>https://www.civilservice.lgbt/</id>
 
 	
@@ -13186,11 +13186,11 @@ If we do it again - I don’t think it needs to change much, being able to provi
 		
 		<entry>
 			<title type="html">Your privacy and data</title>
-			<link href="https://www.civilservice.lgbt/about/your-data" rel="alternate" type="text/html" title="Your privacy and data" />
+			<link href="https://www.civilservice.lgbt/about/your-data/" rel="alternate" type="text/html" title="Your privacy and data" />
 			<published>2018-03-17T00:00:00+00:00</published>
 			<updated>2018-03-17T00:00:00+00:00</updated>
 			<id>https://www.civilservice.lgbt/about/your-data</id>
-			<content type="html" xml:base="https://www.civilservice.lgbt/about/your-data">&lt;!-- Include the following to generate a Table of Contents --&gt;
+			<content type="html" xml:base="https://www.civilservice.lgbt/about/your-data/">&lt;!-- Include the following to generate a Table of Contents --&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#what-information-do-we-collect-about-you&quot; id=&quot;markdown-toc-what-information-do-we-collect-about-you&quot;&gt;What information do we collect about you?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#how-will-we-use-the-information-about-you&quot; id=&quot;markdown-toc-how-will-we-use-the-information-about-you&quot;&gt;How will we use the information about you?&lt;/a&gt;&lt;/li&gt;
