@@ -6,6 +6,7 @@ category: podcast
 redirect_from: 
 - /prideon-podcast/
 - /pride-on-podcast/
+- /podcast/
 
 image: /assets/images/pages/prideon-podcast.png
 

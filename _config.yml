@@ -223,13 +223,13 @@ collections:
         layout: event
   notices:
     output: true
-    permalink: /notices/:title/
+    permalink: /notice/:title/
     defaults:
       values:
         layout: news
   topics:
     output: true
-    permalink: /:title/
+    permalink: /topic/:title/
         
 ##################
 # Build settings #

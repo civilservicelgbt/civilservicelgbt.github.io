@@ -3,9 +3,11 @@ title: "Civil Service PrideON"
 excerpt: "Everything you need to know about #PrideON, a programme of digital events, content and resources from the Civil Service LGBT+ Network."
 layout: topic
 category: pride-2020
-redirect_from: 
+redirect_from:
+- /pride/
 - /prideon/
 - /pride-on/
+- /pride-2019/
 - /pride-2020/
 
 image: /assets/images/pages/pride-on.png
