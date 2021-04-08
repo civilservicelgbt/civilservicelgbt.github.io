@@ -2,18 +2,18 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
 	<generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
-	<link href="https://www.civilservice.lgbt/feeds/regions/north-west.xml" rel="self" type="application/atom+xml" />
-	<link href="https://www.civilservice.lgbt/" rel="alternate" type="text/html" />
-	<pubDate>Thu, 08 Apr 2021 01:56:34 +0000</pubDate>
-	<updated>2021-04-08T13:56:34+00:00</updated>
-	<id>https://www.civilservice.lgbt/</id>
+	<link href="www.civilservice.lgbt/feeds/regions/north-west.xml" rel="self" type="application/atom+xml" />
+	<link href="www.civilservice.lgbt/" rel="alternate" type="text/html" />
+	<pubDate>Thu, 08 Apr 2021 08:18:52 +0000</pubDate>
+	<updated>2021-04-08T20:18:52+00:00</updated>
+	<id>www.civilservice.lgbt/</id>
 
 	
 		<title type="html">Civil Service LGBT+ Network</title>
 	
 
 	
-		<subtitle>The Civil Service LGBT+ network represents the interests of the 20,000 people working in the UK Civil Service with minority sexual orientations and gender identities.</subtitle>
+		<subtitle>The Civil Service LGBT+ Network helps to create a more diverse, inclusive and equal place to work for lesbian, gay, bisexual and trans civil servants.</subtitle>
 	
 
 	
@@ -153,11 +153,11 @@
 	
 	<entry>
 		<title type="html">Civil Service LGBT+ social, Manchester</title>
-		<link href="https://www.civilservice.lgbt/event/2020-03-10-manchester-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, Manchester" />
-		<published>2021-04-08T13:56:34+00:00</published>
-		<updated>2021-04-08T13:56:34+00:00</updated>
-		<id>https://www.civilservice.lgbt/event/2020/03/10-manchester-social</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/event/2020-03-10-manchester-social/">&lt;p&gt;Join us for our monthly a networking event in Manchester.&lt;/p&gt;
+		<link href="www.civilservice.lgbt/event/2020-03-10-manchester-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, Manchester" />
+		<published>2021-04-08T20:18:52+00:00</published>
+		<updated>2021-04-08T20:18:52+00:00</updated>
+		<id>www.civilservice.lgbt/event/2020/03/10-manchester-social</id>
+		<content type="html" xml:base="www.civilservice.lgbt/event/2020-03-10-manchester-social/">&lt;p&gt;Join us for our monthly a networking event in Manchester.&lt;/p&gt;
 
 &lt;p&gt;From 6-7pm, we will get 10% discount at the venue. From there we will go on to an activity or the village.&lt;/p&gt;
 
@@ -209,11 +209,11 @@
 	
 	<entry>
 		<title type="html">Civil Service LGBT+ social, Liverpool</title>
-		<link href="https://www.civilservice.lgbt/event/2020-02-27-liverpool-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, Liverpool" />
-		<published>2021-04-08T13:56:34+00:00</published>
-		<updated>2021-04-08T13:56:34+00:00</updated>
-		<id>https://www.civilservice.lgbt/event/2020/02/27/liverpool-social</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/event/2020-02-27-liverpool-social/">&lt;p&gt;Join us for our monthly a networking event in Liverpool.&lt;/p&gt;
+		<link href="www.civilservice.lgbt/event/2020-02-27-liverpool-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, Liverpool" />
+		<published>2021-04-08T20:18:52+00:00</published>
+		<updated>2021-04-08T20:18:52+00:00</updated>
+		<id>www.civilservice.lgbt/event/2020/02/27/liverpool-social</id>
+		<content type="html" xml:base="www.civilservice.lgbt/event/2020-02-27-liverpool-social/">&lt;p&gt;Join us for our monthly a networking event in Liverpool.&lt;/p&gt;
 
 &lt;p&gt;This event is your chance to meet other LGBT+ civil servants from across government. Anyone can attend, so long as you work for a Civil Service organisation. It’s usually free to attend.&lt;/p&gt;
 
@@ -275,11 +275,11 @@
 	
 	<entry>
 		<title type="html">Civil Service LGBT+ social, Manchester</title>
-		<link href="https://www.civilservice.lgbt/event/2019-12-10-manchester-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, Manchester" />
-		<published>2021-04-08T13:56:34+00:00</published>
-		<updated>2021-04-08T13:56:34+00:00</updated>
-		<id>https://www.civilservice.lgbt/event/2019/12/10/manchester-social</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/event/2019-12-10-manchester-social/">&lt;p&gt;Join us for our monthly a networking event in Manchester.&lt;/p&gt;
+		<link href="www.civilservice.lgbt/event/2019-12-10-manchester-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, Manchester" />
+		<published>2021-04-08T20:18:52+00:00</published>
+		<updated>2021-04-08T20:18:52+00:00</updated>
+		<id>www.civilservice.lgbt/event/2019/12/10/manchester-social</id>
+		<content type="html" xml:base="www.civilservice.lgbt/event/2019-12-10-manchester-social/">&lt;p&gt;Join us for our monthly a networking event in Manchester.&lt;/p&gt;
 
 &lt;p&gt;This event is your chance to meet other LGBT+ civil servants from across government. Anyone can attend, so long as you work for a Civil Service organisation. It’s usually free to attend.&lt;/p&gt;
 
@@ -329,71 +329,11 @@
 	
 	<entry>
 		<title type="html">Civil Service LGBT+ social, Manchester</title>
-		<link href="https://www.civilservice.lgbt/event/2019-11-12-manchester-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, Manchester" />
-		<published>2021-04-08T13:56:34+00:00</published>
-		<updated>2021-04-08T13:56:34+00:00</updated>
-		<id>https://www.civilservice.lgbt/event/2019/11/12/manchester-social</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/event/2019-11-12-manchester-social/">&lt;p&gt;Join us for our monthly a networking event in Manchester.&lt;/p&gt;
-
-&lt;p&gt;This event is your chance to meet other LGBT+ civil servants from across government. Anyone can attend, so long as you work for a Civil Service organisation. It’s usually free to attend.&lt;/p&gt;
-
-&lt;p&gt;Our Manchester socials are on the second Tuesday of each month.&lt;/p&gt;
-
-&lt;p&gt;Please contact &lt;a href=&quot;mailto:MATTHEW.WALKER1@DWP.GSI.GOV.UK&quot;&gt;Matthew Walker&lt;/a&gt;  if you need more information.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Not based in Manchester?&lt;/strong&gt; Don’t worry, we also hold events in other parts of the UK too. You can find all our events on our website.&lt;/p&gt;
-
-  &lt;p&gt;If we don’t have an event coming up in your area, why not run one yourself! &lt;a href=&quot;/about/contact-us/&quot;&gt;Contact us&lt;/a&gt; and we can help you promote it.&lt;/p&gt;
-&lt;/blockquote&gt;</content>
-	
-			
-			
-			
-			
-			
-	
-			<author>
-				<name>Civil Service LGBT+ Network</name>
-				
-				
-			</author>
-	
-			<category term="event" />
-	
-			
-			
-			
-			
-			
-			<summary type="html">Our monthly social and networking event in Manchester.</summary>
-			
-	
-			
-			
-	</entry>
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-	<entry>
-		<title type="html">Civil Service LGBT+ social, Manchester</title>
-		<link href="https://www.civilservice.lgbt/event/2019-10-08-manchester-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, Manchester" />
-		<published>2021-04-08T13:56:34+00:00</published>
-		<updated>2021-04-08T13:56:34+00:00</updated>
-		<id>https://www.civilservice.lgbt/event/2019/10/08/manchester-social</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/event/2019-10-08-manchester-social/">&lt;p&gt;Join us for our monthly a networking event in Manchester.&lt;/p&gt;
+		<link href="www.civilservice.lgbt/event/2019-11-12-manchester-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, Manchester" />
+		<published>2021-04-08T20:18:52+00:00</published>
+		<updated>2021-04-08T20:18:52+00:00</updated>
+		<id>www.civilservice.lgbt/event/2019/11/12/manchester-social</id>
+		<content type="html" xml:base="www.civilservice.lgbt/event/2019-11-12-manchester-social/">&lt;p&gt;Join us for our monthly a networking event in Manchester.&lt;/p&gt;
 
 &lt;p&gt;This event is your chance to meet other LGBT+ civil servants from across government. Anyone can attend, so long as you work for a Civil Service organisation. It’s usually free to attend.&lt;/p&gt;
 
@@ -449,11 +389,71 @@
 	
 	<entry>
 		<title type="html">Civil Service LGBT+ social, Manchester</title>
-		<link href="https://www.civilservice.lgbt/event/2019-09-10-manchester-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, Manchester" />
-		<published>2021-04-08T13:56:34+00:00</published>
-		<updated>2021-04-08T13:56:34+00:00</updated>
-		<id>https://www.civilservice.lgbt/event/2019/09/10/manchester-social</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/event/2019-09-10-manchester-social/">&lt;p&gt;Join us for our monthly a networking event in Manchester.&lt;/p&gt;
+		<link href="www.civilservice.lgbt/event/2019-10-08-manchester-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, Manchester" />
+		<published>2021-04-08T20:18:52+00:00</published>
+		<updated>2021-04-08T20:18:52+00:00</updated>
+		<id>www.civilservice.lgbt/event/2019/10/08/manchester-social</id>
+		<content type="html" xml:base="www.civilservice.lgbt/event/2019-10-08-manchester-social/">&lt;p&gt;Join us for our monthly a networking event in Manchester.&lt;/p&gt;
+
+&lt;p&gt;This event is your chance to meet other LGBT+ civil servants from across government. Anyone can attend, so long as you work for a Civil Service organisation. It’s usually free to attend.&lt;/p&gt;
+
+&lt;p&gt;Our Manchester socials are on the second Tuesday of each month.&lt;/p&gt;
+
+&lt;p&gt;Please contact &lt;a href=&quot;mailto:MATTHEW.WALKER1@DWP.GSI.GOV.UK&quot;&gt;Matthew Walker&lt;/a&gt;  if you need more information.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Not based in Manchester?&lt;/strong&gt; Don’t worry, we also hold events in other parts of the UK too. You can find all our events on our website.&lt;/p&gt;
+
+  &lt;p&gt;If we don’t have an event coming up in your area, why not run one yourself! &lt;a href=&quot;/about/contact-us/&quot;&gt;Contact us&lt;/a&gt; and we can help you promote it.&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+	
+			
+			
+			
+			
+			
+	
+			<author>
+				<name>Civil Service LGBT+ Network</name>
+				
+				
+			</author>
+	
+			<category term="event" />
+	
+			
+			
+			
+			
+			
+			<summary type="html">Our monthly social and networking event in Manchester.</summary>
+			
+	
+			
+			
+	</entry>
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+	<entry>
+		<title type="html">Civil Service LGBT+ social, Manchester</title>
+		<link href="www.civilservice.lgbt/event/2019-09-10-manchester-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, Manchester" />
+		<published>2021-04-08T20:18:52+00:00</published>
+		<updated>2021-04-08T20:18:52+00:00</updated>
+		<id>www.civilservice.lgbt/event/2019/09/10/manchester-social</id>
+		<content type="html" xml:base="www.civilservice.lgbt/event/2019-09-10-manchester-social/">&lt;p&gt;Join us for our monthly a networking event in Manchester.&lt;/p&gt;
 
 &lt;p&gt;This event is your chance to meet other LGBT+ civil servants from across government. Anyone can attend, so long as you work for a Civil Service organisation. It’s usually free to attend.&lt;/p&gt;
 
@@ -505,11 +505,11 @@
 	
 	<entry>
 		<title type="html">Civil Service at Pride in Manchester</title>
-		<link href="https://www.civilservice.lgbt/event/2019-08-24-pride-in-manchester/" rel="alternate" type="text/html" title="Civil Service at Pride in Manchester" />
-		<published>2021-04-08T13:56:34+00:00</published>
-		<updated>2021-04-08T13:56:34+00:00</updated>
-		<id>https://www.civilservice.lgbt/event/2019/08/24/pride-in-manchester</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/event/2019-08-24-pride-in-manchester/">&lt;p&gt;Join us as we march in the parade at Pride in Manchester.&lt;/p&gt;
+		<link href="www.civilservice.lgbt/event/2019-08-24-pride-in-manchester/" rel="alternate" type="text/html" title="Civil Service at Pride in Manchester" />
+		<published>2021-04-08T20:18:52+00:00</published>
+		<updated>2021-04-08T20:18:52+00:00</updated>
+		<id>www.civilservice.lgbt/event/2019/08/24/pride-in-manchester</id>
+		<content type="html" xml:base="www.civilservice.lgbt/event/2019-08-24-pride-in-manchester/">&lt;p&gt;Join us as we march in the parade at Pride in Manchester.&lt;/p&gt;
 
 &lt;p&gt;We’ve added another location to our activities for Pride — thanks to local departments taking part in the parade, and opening up their spaces to any civil servants who want to join them.&lt;/p&gt;
 
@@ -563,11 +563,11 @@
 	
 	<entry>
 		<title type="html">Civil Service LGBT+ social, Manchester</title>
-		<link href="https://www.civilservice.lgbt/event/2019-08-13-manchester-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, Manchester" />
-		<published>2021-04-08T13:56:34+00:00</published>
-		<updated>2021-04-08T13:56:34+00:00</updated>
-		<id>https://www.civilservice.lgbt/event/2019/08/13/manchester-social</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/event/2019-08-13-manchester-social/">&lt;p&gt;Join us for our monthly a networking event in Manchester.&lt;/p&gt;
+		<link href="www.civilservice.lgbt/event/2019-08-13-manchester-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, Manchester" />
+		<published>2021-04-08T20:18:52+00:00</published>
+		<updated>2021-04-08T20:18:52+00:00</updated>
+		<id>www.civilservice.lgbt/event/2019/08/13/manchester-social</id>
+		<content type="html" xml:base="www.civilservice.lgbt/event/2019-08-13-manchester-social/">&lt;p&gt;Join us for our monthly a networking event in Manchester.&lt;/p&gt;
 
 &lt;p&gt;This event is your chance to meet other LGBT+ civil servants from across government. Anyone can attend, so long as you work for a Civil Service organisation. It’s usually free to attend.&lt;/p&gt;
 
@@ -637,11 +637,11 @@
 	
 	<entry>
 		<title type="html">Civil Service LGBT+ social, Manchester</title>
-		<link href="https://www.civilservice.lgbt/event/2019-07-09-manchester-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, Manchester" />
-		<published>2021-04-08T13:56:34+00:00</published>
-		<updated>2021-04-08T13:56:34+00:00</updated>
-		<id>https://www.civilservice.lgbt/event/2019/07/09/manchester-social</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/event/2019-07-09-manchester-social/">&lt;p&gt;Join us for our monthly a networking event in Manchester.&lt;/p&gt;
+		<link href="www.civilservice.lgbt/event/2019-07-09-manchester-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, Manchester" />
+		<published>2021-04-08T20:18:52+00:00</published>
+		<updated>2021-04-08T20:18:52+00:00</updated>
+		<id>www.civilservice.lgbt/event/2019/07/09/manchester-social</id>
+		<content type="html" xml:base="www.civilservice.lgbt/event/2019-07-09-manchester-social/">&lt;p&gt;Join us for our monthly a networking event in Manchester.&lt;/p&gt;
 
 &lt;p&gt;This event is your chance to meet other LGBT+ civil servants from across government. Anyone can attend, so long as you work for a Civil Service organisation. It’s usually free to attend.&lt;/p&gt;
 
@@ -687,11 +687,11 @@
 	
 	<entry>
 		<title type="html">CSLGBT+ at Civil Service Live, Manchester</title>
-		<link href="https://www.civilservice.lgbt/event/2019-07-09-manchester-civil-service-live/" rel="alternate" type="text/html" title="CSLGBT+ at Civil Service Live, Manchester" />
-		<published>2021-04-08T13:56:34+00:00</published>
-		<updated>2021-04-08T13:56:34+00:00</updated>
-		<id>https://www.civilservice.lgbt/event/2019/07/09/manchester-civil-service-live</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/event/2019-07-09-manchester-civil-service-live/">&lt;p&gt;Our Manchester local organisers will be at Civil service Live in Manchester representing the network this year.&lt;/p&gt;
+		<link href="www.civilservice.lgbt/event/2019-07-09-manchester-civil-service-live/" rel="alternate" type="text/html" title="CSLGBT+ at Civil Service Live, Manchester" />
+		<published>2021-04-08T20:18:52+00:00</published>
+		<updated>2021-04-08T20:18:52+00:00</updated>
+		<id>www.civilservice.lgbt/event/2019/07/09/manchester-civil-service-live</id>
+		<content type="html" xml:base="www.civilservice.lgbt/event/2019-07-09-manchester-civil-service-live/">&lt;p&gt;Our Manchester local organisers will be at Civil service Live in Manchester representing the network this year.&lt;/p&gt;
 
 &lt;p&gt;Members of the North West Team  will be joining forces with &lt;a href=&quot;//www.agender.org.uk&quot;&gt;a:gender&lt;/a&gt; for stall on the day. Pop along and say ‘hello’.&lt;/p&gt;
 
@@ -749,11 +749,11 @@
 	
 	<entry>
 		<title type="html">Civil Service LGBT+ social, Manchester</title>
-		<link href="https://www.civilservice.lgbt/event/2019-06-11-manchester-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, Manchester" />
-		<published>2021-04-08T13:56:34+00:00</published>
-		<updated>2021-04-08T13:56:34+00:00</updated>
-		<id>https://www.civilservice.lgbt/event/2019/06/11/manchester-social</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/event/2019-06-11-manchester-social/">&lt;p&gt;Join us for our monthly a networking event in Manchester.&lt;/p&gt;
+		<link href="www.civilservice.lgbt/event/2019-06-11-manchester-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, Manchester" />
+		<published>2021-04-08T20:18:52+00:00</published>
+		<updated>2021-04-08T20:18:52+00:00</updated>
+		<id>www.civilservice.lgbt/event/2019/06/11/manchester-social</id>
+		<content type="html" xml:base="www.civilservice.lgbt/event/2019-06-11-manchester-social/">&lt;p&gt;Join us for our monthly a networking event in Manchester.&lt;/p&gt;
 
 &lt;p&gt;This event is your chance to meet other LGBT+ civil servants from across government. Anyone can attend, so long as you work for a Civil Service organisation. It’s usually free to attend.&lt;/p&gt;
 
@@ -793,6 +793,32 @@
 			
 	</entry>
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	

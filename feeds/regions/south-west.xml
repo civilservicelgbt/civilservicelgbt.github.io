@@ -2,18 +2,18 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
 	<generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
-	<link href="https://www.civilservice.lgbt/feeds/regions/south-west.xml" rel="self" type="application/atom+xml" />
-	<link href="https://www.civilservice.lgbt/" rel="alternate" type="text/html" />
-	<pubDate>Thu, 08 Apr 2021 01:56:34 +0000</pubDate>
-	<updated>2021-04-08T13:56:34+00:00</updated>
-	<id>https://www.civilservice.lgbt/</id>
+	<link href="www.civilservice.lgbt/feeds/regions/south-west.xml" rel="self" type="application/atom+xml" />
+	<link href="www.civilservice.lgbt/" rel="alternate" type="text/html" />
+	<pubDate>Thu, 08 Apr 2021 08:18:52 +0000</pubDate>
+	<updated>2021-04-08T20:18:52+00:00</updated>
+	<id>www.civilservice.lgbt/</id>
 
 	
 		<title type="html">Civil Service LGBT+ Network</title>
 	
 
 	
-		<subtitle>The Civil Service LGBT+ network represents the interests of the 20,000 people working in the UK Civil Service with minority sexual orientations and gender identities.</subtitle>
+		<subtitle>The Civil Service LGBT+ Network helps to create a more diverse, inclusive and equal place to work for lesbian, gay, bisexual and trans civil servants.</subtitle>
 	
 
 	
@@ -157,11 +157,11 @@
 	
 	<entry>
 		<title type="html">Spectrum - an LGBTI conference, Exeter</title>
-		<link href="https://www.civilservice.lgbt/event/2020-02-28-spectrum-metoffice-cslocal/" rel="alternate" type="text/html" title="Spectrum - an LGBTI conference, Exeter" />
-		<published>2021-04-08T13:56:34+00:00</published>
-		<updated>2021-04-08T13:56:34+00:00</updated>
-		<id>https://www.civilservice.lgbt/event/2020/02/28-spectrum-metoffice-cslocal</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/event/2020-02-28-spectrum-metoffice-cslocal/">&lt;p&gt;Civil Service Local South West, in partnership with the Met Office, is hosting a very special event on 28 February 2020. Spectrum is a one-day LGBTI (Lesbian, Gay, Bisexual, Transgender and Intersex) themed conference featuring a fantastic line-up of speakers, workshops, Q&amp;amp;A sessions and a marketplace of stalls.&lt;/p&gt;
+		<link href="www.civilservice.lgbt/event/2020-02-28-spectrum-metoffice-cslocal/" rel="alternate" type="text/html" title="Spectrum - an LGBTI conference, Exeter" />
+		<published>2021-04-08T20:18:52+00:00</published>
+		<updated>2021-04-08T20:18:52+00:00</updated>
+		<id>www.civilservice.lgbt/event/2020/02/28-spectrum-metoffice-cslocal</id>
+		<content type="html" xml:base="www.civilservice.lgbt/event/2020-02-28-spectrum-metoffice-cslocal/">&lt;p&gt;Civil Service Local South West, in partnership with the Met Office, is hosting a very special event on 28 February 2020. Spectrum is a one-day LGBTI (Lesbian, Gay, Bisexual, Transgender and Intersex) themed conference featuring a fantastic line-up of speakers, workshops, Q&amp;amp;A sessions and a marketplace of stalls.&lt;/p&gt;
 
 &lt;p&gt;Please contact &lt;a href=&quot;mailto:nicholas.frampton@cabinetoffice.gov.uk&quot;&gt;Nick Framptopn&lt;/a&gt;  if you need more information.&lt;/p&gt;
 
@@ -287,11 +287,11 @@
 	
 	<entry>
 		<title type="html">Civil Service LGBT+ social, Bristol</title>
-		<link href="https://www.civilservice.lgbt/event/2019-07-11-bristol-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, Bristol" />
-		<published>2021-04-08T13:56:34+00:00</published>
-		<updated>2021-04-08T13:56:34+00:00</updated>
-		<id>https://www.civilservice.lgbt/event/2019/07/11/bristol-social</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/event/2019-07-11-bristol-social/">&lt;p&gt;Join us for a networking and social event to coincide with Bristol Pride Week. This event is your chance to meet other LGBT+ civil servants from across government. Anyone can attend, so long as you work for a Civil Service organisation. It’s usually free to attend.&lt;/p&gt;
+		<link href="www.civilservice.lgbt/event/2019-07-11-bristol-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, Bristol" />
+		<published>2021-04-08T20:18:52+00:00</published>
+		<updated>2021-04-08T20:18:52+00:00</updated>
+		<id>www.civilservice.lgbt/event/2019/07/11/bristol-social</id>
+		<content type="html" xml:base="www.civilservice.lgbt/event/2019-07-11-bristol-social/">&lt;p&gt;Join us for a networking and social event to coincide with Bristol Pride Week. This event is your chance to meet other LGBT+ civil servants from across government. Anyone can attend, so long as you work for a Civil Service organisation. It’s usually free to attend.&lt;/p&gt;
 
 &lt;p&gt;To make sure as many people can get involved as possible, we launched a questionnaire at the beginning of May to find out what our you would like to see in the South West. Here are the main things we found…&lt;/p&gt;
 
@@ -780,14 +780,44 @@
 	
 
 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
 	
 	<entry>
 		<title type="html">Some changes to our social events in the South West</title>
-		<link href="https://www.civilservice.lgbt/2019/06/13/socials-in-the-south-west" rel="alternate" type="text/html" title="Some changes to our social events in the South West" />
+		<link href="www.civilservice.lgbt/2019/06/13/socials-in-the-south-west" rel="alternate" type="text/html" title="Some changes to our social events in the South West" />
 		<published>2019-06-13T00:00:00+00:00</published>
 		<updated>2019-06-13T00:00:00+00:00</updated>
-		<id>https://www.civilservice.lgbt/2019/06/13/socials-in-the-south-west</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/2019/06/13/socials-in-the-south-west">&lt;p&gt;Back in November 2017, we held our first Civil Service LGBT+ Network social in Bristol for the first time in almost two years. It’s been really great to meet so many people from other departments, but we quickly realised that our socials were clashing with other popular LGBT+ events in the city.&lt;/p&gt;
+		<id>www.civilservice.lgbt/2019/06/13/socials-in-the-south-west</id>
+		<content type="html" xml:base="www.civilservice.lgbt/2019/06/13/socials-in-the-south-west">&lt;p&gt;Back in November 2017, we held our first Civil Service LGBT+ Network social in Bristol for the first time in almost two years. It’s been really great to meet so many people from other departments, but we quickly realised that our socials were clashing with other popular LGBT+ events in the city.&lt;/p&gt;
 
 &lt;p&gt;To make sure as many people can get involved as possible, we launched a questionnaire at the beginning of May to find out what our you would like to see in the South West. Here are the main things we found:&lt;/p&gt;
 
@@ -835,14 +865,10 @@
 			
 			
 			
-			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.civilservice.lgbt/assets/images/posts/november-2018-bristol-social.jpg" medium="image" />
+			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="www.civilservice.lgbt/assets/images/posts/november-2018-bristol-social.jpg" medium="image" />
 			
 	</entry>
 	
-	
-
-	
-
 	
 
 	

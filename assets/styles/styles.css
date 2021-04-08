@@ -156,8 +156,8 @@ div#site-footer footer#footer::after { content: ""; clear: both; display: table;
 
 @supports (display: grid) { div#site-footer footer#footer::after { content: none; clear: none; display: none; } }
 
-@supports (display: grid) { div#site-footer footer#footer { display: grid; grid-template-columns: 1fr; grid-column-gap: 30px; grid-template-rows: auto auto auto auto; grid-template-areas: "title" "membership" "share" "disclaimer"; }
-  @media only screen and (min-width: 768px) { div#site-footer footer#footer { grid-template-columns: 2fr 1fr 1fr; grid-column-gap: 30px; grid-template-rows: auto auto; grid-row-gap: 30px; grid-template-areas: "title membership share" "disclaimer disclaimer disclaimer"; } } }
+@supports (display: grid) { div#site-footer footer#footer { display: grid; grid-template-columns: 1fr; grid-column-gap: 30px; grid-template-rows: auto auto auto auto; grid-template-areas: "title" "links" "share" "disclaimer"; }
+  @media only screen and (min-width: 768px) { div#site-footer footer#footer { grid-template-columns: 2fr 1fr 1fr; grid-column-gap: 30px; grid-template-rows: auto auto; grid-row-gap: 30px; grid-template-areas: "title links share" "disclaimer disclaimer disclaimer"; } } }
 
 div#site-footer h1 { position: relative; display: block; width: 100%; margin: 0; padding: 0 0 15px 0; color: #ffffff; font-size: 19px; font-weight: bold; line-height: 1.35; }
 
@@ -165,19 +165,19 @@ div#site-footer h1 { position: relative; display: block; width: 100%; margin: 0;
 
 @supports (display: grid) { div#site-footer h1 { grid-area: title; width: 100%; float: none; clear: none; } }
 
-div#site-footer div#footer-membership, div#site-footer div#footer-disclaimer, div#site-footer div#footer-share { display: block; position: relative; padding: 0 0 45px 0; color: #ffffff !important; }
+div#site-footer div#footer-links, div#site-footer div#footer-disclaimer, div#site-footer div#footer-share { display: block; position: relative; padding: 0 0 45px 0; color: #ffffff !important; }
 
-@media only screen and (min-width: 768px) { div#site-footer div#footer-membership, div#site-footer div#footer-disclaimer, div#site-footer div#footer-share { width: 25%; float: left; clear: none; } @supports (display: grid) { div#site-footer div#footer-membership, div#site-footer div#footer-disclaimer, div#site-footer div#footer-share { width: 100%; float: none; clear: none; } } }
+@media only screen and (min-width: 768px) { div#site-footer div#footer-links, div#site-footer div#footer-disclaimer, div#site-footer div#footer-share { width: 25%; float: left; clear: none; } @supports (display: grid) { div#site-footer div#footer-links, div#site-footer div#footer-disclaimer, div#site-footer div#footer-share { width: 100%; float: none; clear: none; } } }
 
-@supports (display: grid) { div#site-footer div#footer-membership, div#site-footer div#footer-disclaimer, div#site-footer div#footer-share { grid-area: membership; } }
+@supports (display: grid) { div#site-footer div#footer-links, div#site-footer div#footer-disclaimer, div#site-footer div#footer-share { grid-area: links; } }
 
-div#site-footer div#footer-membership ul, div#site-footer div#footer-membership ol, div#site-footer div#footer-disclaimer ul, div#site-footer div#footer-disclaimer ol, div#site-footer div#footer-share ul, div#site-footer div#footer-share ol { list-style: none; padding: 0; margin: 0; }
+div#site-footer div#footer-links ul, div#site-footer div#footer-links ol, div#site-footer div#footer-disclaimer ul, div#site-footer div#footer-disclaimer ol, div#site-footer div#footer-share ul, div#site-footer div#footer-share ol { list-style: none; padding: 0; margin: 0; }
 
-div#site-footer div#footer-membership ul li, div#site-footer div#footer-membership ol li, div#site-footer div#footer-disclaimer ul li, div#site-footer div#footer-disclaimer ol li, div#site-footer div#footer-share ul li, div#site-footer div#footer-share ol li { font-size: 15px; padding: 0; margin: 0; }
+div#site-footer div#footer-links ul li, div#site-footer div#footer-links ol li, div#site-footer div#footer-disclaimer ul li, div#site-footer div#footer-disclaimer ol li, div#site-footer div#footer-share ul li, div#site-footer div#footer-share ol li { font-size: 15px; padding: 0; margin: 0; }
 
-div#site-footer div#footer-membership ul li a, div#site-footer div#footer-membership ol li a, div#site-footer div#footer-disclaimer ul li a, div#site-footer div#footer-disclaimer ol li a, div#site-footer div#footer-share ul li a, div#site-footer div#footer-share ol li a { color: #ffffff; font-weight: bold; }
+div#site-footer div#footer-links ul li a, div#site-footer div#footer-links ol li a, div#site-footer div#footer-disclaimer ul li a, div#site-footer div#footer-disclaimer ol li a, div#site-footer div#footer-share ul li a, div#site-footer div#footer-share ol li a { color: #ffffff; font-weight: bold; }
 
-div#site-footer div#footer-membership ul li a:hover, div#site-footer div#footer-membership ol li a:hover, div#site-footer div#footer-disclaimer ul li a:hover, div#site-footer div#footer-disclaimer ol li a:hover, div#site-footer div#footer-share ul li a:hover, div#site-footer div#footer-share ol li a:hover, div#site-footer div#footer-membership ul li a:focus, div#site-footer div#footer-membership ol li a:focus, div#site-footer div#footer-disclaimer ul li a:focus, div#site-footer div#footer-disclaimer ol li a:focus, div#site-footer div#footer-share ul li a:focus, div#site-footer div#footer-share ol li a:focus { text-decoration: underline; }
+div#site-footer div#footer-links ul li a:hover, div#site-footer div#footer-links ol li a:hover, div#site-footer div#footer-disclaimer ul li a:hover, div#site-footer div#footer-disclaimer ol li a:hover, div#site-footer div#footer-share ul li a:hover, div#site-footer div#footer-share ol li a:hover, div#site-footer div#footer-links ul li a:focus, div#site-footer div#footer-links ol li a:focus, div#site-footer div#footer-disclaimer ul li a:focus, div#site-footer div#footer-disclaimer ol li a:focus, div#site-footer div#footer-share ul li a:focus, div#site-footer div#footer-share ol li a:focus { text-decoration: underline; }
 
 @supports (display: grid) { div#site-footer div#footer-share { grid-area: share; } }
 
@@ -185,7 +185,7 @@ div#site-footer div#footer-disclaimer { clear: both; width: 100%; border-top: 1p
 
 @supports (display: grid) { div#site-footer div#footer-disclaimer { grid-area: disclaimer; } }
 
-div#site-footer div#footer-disclaimer p { font-size: 15px; color: #ffffff; padding: 15px 0 0 0; }
+div#site-footer div#footer-disclaimer p { font-size: 15px; color: #ffffff; }
 
 div#site-footer div#footer-disclaimer p a { color: white; font-weight: bold; }
 

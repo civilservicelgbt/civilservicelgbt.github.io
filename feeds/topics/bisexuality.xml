@@ -2,18 +2,18 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
 	<generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
-	<link href="https://www.civilservice.lgbt/feeds/topics/bisexuality.xml" rel="self" type="application/atom+xml" />
-	<link href="https://www.civilservice.lgbt/" rel="alternate" type="text/html" />
-	<pubDate>Thu, 08 Apr 2021 01:56:34 +0000</pubDate>
-	<updated>2021-04-08T13:56:34+00:00</updated>
-	<id>https://www.civilservice.lgbt/</id>
+	<link href="www.civilservice.lgbt/feeds/topics/bisexuality.xml" rel="self" type="application/atom+xml" />
+	<link href="www.civilservice.lgbt/" rel="alternate" type="text/html" />
+	<pubDate>Thu, 08 Apr 2021 08:18:52 +0000</pubDate>
+	<updated>2021-04-08T20:18:52+00:00</updated>
+	<id>www.civilservice.lgbt/</id>
 
 	
 		<title type="html">Civil Service LGBT+ Network</title>
 	
 
 	
-		<subtitle>The Civil Service LGBT+ network represents the interests of the 20,000 people working in the UK Civil Service with minority sexual orientations and gender identities.</subtitle>
+		<subtitle>The Civil Service LGBT+ Network helps to create a more diverse, inclusive and equal place to work for lesbian, gay, bisexual and trans civil servants.</subtitle>
 	
 
 	
@@ -678,14 +678,44 @@
 	
 
 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
 	
 	<entry>
 		<title type="html">What happened at our Bi+ Visibility and Intersectionality event</title>
-		<link href="https://www.civilservice.lgbt/2019/07/25/bi-visibility-event/" rel="alternate" type="text/html" title="What happened at our Bi+ Visibility and Intersectionality event" />
+		<link href="www.civilservice.lgbt/2019/07/25/bi-visibility-event/" rel="alternate" type="text/html" title="What happened at our Bi+ Visibility and Intersectionality event" />
 		<published>2019-07-25T00:00:00+00:00</published>
 		<updated>2019-07-25T00:00:00+00:00</updated>
-		<id>https://www.civilservice.lgbt/2019/07/25/bi-visiibility-event</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/2019/07/25/bi-visibility-event/">&lt;p&gt;On 10th July we had the pleasure of hosting a Bi+ Visibility and Intersectionality event in London. The event was well attended, including by senior guest speakers Emily Miles and Jonathan Slater.&lt;/p&gt;
+		<id>www.civilservice.lgbt/2019/07/25/bi-visiibility-event</id>
+		<content type="html" xml:base="www.civilservice.lgbt/2019/07/25/bi-visibility-event/">&lt;p&gt;On 10th July we had the pleasure of hosting a Bi+ Visibility and Intersectionality event in London. The event was well attended, including by senior guest speakers Emily Miles and Jonathan Slater.&lt;/p&gt;
 
 &lt;p&gt;Emily spoke movingly about her personal experiences and the importance of not being afraid to bring all your identities to the fore in the Civil Service.&lt;/p&gt;
 
@@ -736,14 +766,10 @@
 			
 			
 			
-			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.civilservice.lgbt/assets/images/posts/bi-visibility-event.jpg" medium="image" />
+			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="www.civilservice.lgbt/assets/images/posts/bi-visibility-event.jpg" medium="image" />
 			
 	</entry>
 	
-	
-
-	
-
 	
 
 	

@@ -2,18 +2,18 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
 	<generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
-	<link href="https://www.civilservice.lgbt/feeds/events.xml" rel="self" type="application/atom+xml" />
-	<link href="https://www.civilservice.lgbt/" rel="alternate" type="text/html" />
-	<pubDate>Thu, 08 Apr 2021 01:56:34 +0000</pubDate>
-	<updated>2021-04-08T13:56:34+00:00</updated>
-	<id>https://www.civilservice.lgbt/</id>
+	<link href="www.civilservice.lgbt/feeds/events.xml" rel="self" type="application/atom+xml" />
+	<link href="www.civilservice.lgbt/" rel="alternate" type="text/html" />
+	<pubDate>Thu, 08 Apr 2021 08:18:52 +0000</pubDate>
+	<updated>2021-04-08T20:18:52+00:00</updated>
+	<id>www.civilservice.lgbt/</id>
 
 	
 		<title type="html">Civil Service LGBT+ Network</title>
 	
 
 	
-		<subtitle>The Civil Service LGBT+ network represents the interests of the 20,000 people working in the UK Civil Service with minority sexual orientations and gender identities.</subtitle>
+		<subtitle>The Civil Service LGBT+ Network helps to create a more diverse, inclusive and equal place to work for lesbian, gay, bisexual and trans civil servants.</subtitle>
 	
 
 	
@@ -127,11 +127,11 @@
 	
 	<entry>
 		<title type="html">PrEP, HIV Prevention and Sexual Health</title>
-		<link href="https://www.civilservice.lgbt/event/2021-04-16-prep/" rel="alternate" type="text/html" title="PrEP, HIV Prevention and Sexual Health" />
-		<published>2021-04-08T13:56:34+00:00</published>
-		<updated>2021-04-08T13:56:34+00:00</updated>
-		<id>https://www.civilservice.lgbt/event/2021/04/16/prep</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/event/2021-04-16-prep/">&lt;p&gt;The CSLGBT+ Network and the CS Race Forum are excited to be collaborating with 56 Dean Street, to bring you this educational and informational session on PrEP, HIV prevention and sexual health.&lt;/p&gt;
+		<link href="www.civilservice.lgbt/event/2021-04-16-prep/" rel="alternate" type="text/html" title="PrEP, HIV Prevention and Sexual Health" />
+		<published>2021-04-08T20:18:52+00:00</published>
+		<updated>2021-04-08T20:18:52+00:00</updated>
+		<id>www.civilservice.lgbt/event/2021/04/16/prep</id>
+		<content type="html" xml:base="www.civilservice.lgbt/event/2021-04-16-prep/">&lt;p&gt;The CSLGBT+ Network and the CS Race Forum are excited to be collaborating with 56 Dean Street, to bring you this educational and informational session on PrEP, HIV prevention and sexual health.&lt;/p&gt;
 
 &lt;p&gt;Opened in 2009 and nestled among the shops, bars and gay clubs of London’s bustling Soho district lies 56 Dean Street, Europe’s largest sexual health clinic. The clinic provides advice and treatment for a range of sexually transmitted infections but it’s become renowned for its ground breaking work preventing the spread of HIV.&lt;/p&gt;
 
@@ -184,11 +184,11 @@
 	
 	<entry>
 		<title type="html">BiSpace Allyship</title>
-		<link href="https://www.civilservice.lgbt/event/2021-04-22-bispace/" rel="alternate" type="text/html" title="BiSpace Allyship" />
-		<published>2021-04-08T13:56:34+00:00</published>
-		<updated>2021-04-08T13:56:34+00:00</updated>
-		<id>https://www.civilservice.lgbt/event/2021/04/22/bispace</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/event/2021-04-22-bispace/">&lt;p&gt;Discussions around allyship often focus on the wider LGBT+ community, with the needs and problems faced by bi+ people sometimes overlooked. Our panel discussion will explore how allies from both within and outside the LGBT+ community have supported bi+ people, and where there is room to do more.&lt;/p&gt;
+		<link href="www.civilservice.lgbt/event/2021-04-22-bispace/" rel="alternate" type="text/html" title="BiSpace Allyship" />
+		<published>2021-04-08T20:18:52+00:00</published>
+		<updated>2021-04-08T20:18:52+00:00</updated>
+		<id>www.civilservice.lgbt/event/2021/04/22/bispace</id>
+		<content type="html" xml:base="www.civilservice.lgbt/event/2021-04-22-bispace/">&lt;p&gt;Discussions around allyship often focus on the wider LGBT+ community, with the needs and problems faced by bi+ people sometimes overlooked. Our panel discussion will explore how allies from both within and outside the LGBT+ community have supported bi+ people, and where there is room to do more.&lt;/p&gt;
 
 &lt;p&gt;The event will be held with a panel discussion, followed by participants being split into virtual breakout rooms to discuss what bi+ allyship means to them (there is no obligation to for anyone to speak or switch their video on if they do not wish to), with the panel closing the event.&lt;/p&gt;
 

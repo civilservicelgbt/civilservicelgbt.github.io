@@ -2,18 +2,18 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
 	<generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
-	<link href="https://www.civilservice.lgbt/feeds/regions/london.xml" rel="self" type="application/atom+xml" />
-	<link href="https://www.civilservice.lgbt/" rel="alternate" type="text/html" />
-	<pubDate>Thu, 08 Apr 2021 01:56:34 +0000</pubDate>
-	<updated>2021-04-08T13:56:34+00:00</updated>
-	<id>https://www.civilservice.lgbt/</id>
+	<link href="www.civilservice.lgbt/feeds/regions/london.xml" rel="self" type="application/atom+xml" />
+	<link href="www.civilservice.lgbt/" rel="alternate" type="text/html" />
+	<pubDate>Thu, 08 Apr 2021 08:18:52 +0000</pubDate>
+	<updated>2021-04-08T20:18:52+00:00</updated>
+	<id>www.civilservice.lgbt/</id>
 
 	
 		<title type="html">Civil Service LGBT+ Network</title>
 	
 
 	
-		<subtitle>The Civil Service LGBT+ network represents the interests of the 20,000 people working in the UK Civil Service with minority sexual orientations and gender identities.</subtitle>
+		<subtitle>The Civil Service LGBT+ Network helps to create a more diverse, inclusive and equal place to work for lesbian, gay, bisexual and trans civil servants.</subtitle>
 	
 
 	
@@ -253,11 +253,11 @@
 	
 	<entry>
 		<title type="html">Civil Service at Pride in London</title>
-		<link href="https://www.civilservice.lgbt/event/2019-07-06-pride-in-london/" rel="alternate" type="text/html" title="Civil Service at Pride in London" />
-		<published>2021-04-08T13:56:34+00:00</published>
-		<updated>2021-04-08T13:56:34+00:00</updated>
-		<id>https://www.civilservice.lgbt/event/2019/07/06/pride-in-london</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/event/2019-07-06-pride-in-london/">&lt;p&gt;Join us as we march in the parade at Pride in London.&lt;/p&gt;
+		<link href="www.civilservice.lgbt/event/2019-07-06-pride-in-london/" rel="alternate" type="text/html" title="Civil Service at Pride in London" />
+		<published>2021-04-08T20:18:52+00:00</published>
+		<updated>2021-04-08T20:18:52+00:00</updated>
+		<id>www.civilservice.lgbt/event/2019/07/06/pride-in-london</id>
+		<content type="html" xml:base="www.civilservice.lgbt/event/2019-07-06-pride-in-london/">&lt;p&gt;Join us as we march in the parade at Pride in London.&lt;/p&gt;
 
 &lt;p&gt;Registrations are now closed.&lt;/p&gt;
 
@@ -297,11 +297,11 @@
 	
 	<entry>
 		<title type="html">Pride in London post-parade social</title>
-		<link href="https://www.civilservice.lgbt/event/2019-07-06-pride-in-london-social/" rel="alternate" type="text/html" title="Pride in London post-parade social" />
-		<published>2021-04-08T13:56:34+00:00</published>
-		<updated>2021-04-08T13:56:34+00:00</updated>
-		<id>https://www.civilservice.lgbt/event/2019/07/06/pride-in-london-social</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/event/2019-07-06-pride-in-london-social/">&lt;p&gt;Join us at Pride in London, after the parade, at our annual social at the Civil Service Club.&lt;/p&gt;
+		<link href="www.civilservice.lgbt/event/2019-07-06-pride-in-london-social/" rel="alternate" type="text/html" title="Pride in London post-parade social" />
+		<published>2021-04-08T20:18:52+00:00</published>
+		<updated>2021-04-08T20:18:52+00:00</updated>
+		<id>www.civilservice.lgbt/event/2019/07/06/pride-in-london-social</id>
+		<content type="html" xml:base="www.civilservice.lgbt/event/2019-07-06-pride-in-london-social/">&lt;p&gt;Join us at Pride in London, after the parade, at our annual social at the Civil Service Club.&lt;/p&gt;
 
 &lt;h2 id=&quot;how-to-register&quot;&gt;How to register&lt;/h2&gt;
 
@@ -345,11 +345,11 @@
 	
 	<entry>
 		<title type="html">Civil Service LGBT+ social, London</title>
-		<link href="https://www.civilservice.lgbt/event/2019-07-04-london-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, London" />
-		<published>2021-04-08T13:56:34+00:00</published>
-		<updated>2021-04-08T13:56:34+00:00</updated>
-		<id>https://www.civilservice.lgbt/event/2019/07/04/london-social</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/event/2019-07-04-london-social/">&lt;p&gt;Join us for our monthly a networking event in London. This event is your chance to meet other LGBT+ civil servants from across government. Each month we’re somewhere different - just to keep things interesting. Anyone can attend, so long as you work for a Civil Service organisation. It’s usually free to attend.&lt;/p&gt;
+		<link href="www.civilservice.lgbt/event/2019-07-04-london-social/" rel="alternate" type="text/html" title="Civil Service LGBT+ social, London" />
+		<published>2021-04-08T20:18:52+00:00</published>
+		<updated>2021-04-08T20:18:52+00:00</updated>
+		<id>www.civilservice.lgbt/event/2019/07/04/london-social</id>
+		<content type="html" xml:base="www.civilservice.lgbt/event/2019-07-04-london-social/">&lt;p&gt;Join us for our monthly a networking event in London. This event is your chance to meet other LGBT+ civil servants from across government. Each month we’re somewhere different - just to keep things interesting. Anyone can attend, so long as you work for a Civil Service organisation. It’s usually free to attend.&lt;/p&gt;
 
 &lt;p&gt;This month, bring your own food and drink and meet us in St James Park. We will be near the bandstand on the north-central side of the park’s lake. You’ll be able to spot us by our banner. &lt;a href=&quot;https://maps.apple.com/?q=51.503133,-0.135048&amp;amp;sll=51.503133,-0.135048&amp;amp;sspn=0.001690,0.004506&amp;amp;t=m&quot;&gt;Here’s a map to find us&lt;/a&gt;.&lt;/p&gt;
 
@@ -397,11 +397,11 @@
 	
 	<entry>
 		<title type="html">LGBT+ parenting talk, hosted by the Cabinet Office</title>
-		<link href="https://www.civilservice.lgbt/event/2019-07-04-cabinet-office-parenting-talk/" rel="alternate" type="text/html" title="LGBT+ parenting talk, hosted by the Cabinet Office" />
-		<published>2021-04-08T13:56:34+00:00</published>
-		<updated>2021-04-08T13:56:34+00:00</updated>
-		<id>https://www.civilservice.lgbt/event/2019/07/04/cabinet-office-parenting-talk</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/event/2019-07-04-cabinet-office-parenting-talk/">&lt;p&gt;The Cabinet Office LGBT+ Network are really looking forward to welcoming Louise Miller from GDS and Ali Donnelly from Number 10 to 1 Horseguards Road on Thursday 4th July for a session on LGBT+ parenting.&lt;/p&gt;
+		<link href="www.civilservice.lgbt/event/2019-07-04-cabinet-office-parenting-talk/" rel="alternate" type="text/html" title="LGBT+ parenting talk, hosted by the Cabinet Office" />
+		<published>2021-04-08T20:18:52+00:00</published>
+		<updated>2021-04-08T20:18:52+00:00</updated>
+		<id>www.civilservice.lgbt/event/2019/07/04/cabinet-office-parenting-talk</id>
+		<content type="html" xml:base="www.civilservice.lgbt/event/2019-07-04-cabinet-office-parenting-talk/">&lt;p&gt;The Cabinet Office LGBT+ Network are really looking forward to welcoming Louise Miller from GDS and Ali Donnelly from Number 10 to 1 Horseguards Road on Thursday 4th July for a session on LGBT+ parenting.&lt;/p&gt;
 
 &lt;p&gt;Louise and Ali will be sharing their experiences of becoming parents. This event is open to all of Government so please do invite colleagues from around Whitehall. It will be taking place between 10am-11am in the Press Lightwell (G/12, 1HGR).&lt;/p&gt;
 
@@ -443,11 +443,11 @@
 	
 	<entry>
 		<title type="html">Pride Quiz Night, hosted by the Cabinet Office</title>
-		<link href="https://www.civilservice.lgbt/event/2019-07-01-cabinet-office-quiz-night/" rel="alternate" type="text/html" title="Pride Quiz Night, hosted by the Cabinet Office" />
-		<published>2021-04-08T13:56:34+00:00</published>
-		<updated>2021-04-08T13:56:34+00:00</updated>
-		<id>https://www.civilservice.lgbt/event/2019/07/01/cabinet-office-quiz-night</id>
-		<content type="html" xml:base="https://www.civilservice.lgbt/event/2019-07-01-cabinet-office-quiz-night/">&lt;p&gt;After the success of last year’s Pride Quiz Night, which teams from across government took part in, the Cabinet Office LGBT+ Network is delighted to be hosting another quiz night in the run up to Pride in London.&lt;/p&gt;
+		<link href="www.civilservice.lgbt/event/2019-07-01-cabinet-office-quiz-night/" rel="alternate" type="text/html" title="Pride Quiz Night, hosted by the Cabinet Office" />
+		<published>2021-04-08T20:18:52+00:00</published>
+		<updated>2021-04-08T20:18:52+00:00</updated>
+		<id>www.civilservice.lgbt/event/2019/07/01/cabinet-office-quiz-night</id>
+		<content type="html" xml:base="www.civilservice.lgbt/event/2019-07-01-cabinet-office-quiz-night/">&lt;p&gt;After the success of last year’s Pride Quiz Night, which teams from across government took part in, the Cabinet Office LGBT+ Network is delighted to be hosting another quiz night in the run up to Pride in London.&lt;/p&gt;
 
 &lt;p&gt;Simply get yourselves into teams of up to six people, come up with a witty name based on your workplace and LGBT+ and &lt;a href=&quot;https://www.eventbrite.co.uk/e/pride-quiz-night-tickets-62710849840&quot;&gt;register&lt;/a&gt;.&lt;/p&gt;
 
@@ -494,6 +494,32 @@
 			
 	</entry>
 	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
