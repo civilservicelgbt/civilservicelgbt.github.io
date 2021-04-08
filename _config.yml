@@ -221,12 +221,6 @@ collections:
     defaults:
       values:
         layout: event
-  manuals:
-    output: true
-    permalink: /manual/:title/
-    defaults:
-      values:
-        layout: manual
   notices:
     output: true
     permalink: /notices/:title/
