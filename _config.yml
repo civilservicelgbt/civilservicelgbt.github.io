@@ -234,12 +234,15 @@ collections:
         layout: formats/news
   topics:
     output: true
-    permalink: /topic/:title/
-        
+    permalink: /:title/
+    defaults:
+      values:
+        layout: topics
+
 ##################
 # Build settings #
 ##################
-remote_theme: civilservicelgbt/theme@new-header
+remote_theme: civilservicelgbt/theme
 permalink: pretty
 markdown: kramdown
 future: false
