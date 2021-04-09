@@ -1,1 +1,1 @@
-Sitemap: http://www.civilservice.lgbt/sitemap.xml
+Sitemap: https://www.civilservice.lgbt/sitemap.xml
