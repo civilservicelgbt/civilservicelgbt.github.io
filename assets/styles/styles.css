@@ -1,5 +1,5 @@
 /* http://meyerweb.com/eric/tools/css/reset/ v2.0 | 20110126 License: none (public domain) */
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, main#publication div#page-contents div.footnotes::before, main#manual div#page-contents div.footnotes::before, main#publication div#page-contents ul#markdown-toc::before, main#publication div#page-contents ol#markdown-toc::before, main#manual div#page-contents ul#markdown-toc::before, main#manual div#page-contents ol#markdown-toc::before, main#news div#page-content div.footnotes::before, main#event div#page-content div.footnotes::before, main#consultation div#page-content div.footnotes::before, main#notice div#page-content div.footnotes::before, main#page div#page-content div.footnotes::before, main#topic div#page-content div.footnotes::before, main#networks div#page-content div.footnotes::before, main#loop div#page-content ul li article h2, main#loop div#page-content ol li article h2, main#admin div#page-content ul li article h2, main#admin div#page-content ol li article h2, main#four-oh-four div#page-content div.footnotes::before, h5, main#news div#page-content ul.loop li article h2, main#event div#page-content ul.loop li article h2, main#consultation div#page-content ul.loop li article h2, main#news div#page-content ol.loop li article h2, main#event div#page-content ol.loop li article h2, main#consultation div#page-content ol.loop li article h2, main#notice div#page-content ul.loop li article h2, main#notice div#page-content ol.loop li article h2, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, table tfoot, table thead, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; font: inherit; font-size: 100%; vertical-align: baseline; }
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, main#publication div#page-contents div.footnotes::before, main#manual div#page-contents div.footnotes::before, main#publication div#page-contents ul#markdown-toc::before, main#publication div#page-contents ol#markdown-toc::before, main#manual div#page-contents ul#markdown-toc::before, main#manual div#page-contents ol#markdown-toc::before, main#news div#page-content div.footnotes::before, main#event div#page-content div.footnotes::before, main#consultation div#page-content div.footnotes::before, main#notice div#page-content div.footnotes::before, main#page div#page-content div.footnotes::before, main#networks div#page-content div.footnotes::before, main#topic div#page-content div.footnotes::before, main#loop div#page-content ul li article h2, main#loop div#page-content ol li article h2, main#admin div#page-content ul li article h2, main#admin div#page-content ol li article h2, main#four-oh-four div#page-content div.footnotes::before, h5, main#news div#page-content ul.loop li article h2, main#event div#page-content ul.loop li article h2, main#consultation div#page-content ul.loop li article h2, main#news div#page-content ol.loop li article h2, main#event div#page-content ol.loop li article h2, main#consultation div#page-content ol.loop li article h2, main#notice div#page-content ul.loop li article h2, main#notice div#page-content ol.loop li article h2, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, table tfoot, table thead, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; font: inherit; font-size: 100%; vertical-align: baseline; }
 
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
@@ -213,7 +213,7 @@ a:focus { color: #0B0C0C !important; background: #ffed00; outline: 3px solid #ff
 
 a:active { color: #ffffff !important; background: #e6007e; outline: 3px solid #e6007e; }
 
-h1, h2, h3, h4, main#publication div#page-contents div.footnotes::before, main#manual div#page-contents div.footnotes::before, main#publication div#page-contents ul#markdown-toc::before, main#publication div#page-contents ol#markdown-toc::before, main#manual div#page-contents ul#markdown-toc::before, main#manual div#page-contents ol#markdown-toc::before, main#news div#page-content div.footnotes::before, main#event div#page-content div.footnotes::before, main#consultation div#page-content div.footnotes::before, main#notice div#page-content div.footnotes::before, main#page div#page-content div.footnotes::before, main#topic div#page-content div.footnotes::before, main#networks div#page-content div.footnotes::before, main#loop div#page-content ul li article h2, main#loop div#page-content ol li article h2, main#admin div#page-content ul li article h2, main#admin div#page-content ol li article h2, main#four-oh-four div#page-content div.footnotes::before, h5, main#news div#page-content ul.loop li article h2, main#event div#page-content ul.loop li article h2, main#consultation div#page-content ul.loop li article h2, main#news div#page-content ol.loop li article h2, main#event div#page-content ol.loop li article h2, main#consultation div#page-content ol.loop li article h2, main#notice div#page-content ul.loop li article h2, main#notice div#page-content ol.loop li article h2, h6 { color: #0B0C0C; }
+h1, h2, h3, h4, main#publication div#page-contents div.footnotes::before, main#manual div#page-contents div.footnotes::before, main#publication div#page-contents ul#markdown-toc::before, main#publication div#page-contents ol#markdown-toc::before, main#manual div#page-contents ul#markdown-toc::before, main#manual div#page-contents ol#markdown-toc::before, main#news div#page-content div.footnotes::before, main#event div#page-content div.footnotes::before, main#consultation div#page-content div.footnotes::before, main#notice div#page-content div.footnotes::before, main#page div#page-content div.footnotes::before, main#networks div#page-content div.footnotes::before, main#topic div#page-content div.footnotes::before, main#loop div#page-content ul li article h2, main#loop div#page-content ol li article h2, main#admin div#page-content ul li article h2, main#admin div#page-content ol li article h2, main#four-oh-four div#page-content div.footnotes::before, h5, main#news div#page-content ul.loop li article h2, main#event div#page-content ul.loop li article h2, main#consultation div#page-content ul.loop li article h2, main#news div#page-content ol.loop li article h2, main#event div#page-content ol.loop li article h2, main#consultation div#page-content ol.loop li article h2, main#notice div#page-content ul.loop li article h2, main#notice div#page-content ol.loop li article h2, h6 { color: #0B0C0C; }
 
 h1 { font-weight: bold; font-size: 38.4px; padding: 45px 0 30px 0; }
 
@@ -225,13 +225,13 @@ h3 { font-weight: bold; font-size: 30px; padding: 30px 0 15px 0; }
 
 h2 + h3 { padding-top: 0 !important; }
 
-h4, main#publication div#page-contents div.footnotes::before, main#manual div#page-contents div.footnotes::before, main#publication div#page-contents ul#markdown-toc::before, main#publication div#page-contents ol#markdown-toc::before, main#manual div#page-contents ul#markdown-toc::before, main#manual div#page-contents ol#markdown-toc::before, main#news div#page-content div.footnotes::before, main#event div#page-content div.footnotes::before, main#consultation div#page-content div.footnotes::before, main#notice div#page-content div.footnotes::before, main#page div#page-content div.footnotes::before, main#topic div#page-content div.footnotes::before, main#networks div#page-content div.footnotes::before, main#loop div#page-content ul li article h2, main#loop div#page-content ol li article h2, main#admin div#page-content ul li article h2, main#admin div#page-content ol li article h2, main#four-oh-four div#page-content div.footnotes::before { font-weight: bold; font-size: 24px; padding: 30px 0 15px 0; }
+h4, main#publication div#page-contents div.footnotes::before, main#manual div#page-contents div.footnotes::before, main#publication div#page-contents ul#markdown-toc::before, main#publication div#page-contents ol#markdown-toc::before, main#manual div#page-contents ul#markdown-toc::before, main#manual div#page-contents ol#markdown-toc::before, main#news div#page-content div.footnotes::before, main#event div#page-content div.footnotes::before, main#consultation div#page-content div.footnotes::before, main#notice div#page-content div.footnotes::before, main#page div#page-content div.footnotes::before, main#networks div#page-content div.footnotes::before, main#topic div#page-content div.footnotes::before, main#loop div#page-content ul li article h2, main#loop div#page-content ol li article h2, main#admin div#page-content ul li article h2, main#admin div#page-content ol li article h2, main#four-oh-four div#page-content div.footnotes::before { font-weight: bold; font-size: 24px; padding: 30px 0 15px 0; }
 
-h3 + h4, main#publication div#page-contents h3 + div.footnotes::before, main#manual div#page-contents h3 + div.footnotes::before, main#publication div#page-contents h3 + ul#markdown-toc::before, main#publication div#page-contents h3 + ol#markdown-toc::before, main#manual div#page-contents h3 + ul#markdown-toc::before, main#manual div#page-contents h3 + ol#markdown-toc::before, main#news div#page-content h3 + div.footnotes::before, main#event div#page-content h3 + div.footnotes::before, main#consultation div#page-content h3 + div.footnotes::before, main#notice div#page-content h3 + div.footnotes::before, main#page div#page-content h3 + div.footnotes::before, main#topic div#page-content h3 + div.footnotes::before, main#networks div#page-content h3 + div.footnotes::before, main#loop div#page-content ul li article h3 + h2, main#loop div#page-content ol li article h3 + h2, main#admin div#page-content ul li article h3 + h2, main#admin div#page-content ol li article h3 + h2, main#four-oh-four div#page-content h3 + div.footnotes::before { padding-top: 0 !important; }
+h3 + h4, main#publication div#page-contents h3 + div.footnotes::before, main#manual div#page-contents h3 + div.footnotes::before, main#publication div#page-contents h3 + ul#markdown-toc::before, main#publication div#page-contents h3 + ol#markdown-toc::before, main#manual div#page-contents h3 + ul#markdown-toc::before, main#manual div#page-contents h3 + ol#markdown-toc::before, main#news div#page-content h3 + div.footnotes::before, main#event div#page-content h3 + div.footnotes::before, main#consultation div#page-content h3 + div.footnotes::before, main#notice div#page-content h3 + div.footnotes::before, main#page div#page-content h3 + div.footnotes::before, main#networks div#page-content h3 + div.footnotes::before, main#topic div#page-content h3 + div.footnotes::before, main#loop div#page-content ul li article h3 + h2, main#loop div#page-content ol li article h3 + h2, main#admin div#page-content ul li article h3 + h2, main#admin div#page-content ol li article h3 + h2, main#four-oh-four div#page-content h3 + div.footnotes::before { padding-top: 0 !important; }
 
 h5, main#news div#page-content ul.loop li article h2, main#event div#page-content ul.loop li article h2, main#consultation div#page-content ul.loop li article h2, main#news div#page-content ol.loop li article h2, main#event div#page-content ol.loop li article h2, main#consultation div#page-content ol.loop li article h2, main#notice div#page-content ul.loop li article h2, main#notice div#page-content ol.loop li article h2 { font-weight: bold; font-size: 19px; padding: 10px 0; }
 
-h4 + h5, main#publication div#page-contents div.footnotes::before + h5, main#manual div#page-contents div.footnotes::before + h5, main#publication div#page-contents ul#markdown-toc::before + h5, main#publication div#page-contents ol#markdown-toc::before + h5, main#manual div#page-contents ul#markdown-toc::before + h5, main#manual div#page-contents ol#markdown-toc::before + h5, main#news div#page-content div.footnotes::before + h5, main#event div#page-content div.footnotes::before + h5, main#consultation div#page-content div.footnotes::before + h5, main#notice div#page-content div.footnotes::before + h5, main#news div#page-content ul.loop li article h4 + h2, main#event div#page-content ul.loop li article h4 + h2, main#news div#page-content ul.loop li article main#publication div#page-contents div.footnotes::before + h2, main#event div#page-content ul.loop li article main#publication div#page-contents div.footnotes::before + h2, main#publication div#page-contents main#news div#page-content ul.loop li article div.footnotes::before + h2, main#publication div#page-contents main#event div#page-content ul.loop li article div.footnotes::before + h2, main#news div#page-content ul.loop li article main#manual div#page-contents div.footnotes::before + h2, main#event div#page-content ul.loop li article main#manual div#page-contents div.footnotes::before + h2, main#manual div#page-contents main#news div#page-content ul.loop li article div.footnotes::before + h2, main#manual div#page-contents main#event div#page-content ul.loop li article div.footnotes::before + h2, main#news div#page-content ul.loop li article main#publication div#page-contents ul#markdown-toc::before + h2, main#event div#page-content ul.loop li article main#publication div#page-contents ul#markdown-toc::before + h2, main#publication div#page-contents main#news div#page-content ul.loop li article ul#markdown-toc::before + h2, main#publication div#page-contents main#event div#page-content ul.loop li article ul#markdown-toc::before + h2, main#news div#page-content ul.loop li article main#publication div#page-contents ol#markdown-toc::before + h2, main#event div#page-content ul.loop li article main#publication div#page-contents ol#markdown-toc::before + h2, main#publication div#page-contents main#news div#page-content ul.loop li article ol#markdown-toc::before + h2, main#publication div#page-contents main#event div#page-content ul.loop li article ol#markdown-toc::before + h2, main#news div#page-content ul.loop li article main#manual div#page-contents ul#markdown-toc::before + h2, main#event div#page-content ul.loop li article main#manual div#page-contents ul#markdown-toc::before + h2, main#manual div#page-contents main#news div#page-content ul.loop li article ul#markdown-toc::before + h2, main#manual div#page-contents main#event div#page-content ul.loop li article ul#markdown-toc::before + h2, main#news div#page-content ul.loop li article main#manual div#page-contents ol#markdown-toc::before + h2, main#event div#page-content ul.loop li article main#manual div#page-contents ol#markdown-toc::before + h2, main#manual div#page-contents main#news div#page-content ul.loop li article ol#markdown-toc::before + h2, main#manual div#page-contents main#event div#page-content ul.loop li article ol#markdown-toc::before + h2, main#consultation div#page-content ul.loop li article h4 + h2, main#consultation div#page-content ul.loop li article main#publication div#page-contents div.footnotes::before + h2, main#publication div#page-contents main#consultation div#page-content ul.loop li article div.footnotes::before + h2, main#consultation div#page-content ul.loop li article main#manual div#page-contents div.footnotes::before + h2, main#manual div#page-contents main#consultation div#page-content ul.loop li article div.footnotes::before + h2, main#consultation div#page-content ul.loop li article main#publication div#page-contents ul#markdown-toc::before + h2, main#publication div#page-contents main#consultation div#page-content ul.loop li article ul#markdown-toc::before + h2, main#consultation div#page-content ul.loop li article main#publication div#page-contents ol#markdown-toc::before + h2, main#publication div#page-contents main#consultation div#page-content ul.loop li article ol#markdown-toc::before + h2, main#consultation div#page-content ul.loop li article main#manual div#page-contents ul#markdown-toc::before + h2, main#manual div#page-contents main#consultation div#page-content ul.loop li article ul#markdown-toc::before + h2, main#consultation div#page-content ul.loop li article main#manual div#page-contents ol#markdown-toc::before + h2, main#manual div#page-contents main#consultation div#page-content ul.loop li article ol#markdown-toc::before + h2, main#news div#page-content ul.loop li article div.footnotes::before + h2, main#event div#page-content ul.loop li article div.footnotes::before + h2, main#consultation div#page-content ul.loop li article div.footnotes::before + h2, main#news div#page-content ol.loop li article h4 + h2, main#event div#page-content ol.loop li article h4 + h2, main#news div#page-content ol.loop li article main#publication div#page-contents div.footnotes::before + h2, main#event div#page-content ol.loop li article main#publication div#page-contents div.footnotes::before + h2, main#publication div#page-contents main#news div#page-content ol.loop li article div.footnotes::before + h2, main#publication div#page-contents main#event div#page-content ol.loop li article div.footnotes::before + h2, main#news div#page-content ol.loop li article main#manual div#page-contents div.footnotes::before + h2, main#event div#page-content ol.loop li article main#manual div#page-contents div.footnotes::before + h2, main#manual div#page-contents main#news div#page-content ol.loop li article div.footnotes::before + h2, main#manual div#page-contents main#event div#page-content ol.loop li article div.footnotes::before + h2, main#news div#page-content ol.loop li article main#publication div#page-contents ul#markdown-toc::before + h2, main#event div#page-content ol.loop li article main#publication div#page-contents ul#markdown-toc::before + h2, main#publication div#page-contents main#news div#page-content ol.loop li article ul#markdown-toc::before + h2, main#publication div#page-contents main#event div#page-content ol.loop li article ul#markdown-toc::before + h2, main#news div#page-content ol.loop li article main#publication div#page-contents ol#markdown-toc::before + h2, main#event div#page-content ol.loop li article main#publication div#page-contents ol#markdown-toc::before + h2, main#publication div#page-contents main#news div#page-content ol.loop li article ol#markdown-toc::before + h2, main#publication div#page-contents main#event div#page-content ol.loop li article ol#markdown-toc::before + h2, main#news div#page-content ol.loop li article main#manual div#page-contents ul#markdown-toc::before + h2, main#event div#page-content ol.loop li article main#manual div#page-contents ul#markdown-toc::before + h2, main#manual div#page-contents main#news div#page-content ol.loop li article ul#markdown-toc::before + h2, main#manual div#page-contents main#event div#page-content ol.loop li article ul#markdown-toc::before + h2, main#news div#page-content ol.loop li article main#manual div#page-contents ol#markdown-toc::before + h2, main#event div#page-content ol.loop li article main#manual div#page-contents ol#markdown-toc::before + h2, main#manual div#page-contents main#news div#page-content ol.loop li article ol#markdown-toc::before + h2, main#manual div#page-contents main#event div#page-content ol.loop li article ol#markdown-toc::before + h2, main#consultation div#page-content ol.loop li article h4 + h2, main#consultation div#page-content ol.loop li article main#publication div#page-contents div.footnotes::before + h2, main#publication div#page-contents main#consultation div#page-content ol.loop li article div.footnotes::before + h2, main#consultation div#page-content ol.loop li article main#manual div#page-contents div.footnotes::before + h2, main#manual div#page-contents main#consultation div#page-content ol.loop li article div.footnotes::before + h2, main#consultation div#page-content ol.loop li article main#publication div#page-contents ul#markdown-toc::before + h2, main#publication div#page-contents main#consultation div#page-content ol.loop li article ul#markdown-toc::before + h2, main#consultation div#page-content ol.loop li article main#publication div#page-contents ol#markdown-toc::before + h2, main#publication div#page-contents main#consultation div#page-content ol.loop li article ol#markdown-toc::before + h2, main#consultation div#page-content ol.loop li article main#manual div#page-contents ul#markdown-toc::before + h2, main#manual div#page-contents main#consultation div#page-content ol.loop li article ul#markdown-toc::before + h2, main#consultation div#page-content ol.loop li article main#manual div#page-contents ol#markdown-toc::before + h2, main#manual div#page-contents main#consultation div#page-content ol.loop li article ol#markdown-toc::before + h2, main#news div#page-content ol.loop li article div.footnotes::before + h2, main#event div#page-content ol.loop li article div.footnotes::before + h2, main#consultation div#page-content ol.loop li article div.footnotes::before + h2, main#notice div#page-content ul.loop li article h4 + h2, main#notice div#page-content ul.loop li article main#publication div#page-contents div.footnotes::before + h2, main#publication div#page-contents main#notice div#page-content ul.loop li article div.footnotes::before + h2, main#notice div#page-content ul.loop li article main#manual div#page-contents div.footnotes::before + h2, main#manual div#page-contents main#notice div#page-content ul.loop li article div.footnotes::before + h2, main#notice div#page-content ul.loop li article main#publication div#page-contents ul#markdown-toc::before + h2, main#publication div#page-contents main#notice div#page-content ul.loop li article ul#markdown-toc::before + h2, main#notice div#page-content ul.loop li article main#publication div#page-contents ol#markdown-toc::before + h2, main#publication div#page-contents main#notice div#page-content ul.loop li article ol#markdown-toc::before + h2, main#notice div#page-content ul.loop li article main#manual div#page-contents ul#markdown-toc::before + h2, main#manual div#page-contents main#notice div#page-content ul.loop li article ul#markdown-toc::before + h2, main#notice div#page-content ul.loop li article main#manual div#page-contents ol#markdown-toc::before + h2, main#manual div#page-contents main#notice div#page-content ul.loop li article ol#markdown-toc::before + h2, main#notice div#page-content ul.loop li article div.footnotes::before + h2, main#notice div#page-content ol.loop li article h4 + h2, main#notice div#page-content ol.loop li article main#publication div#page-contents div.footnotes::before + h2, main#publication div#page-contents main#notice div#page-content ol.loop li article div.footnotes::before + h2, main#notice div#page-content ol.loop li article main#manual div#page-contents div.footnotes::before + h2, main#manual div#page-contents main#notice div#page-content ol.loop li article div.footnotes::before + h2, main#notice div#page-content ol.loop li article main#publication div#page-contents ul#markdown-toc::before + h2, main#publication div#page-contents main#notice div#page-content ol.loop li article ul#markdown-toc::before + h2, main#notice div#page-content ol.loop li article main#publication div#page-contents ol#markdown-toc::before + h2, main#publication div#page-contents main#notice div#page-content ol.loop li article ol#markdown-toc::before + h2, main#notice div#page-content ol.loop li article main#manual div#page-contents ul#markdown-toc::before + h2, main#manual div#page-contents main#notice div#page-content ol.loop li article ul#markdown-toc::before + h2, main#notice div#page-content ol.loop li article main#manual div#page-contents ol#markdown-toc::before + h2, main#manual div#page-contents main#notice div#page-content ol.loop li article ol#markdown-toc::before + h2, main#notice div#page-content ol.loop li article div.footnotes::before + h2, main#page div#page-content div.footnotes::before + h5, main#topic div#page-content div.footnotes::before + h5, main#networks div#page-content div.footnotes::before + h5, main#loop div#page-content ul li article h2 + h5, main#loop main#news div#page-content ul.loop li article h2 + h2, main#loop main#event div#page-content ul.loop li article h2 + h2, main#loop main#consultation div#page-content ul.loop li article h2 + h2, main#news main#loop div#page-content ul.loop li article h2 + h2, main#event main#loop div#page-content ul.loop li article h2 + h2, main#consultation main#loop div#page-content ul.loop li article h2 + h2, main#loop main#notice div#page-content ul.loop li article h2 + h2, main#notice main#loop div#page-content ul.loop li article h2 + h2, main#loop div#page-content ol li article h2 + h5, main#loop main#news div#page-content ol.loop li article h2 + h2, main#loop main#event div#page-content ol.loop li article h2 + h2, main#loop main#consultation div#page-content ol.loop li article h2 + h2, main#news main#loop div#page-content ol.loop li article h2 + h2, main#event main#loop div#page-content ol.loop li article h2 + h2, main#consultation main#loop div#page-content ol.loop li article h2 + h2, main#loop main#notice div#page-content ol.loop li article h2 + h2, main#notice main#loop div#page-content ol.loop li article h2 + h2, main#admin div#page-content ul li article h2 + h5, main#admin main#news div#page-content ul.loop li article h2 + h2, main#admin main#event div#page-content ul.loop li article h2 + h2, main#admin main#consultation div#page-content ul.loop li article h2 + h2, main#news main#admin div#page-content ul.loop li article h2 + h2, main#event main#admin div#page-content ul.loop li article h2 + h2, main#consultation main#admin div#page-content ul.loop li article h2 + h2, main#admin main#notice div#page-content ul.loop li article h2 + h2, main#notice main#admin div#page-content ul.loop li article h2 + h2, main#admin div#page-content ol li article h2 + h5, main#admin main#news div#page-content ol.loop li article h2 + h2, main#admin main#event div#page-content ol.loop li article h2 + h2, main#admin main#consultation div#page-content ol.loop li article h2 + h2, main#news main#admin div#page-content ol.loop li article h2 + h2, main#event main#admin div#page-content ol.loop li article h2 + h2, main#consultation main#admin div#page-content ol.loop li article h2 + h2, main#admin main#notice div#page-content ol.loop li article h2 + h2, main#notice main#admin div#page-content ol.loop li article h2 + h2, main#four-oh-four div#page-content div.footnotes::before + h5 { padding-top: 0 !important; }
+h4 + h5, main#publication div#page-contents div.footnotes::before + h5, main#manual div#page-contents div.footnotes::before + h5, main#publication div#page-contents ul#markdown-toc::before + h5, main#publication div#page-contents ol#markdown-toc::before + h5, main#manual div#page-contents ul#markdown-toc::before + h5, main#manual div#page-contents ol#markdown-toc::before + h5, main#news div#page-content div.footnotes::before + h5, main#event div#page-content div.footnotes::before + h5, main#consultation div#page-content div.footnotes::before + h5, main#notice div#page-content div.footnotes::before + h5, main#news div#page-content ul.loop li article h4 + h2, main#event div#page-content ul.loop li article h4 + h2, main#news div#page-content ul.loop li article main#publication div#page-contents div.footnotes::before + h2, main#event div#page-content ul.loop li article main#publication div#page-contents div.footnotes::before + h2, main#publication div#page-contents main#news div#page-content ul.loop li article div.footnotes::before + h2, main#publication div#page-contents main#event div#page-content ul.loop li article div.footnotes::before + h2, main#news div#page-content ul.loop li article main#manual div#page-contents div.footnotes::before + h2, main#event div#page-content ul.loop li article main#manual div#page-contents div.footnotes::before + h2, main#manual div#page-contents main#news div#page-content ul.loop li article div.footnotes::before + h2, main#manual div#page-contents main#event div#page-content ul.loop li article div.footnotes::before + h2, main#news div#page-content ul.loop li article main#publication div#page-contents ul#markdown-toc::before + h2, main#event div#page-content ul.loop li article main#publication div#page-contents ul#markdown-toc::before + h2, main#publication div#page-contents main#news div#page-content ul.loop li article ul#markdown-toc::before + h2, main#publication div#page-contents main#event div#page-content ul.loop li article ul#markdown-toc::before + h2, main#news div#page-content ul.loop li article main#publication div#page-contents ol#markdown-toc::before + h2, main#event div#page-content ul.loop li article main#publication div#page-contents ol#markdown-toc::before + h2, main#publication div#page-contents main#news div#page-content ul.loop li article ol#markdown-toc::before + h2, main#publication div#page-contents main#event div#page-content ul.loop li article ol#markdown-toc::before + h2, main#news div#page-content ul.loop li article main#manual div#page-contents ul#markdown-toc::before + h2, main#event div#page-content ul.loop li article main#manual div#page-contents ul#markdown-toc::before + h2, main#manual div#page-contents main#news div#page-content ul.loop li article ul#markdown-toc::before + h2, main#manual div#page-contents main#event div#page-content ul.loop li article ul#markdown-toc::before + h2, main#news div#page-content ul.loop li article main#manual div#page-contents ol#markdown-toc::before + h2, main#event div#page-content ul.loop li article main#manual div#page-contents ol#markdown-toc::before + h2, main#manual div#page-contents main#news div#page-content ul.loop li article ol#markdown-toc::before + h2, main#manual div#page-contents main#event div#page-content ul.loop li article ol#markdown-toc::before + h2, main#consultation div#page-content ul.loop li article h4 + h2, main#consultation div#page-content ul.loop li article main#publication div#page-contents div.footnotes::before + h2, main#publication div#page-contents main#consultation div#page-content ul.loop li article div.footnotes::before + h2, main#consultation div#page-content ul.loop li article main#manual div#page-contents div.footnotes::before + h2, main#manual div#page-contents main#consultation div#page-content ul.loop li article div.footnotes::before + h2, main#consultation div#page-content ul.loop li article main#publication div#page-contents ul#markdown-toc::before + h2, main#publication div#page-contents main#consultation div#page-content ul.loop li article ul#markdown-toc::before + h2, main#consultation div#page-content ul.loop li article main#publication div#page-contents ol#markdown-toc::before + h2, main#publication div#page-contents main#consultation div#page-content ul.loop li article ol#markdown-toc::before + h2, main#consultation div#page-content ul.loop li article main#manual div#page-contents ul#markdown-toc::before + h2, main#manual div#page-contents main#consultation div#page-content ul.loop li article ul#markdown-toc::before + h2, main#consultation div#page-content ul.loop li article main#manual div#page-contents ol#markdown-toc::before + h2, main#manual div#page-contents main#consultation div#page-content ul.loop li article ol#markdown-toc::before + h2, main#news div#page-content ul.loop li article div.footnotes::before + h2, main#event div#page-content ul.loop li article div.footnotes::before + h2, main#consultation div#page-content ul.loop li article div.footnotes::before + h2, main#news div#page-content ol.loop li article h4 + h2, main#event div#page-content ol.loop li article h4 + h2, main#news div#page-content ol.loop li article main#publication div#page-contents div.footnotes::before + h2, main#event div#page-content ol.loop li article main#publication div#page-contents div.footnotes::before + h2, main#publication div#page-contents main#news div#page-content ol.loop li article div.footnotes::before + h2, main#publication div#page-contents main#event div#page-content ol.loop li article div.footnotes::before + h2, main#news div#page-content ol.loop li article main#manual div#page-contents div.footnotes::before + h2, main#event div#page-content ol.loop li article main#manual div#page-contents div.footnotes::before + h2, main#manual div#page-contents main#news div#page-content ol.loop li article div.footnotes::before + h2, main#manual div#page-contents main#event div#page-content ol.loop li article div.footnotes::before + h2, main#news div#page-content ol.loop li article main#publication div#page-contents ul#markdown-toc::before + h2, main#event div#page-content ol.loop li article main#publication div#page-contents ul#markdown-toc::before + h2, main#publication div#page-contents main#news div#page-content ol.loop li article ul#markdown-toc::before + h2, main#publication div#page-contents main#event div#page-content ol.loop li article ul#markdown-toc::before + h2, main#news div#page-content ol.loop li article main#publication div#page-contents ol#markdown-toc::before + h2, main#event div#page-content ol.loop li article main#publication div#page-contents ol#markdown-toc::before + h2, main#publication div#page-contents main#news div#page-content ol.loop li article ol#markdown-toc::before + h2, main#publication div#page-contents main#event div#page-content ol.loop li article ol#markdown-toc::before + h2, main#news div#page-content ol.loop li article main#manual div#page-contents ul#markdown-toc::before + h2, main#event div#page-content ol.loop li article main#manual div#page-contents ul#markdown-toc::before + h2, main#manual div#page-contents main#news div#page-content ol.loop li article ul#markdown-toc::before + h2, main#manual div#page-contents main#event div#page-content ol.loop li article ul#markdown-toc::before + h2, main#news div#page-content ol.loop li article main#manual div#page-contents ol#markdown-toc::before + h2, main#event div#page-content ol.loop li article main#manual div#page-contents ol#markdown-toc::before + h2, main#manual div#page-contents main#news div#page-content ol.loop li article ol#markdown-toc::before + h2, main#manual div#page-contents main#event div#page-content ol.loop li article ol#markdown-toc::before + h2, main#consultation div#page-content ol.loop li article h4 + h2, main#consultation div#page-content ol.loop li article main#publication div#page-contents div.footnotes::before + h2, main#publication div#page-contents main#consultation div#page-content ol.loop li article div.footnotes::before + h2, main#consultation div#page-content ol.loop li article main#manual div#page-contents div.footnotes::before + h2, main#manual div#page-contents main#consultation div#page-content ol.loop li article div.footnotes::before + h2, main#consultation div#page-content ol.loop li article main#publication div#page-contents ul#markdown-toc::before + h2, main#publication div#page-contents main#consultation div#page-content ol.loop li article ul#markdown-toc::before + h2, main#consultation div#page-content ol.loop li article main#publication div#page-contents ol#markdown-toc::before + h2, main#publication div#page-contents main#consultation div#page-content ol.loop li article ol#markdown-toc::before + h2, main#consultation div#page-content ol.loop li article main#manual div#page-contents ul#markdown-toc::before + h2, main#manual div#page-contents main#consultation div#page-content ol.loop li article ul#markdown-toc::before + h2, main#consultation div#page-content ol.loop li article main#manual div#page-contents ol#markdown-toc::before + h2, main#manual div#page-contents main#consultation div#page-content ol.loop li article ol#markdown-toc::before + h2, main#news div#page-content ol.loop li article div.footnotes::before + h2, main#event div#page-content ol.loop li article div.footnotes::before + h2, main#consultation div#page-content ol.loop li article div.footnotes::before + h2, main#notice div#page-content ul.loop li article h4 + h2, main#notice div#page-content ul.loop li article main#publication div#page-contents div.footnotes::before + h2, main#publication div#page-contents main#notice div#page-content ul.loop li article div.footnotes::before + h2, main#notice div#page-content ul.loop li article main#manual div#page-contents div.footnotes::before + h2, main#manual div#page-contents main#notice div#page-content ul.loop li article div.footnotes::before + h2, main#notice div#page-content ul.loop li article main#publication div#page-contents ul#markdown-toc::before + h2, main#publication div#page-contents main#notice div#page-content ul.loop li article ul#markdown-toc::before + h2, main#notice div#page-content ul.loop li article main#publication div#page-contents ol#markdown-toc::before + h2, main#publication div#page-contents main#notice div#page-content ul.loop li article ol#markdown-toc::before + h2, main#notice div#page-content ul.loop li article main#manual div#page-contents ul#markdown-toc::before + h2, main#manual div#page-contents main#notice div#page-content ul.loop li article ul#markdown-toc::before + h2, main#notice div#page-content ul.loop li article main#manual div#page-contents ol#markdown-toc::before + h2, main#manual div#page-contents main#notice div#page-content ul.loop li article ol#markdown-toc::before + h2, main#notice div#page-content ul.loop li article div.footnotes::before + h2, main#notice div#page-content ol.loop li article h4 + h2, main#notice div#page-content ol.loop li article main#publication div#page-contents div.footnotes::before + h2, main#publication div#page-contents main#notice div#page-content ol.loop li article div.footnotes::before + h2, main#notice div#page-content ol.loop li article main#manual div#page-contents div.footnotes::before + h2, main#manual div#page-contents main#notice div#page-content ol.loop li article div.footnotes::before + h2, main#notice div#page-content ol.loop li article main#publication div#page-contents ul#markdown-toc::before + h2, main#publication div#page-contents main#notice div#page-content ol.loop li article ul#markdown-toc::before + h2, main#notice div#page-content ol.loop li article main#publication div#page-contents ol#markdown-toc::before + h2, main#publication div#page-contents main#notice div#page-content ol.loop li article ol#markdown-toc::before + h2, main#notice div#page-content ol.loop li article main#manual div#page-contents ul#markdown-toc::before + h2, main#manual div#page-contents main#notice div#page-content ol.loop li article ul#markdown-toc::before + h2, main#notice div#page-content ol.loop li article main#manual div#page-contents ol#markdown-toc::before + h2, main#manual div#page-contents main#notice div#page-content ol.loop li article ol#markdown-toc::before + h2, main#notice div#page-content ol.loop li article div.footnotes::before + h2, main#page div#page-content div.footnotes::before + h5, main#networks div#page-content div.footnotes::before + h5, main#topic div#page-content div.footnotes::before + h5, main#loop div#page-content ul li article h2 + h5, main#loop main#news div#page-content ul.loop li article h2 + h2, main#loop main#event div#page-content ul.loop li article h2 + h2, main#loop main#consultation div#page-content ul.loop li article h2 + h2, main#news main#loop div#page-content ul.loop li article h2 + h2, main#event main#loop div#page-content ul.loop li article h2 + h2, main#consultation main#loop div#page-content ul.loop li article h2 + h2, main#loop main#notice div#page-content ul.loop li article h2 + h2, main#notice main#loop div#page-content ul.loop li article h2 + h2, main#loop div#page-content ol li article h2 + h5, main#loop main#news div#page-content ol.loop li article h2 + h2, main#loop main#event div#page-content ol.loop li article h2 + h2, main#loop main#consultation div#page-content ol.loop li article h2 + h2, main#news main#loop div#page-content ol.loop li article h2 + h2, main#event main#loop div#page-content ol.loop li article h2 + h2, main#consultation main#loop div#page-content ol.loop li article h2 + h2, main#loop main#notice div#page-content ol.loop li article h2 + h2, main#notice main#loop div#page-content ol.loop li article h2 + h2, main#admin div#page-content ul li article h2 + h5, main#admin main#news div#page-content ul.loop li article h2 + h2, main#admin main#event div#page-content ul.loop li article h2 + h2, main#admin main#consultation div#page-content ul.loop li article h2 + h2, main#news main#admin div#page-content ul.loop li article h2 + h2, main#event main#admin div#page-content ul.loop li article h2 + h2, main#consultation main#admin div#page-content ul.loop li article h2 + h2, main#admin main#notice div#page-content ul.loop li article h2 + h2, main#notice main#admin div#page-content ul.loop li article h2 + h2, main#admin div#page-content ol li article h2 + h5, main#admin main#news div#page-content ol.loop li article h2 + h2, main#admin main#event div#page-content ol.loop li article h2 + h2, main#admin main#consultation div#page-content ol.loop li article h2 + h2, main#news main#admin div#page-content ol.loop li article h2 + h2, main#event main#admin div#page-content ol.loop li article h2 + h2, main#consultation main#admin div#page-content ol.loop li article h2 + h2, main#admin main#notice div#page-content ol.loop li article h2 + h2, main#notice main#admin div#page-content ol.loop li article h2 + h2, main#four-oh-four div#page-content div.footnotes::before + h5 { padding-top: 0 !important; }
 
 h6 { font-weight: bold; font-size: 19px; padding: 10px 0; }
 
@@ -542,113 +542,6 @@ main#loop div#page-share h2.page-share-title:nth-of-type(n+2), main#admin div#pa
 
 main#loop div#page-share p, main#admin div#page-share p { font-size: 15px; }
 
-body.topic nav#site-navigation { padding: 0; }
-
-body.topic nav#site-navigation div#menu { box-shadow: none !important; }
-
-header#pride-2020 { background: #e6007e; color: #ffffff; }
-
-header#podcast { background: #e6007e; color: #ffffff; }
-
-header#pride-2019 { background: #e6007e; color: #ffffff; }
-
-header#bispace { background: #ffed00; color: #0B0C0C; }
-
-@supports (display: grid) { main#topic { display: grid; grid-template-rows: auto auto auto auto; grid-template-columns: 1fr; grid-template-areas: "page-title" "page-lead-paragraph" "page-social" "page-content"; }
-  @media only screen and (min-width: 768px) { main#topic { grid-template-rows: auto auto auto auto; grid-template-columns: 2fr 1fr; grid-column-gap: 30px; grid-template-areas: "page-title page-title" "page-lead-paragraph ." "page-social ." "page-content page-content"; } } }
-
-main#topic #page-title { margin-top: 45px; margin-bottom: 45px; }
-
-@supports (display: grid) { main#topic #page-title { grid-area: page-title; } }
-
-@media only screen and (min-width: 768px) { main#topic #page-title h1.page-title { font-size: 60px; } }
-
-main#topic div#page-lead-paragraph { margin-bottom: 0px; }
-
-@supports (display: grid) { main#topic div#page-lead-paragraph { grid-area: page-lead-paragraph; } }
-
-main#topic #page-social { margin-bottom: 15px; }
-
-@supports (display: grid) { main#topic #page-social { grid-area: page-social; } }
-
-main#topic #page-social ul, main#topic #page-social ol { padding: 0; margin: 0; list-style: none; display: block; }
-
-main#topic #page-social ul li, main#topic #page-social ol li { padding: 0 15px 15px 0; float: left; margin: 0; }
-
-main#topic #page-social ul li a, main#topic #page-social ol li a { display: block; }
-
-main#topic #page-social ul li a::after, main#topic #page-social ol li a::after { content: ""; clear: both; display: table; }
-
-main#topic #page-social ul li span.icon, main#topic #page-social ol li span.icon { display: block; max-height: 40px; max-width: 40px; float: left; clear: left; padding: 8px; margin-right: 10px; }
-
-main#topic #page-social ul li span.icon.twitter, main#topic #page-social ol li span.icon.twitter { background: #1da1f2; }
-
-main#topic #page-social ul li span.icon.facebook, main#topic #page-social ol li span.icon.facebook { background: #3b5998; }
-
-main#topic #page-social ul li span.icon.instagram, main#topic #page-social ol li span.icon.instagram { background: #e4405f; }
-
-main#topic #page-social ul li span.icon.youtube, main#topic #page-social ol li span.icon.youtube { background: #FF0000; }
-
-main#topic #page-social ul li span.icon svg, main#topic #page-social ol li span.icon svg { display: inline-block; width: 24px; height: 24px; margin: 0; padding: 0; fill: #ffffff; }
-
-main#topic #page-social ul li p, main#topic #page-social ol li p { float: left; clear: none; padding: 0; margin-bottom: 0; height: 40px; line-height: 40px; vertical-align: middle; }
-
-main#topic #page-content { border-top: none !important; }
-
-@media only screen and (min-width: 768px) { main#topic #page-content { width: 100%; float: left; clear: left; } }
-
-@supports (display: grid) { main#topic #page-content { width: 100%; float: none; clear: none; grid-area: page-content; } }
-
-main#topic #page-content section#topic-section { padding-bottom: 45px; }
-
-main#topic #page-content section#topic-section::after { content: ""; clear: both; display: table; }
-
-@supports (display: grid) { main#topic #page-content section#topic-section { display: grid; grid-template-columns: 1fr; grid-template-rows: auto auto; grid-row-gap: 30px; grid-template-areas: "title" "posts"; padding-bottom: 15px; }
-  @media only screen and (min-width: 768px) { main#topic #page-content section#topic-section { grid-template-columns: 4fr 7fr; grid-column-gap: 30px; grid-template-rows: auto; grid-template-areas: "title posts"; } } }
-
-main#topic #page-content section#topic-section h2.section-title { padding: 30px 0 0 0; font-size: 36px; border-top: 2px solid #e6007e; }
-
-@supports (display: grid) { main#topic #page-content section#topic-section h2.section-title { grid-area: title; } }
-
-@media only screen and (min-width: 768px) { main#topic #page-content section#topic-section h2.section-title { width: calc(40% - 50px); float: left; clear: left; margin-right: 50px; padding-bottom: 30px; } }
-
-@supports (display: grid) { main#topic #page-content section#topic-section h2.section-title { width: 100%; float: none; clear: none; margin-right: 0; } }
-
-main#topic #page-content section#topic-section h2.section-title a { color: #0B0C0C; text-decoration: none; }
-
-main#topic #page-content section#topic-section h2.section-title a:hover, main#topic #page-content section#topic-section h2.section-title a:focus { color: #0B0C0C; text-decoration: underline; -webkit-text-decoration-color: #e6007e; text-decoration-color: #e6007e; }
-
-main#topic #page-content section#topic-section ul, main#topic #page-content section#topic-section ol { list-style: none; padding: 0; }
-
-@media only screen and (min-width: 768px) { main#topic #page-content section#topic-section ul, main#topic #page-content section#topic-section ol { width: 60%; float: left; clear: none; } @supports (display: grid) { main#topic #page-content section#topic-section ul, main#topic #page-content section#topic-section ol { width: 100%; float: none; clear: none; } } }
-
-@supports (display: grid) { main#topic #page-content section#topic-section ul, main#topic #page-content section#topic-section ol { grid-area: posts; } }
-
-main#topic #page-content section#topic-section ul li, main#topic #page-content section#topic-section ol li { padding: 15px 0; border-top: 1px solid #DEE0E2; }
-
-main#topic #page-content section#topic-section ul li:first-of-type, main#topic #page-content section#topic-section ol li:first-of-type { border-top: 2px solid #DEE0E2; }
-
-main#topic #page-content section#topic-section ul li article h2, main#topic #page-content section#topic-section ol li article h2 { padding: 0; font-size: 24px; }
-
-main#topic #page-content section#topic-section ul li article p, main#topic #page-content section#topic-section ol li article p { font-size: 17px; margin: 5px 0 0 0; }
-
-main#topic #page-content section#topic-section ul li article p.post-metadata, main#topic #page-content section#topic-section ol li article p.post-metadata { font-size: 15px; color: #6F777B; }
-
-@supports (display: grid) { main#networks { display: grid; grid-template-rows: auto auto auto; grid-template-columns: 1fr; grid-template-areas: "page-title" "page-lead-paragraph" "page-content"; }
-  @media only screen and (min-width: 768px) { main#networks { grid-template-rows: auto auto auto; grid-template-columns: 2fr 1fr; grid-column-gap: 30px; grid-template-areas: "page-title page-title" "page-lead-paragraph ." "page-content page-content"; } } }
-
-main#networks #page-title { margin-top: 45px; margin-bottom: 45px; }
-
-@supports (display: grid) { main#networks #page-title { grid-area: page-title; } }
-
-@media only screen and (min-width: 768px) { main#networks #page-title h1.page-title { font-size: 96px; } }
-
-@media only screen and (min-width: 768px) { main#networks #page-content { width: 100%; float: left; clear: left; } }
-
-@supports (display: grid) { main#networks #page-content { width: 100%; float: none; clear: none; grid-area: page-content; } }
-
-main#networks #page-content table tr td { padding: 15px 0; }
-
 main#join-us, main#update-profile { padding: 45px 0; }
 
 @supports (display: grid) { main#join-us, main#update-profile { display: grid; grid-template-rows: auto auto auto; grid-template-columns: 1fr; grid-template-areas: "page-title" "page-lead-paragraph" "page-content"; }
@@ -756,50 +649,50 @@ main#profile-update div#mce-responses div#mce-success-response.response::before 
 
 main#profile-update div#mce-responses div#mce-error-response.response::before { content: "Check your email" !important; }
 
-main#page, main#topic, main#networks { padding: 45px 0; }
+main#page, main#networks, main#topic { padding: 45px 0; }
 
-@supports (display: grid) { main#page, main#topic, main#networks { display: grid; grid-template-rows: auto auto auto; grid-template-columns: 1fr; grid-template-areas: "page-title" "page-lead-paragraph" "page-content"; }
-  @media only screen and (min-width: 768px) { main#page, main#topic, main#networks { grid-template-rows: auto auto auto; grid-template-columns: 2fr 1fr; grid-column-gap: 30px; grid-template-areas: "page-title ." "page-lead-paragraph ." "page-content ."; } } }
+@supports (display: grid) { main#page, main#networks, main#topic { display: grid; grid-template-rows: auto auto auto; grid-template-columns: 1fr; grid-template-areas: "page-title" "page-lead-paragraph" "page-content"; }
+  @media only screen and (min-width: 768px) { main#page, main#networks, main#topic { grid-template-rows: auto auto auto; grid-template-columns: 2fr 1fr; grid-column-gap: 30px; grid-template-areas: "page-title ." "page-lead-paragraph ." "page-content ."; } } }
 
-main#page::after, main#topic::after, main#networks::after { content: ""; clear: both; display: table; }
+main#page::after, main#networks::after, main#topic::after { content: ""; clear: both; display: table; }
 
-main#page div#page-title, main#topic div#page-title, main#networks div#page-title { margin-top: 45px; margin-bottom: 45px; }
+main#page div#page-title, main#networks div#page-title, main#topic div#page-title { margin-top: 45px; margin-bottom: 45px; }
 
-@supports (display: grid) { main#page div#page-title, main#topic div#page-title, main#networks div#page-title { grid-area: page-title; } }
+@supports (display: grid) { main#page div#page-title, main#networks div#page-title, main#topic div#page-title { grid-area: page-title; } }
 
-main#page div#page-title h1.page-title, main#topic div#page-title h1.page-title, main#networks div#page-title h1.page-title { margin: 0; padding: 0; }
+main#page div#page-title h1.page-title, main#networks div#page-title h1.page-title, main#topic div#page-title h1.page-title { margin: 0; padding: 0; }
 
-main#page div#page-lead-paragraph, main#topic div#page-lead-paragraph, main#networks div#page-lead-paragraph { margin-bottom: 45px; }
+main#page div#page-lead-paragraph, main#networks div#page-lead-paragraph, main#topic div#page-lead-paragraph { margin-bottom: 45px; }
 
-@supports (display: grid) { main#page div#page-lead-paragraph, main#topic div#page-lead-paragraph, main#networks div#page-lead-paragraph { grid-area: page-lead-paragraph; } }
+@supports (display: grid) { main#page div#page-lead-paragraph, main#networks div#page-lead-paragraph, main#topic div#page-lead-paragraph { grid-area: page-lead-paragraph; } }
 
-main#page div#page-lead-paragraph p, main#topic div#page-lead-paragraph p, main#networks div#page-lead-paragraph p { font-size: 24px; }
+main#page div#page-lead-paragraph p, main#networks div#page-lead-paragraph p, main#topic div#page-lead-paragraph p { font-size: 24px; }
 
-main#page div#page-metadata, main#topic div#page-metadata, main#networks div#page-metadata { margin-bottom: 45px; padding-top: 15px; border-top: 2px solid #DEE0E2; }
+main#page div#page-metadata, main#networks div#page-metadata, main#topic div#page-metadata { margin-bottom: 45px; padding-top: 15px; border-top: 2px solid #DEE0E2; }
 
-@supports (display: grid) { main#page div#page-metadata, main#topic div#page-metadata, main#networks div#page-metadata { grid-area: page-metadata; } }
+@supports (display: grid) { main#page div#page-metadata, main#networks div#page-metadata, main#topic div#page-metadata { grid-area: page-metadata; } }
 
-main#page div#page-metadata p, main#topic div#page-metadata p, main#networks div#page-metadata p { font-size: 16px; margin: 0; }
+main#page div#page-metadata p, main#networks div#page-metadata p, main#topic div#page-metadata p { font-size: 16px; margin: 0; }
 
-main#page div#page-content, main#topic div#page-content, main#networks div#page-content { margin-bottom: 45px; padding-top: 15px; border-top: 2px solid #DEE0E2; }
+main#page div#page-content, main#networks div#page-content, main#topic div#page-content { margin-bottom: 45px; padding-top: 15px; border-top: 2px solid #DEE0E2; }
 
-@media only screen and (min-width: 768px) { main#page div#page-content, main#topic div#page-content, main#networks div#page-content { width: 67%; float: left; clear: left; } }
+@media only screen and (min-width: 768px) { main#page div#page-content, main#networks div#page-content, main#topic div#page-content { width: 67%; float: left; clear: left; } }
 
-@supports (display: grid) { main#page div#page-content, main#topic div#page-content, main#networks div#page-content { width: 100%; float: none; clear: none; grid-area: page-content; } }
+@supports (display: grid) { main#page div#page-content, main#networks div#page-content, main#topic div#page-content { width: 100%; float: none; clear: none; grid-area: page-content; } }
 
-main#page div#page-content img.page-image, main#topic div#page-content img.page-image, main#networks div#page-content img.page-image { width: 100%; min-width: 100%; min-height: 100px; }
+main#page div#page-content img.page-image, main#networks div#page-content img.page-image, main#topic div#page-content img.page-image { width: 100%; min-width: 100%; min-height: 100px; }
 
-main#page div#page-content div.footnotes, main#topic div#page-content div.footnotes, main#networks div#page-content div.footnotes { border-top: 2px solid #DEE0E2; margin-top: 45px; padding: 15px 0 0 0; }
+main#page div#page-content div.footnotes, main#networks div#page-content div.footnotes, main#topic div#page-content div.footnotes { border-top: 2px solid #DEE0E2; margin-top: 45px; padding: 15px 0 0 0; }
 
-main#page div#page-content div.footnotes::before, main#topic div#page-content div.footnotes::before, main#networks div#page-content div.footnotes::before { display: inline-block; width: 100%; padding-bottom: 15px; content: "Footnotes"; }
+main#page div#page-content div.footnotes::before, main#networks div#page-content div.footnotes::before, main#topic div#page-content div.footnotes::before { display: inline-block; width: 100%; padding-bottom: 15px; content: "Footnotes"; }
 
-main#page tr td:first-child, main#topic tr td:first-child, main#networks tr td:first-child { min-width: 75px; vertical-align: top; }
+main#page tr td:first-child, main#networks tr td:first-child, main#topic tr td:first-child { min-width: 75px; vertical-align: top; }
 
-@media only screen and (min-width: 768px) { main#page tr td:first-child, main#topic tr td:first-child, main#networks tr td:first-child { min-width: 150px; } }
+@media only screen and (min-width: 768px) { main#page tr td:first-child, main#networks tr td:first-child, main#topic tr td:first-child { min-width: 150px; } }
 
-main#page tr td:nth-child(2) h2, main#topic tr td:nth-child(2) h2, main#networks tr td:nth-child(2) h2 { padding-top: 0; padding-bottom: 10px; }
+main#page tr td:nth-child(2) h2, main#networks tr td:nth-child(2) h2, main#topic tr td:nth-child(2) h2 { padding-top: 0; padding-bottom: 10px; }
 
-main#page tr td img, main#topic tr td img, main#networks tr td img { margin-top: 10px; max-width: 150px !important; }
+main#page tr td img, main#networks tr td img, main#topic tr td img { margin-top: 10px; max-width: 150px !important; }
 
 main::after { content: ""; clear: both; display: table; }
 
@@ -964,5 +857,112 @@ main#event div#page-lead-paragraph h2 { color: #ffffff; padding: 0; margin: 0 0 
 main#event div#page-content { border-top: none; }
 
 main#event div#page-content h2 { font-size: 36px; margin: 0 0 30px 0; padding: 0; }
+
+body.topic nav#site-navigation { padding: 0; }
+
+body.topic nav#site-navigation div#menu { box-shadow: none !important; }
+
+header#pride-2020 { background: #e6007e; color: #ffffff; }
+
+header#podcast { background: #e6007e; color: #ffffff; }
+
+header#pride-2019 { background: #e6007e; color: #ffffff; }
+
+header#bispace { background: #ffed00; color: #0B0C0C; }
+
+@supports (display: grid) { main#topic { display: grid; grid-template-rows: auto auto auto auto; grid-template-columns: 1fr; grid-template-areas: "page-title" "page-lead-paragraph" "page-social" "page-content"; }
+  @media only screen and (min-width: 768px) { main#topic { grid-template-rows: auto auto auto auto; grid-template-columns: 2fr 1fr; grid-column-gap: 30px; grid-template-areas: "page-title page-title" "page-lead-paragraph ." "page-social page-social" "page-content page-content"; } } }
+
+main#topic #page-title { margin-top: 45px; margin-bottom: 45px; }
+
+@supports (display: grid) { main#topic #page-title { grid-area: page-title; } }
+
+@media only screen and (min-width: 768px) { main#topic #page-title h1.page-title { font-size: 60px; } }
+
+main#topic div#page-lead-paragraph { margin-bottom: 0px; }
+
+@supports (display: grid) { main#topic div#page-lead-paragraph { grid-area: page-lead-paragraph; } }
+
+main#topic #page-social { margin-bottom: 15px; }
+
+@supports (display: grid) { main#topic #page-social { grid-area: page-social; } }
+
+main#topic #page-social ul, main#topic #page-social ol { padding: 0; margin: 0; list-style: none; display: block; }
+
+main#topic #page-social ul li, main#topic #page-social ol li { padding: 0 15px 15px 0; float: left; margin: 0; }
+
+main#topic #page-social ul li a, main#topic #page-social ol li a { display: block; }
+
+main#topic #page-social ul li a::after, main#topic #page-social ol li a::after { content: ""; clear: both; display: table; }
+
+main#topic #page-social ul li span.icon, main#topic #page-social ol li span.icon { display: block; max-height: 40px; max-width: 40px; float: left; clear: left; padding: 8px; margin-right: 10px; }
+
+main#topic #page-social ul li span.icon.twitter, main#topic #page-social ol li span.icon.twitter { background: #1da1f2; }
+
+main#topic #page-social ul li span.icon.facebook, main#topic #page-social ol li span.icon.facebook { background: #3b5998; }
+
+main#topic #page-social ul li span.icon.instagram, main#topic #page-social ol li span.icon.instagram { background: #e4405f; }
+
+main#topic #page-social ul li span.icon.youtube, main#topic #page-social ol li span.icon.youtube { background: #FF0000; }
+
+main#topic #page-social ul li span.icon svg, main#topic #page-social ol li span.icon svg { display: inline-block; width: 24px; height: 24px; margin: 0; padding: 0; fill: #ffffff; }
+
+main#topic #page-social ul li p, main#topic #page-social ol li p { float: left; clear: none; padding: 0; margin-bottom: 0; height: 40px; line-height: 40px; vertical-align: middle; }
+
+main#topic #page-content { border-top: none !important; }
+
+@media only screen and (min-width: 768px) { main#topic #page-content { width: 100%; float: left; clear: left; } }
+
+@supports (display: grid) { main#topic #page-content { width: 100%; float: none; clear: none; grid-area: page-content; } }
+
+main#topic #page-content section#topic-section { padding-bottom: 45px; }
+
+main#topic #page-content section#topic-section::after { content: ""; clear: both; display: table; }
+
+@supports (display: grid) { main#topic #page-content section#topic-section { display: grid; grid-template-columns: 1fr; grid-template-rows: auto auto; grid-row-gap: 30px; grid-template-areas: "title" "posts"; padding-bottom: 15px; }
+  @media only screen and (min-width: 768px) { main#topic #page-content section#topic-section { grid-template-columns: 4fr 7fr; grid-column-gap: 30px; grid-template-rows: auto; grid-template-areas: "title posts"; } } }
+
+main#topic #page-content section#topic-section h2.section-title { padding: 30px 0 0 0; font-size: 36px; border-top: 2px solid #e6007e; }
+
+@supports (display: grid) { main#topic #page-content section#topic-section h2.section-title { grid-area: title; } }
+
+@media only screen and (min-width: 768px) { main#topic #page-content section#topic-section h2.section-title { width: calc(40% - 50px); float: left; clear: left; margin-right: 50px; padding-bottom: 30px; } }
+
+@supports (display: grid) { main#topic #page-content section#topic-section h2.section-title { width: 100%; float: none; clear: none; margin-right: 0; } }
+
+main#topic #page-content section#topic-section h2.section-title a { color: #0B0C0C; text-decoration: none; }
+
+main#topic #page-content section#topic-section h2.section-title a:hover, main#topic #page-content section#topic-section h2.section-title a:focus { color: #0B0C0C; text-decoration: underline; -webkit-text-decoration-color: #e6007e; text-decoration-color: #e6007e; }
+
+main#topic #page-content section#topic-section ul, main#topic #page-content section#topic-section ol { list-style: none; padding: 0; }
+
+@media only screen and (min-width: 768px) { main#topic #page-content section#topic-section ul, main#topic #page-content section#topic-section ol { width: 60%; float: left; clear: none; } @supports (display: grid) { main#topic #page-content section#topic-section ul, main#topic #page-content section#topic-section ol { width: 100%; float: none; clear: none; } } }
+
+@supports (display: grid) { main#topic #page-content section#topic-section ul, main#topic #page-content section#topic-section ol { grid-area: posts; } }
+
+main#topic #page-content section#topic-section ul li, main#topic #page-content section#topic-section ol li { padding: 15px 0; border-top: 1px solid #DEE0E2; }
+
+main#topic #page-content section#topic-section ul li:first-of-type, main#topic #page-content section#topic-section ol li:first-of-type { border-top: 2px solid #DEE0E2; }
+
+main#topic #page-content section#topic-section ul li article h2, main#topic #page-content section#topic-section ol li article h2 { padding: 0; font-size: 24px; }
+
+main#topic #page-content section#topic-section ul li article p, main#topic #page-content section#topic-section ol li article p { font-size: 17px; margin: 5px 0 0 0; }
+
+main#topic #page-content section#topic-section ul li article p.post-metadata, main#topic #page-content section#topic-section ol li article p.post-metadata { font-size: 15px; color: #6F777B; }
+
+@supports (display: grid) { main#networks { display: grid; grid-template-rows: auto auto auto; grid-template-columns: 1fr; grid-template-areas: "page-title" "page-lead-paragraph" "page-content"; }
+  @media only screen and (min-width: 768px) { main#networks { grid-template-rows: auto auto auto; grid-template-columns: 2fr 1fr; grid-column-gap: 30px; grid-template-areas: "page-title page-title" "page-lead-paragraph ." "page-content page-content"; } } }
+
+main#networks #page-title { margin-top: 45px; margin-bottom: 45px; }
+
+@supports (display: grid) { main#networks #page-title { grid-area: page-title; } }
+
+@media only screen and (min-width: 768px) { main#networks #page-title h1.page-title { font-size: 96px; } }
+
+@media only screen and (min-width: 768px) { main#networks #page-content { width: 100%; float: left; clear: left; } }
+
+@supports (display: grid) { main#networks #page-content { width: 100%; float: none; clear: none; grid-area: page-content; } }
+
+main#networks #page-content table tr td { padding: 15px 0; }
 
 /*# sourceMappingURL=styles.css.map */

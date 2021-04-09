@@ -531,7 +531,7 @@ header#pride-2019 { background: #e6007e; color: #ffffff; }
 header#bispace { background: #ffed00; color: #0B0C0C; }
 
 @supports (display: grid) { main#topic { display: grid; grid-template-rows: auto auto auto auto; grid-template-columns: 1fr; grid-template-areas: "page-title" "page-lead-paragraph" "page-social" "page-content"; }
-  @media only screen and (min-width: 768px) { main#topic { grid-template-rows: auto auto auto auto; grid-template-columns: 2fr 1fr; grid-column-gap: 30px; grid-template-areas: "page-title page-title" "page-lead-paragraph ." "page-social ." "page-content page-content"; } } }
+  @media only screen and (min-width: 768px) { main#topic { grid-template-rows: auto auto auto auto; grid-template-columns: 2fr 1fr; grid-column-gap: 30px; grid-template-areas: "page-title page-title" "page-lead-paragraph ." "page-social page-social" "page-content page-content"; } } }
 
 main#topic #page-title { margin-top: 45px; margin-bottom: 45px; }
 
