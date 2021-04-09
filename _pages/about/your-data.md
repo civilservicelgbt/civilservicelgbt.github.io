@@ -93,7 +93,7 @@ Google Analytics sets the following cookies.
 
 Set your preference for measurement cookies:
 
-{% include cookies/measurement-cookies-change.html %}
+{% include global/cookies/measurement-cookies-change.html %}
 
 ### Strictly necessary cookies
 

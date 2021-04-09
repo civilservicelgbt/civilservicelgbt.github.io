@@ -16,7 +16,7 @@ organisation: "Civil Service LGBT+ Network"
 email: "info@civilservice.lgbt"
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.civilservice.lgbt"
+url: "http://localhost:4000"
 
 #########################
 # Social media accounts #
@@ -61,9 +61,10 @@ header-menu--title--display-text: "Civil Service LGBT+"
 # If this theme is being used for a subdomain (i.e. blog.civilservice.lgbt) then set
 # - `header-menu--subdomain-title` to 'true'
 # - `header-menu--subdomain-title--display-text` to any string value (i.e. "Image maker")
-header-menu--subdomain-title: true
-header-menu--subdomain-title--display-text: false 
+header-menu--subdomain-title: false
+header-menu--subdomain-title--display-text: "Subdomain" 
 
+header-menu--links--hidden: false
 # Header menu links
 header-menu--links:
   - display-text: "Home"
@@ -81,6 +82,10 @@ header-menu--links:
   - display-text: "Publications"
     alt-text: "Visit the Publications page"
     url: "/publications"
+    hidden: false
+  - display-text: "Consultations"
+    alt-text: "Visit the Consultations page"
+    url: "/consultations"
     hidden: false
   - display-text: "Networks"
     alt-text: "Visit the Networks page"
@@ -184,49 +189,49 @@ collections:
     permalink: /:path/
     defaults:
       values:
-        layout: page
+        layout: formats/page
   news:
     output: true
     permalink: /news/:year/:month/:day/:title/
     defaults:
       values:
-        layout: news
+        layout: formats/news
   archives:
     output: true
     permalink: /archive/:title/
     defaults:
       values:
-        layout: news
+        layout: formats/news
   publications:
     output: true
     permalink: /publication/:title/
     defaults:
       values:
-        layout: publication
+        layout: formats/publication
   consultations:
     output: true
     permalink: /consultation/:title/
     defaults:
       values:
-        layout: consultation
+        layout: formats/consultation
   events:
     output: true
     permalink: /event/:title/
     defaults:
       values:
-        layout: event
+        layout: formats/event
   past-events:
     output: true
     permalink: /event/:title/
     defaults:
       values:
-        layout: event
+        layout: formats/event
   notices:
     output: true
     permalink: /notice/:title/
     defaults:
       values:
-        layout: news
+        layout: formats/news
   topics:
     output: true
     permalink: /topic/:title/
@@ -234,7 +239,7 @@ collections:
 ##################
 # Build settings #
 ##################
-remote_theme: civilservicelgbt/theme
+remote_theme: civilservicelgbt/theme@new-header
 permalink: pretty
 markdown: kramdown
 future: false
