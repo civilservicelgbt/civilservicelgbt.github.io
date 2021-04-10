@@ -74,21 +74,21 @@ header#site-navigation ul#menu-items.open, header#site-navigation ol#menu-items.
 
 header#site-navigation ul#menu-items.closed, header#site-navigation ol#menu-items.closed { display: none; }
 
-@media only screen and (max-width: 576px) { header#site-navigation ul#menu-items, header#site-navigation ol#menu-items { padding-bottom: 20px; } }
+@media only screen and (max-width: 992px) { header#site-navigation ul#menu-items, header#site-navigation ol#menu-items { padding-bottom: 20px; } }
 
-@media only screen and (min-width: 768px) { header#site-navigation ul#menu-items.open, header#site-navigation ol#menu-items.open, header#site-navigation ul#menu-items.closed, header#site-navigation ol#menu-items.closed { display: inline-block; margin: 0; } }
+@media only screen and (min-width: 992px) { header#site-navigation ul#menu-items.open, header#site-navigation ol#menu-items.open, header#site-navigation ul#menu-items.closed, header#site-navigation ol#menu-items.closed { display: inline-block; margin: 0; } }
 
 header#site-navigation ul#menu-items li, header#site-navigation ol#menu-items li { position: relative; font-size: 19px; font-weight: normal; }
 
-@media only screen and (max-width: 576px) { header#site-navigation ul#menu-items li, header#site-navigation ol#menu-items li { display: block; width: 100%; padding: 10px 0; } }
+@media only screen and (max-width: 992px) { header#site-navigation ul#menu-items li, header#site-navigation ol#menu-items li { display: block; width: 100%; padding: 10px 0; } }
 
-@media only screen and (min-width: 768px) { header#site-navigation ul#menu-items li, header#site-navigation ol#menu-items li { display: inline-block; width: auto; padding: 0 15px 10px; } header#site-navigation ul#menu-items li:first-of-type, header#site-navigation ol#menu-items li:first-of-type { padding-left: 0; } }
+@media only screen and (min-width: 992px) { header#site-navigation ul#menu-items li, header#site-navigation ol#menu-items li { display: inline-block; width: auto; padding: 0 15px 10px; } header#site-navigation ul#menu-items li:first-of-type, header#site-navigation ol#menu-items li:first-of-type { padding-left: 0; } }
 
 header#site-navigation ul#menu-items a::after, header#site-navigation ol#menu-items a::after { content: ""; position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
-button#menu-toggle { position: absolute; display: block; top: 15px; right: 15px; left: auto; height: 23px; width: 23px; margin: 0; margin-left: auto; padding: 0; background: none; border: none; font-size: 19px; font-weight: bold; text-decoration: none; }
+button#menu-toggle { -webkit-appearance: none; border-radius: 0; position: absolute !important; top: 15px; right: 15px; left: auto; height: 23px; width: 23px; min-height: unset !important; min-width: unset !important; margin: 0; margin-left: auto; padding: 0; background: none; border: none; font-size: 19px; font-weight: bold; text-decoration: none; }
 
-@media only screen and (min-width: 768px) { button#menu-toggle { display: none; } }
+@media only screen and (min-width: 992px) { button#menu-toggle { display: none; } }
 
 button#menu-toggle span.bar { position: absolute; display: block; height: 6px; width: 23px; margin-left: auto; margin-right: 0; left: 0; background: #ffffff; transition: all 0.5s ease; }
 
