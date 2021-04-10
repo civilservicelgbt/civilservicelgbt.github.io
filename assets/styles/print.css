@@ -86,23 +86,23 @@ header#site-navigation ul#menu-items li, header#site-navigation ol#menu-items li
 
 header#site-navigation ul#menu-items a::after, header#site-navigation ol#menu-items a::after { content: ""; position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
-button#menu-toggle, main#join-us div#page-content div#mc_embed_signup input#menu-toggle[type='submit'], main#update-profile div#page-content div#mc_embed_signup input#menu-toggle[type='submit'] { position: absolute; display: block; top: 15px; right: 15px; left: auto; height: 23px; width: 23px; margin: 0; margin-left: auto; padding: 0; background: none; border: none; font-size: 19px; font-weight: bold; text-decoration: none; }
+button#menu-toggle { position: absolute; display: block; top: 15px; right: 15px; left: auto; height: 23px; width: 23px; margin: 0; margin-left: auto; padding: 0; background: none; border: none; font-size: 19px; font-weight: bold; text-decoration: none; }
 
-@media only screen and (min-width: 768px) { button#menu-toggle, main#join-us div#page-content div#mc_embed_signup input#menu-toggle[type='submit'], main#update-profile div#page-content div#mc_embed_signup input#menu-toggle[type='submit'] { display: none; } }
+@media only screen and (min-width: 768px) { button#menu-toggle { display: none; } }
 
-button#menu-toggle span.bar, main#join-us div#page-content div#mc_embed_signup input#menu-toggle[type='submit'] span.bar, main#update-profile div#page-content div#mc_embed_signup input#menu-toggle[type='submit'] span.bar { position: absolute; display: block; height: 6px; width: 23px; margin-left: auto; margin-right: 0; left: 0; background: #ffffff; transition: all 0.5s ease; }
+button#menu-toggle span.bar { position: absolute; display: block; height: 6px; width: 23px; margin-left: auto; margin-right: 0; left: 0; background: #ffffff; transition: all 0.5s ease; }
 
-button#menu-toggle span.bar:nth-of-type(1), main#join-us div#page-content div#mc_embed_signup input#menu-toggle[type='submit'] span.bar:nth-of-type(1), main#update-profile div#page-content div#mc_embed_signup input#menu-toggle[type='submit'] span.bar:nth-of-type(1) { top: 0; bottom: auto; }
+button#menu-toggle span.bar:nth-of-type(1) { top: 0; bottom: auto; }
 
-button#menu-toggle span.bar:nth-of-type(2), main#join-us div#page-content div#mc_embed_signup input#menu-toggle[type='submit'] span.bar:nth-of-type(2), main#update-profile div#page-content div#mc_embed_signup input#menu-toggle[type='submit'] span.bar:nth-of-type(2) { top: auto; bottom: 6px; }
+button#menu-toggle span.bar:nth-of-type(2) { top: auto; bottom: 6px; }
 
-button#menu-toggle:hover span.bar, main#join-us div#page-content div#mc_embed_signup input#menu-toggle[type='submit']:hover span.bar, main#update-profile div#page-content div#mc_embed_signup input#menu-toggle[type='submit']:hover span.bar, button#menu-toggle:focus span.bar, main#join-us div#page-content div#mc_embed_signup input#menu-toggle[type='submit']:focus span.bar, main#update-profile div#page-content div#mc_embed_signup input#menu-toggle[type='submit']:focus span.bar { transition: all 0.5s ease; }
+button#menu-toggle:hover span.bar, button#menu-toggle:focus span.bar { transition: all 0.5s ease; }
 
-button#menu-toggle.open span.bar, main#join-us div#page-content div#mc_embed_signup input#menu-toggle.open[type='submit'] span.bar, main#update-profile div#page-content div#mc_embed_signup input#menu-toggle.open[type='submit'] span.bar { transform-origin: center; }
+button#menu-toggle.open span.bar { transform-origin: center; }
 
-button#menu-toggle.open span.bar:nth-of-type(1), main#join-us div#page-content div#mc_embed_signup input#menu-toggle.open[type='submit'] span.bar:nth-of-type(1), main#update-profile div#page-content div#mc_embed_signup input#menu-toggle.open[type='submit'] span.bar:nth-of-type(1) { transform: rotate(45deg) translate(5px, 5px); }
+button#menu-toggle.open span.bar:nth-of-type(1) { transform: rotate(45deg) translate(5px, 5px); }
 
-button#menu-toggle.open span.bar:nth-of-type(2), main#join-us div#page-content div#mc_embed_signup input#menu-toggle.open[type='submit'] span.bar:nth-of-type(2), main#update-profile div#page-content div#mc_embed_signup input#menu-toggle.open[type='submit'] span.bar:nth-of-type(2) { transform: rotate(-45deg) translate(3px, -3px); }
+button#menu-toggle.open span.bar:nth-of-type(2) { transform: rotate(-45deg) translate(3px, -3px); }
 
 body.global-banner nav#site-navigation { padding: 0 0 9px 0; }
 
@@ -207,9 +207,9 @@ sup a { text-decoration: none; }
 
 a { display: inline; box-sizing: content-box; text-decoration-skip: ink; text-decoration-skip-ink: auto; font-weight: inherit; }
 
-a:link, a:visited { color: #2f3590; text-decoration: none; }
+a:link, a:visited { color: #009fe3; text-decoration: none; }
 
-a:hover { color: #009fe3; text-decoration: underline !important; cursor: pointer; }
+a:hover { color: #2f3590; text-decoration: underline !important; cursor: pointer; }
 
 a:focus { color: #0B0C0C !important; background: #ffed00; outline: 3px solid #ffed00; }
 
@@ -284,6 +284,46 @@ div.embed-responsive { position: relative; display: block; height: 0; padding: 0
 div.embed-responsive iframe { position: absolute; top: 0; left: 0; bottom: 0; height: 100%; width: 100%; border: 0; }
 
 iframe.twitter-tweet, twitter-widget { margin: 20px auto 40px !important; }
+
+details.collection { border-top: 2px solid #DEE0E2; }
+
+details.collection--posts--item { border-top: 1px solid #DEE0E2; }
+
+details.collection--posts--item:first-of-type { border: none; }
+
+details section { padding: 15px; }
+
+details section.collection--meta-data { padding: 0; }
+
+details section.collection--meta-data p { background: #DEE0E2; padding: 3px 30px; margin: 0; }
+
+details section.collection--meta-data p:first-child { padding-top: 15px; }
+
+details section.collection--meta-data p:last-child { padding-bottom: 15px; }
+
+details section.collections--posts { padding: 0; }
+
+details section.collections--posts p { margin: 0 0 3px 0; }
+
+details section.collections--posts p:last-child { margin-top: 15px; }
+
+details { padding: 15px 0; border-top: 2px solid #DEE0E2; }
+
+@media only screen and (min-width: 768px) { details { padding: 15px 7.5px; } }
+
+details[open] > summary { margin-bottom: 15px; }
+
+details blockquote { display: block; padding: 15px; }
+
+summary { font-size: 19px; line-height: 1.35; font-weight: bold; }
+
+summary h1, summary h2, summary h3, summary h4, summary main#publication div#page-contents div.footnotes::before, main#publication div#page-contents summary div.footnotes::before, summary main#manual div#page-contents div.footnotes::before, main#manual div#page-contents summary div.footnotes::before, summary main#publication div#page-contents ul#markdown-toc::before, main#publication div#page-contents summary ul#markdown-toc::before, summary main#publication div#page-contents ol#markdown-toc::before, main#publication div#page-contents summary ol#markdown-toc::before, summary main#manual div#page-contents ul#markdown-toc::before, main#manual div#page-contents summary ul#markdown-toc::before, summary main#manual div#page-contents ol#markdown-toc::before, main#manual div#page-contents summary ol#markdown-toc::before, summary main#news div#page-content div.footnotes::before, summary main#event div#page-content div.footnotes::before, summary main#consultation div#page-content div.footnotes::before, main#news div#page-content summary div.footnotes::before, main#event div#page-content summary div.footnotes::before, main#consultation div#page-content summary div.footnotes::before, summary main#notice div#page-content div.footnotes::before, main#notice div#page-content summary div.footnotes::before, summary main#page div#page-content div.footnotes::before, summary main#networks div#page-content div.footnotes::before, summary main#topic div#page-content div.footnotes::before, main#page div#page-content summary div.footnotes::before, main#networks div#page-content summary div.footnotes::before, main#topic div#page-content summary div.footnotes::before, summary main#four-oh-four div#page-content div.footnotes::before, main#four-oh-four div#page-content summary div.footnotes::before, summary h5, summary main#news div#page-content ul.loop li article h2, summary main#event div#page-content ul.loop li article h2, summary main#consultation div#page-content ul.loop li article h2, main#news div#page-content ul.loop li article summary h2, main#event div#page-content ul.loop li article summary h2, main#consultation div#page-content ul.loop li article summary h2, summary main#news div#page-content ol.loop li article h2, summary main#event div#page-content ol.loop li article h2, summary main#consultation div#page-content ol.loop li article h2, main#news div#page-content ol.loop li article summary h2, main#event div#page-content ol.loop li article summary h2, main#consultation div#page-content ol.loop li article summary h2, summary main#notice div#page-content ul.loop li article h2, main#notice div#page-content ul.loop li article summary h2, summary main#notice div#page-content ol.loop li article h2, main#notice div#page-content ol.loop li article summary h2, summary h6, summary legend { display: inline-block; position: relative; font-size: 19px; line-height: 1.35; padding: 0; color: unset; }
+
+summary:hover { color: #009fe3; text-decoration: underline !important; cursor: pointer; }
+
+summary:focus { color: #0B0C0C !important; background: #ffed00; outline: 3px solid #ffed00; }
+
+summary:active { color: #ffffff !important; background: #e6007e; outline: 3px solid #e6007e; }
 
 #cookie-notice { display: none; }
 
@@ -451,9 +491,9 @@ body.home section#content div.container section#social ul li:first-of-type, body
 
 body.home section#content div.container section#social ul li a, body.home section#content div.container section#social ol li a { display: inline-block; }
 
-body.home section#content div.container section#social ul li a:link, body.home section#content div.container section#social ol li a:link, body.home section#content div.container section#social ul li a:visited, body.home section#content div.container section#social ol li a:visited { color: #2f3590; text-decoration: unset; }
+body.home section#content div.container section#social ul li a:link, body.home section#content div.container section#social ol li a:link, body.home section#content div.container section#social ul li a:visited, body.home section#content div.container section#social ol li a:visited { color: #009fe3; text-decoration: unset; }
 
-body.home section#content div.container section#social ul li a:hover, body.home section#content div.container section#social ol li a:hover { color: #009fe3; text-decoration: underline !important; text-decoration-skip: ink; text-decoration-skip-ink: auto; }
+body.home section#content div.container section#social ul li a:hover, body.home section#content div.container section#social ol li a:hover { color: #2f3590; text-decoration: underline !important; text-decoration-skip: ink; text-decoration-skip-ink: auto; }
 
 body.home section#content div.container section#social ul li a:focus, body.home section#content div.container section#social ol li a:focus { color: #0B0C0C !important; background: #ffed00; box-sizing: content-box; outline: 3px solid #ffed00; }
 
@@ -630,7 +670,7 @@ main#networks #page-content table tr td { padding: 15px 0; }
 main#join-us, main#update-profile { padding: 45px 0; }
 
 @supports (display: grid) { main#join-us, main#update-profile { display: grid; grid-template-rows: auto auto auto; grid-template-columns: 1fr; grid-template-areas: "page-title" "page-lead-paragraph" "page-content"; }
-  @media only screen and (min-width: 768px) { main#join-us, main#update-profile { grid-template-rows: auto auto auto; grid-template-columns: 2fr 1fr; grid-column-gap: 30px; grid-template-areas: "page-title ." "page-lead-paragraph ." "page-content ."; } } }
+  @media only screen and (min-width: 768px) { main#join-us, main#update-profile { grid-template-rows: auto auto auto; grid-template-columns: 2fr 1fr; grid-column-gap: 30px; grid-template-areas: "page-title ." "page-lead-paragraph ." "page-content page-content"; } } }
 
 main#join-us::after, main#update-profile::after { content: ""; clear: both; display: table; }
 
@@ -666,47 +706,17 @@ main#join-us div#page-content div#mc_embed_signup div#extra-questions, main#upda
 
 main#join-us div#page-content div#mc_embed_signup div.mc-field-group, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group { display: block; width: 100%; margin: 15px 0; padding: 0; font-size: 19px; }
 
-main#join-us div#page-content div#mc_embed_signup div.mc-field-group label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group label { display: inline-block; width: 30%; float: left; line-height: 30px; vertical-align: middle; }
+main#join-us div#page-content div#mc_embed_signup div.mc-field-group label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group label { display: inline-block; float: left; width: auto; }
 
-@media only screen and (max-width: 576px) { main#join-us div#page-content div#mc_embed_signup div.mc-field-group label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group label { display: block; width: 100%; } }
-
-main#join-us div#page-content div#mc_embed_signup div.mc-field-group input[type='text'], main#join-us div#page-content div#mc_embed_signup div.mc-field-group input[type='email'], main#update-profile div#page-content div#mc_embed_signup div.mc-field-group input[type='text'], main#update-profile div#page-content div#mc_embed_signup div.mc-field-group input[type='email'] { display: inline-block; width: 70%; height: 30px; border: none; border-bottom: 3px solid #0B0C0C; font-size: 19px; }
+main#join-us div#page-content div#mc_embed_signup div.mc-field-group input[type='text'], main#join-us div#page-content div#mc_embed_signup div.mc-field-group input[type='email'], main#update-profile div#page-content div#mc_embed_signup div.mc-field-group input[type='text'], main#update-profile div#page-content div#mc_embed_signup div.mc-field-group input[type='email'] { display: inline-block; width: 70%; float: right; margin-top: 0; }
 
 @media only screen and (max-width: 576px) { main#join-us div#page-content div#mc_embed_signup div.mc-field-group input[type='text'], main#join-us div#page-content div#mc_embed_signup div.mc-field-group input[type='email'], main#update-profile div#page-content div#mc_embed_signup div.mc-field-group input[type='text'], main#update-profile div#page-content div#mc_embed_signup div.mc-field-group input[type='email'] { display: block; width: 100%; } }
 
-main#join-us div#page-content div#mc_embed_signup div.mc-field-group input[type='text']:focus, main#join-us div#page-content div#mc_embed_signup div.mc-field-group input[type='text']:hover, main#join-us div#page-content div#mc_embed_signup div.mc-field-group input[type='email']:focus, main#join-us div#page-content div#mc_embed_signup div.mc-field-group input[type='email']:hover, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group input[type='text']:focus, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group input[type='text']:hover, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group input[type='email']:focus, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group input[type='email']:hover { outline: none; border: 3px solid #e6007e; }
-
-main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group { height: auto; padding: 0; margin: 0 0 45px 0; }
-
-main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol { list-style: none; padding: 0; margin: 15px 0; }
-
-main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li { padding: 0; margin: 15px 0; line-height: 30px; vertical-align: middle; }
-
-main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='checkbox'], main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='checkbox'], main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='radio'], main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='radio'], main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='checkbox'], main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='checkbox'], main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='radio'], main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='radio'] { display: block; position: absolute; opacity: 0; cursor: pointer; width: 30px; height: 30px; margin-right: 25px; z-index: 500; }
-
-main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='checkbox'] ~ label, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='checkbox'] ~ label, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='radio'] ~ label, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='radio'] ~ label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='checkbox'] ~ label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='checkbox'] ~ label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='radio'] ~ label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='radio'] ~ label { border-bottom: 2px solid transparent; }
-
-main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='checkbox']:focus ~ span.checkbox, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='checkbox']:focus ~ span.checkbox, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='checkbox']:focus ~ span.radio, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='checkbox']:focus ~ span.radio, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='checkbox']:hover ~ span.checkbox, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='checkbox']:hover ~ span.checkbox, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='checkbox']:hover ~ span.radio, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='checkbox']:hover ~ span.radio, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='radio']:focus ~ span.checkbox, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='radio']:focus ~ span.checkbox, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='radio']:focus ~ span.radio, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='radio']:focus ~ span.radio, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='radio']:hover ~ span.checkbox, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='radio']:hover ~ span.checkbox, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='radio']:hover ~ span.radio, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='radio']:hover ~ span.radio, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='checkbox']:focus ~ span.checkbox, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='checkbox']:focus ~ span.checkbox, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='checkbox']:focus ~ span.radio, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='checkbox']:focus ~ span.radio, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='checkbox']:hover ~ span.checkbox, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='checkbox']:hover ~ span.checkbox, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='checkbox']:hover ~ span.radio, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='checkbox']:hover ~ span.radio, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='radio']:focus ~ span.checkbox, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='radio']:focus ~ span.checkbox, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='radio']:focus ~ span.radio, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='radio']:focus ~ span.radio, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='radio']:hover ~ span.checkbox, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='radio']:hover ~ span.checkbox, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='radio']:hover ~ span.radio, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='radio']:hover ~ span.radio { outline: none; border: 3px solid #e6007e; }
-
-main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='checkbox']:focus ~ span.checkbox ~ label, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='checkbox']:focus ~ span.checkbox ~ label, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='checkbox']:focus ~ span.radio ~ label, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='checkbox']:focus ~ span.radio ~ label, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='checkbox']:hover ~ span.checkbox ~ label, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='checkbox']:hover ~ span.checkbox ~ label, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='checkbox']:hover ~ span.radio ~ label, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='checkbox']:hover ~ span.radio ~ label, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='radio']:focus ~ span.checkbox ~ label, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='radio']:focus ~ span.checkbox ~ label, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='radio']:focus ~ span.radio ~ label, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='radio']:focus ~ span.radio ~ label, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='radio']:hover ~ span.checkbox ~ label, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='radio']:hover ~ span.checkbox ~ label, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='radio']:hover ~ span.radio ~ label, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='radio']:hover ~ span.radio ~ label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='checkbox']:focus ~ span.checkbox ~ label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='checkbox']:focus ~ span.checkbox ~ label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='checkbox']:focus ~ span.radio ~ label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='checkbox']:focus ~ span.radio ~ label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='checkbox']:hover ~ span.checkbox ~ label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='checkbox']:hover ~ span.checkbox ~ label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='checkbox']:hover ~ span.radio ~ label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='checkbox']:hover ~ span.radio ~ label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='radio']:focus ~ span.checkbox ~ label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='radio']:focus ~ span.checkbox ~ label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='radio']:focus ~ span.radio ~ label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='radio']:focus ~ span.radio ~ label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='radio']:hover ~ span.checkbox ~ label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='radio']:hover ~ span.checkbox ~ label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input[type='radio']:hover ~ span.radio ~ label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input[type='radio']:hover ~ span.radio ~ label { border-bottom: 2px solid #e6007e; }
-
-main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li span.checkbox, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li span.checkbox, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li span.radio, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li span.radio, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li span.checkbox, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li span.checkbox, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li span.radio, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li span.radio { display: inline-block; position: absolute; float: left; height: 30px; width: 30px; margin-right: 25px; border: 3px solid #0B0C0C; }
-
-main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li span.checkbox:hover, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li span.checkbox:hover, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li span.radio:hover, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li span.radio:hover, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li span.checkbox:hover, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li span.checkbox:hover, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li span.radio:hover, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li span.radio:hover { outline: none; border: 3px solid #e6007e; }
-
-main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li span.radio, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li span.radio, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li span.radio, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li span.radio { border-radius: 100%; }
-
-main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input:checked ~ span.checkbox::after, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input:checked ~ span.checkbox::after, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input:checked ~ span.checkbox::after, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input:checked ~ span.checkbox::after { position: absolute; top: 0; left: 0; width: 24px; height: 24px; line-height: 24px; text-align: center; vertical-align: middle; font-size: 20px; color: #e6007e; content: "\2714"; }
-
-main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input:checked ~ span.radio::after, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input:checked ~ span.radio::after, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li input:checked ~ span.radio::after, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li input:checked ~ span.radio::after { position: absolute; top: 0; left: 0; width: 24px; height: 20px; line-height: 24px; text-align: center; vertical-align: middle; font-size: 30px; color: #e6007e; content: "\25CF"; }
-
-main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li label, main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ul li label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group ol li label { margin-left: 55px; }
-
-main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group label, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group.input-group label { float: inherit; width: auto; }
-
 main#join-us div#page-content div#mc_embed_signup div.mc-field-group span.asterisk, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group span.asterisk { color: #e30613; }
 
-main#join-us div#page-content div#mc_embed_signup div.mc-field-group div.mce_inline_error, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group div.mce_inline_error { padding: 0; margin: 5px 0 30px; background: white; color: #e30613; text-align: right; }
+main#join-us div#page-content div#mc_embed_signup div.mc-field-group div.mce_inline_error, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group div.mce_inline_error { display: block; width: 100%; float: right; clear: both; padding: 0; margin: 5px 0 30px; background: white; color: #e30613; text-align: right; }
+
+main#join-us div#page-content div#mc_embed_signup div.mc-field-group::after, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group::after { content: ""; clear: both; display: table; }
 
 main#join-us div#page-content div#mc_embed_signup div#mce-responses, main#update-profile div#page-content div#mc_embed_signup div#mce-responses { margin: 30px 0; }
 
