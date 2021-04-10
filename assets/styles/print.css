@@ -86,23 +86,23 @@ header#site-navigation ul#menu-items li, header#site-navigation ol#menu-items li
 
 header#site-navigation ul#menu-items a::after, header#site-navigation ol#menu-items a::after { content: ""; position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
-button#menu-toggle { position: absolute; display: block; top: 15px; right: 15px; left: auto; height: 23px; width: 23px; margin: 0; margin-left: auto; padding: 0; background: none; border: none; font-size: 19px; font-weight: bold; text-decoration: none; }
+button#menu-toggle, main#join-us div#page-content div#mc_embed_signup input#menu-toggle[type='submit'], main#update-profile div#page-content div#mc_embed_signup input#menu-toggle[type='submit'] { position: absolute; display: block; top: 15px; right: 15px; left: auto; height: 23px; width: 23px; margin: 0; margin-left: auto; padding: 0; background: none; border: none; font-size: 19px; font-weight: bold; text-decoration: none; }
 
-@media only screen and (min-width: 768px) { button#menu-toggle { display: none; } }
+@media only screen and (min-width: 768px) { button#menu-toggle, main#join-us div#page-content div#mc_embed_signup input#menu-toggle[type='submit'], main#update-profile div#page-content div#mc_embed_signup input#menu-toggle[type='submit'] { display: none; } }
 
-button#menu-toggle span.bar { position: absolute; display: block; height: 6px; width: 23px; margin-left: auto; margin-right: 0; left: 0; background: #ffffff; transition: all 0.5s ease; }
+button#menu-toggle span.bar, main#join-us div#page-content div#mc_embed_signup input#menu-toggle[type='submit'] span.bar, main#update-profile div#page-content div#mc_embed_signup input#menu-toggle[type='submit'] span.bar { position: absolute; display: block; height: 6px; width: 23px; margin-left: auto; margin-right: 0; left: 0; background: #ffffff; transition: all 0.5s ease; }
 
-button#menu-toggle span.bar:nth-of-type(1) { top: 0; bottom: auto; }
+button#menu-toggle span.bar:nth-of-type(1), main#join-us div#page-content div#mc_embed_signup input#menu-toggle[type='submit'] span.bar:nth-of-type(1), main#update-profile div#page-content div#mc_embed_signup input#menu-toggle[type='submit'] span.bar:nth-of-type(1) { top: 0; bottom: auto; }
 
-button#menu-toggle span.bar:nth-of-type(2) { top: auto; bottom: 6px; }
+button#menu-toggle span.bar:nth-of-type(2), main#join-us div#page-content div#mc_embed_signup input#menu-toggle[type='submit'] span.bar:nth-of-type(2), main#update-profile div#page-content div#mc_embed_signup input#menu-toggle[type='submit'] span.bar:nth-of-type(2) { top: auto; bottom: 6px; }
 
-button#menu-toggle:hover span.bar, button#menu-toggle:focus span.bar { transition: all 0.5s ease; }
+button#menu-toggle:hover span.bar, main#join-us div#page-content div#mc_embed_signup input#menu-toggle[type='submit']:hover span.bar, main#update-profile div#page-content div#mc_embed_signup input#menu-toggle[type='submit']:hover span.bar, button#menu-toggle:focus span.bar, main#join-us div#page-content div#mc_embed_signup input#menu-toggle[type='submit']:focus span.bar, main#update-profile div#page-content div#mc_embed_signup input#menu-toggle[type='submit']:focus span.bar { transition: all 0.5s ease; }
 
-button#menu-toggle.open span.bar { transform-origin: center; }
+button#menu-toggle.open span.bar, main#join-us div#page-content div#mc_embed_signup input#menu-toggle.open[type='submit'] span.bar, main#update-profile div#page-content div#mc_embed_signup input#menu-toggle.open[type='submit'] span.bar { transform-origin: center; }
 
-button#menu-toggle.open span.bar:nth-of-type(1) { transform: rotate(45deg) translate(5px, 5px); }
+button#menu-toggle.open span.bar:nth-of-type(1), main#join-us div#page-content div#mc_embed_signup input#menu-toggle.open[type='submit'] span.bar:nth-of-type(1), main#update-profile div#page-content div#mc_embed_signup input#menu-toggle.open[type='submit'] span.bar:nth-of-type(1) { transform: rotate(45deg) translate(5px, 5px); }
 
-button#menu-toggle.open span.bar:nth-of-type(2) { transform: rotate(-45deg) translate(3px, -3px); }
+button#menu-toggle.open span.bar:nth-of-type(2), main#join-us div#page-content div#mc_embed_signup input#menu-toggle.open[type='submit'] span.bar:nth-of-type(2), main#update-profile div#page-content div#mc_embed_signup input#menu-toggle.open[type='submit'] span.bar:nth-of-type(2) { transform: rotate(-45deg) translate(3px, -3px); }
 
 body.global-banner nav#site-navigation { padding: 0 0 9px 0; }
 
@@ -144,7 +144,7 @@ div#site-banner ul li p a:hover, div#site-banner ol li p a:hover, div#site-banne
 
 div#site-footer { position: relative; display: block; padding: 45px 0; background: #0B0C0C; box-shadow: 0 -3px #ffed00, 0 -6px #009fe3, 0 -9px #e6007e; }
 
-div#site-footer footer#footer { display: block; position: relative; padding: 30px; }
+div#site-footer footer#footer { display: block; position: relative; padding: 15px; }
 
 div#site-footer footer#footer::after { content: ""; clear: both; display: table; }
 
@@ -165,7 +165,9 @@ div#site-footer div#footer-links, div#site-footer div#footer-disclaimer, div#sit
 
 div#site-footer div#footer-links ul, div#site-footer div#footer-links ol, div#site-footer div#footer-disclaimer ul, div#site-footer div#footer-disclaimer ol, div#site-footer div#footer-share ul, div#site-footer div#footer-share ol { list-style: none; padding: 0; margin: 0; }
 
-div#site-footer div#footer-links ul li, div#site-footer div#footer-links ol li, div#site-footer div#footer-disclaimer ul li, div#site-footer div#footer-disclaimer ol li, div#site-footer div#footer-share ul li, div#site-footer div#footer-share ol li { font-size: 15px; padding: 0; margin: 0; }
+div#site-footer div#footer-links ul li, div#site-footer div#footer-links ol li, div#site-footer div#footer-disclaimer ul li, div#site-footer div#footer-disclaimer ol li, div#site-footer div#footer-share ul li, div#site-footer div#footer-share ol li { font-size: 15px; padding: 10px 0 0 0; }
+
+@media only screen and (min-width: 768px) { div#site-footer div#footer-links ul li, div#site-footer div#footer-links ol li, div#site-footer div#footer-disclaimer ul li, div#site-footer div#footer-disclaimer ol li, div#site-footer div#footer-share ul li, div#site-footer div#footer-share ol li { padding: 0; margin: 0; } }
 
 @supports (display: grid) { div#site-footer div#footer-share { grid-area: share; } }
 
@@ -207,7 +209,7 @@ a { display: inline; box-sizing: content-box; text-decoration-skip: ink; text-de
 
 a:link, a:visited { color: #2f3590; text-decoration: none; }
 
-a:hover { color: #009fe3; text-decoration: underline !important; }
+a:hover { color: #009fe3; text-decoration: underline !important; cursor: pointer; }
 
 a:focus { color: #0B0C0C !important; background: #ffed00; outline: 3px solid #ffed00; }
 
@@ -705,10 +707,6 @@ main#join-us div#page-content div#mc_embed_signup div.mc-field-group.input-group
 main#join-us div#page-content div#mc_embed_signup div.mc-field-group span.asterisk, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group span.asterisk { color: #e30613; }
 
 main#join-us div#page-content div#mc_embed_signup div.mc-field-group div.mce_inline_error, main#update-profile div#page-content div#mc_embed_signup div.mc-field-group div.mce_inline_error { padding: 0; margin: 5px 0 30px; background: white; color: #e30613; text-align: right; }
-
-main#join-us div#page-content div#mc_embed_signup input[type='submit'], main#update-profile div#page-content div#mc_embed_signup input[type='submit'] { margin: 10px 0 45px 0; min-width: 150px; min-height: 40px; font-size: 19px; font-weight: bold; vertical-align: middle; line-height: 40px; background: #e6007e; color: #ffffff; border: 1px solid #e6007e; }
-
-main#join-us div#page-content div#mc_embed_signup input[type='submit']:hover, main#join-us div#page-content div#mc_embed_signup input[type='submit']:focus, main#update-profile div#page-content div#mc_embed_signup input[type='submit']:hover, main#update-profile div#page-content div#mc_embed_signup input[type='submit']:focus { background: #312783; cursor: pointer; }
 
 main#join-us div#page-content div#mc_embed_signup div#mce-responses, main#update-profile div#page-content div#mc_embed_signup div#mce-responses { margin: 30px 0; }
 
