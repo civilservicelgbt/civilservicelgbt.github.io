@@ -253,7 +253,7 @@ ul, ol { padding-bottom: 9.5px; padding-left: 40px; list-style: disc; }
 
 ol { list-style: decimal; }
 
-code, kbd { font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; font-weight: normal; font-size: inherit; color: #b30062; }
+code, kbd { font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; font-weight: normal; font-size: 17.1px; line-height: 1 / 0.9; color: #b30062; }
 
 pre { display: inline-block; width: 100%; overflow-x: scroll; white-space: pre-wrap; margin-bottom: 30px; padding: 20px; background: #DEE0E2; }
 
@@ -1088,7 +1088,23 @@ main#admin div#page-title h1.page-title, main#admin-new div#page-title h1.page-t
 
 @supports (display: grid) { main#admin div#page-preview, main#admin-new div#page-preview, main#admin-edit div#page-preview { grid-area: page-preview; } }
 
-main#admin div#page-preview div#post-output, main#admin-new div#page-preview div#post-output, main#admin-edit div#page-preview div#post-output { position: -webkit-sticky; position: sticky; top: 15px; font-size: 11.4px; font-weight: normal; font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; border: 1px solid #DEE0E2; padding: 15px; min-height: 375px; max-height: 600px; overflow-y: hidden; box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23); }
+main#admin div#page-preview div#post-preview, main#admin-new div#page-preview div#post-preview, main#admin-edit div#page-preview div#post-preview { display: grid; position: -webkit-sticky; position: sticky; top: 15px; grid-template-rows: auto 1fr auto; font-size: 11.4px; font-weight: normal; font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; min-height: 375px; max-height: 600px; overflow-y: hidden; box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23); }
+
+main#admin div#page-preview header#post-preview-header, main#admin-new div#page-preview header#post-preview-header, main#admin-edit div#page-preview header#post-preview-header { padding: 15px; font-weight: 900; color: #ffffff; background: #6F777B; }
+
+main#admin div#page-preview article#post-preview-output, main#admin-new div#page-preview article#post-preview-output, main#admin-edit div#page-preview article#post-preview-output { padding: 15px; }
+
+main#admin div#page-preview footer#post-preview-footer, main#admin-new div#page-preview footer#post-preview-footer, main#admin-edit div#page-preview footer#post-preview-footer { padding: 15px; text-align: right; }
+
+main#admin div#page-preview footer#post-preview-footer button, main#admin-new div#page-preview footer#post-preview-footer button, main#admin-edit div#page-preview footer#post-preview-footer button { background: unset; padding: unset; min-width: unset; min-height: unset; box-sizing: content-box; text-decoration-skip: ink; text-decoration-skip-ink: auto; display: inline; line-height: 1; font-size: 11.4px; font-weight: bold; font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; color: #009fe3; }
+
+main#admin div#page-preview footer#post-preview-footer button:link, main#admin div#page-preview footer#post-preview-footer button:visited, main#admin-new div#page-preview footer#post-preview-footer button:link, main#admin-new div#page-preview footer#post-preview-footer button:visited, main#admin-edit div#page-preview footer#post-preview-footer button:link, main#admin-edit div#page-preview footer#post-preview-footer button:visited { color: #009fe3; text-decoration: none; }
+
+main#admin div#page-preview footer#post-preview-footer button:hover, main#admin-new div#page-preview footer#post-preview-footer button:hover, main#admin-edit div#page-preview footer#post-preview-footer button:hover { color: #2f3590; text-decoration: underline !important; cursor: pointer; }
+
+main#admin div#page-preview footer#post-preview-footer button:focus, main#admin-new div#page-preview footer#post-preview-footer button:focus, main#admin-edit div#page-preview footer#post-preview-footer button:focus { color: #0B0C0C !important; background: #ffed00; outline: 3px solid #ffed00; }
+
+main#admin div#page-preview footer#post-preview-footer button:active, main#admin-new div#page-preview footer#post-preview-footer button:active, main#admin-edit div#page-preview footer#post-preview-footer button:active { color: #ffffff !important; background: #e6007e; outline: 3px solid #e6007e; }
 
 main#admin div#page-lead-paragraph, main#admin-new div#page-lead-paragraph, main#admin-edit div#page-lead-paragraph { margin-bottom: 45px; }
 
@@ -1108,21 +1124,23 @@ main#admin div#page-help, main#admin-new div#page-help, main#admin-edit div#page
 
 @supports (display: grid) { main#admin div#page-help, main#admin-new div#page-help, main#admin-edit div#page-help { grid-area: page-help; } }
 
+main#admin div#page-help ul li, main#admin div#page-help ol li, main#admin-new div#page-help ul li, main#admin-new div#page-help ol li, main#admin-edit div#page-help ul li, main#admin-edit div#page-help ol li { padding-bottom: 7.5px; }
+
 main#admin div#page-content, main#admin-new div#page-content, main#admin-edit div#page-content { margin-bottom: 45px; padding-top: 0; }
 
 @media only screen and (min-width: 768px) { main#admin div#page-content, main#admin-new div#page-content, main#admin-edit div#page-content { width: 67%; float: left; clear: left; } }
 
 @supports (display: grid) { main#admin div#page-content, main#admin-new div#page-content, main#admin-edit div#page-content { width: 100%; float: none; clear: none; grid-area: page-content; } }
 
+main#admin div#page-content button, main#admin div#page-content a.button, main#admin-new div#page-content button, main#admin-new div#page-content a.button, main#admin-edit div#page-content button, main#admin-edit div#page-content a.button { margin-bottom: 0; margin-right: 15px; padding: 7.5px 30px; }
+
+main#admin div#page-content button + label, main#admin div#page-content button + p, main#admin div#page-content button + .text-input, main#admin div#page-content button + .radio-input, main#admin div#page-content button + .checkbox-input, main#admin div#page-content button + .label, main#admin div#page-content button + .label-hint, main#admin div#page-content button + input[type="text"], main#admin div#page-content button + input[type="email"], main#admin div#page-content button + textarea, main#admin-new div#page-content button + label, main#admin-new div#page-content button + p, main#admin-new div#page-content button + .text-input, main#admin-new div#page-content button + .radio-input, main#admin-new div#page-content button + .checkbox-input, main#admin-new div#page-content button + .label, main#admin-new div#page-content button + .label-hint, main#admin-new div#page-content button + input[type="text"], main#admin-new div#page-content button + input[type="email"], main#admin-new div#page-content button + textarea, main#admin-edit div#page-content button + label, main#admin-edit div#page-content button + p, main#admin-edit div#page-content button + .text-input, main#admin-edit div#page-content button + .radio-input, main#admin-edit div#page-content button + .checkbox-input, main#admin-edit div#page-content button + .label, main#admin-edit div#page-content button + .label-hint, main#admin-edit div#page-content button + input[type="text"], main#admin-edit div#page-content button + input[type="email"], main#admin-edit div#page-content button + textarea { margin-top: 30px; }
+
+main#admin div#page-content span.optional, main#admin-new div#page-content span.optional, main#admin-edit div#page-content span.optional { color: #6F777B; font-weight: normal; font-style: italic; margin-left: 15px; }
+
 main#admin div#post-buttons, main#admin-new div#post-buttons, main#admin-edit div#post-buttons { padding-top: 15px; border-top: 2px solid #DEE0E2; }
 
 main#admin div#post-buttons p::after, main#admin div#post-buttons .text-input::after, main#admin div#post-buttons .radio-input::after, main#admin div#post-buttons .checkbox-input::after, main#admin div#post-buttons label::after, main#admin div#post-buttons .label::after, main#admin div#post-buttons .label-hint::after, main#admin div#post-buttons input[type="text"]::after, main#admin div#post-buttons input[type="email"]::after, main#admin div#post-buttons textarea::after, main#admin-new div#post-buttons p::after, main#admin-new div#post-buttons .text-input::after, main#admin-new div#post-buttons .radio-input::after, main#admin-new div#post-buttons .checkbox-input::after, main#admin-new div#post-buttons label::after, main#admin-new div#post-buttons .label::after, main#admin-new div#post-buttons .label-hint::after, main#admin-new div#post-buttons input[type="text"]::after, main#admin-new div#post-buttons input[type="email"]::after, main#admin-new div#post-buttons textarea::after, main#admin-edit div#post-buttons p::after, main#admin-edit div#post-buttons .text-input::after, main#admin-edit div#post-buttons .radio-input::after, main#admin-edit div#post-buttons .checkbox-input::after, main#admin-edit div#post-buttons label::after, main#admin-edit div#post-buttons .label::after, main#admin-edit div#post-buttons .label-hint::after, main#admin-edit div#post-buttons input[type="text"]::after, main#admin-edit div#post-buttons input[type="email"]::after, main#admin-edit div#post-buttons textarea::after { content: ""; clear: both; display: table; }
-
-main#admin div#post-buttons button, main#admin div#post-buttons a.button, main#admin-new div#post-buttons button, main#admin-new div#post-buttons a.button, main#admin-edit div#post-buttons button, main#admin-edit div#post-buttons a.button { margin-bottom: 0; padding: 7.5px 30px; }
-
-main#admin div#post-buttons button:first-of-type, main#admin div#post-buttons a.button:first-of-type, main#admin-new div#post-buttons button:first-of-type, main#admin-new div#post-buttons a.button:first-of-type, main#admin-edit div#post-buttons button:first-of-type, main#admin-edit div#post-buttons a.button:first-of-type { float: left; clear: left; }
-
-main#admin div#post-buttons button:nth-of-type(2), main#admin div#post-buttons a.button:nth-of-type(2), main#admin-new div#post-buttons button:nth-of-type(2), main#admin-new div#post-buttons a.button:nth-of-type(2), main#admin-edit div#post-buttons button:nth-of-type(2), main#admin-edit div#post-buttons a.button:nth-of-type(2) { margin-left: 30px; float: left; }
 
 main#admin details.collection--posts--item, main#admin-new details.collection--posts--item, main#admin-edit details.collection--posts--item { padding: 7.5px; border-top: 1px solid #DEE0E2; }
 
