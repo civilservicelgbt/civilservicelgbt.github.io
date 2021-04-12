@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* http://meyerweb.com/eric/tools/css/reset/ v2.0 | 20110126 License: none (public domain) */
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, main#publication div#page-contents div.footnotes::before, main#manual div#page-contents div.footnotes::before, main#publication div#page-contents ul#markdown-toc::before, main#publication div#page-contents ol#markdown-toc::before, main#manual div#page-contents ul#markdown-toc::before, main#manual div#page-contents ol#markdown-toc::before, main#news div#page-content div.footnotes::before, main#event div#page-content div.footnotes::before, main#consultation div#page-content div.footnotes::before, main#notice div#page-content div.footnotes::before, main#page div#page-content div.footnotes::before, main#networks div#page-content div.footnotes::before, main#topic div#page-content div.footnotes::before, main#loop div#page-content ul li article h2, main#loop div#page-content ol li article h2, main#admin div#page-content ul li article h2, main#admin div#page-content ol li article h2, main#four-oh-four div#page-content div.footnotes::before, h5, main#news div#page-content ul.loop li article h2, main#event div#page-content ul.loop li article h2, main#consultation div#page-content ul.loop li article h2, main#news div#page-content ol.loop li article h2, main#event div#page-content ol.loop li article h2, main#consultation div#page-content ol.loop li article h2, main#notice div#page-content ul.loop li article h2, main#notice div#page-content ol.loop li article h2, h6, p, input[type="text"], input[type="email"], textarea, .label-hint, .label, .text-input, .radio-input, .checkbox-input, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, table tfoot, table thead, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; font: inherit; font-size: 100%; vertical-align: baseline; }
 
@@ -315,15 +316,27 @@ details[open] > summary { margin-bottom: 15px; }
 
 details blockquote { display: block; padding: 15px; }
 
+details summary { /* Hide the marker completely. */ list-style-image: none; }
+
+details summary::-webkit-details-marker { display: none; }
+
+details summary:before { display: block; position: relative; top: 0; right: auto; left: 0; content: '+'; width: 30px; float: left; text-align: left; font-weight: bold; line-height: 1; }
+
+details[open] > summary::-webkit-details-marker { display: none; }
+
+details[open] > summary:before { content: '–'; }
+
 summary { font-size: 19px; line-height: 1.35; font-weight: bold; }
 
-summary h1, summary h2, summary h3, summary h4, summary main#publication div#page-contents div.footnotes::before, main#publication div#page-contents summary div.footnotes::before, summary main#manual div#page-contents div.footnotes::before, main#manual div#page-contents summary div.footnotes::before, summary main#publication div#page-contents ul#markdown-toc::before, main#publication div#page-contents summary ul#markdown-toc::before, summary main#publication div#page-contents ol#markdown-toc::before, main#publication div#page-contents summary ol#markdown-toc::before, summary main#manual div#page-contents ul#markdown-toc::before, main#manual div#page-contents summary ul#markdown-toc::before, summary main#manual div#page-contents ol#markdown-toc::before, main#manual div#page-contents summary ol#markdown-toc::before, summary main#news div#page-content div.footnotes::before, summary main#event div#page-content div.footnotes::before, summary main#consultation div#page-content div.footnotes::before, main#news div#page-content summary div.footnotes::before, main#event div#page-content summary div.footnotes::before, main#consultation div#page-content summary div.footnotes::before, summary main#notice div#page-content div.footnotes::before, main#notice div#page-content summary div.footnotes::before, summary main#page div#page-content div.footnotes::before, summary main#networks div#page-content div.footnotes::before, summary main#topic div#page-content div.footnotes::before, main#page div#page-content summary div.footnotes::before, main#networks div#page-content summary div.footnotes::before, main#topic div#page-content summary div.footnotes::before, summary main#loop div#page-content ul li article h2, main#loop div#page-content ul li article summary h2, summary main#loop div#page-content ol li article h2, main#loop div#page-content ol li article summary h2, summary main#admin div#page-content ul li article h2, main#admin div#page-content ul li article summary h2, summary main#admin div#page-content ol li article h2, main#admin div#page-content ol li article summary h2, summary main#four-oh-four div#page-content div.footnotes::before, main#four-oh-four div#page-content summary div.footnotes::before, summary h5, summary main#news div#page-content ul.loop li article h2, summary main#event div#page-content ul.loop li article h2, summary main#consultation div#page-content ul.loop li article h2, main#news div#page-content ul.loop li article summary h2, main#event div#page-content ul.loop li article summary h2, main#consultation div#page-content ul.loop li article summary h2, summary main#news div#page-content ol.loop li article h2, summary main#event div#page-content ol.loop li article h2, summary main#consultation div#page-content ol.loop li article h2, main#news div#page-content ol.loop li article summary h2, main#event div#page-content ol.loop li article summary h2, main#consultation div#page-content ol.loop li article summary h2, summary main#notice div#page-content ul.loop li article h2, main#notice div#page-content ul.loop li article summary h2, summary main#notice div#page-content ol.loop li article h2, main#notice div#page-content ol.loop li article summary h2, summary h6, summary legend { display: inline-block; position: relative; font-size: 19px; line-height: 1.35; padding: 0; color: unset; }
+summary h1, summary h2, summary h3, summary h4, summary main#publication div#page-contents div.footnotes::before, main#publication div#page-contents summary div.footnotes::before, summary main#manual div#page-contents div.footnotes::before, main#manual div#page-contents summary div.footnotes::before, summary main#publication div#page-contents ul#markdown-toc::before, main#publication div#page-contents summary ul#markdown-toc::before, summary main#publication div#page-contents ol#markdown-toc::before, main#publication div#page-contents summary ol#markdown-toc::before, summary main#manual div#page-contents ul#markdown-toc::before, main#manual div#page-contents summary ul#markdown-toc::before, summary main#manual div#page-contents ol#markdown-toc::before, main#manual div#page-contents summary ol#markdown-toc::before, summary main#news div#page-content div.footnotes::before, summary main#event div#page-content div.footnotes::before, summary main#consultation div#page-content div.footnotes::before, main#news div#page-content summary div.footnotes::before, main#event div#page-content summary div.footnotes::before, main#consultation div#page-content summary div.footnotes::before, summary main#notice div#page-content div.footnotes::before, main#notice div#page-content summary div.footnotes::before, summary main#page div#page-content div.footnotes::before, summary main#networks div#page-content div.footnotes::before, summary main#topic div#page-content div.footnotes::before, main#page div#page-content summary div.footnotes::before, main#networks div#page-content summary div.footnotes::before, main#topic div#page-content summary div.footnotes::before, summary main#loop div#page-content ul li article h2, main#loop div#page-content ul li article summary h2, summary main#loop div#page-content ol li article h2, main#loop div#page-content ol li article summary h2, summary main#admin div#page-content ul li article h2, main#admin div#page-content ul li article summary h2, summary main#admin div#page-content ol li article h2, main#admin div#page-content ol li article summary h2, summary main#four-oh-four div#page-content div.footnotes::before, main#four-oh-four div#page-content summary div.footnotes::before, summary h5, summary main#news div#page-content ul.loop li article h2, summary main#event div#page-content ul.loop li article h2, summary main#consultation div#page-content ul.loop li article h2, main#news div#page-content ul.loop li article summary h2, main#event div#page-content ul.loop li article summary h2, main#consultation div#page-content ul.loop li article summary h2, summary main#news div#page-content ol.loop li article h2, summary main#event div#page-content ol.loop li article h2, summary main#consultation div#page-content ol.loop li article h2, main#news div#page-content ol.loop li article summary h2, main#event div#page-content ol.loop li article summary h2, main#consultation div#page-content ol.loop li article summary h2, summary main#notice div#page-content ul.loop li article h2, main#notice div#page-content ul.loop li article summary h2, summary main#notice div#page-content ol.loop li article h2, main#notice div#page-content ol.loop li article summary h2, summary h6, summary legend { display: inline-block; position: relative; font-size: 19px; line-height: 1.35; padding: 0; color: unset; max-width: calc(100% - (15px * 2)); }
 
 summary:hover { color: #009fe3; text-decoration: underline !important; cursor: pointer; }
 
 summary:focus { color: #0B0C0C !important; background: #ffed00; outline: 3px solid #ffed00; }
 
 summary:active { color: #ffffff !important; background: #e6007e; outline: 3px solid #e6007e; }
+
+summary::after { content: ""; clear: both; display: table; }
 
 .radio-item { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; display: block; position: relative; min-height: 40px; margin-bottom: 10px; padding-left: 40px; clear: left; font-size: 19px; font-weight: normal; line-height: 1.35; }
 
@@ -1058,8 +1071,8 @@ main#topic #page-content section#topic-section ul li article p, main#topic #page
 
 main#topic #page-content section#topic-section ul li article p.post-metadata, main#topic #page-content section#topic-section ol li article p.post-metadata, main#topic #page-content section#topic-section ul li article .post-metadata.text-input, main#topic #page-content section#topic-section ol li article .post-metadata.text-input, main#topic #page-content section#topic-section ul li article .post-metadata.radio-input, main#topic #page-content section#topic-section ol li article .post-metadata.radio-input, main#topic #page-content section#topic-section ul li article .post-metadata.checkbox-input, main#topic #page-content section#topic-section ol li article .post-metadata.checkbox-input, main#topic #page-content section#topic-section ul li article label.post-metadata, main#topic #page-content section#topic-section ol li article label.post-metadata, main#topic #page-content section#topic-section ul li article .post-metadata.label, main#topic #page-content section#topic-section ol li article .post-metadata.label, main#topic #page-content section#topic-section ul li article .post-metadata.label-hint, main#topic #page-content section#topic-section ol li article .post-metadata.label-hint, main#topic #page-content section#topic-section ul li article input.post-metadata[type="text"], main#topic #page-content section#topic-section ol li article input.post-metadata[type="text"], main#topic #page-content section#topic-section ul li article input.post-metadata[type="email"], main#topic #page-content section#topic-section ol li article input.post-metadata[type="email"], main#topic #page-content section#topic-section ul li article textarea.post-metadata, main#topic #page-content section#topic-section ol li article textarea.post-metadata { font-size: 15px; color: #6F777B; }
 
-@supports (display: grid) { main#networks { display: grid; grid-template-rows: auto auto auto; grid-template-columns: 1fr; grid-template-areas: "page-title" "page-lead-paragraph" "page-content"; }
-  @media only screen and (min-width: 768px) { main#networks { grid-template-rows: auto auto auto; grid-template-columns: 2fr 1fr; grid-column-gap: 30px; grid-template-areas: "page-title page-title" "page-lead-paragraph ." "page-content page-content"; } } }
+@supports (display: grid) { main#networks { display: grid; grid-template-rows: auto auto auto auto auto; grid-template-columns: 1fr; grid-template-areas: "page-title" "page-lead-paragraph" "page-content" "page-networks" "page-dept-aside"; }
+  @media only screen and (min-width: 768px) { main#networks { grid-template-rows: auto auto auto auto; grid-template-columns: 2fr 1fr; grid-column-gap: 30px; grid-template-areas: "page-title ." "page-lead-paragraph ." "page-content page-aside" "page-networks page-dept-aside"; } } }
 
 main#networks #page-title { margin-top: 45px; margin-bottom: 45px; }
 
@@ -1071,7 +1084,21 @@ main#networks #page-title { margin-top: 45px; margin-bottom: 45px; }
 
 @supports (display: grid) { main#networks #page-content { width: 100%; float: none; clear: none; grid-area: page-content; } }
 
-main#networks #page-content table tr td { padding: 15px 0; }
+@media only screen and (min-width: 768px) { main#networks #page-networks { width: 100%; float: left; clear: left; } }
+
+@supports (display: grid) { main#networks #page-networks { width: 100%; float: none; clear: none; grid-area: page-networks; } }
+
+main#networks #page-dept-aside { margin-bottom: 45px; padding-top: 15px; border-top: 2px solid #e6007e; }
+
+@media only screen and (min-width: 768px) { main#networks #page-dept-aside { width: calc(33% - 30px); float: right; clear: none; margin-left: 30px; } }
+
+@supports (display: grid) { main#networks #page-dept-aside { width: auto; float: none; clear: none; margin-left: 0; grid-area: page-dept-aside; } }
+
+main#networks #page-dept-aside h2.page-aside-title { font-size: 22px; font-weight: bold; padding: 0 0 15px 0; }
+
+main#networks details > details { margin-left: 30px; }
+
+main#networks details a.button { box-sizing: border-box; margin: 0 7.5px 15px 0; }
 
 main#admin, main#admin-new, main#admin-edit { padding: 45px 0; }
 
@@ -1148,10 +1175,12 @@ main#admin details.collection--posts--item:first-of-type, main#admin-new details
 
 main#admin summary.collection--label, main#admin-new summary.collection--label, main#admin-edit summary.collection--label { text-transform: capitalize; }
 
-main#admin summary.collection--posts--item--label, main#admin-new summary.collection--posts--item--label, main#admin-edit summary.collection--posts--item--label { text-transform: capitalize; font-weight: normal; max-width: 100%; }
+main#admin summary.collection--posts--item--label, main#admin-new summary.collection--posts--item--label, main#admin-edit summary.collection--posts--item--label { display: block; text-transform: capitalize; font-weight: normal; max-width: 100%; }
 
 main#admin summary.collection--posts--item--label span.title, main#admin-new summary.collection--posts--item--label span.title, main#admin-edit summary.collection--posts--item--label span.title { display: inline-block; max-width: 40ch; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
 main#admin summary.collection--posts--item--label span.date, main#admin-new summary.collection--posts--item--label span.date, main#admin-edit summary.collection--posts--item--label span.date { color: #6F777B; }
+
+main#admin details > details, main#admin-new details > details, main#admin-edit details > details { margin-left: 30px; }
 
 /*# sourceMappingURL=styles.css.map */
