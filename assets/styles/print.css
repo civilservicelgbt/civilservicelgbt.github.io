@@ -346,7 +346,7 @@ summary::after { content: ""; clear: both; display: table; }
 
 .cookie-banner { padding: 1rem 1rem; text-align: left; top: 10px; width: 100%; background: #f3f2f1; }
 
-.cookie-button { display: inline-block; cursor: pointer; min-width: 150px; min-height: 40px; font-size: 19px; font-weight: bold; vertical-align: middle; line-height: 40px; background: #e6007e; color: #fff; border: 1px solid #e6007e; padding-left: 5px; }
+.cookie-button { display: inline-block; cursor: pointer; min-width: 150px; min-height: 40px; font-size: 19px; font-weight: bold; vertical-align: middle; line-height: 40px; background: #e6007e; color: #fff; border: 1px solid #e6007e; }
 
 .cookie-button:hover { background: #312783; cursor: pointer; }
 
