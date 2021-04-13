@@ -165,6 +165,7 @@ function generateJekyllPostContent() {
   var postAuthorName = document.getElementById("post-author-name").value;
   var postAuthorURL = document.getElementById("post-author-url").value;
   var postCategories = document.getElementById("post-categories").value;
+  var postCategories = postCategories.toLowerCase();
   var postImageURL = document.getElementById("post-image").value;
   var postVideoURL = document.getElementById("post-video").value;
   
@@ -244,7 +245,9 @@ function generateJekyllPostContent() {
     jekyllpost += "consultation-link: \"" + postConsultationURL + "\"\n";
     jekyllpost += "end-date: " + postConsultationEndDate + " \# YYYY-MM-DD \n";
   }
-  jekyllpost += "permalink: \"" + postPermalink + "\"\n";
+  if (postPermalink != "") {
+    jekyllpost += "permalink: \"" + postPermalink + "\"\n";
+  }
   if (postRedirectFrom != "") {
     jekyllpost += "redirect_from: \n- " + postRedirectFrom + "\n";
   }
@@ -468,7 +471,7 @@ function getCollection() {
   return postCollection;
 }
 
-function createPostURL() {
+function createGitHubURL() {
   var postCollection = getCollection();
   var postURL = "https://github.com/civilservicelgbt/civilservicelgbt.github.io/new/master/" + postCollection;
   
@@ -498,17 +501,24 @@ function getPermalink() {
 // ========================== //
 
 function openGitHub() {
-  var postURL = createPostURL();
+  var postURL = createGitHubURL();
   var GitHubWindow = window.GitHub = window.open(postURL, "GitHub");
 }
 
 function focusGitHub() {
-  var postURL = createPostURL();
+  var postURL = createGitHubURL();
   if (!window.GitHub || window.GitHub.closed) {
       window.GitHub = window.open(postURL, "GitHub");
   }
   window.GitHub.focus();
 }
+
+function testPermalink() {
+  var postPermalink = document.getElementById("post-permalink").value;
+  var postURL = 'https://www.civilservice.lgbt/' + postPermalink;
+  var postWindow = window.open(postURL, "Civil Service LGBT+ Network");
+}
+
 
 // ========================== //
 // ADMIN: COPY TEXT FUNCS
