@@ -318,11 +318,11 @@ details blockquote { display: block; padding: 15px; }
 
 details summary { /* Hide the marker completely. */ list-style-image: none; }
 
-details summary::-webkit-details-marker { display: none; }
+details summary :marker, details summary::-webkit-details-marker { display: none; }
 
 details summary:before { display: block; position: relative; top: 0; right: auto; left: 0; content: '+'; width: 30px; float: left; text-align: left; font-weight: bold; line-height: 1; }
 
-details[open] > summary::-webkit-details-marker { display: none; }
+details[open] > summary::-webkit-details-marker, details[open] > summary::marker { display: none; }
 
 details[open] > summary:before { content: '–'; }
 
