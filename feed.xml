@@ -4,8 +4,8 @@
 	<generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
 	<link href="https://www.civilservice.lgbt/feed.xml" rel="self" type="application/atom+xml" />
 	<link href="https://www.civilservice.lgbt/" rel="alternate" type="text/html" />
-	<pubDate>Fri, 23 Apr 2021 02:05:01 +0000</pubDate>
-	<updated>2021-04-23T14:05:01+00:00</updated>
+	<pubDate>Fri, 23 Apr 2021 02:08:15 +0000</pubDate>
+	<updated>2021-04-23T14:08:15+00:00</updated>
 	<id>https://www.civilservice.lgbt/</id>
 
 	
@@ -5390,7 +5390,6 @@ achieved, how far we have come and what is still needed.&lt;/p&gt;
 			<content type="html" xml:base="https://www.civilservice.lgbt/publication/prideON-communications-tool-kit-2020">&lt;!-- Include the following to generate a Table of Contents --&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#image-maker&quot; id=&quot;markdown-toc-image-maker&quot;&gt;Image Maker&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#click-here-to-use-the-image-maker&quot; id=&quot;markdown-toc-click-here-to-use-the-image-maker&quot;&gt;Click here, to use the image maker.&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#previews&quot; id=&quot;markdown-toc-previews&quot;&gt;Previews&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#departmental-communications&quot; id=&quot;markdown-toc-departmental-communications&quot;&gt;Departmental communications&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#social-media&quot; id=&quot;markdown-toc-social-media&quot;&gt;Social Media&lt;/a&gt;&lt;/li&gt;
@@ -5410,7 +5409,9 @@ achieved, how far we have come and what is still needed.&lt;/p&gt;
 
   &lt;p&gt;Be sure to use this tool to create assets to advertise your own events and content. Please tag @cslgbt on Twitter, @civilservicelgbt on Instagram and ‘Civil Service LGBT+ Network’ on Facebook so we can repost.&lt;/p&gt;
 
-  &lt;h2 id=&quot;click-here-to-use-the-image-maker&quot;&gt;&lt;a href=&quot;https://www.civilservice.lgbt/image-maker/pride-on&quot;&gt;Click here&lt;/a&gt;, to use the image maker.&lt;/h2&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.civilservice.lgbt/image-maker/pride-on&quot;&gt;Use our image maker to make your own&lt;/a&gt;, to use the image maker.&lt;/p&gt;
+  &lt;/blockquote&gt;
 
   &lt;h2 id=&quot;previews&quot;&gt;Previews&lt;/h2&gt;
 
