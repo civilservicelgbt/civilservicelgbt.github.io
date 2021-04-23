@@ -1232,12 +1232,10 @@ main#admin-documents h1.filesheading, main#admin-documents h2.filesheading, main
 
 main#admin-documents details.folder[open] { padding-bottom: 60px; }
 
-main#admin-documents details.folder blockquote { width: calc(100% - 30px); margin-left: 30px; }
-
 main#admin-documents details.file { margin-left: 30px; }
 
-main#admin-documents details.file div.meta { max-width: calc(100% - 30px); margin-left: 30px; }
+main#admin-documents details div.fileinfo, main#admin-documents details div.folderinfo { max-width: calc(100% - 30px); margin-left: 30px; }
 
-main#admin-documents details.file a.button { margin-right: 7.5px; margin-bottom: 7.5px; }
+main#admin-documents div.meta a.button, main#admin-documents div.meta button { margin-right: 7.5px !important; margin-bottom: 7.5px !important; }
 
 /*# sourceMappingURL=styles.css.map */

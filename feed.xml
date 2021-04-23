@@ -4,8 +4,8 @@
 	<generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
 	<link href="https://www.civilservice.lgbt/feed.xml" rel="self" type="application/atom+xml" />
 	<link href="https://www.civilservice.lgbt/" rel="alternate" type="text/html" />
-	<pubDate>Fri, 23 Apr 2021 10:10:44 +0000</pubDate>
-	<updated>2021-04-23T10:10:44+00:00</updated>
+	<pubDate>Fri, 23 Apr 2021 01:39:55 +0000</pubDate>
+	<updated>2021-04-23T13:39:55+00:00</updated>
 	<id>https://www.civilservice.lgbt/</id>
 
 	
@@ -13834,7 +13834,7 @@ document
 
   &lt;p&gt;This report is available as a PDF download.&lt;/p&gt;
 
-  &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/documents/2014-04-08-delivered-for-you.pdf&quot;&gt;Download this publication&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.civilservice.lgbt/documents/documents/delivered-for-you/2014-delivered-for-you.pdf&quot;&gt;Download this publication&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
   &lt;!-- Include this line to process the Markdown and format the content properly --&gt;
 &lt;/div&gt;
