@@ -4,8 +4,8 @@
 	<generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
 	<link href="https://www.civilservice.lgbt/feed.xml" rel="self" type="application/atom+xml" />
 	<link href="https://www.civilservice.lgbt/" rel="alternate" type="text/html" />
-	<pubDate>Fri, 23 Apr 2021 01:50:57 +0000</pubDate>
-	<updated>2021-04-23T13:50:57+00:00</updated>
+	<pubDate>Fri, 23 Apr 2021 01:52:07 +0000</pubDate>
+	<updated>2021-04-23T13:52:07+00:00</updated>
 	<id>https://www.civilservice.lgbt/</id>
 
 	
@@ -5487,9 +5487,6 @@ achieved, how far we have come and what is still needed.&lt;/p&gt;
 			<content type="html" xml:base="https://www.civilservice.lgbt/publication/prideON-digital-assets-2020">&lt;!-- Include the following to generate a Table of Contents --&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#publication-description&quot; id=&quot;markdown-toc-publication-description&quot;&gt;Publication description&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#to-create-your-own-please-click-here&quot; id=&quot;markdown-toc-to-create-your-own-please-click-here&quot;&gt;To create your own, please click here.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#download--lgbt&quot; id=&quot;markdown-toc-download--lgbt&quot;&gt;Download  (LGBT+)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#download-lgbt-ally&quot; id=&quot;markdown-toc-download-lgbt-ally&quot;&gt;Download (LGBT+ Ally)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#previews&quot; id=&quot;markdown-toc-previews&quot;&gt;Previews&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- Don't touch the Table of Contents above --&gt;
@@ -5505,35 +5502,9 @@ achieved, how far we have come and what is still needed.&lt;/p&gt;
 
   &lt;p&gt;The default text has been set to ‘Civil Servant, LGBT+ and Proud’ in magenta and ‘Civil Servant, LGBT+ Ally and Proud’ in magenta. However, we have created a tool where you are able to change the text and colour. For example, ‘Civil Servant, Lesbian and Proud’ in magenta, cyan or yellow.&lt;/p&gt;
 
-  &lt;h2 id=&quot;to-create-your-own-please-click-here&quot;&gt;To create your own, please &lt;a href=&quot;https://www.civilservice.lgbt/image-maker/civil-servant-and-proud/&quot;&gt;click here&lt;/a&gt;.&lt;/h2&gt;
-
-  &lt;h2 id=&quot;download--lgbt&quot;&gt;Download  (LGBT+)&lt;/h2&gt;
-
-  &lt;ol&gt;
-    &lt;li&gt;&lt;a href=&quot;/assets/documents/PrideON - twitter timeline.png&quot;&gt;Download Twitter timeline image&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/assets/documents/PrideON - Twitter profile header.png&quot;&gt;Download Twitter profile header&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/assets/documents/PrideON - Facebook timeline.png&quot;&gt;Download Facebook timeline image&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/assets/documents/PrideON - Facebook profile cover.png&quot;&gt;Download Facebook profile cover&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/assets/documents/PrideON - Instagram Grid.png&quot;&gt;Download Instagram Grid image&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/assets/documents/PrideON - Instagram Stories.png&quot;&gt;Download Instagram Stories image&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/assets/documents/PrideON - Video call background.png&quot;&gt;Download Video call background - Zoom and MS Teams&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/assets/documents/PrideON - Profile Picture.png&quot;&gt;Download Profile picture image&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/assets/documents/PrideON - Poster.png&quot;&gt;Download Poster&lt;/a&gt;&lt;/li&gt;
-  &lt;/ol&gt;
-
-  &lt;h2 id=&quot;download-lgbt-ally&quot;&gt;Download (LGBT+ Ally)&lt;/h2&gt;
-
-  &lt;ol&gt;
-    &lt;li&gt;&lt;a href=&quot;/assets/documents/PrideON Ally - twitter timeline.png&quot;&gt;Download Twitter timeline image&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/assets/documents/PrideON Ally - Twitter profile header.png&quot;&gt;Download Twitter profile header&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/assets/documents/PrideON Ally - Facebook timeline.png&quot;&gt;Download Facebook timeline image&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/assets/documents/PrideON Ally - Facebook profile cover.png&quot;&gt;Download Facebook profile cover&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/assets/documents/PrideON Ally - Instagram Grid.png&quot;&gt;Download Instagram Grid image&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/assets/documents/PrideON Ally - Instagram Stories.png&quot;&gt;Download Instagram Stories image&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/assets/documents/PrideON Ally - Video call background.png&quot;&gt;Download Video call background - Zoom and MS Teams&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/assets/documents/PrideON Ally - Profile Picture.png&quot;&gt;Download Profile picture image&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/assets/documents/PrideON Ally - Poster.png&quot;&gt;Download Poster&lt;/a&gt;&lt;/li&gt;
-  &lt;/ol&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;To create your own, please &lt;a href=&quot;https://www.civilservice.lgbt/image-maker/civil-servant-and-proud/&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+  &lt;/blockquote&gt;
 
   &lt;h2 id=&quot;previews&quot;&gt;Previews&lt;/h2&gt;
 
