@@ -524,6 +524,11 @@ function testPermalink() {
 // ADMIN: COPY TEXT FUNCS
 // ========================== //
 
+function copyURL(url){
+  var copiedText = url;
+  navigator.clipboard.writeText(copiedText);
+}
+
 function copyPostContentToClipboard(){
   var textToCopy = generateJekyllPostContent();
   navigator.clipboard.writeText(textToCopy);

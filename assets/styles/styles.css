@@ -1191,4 +1191,49 @@ main#admin details > summary:active span.date, main#admin-new details > summary:
 
 main#admin details > details, main#admin-new details > details, main#admin-edit details > details { margin-left: 30px; }
 
+main#admin-documents { padding: 45px 0; }
+
+@supports (display: grid) { main#admin-documents { display: grid; grid-template-rows: auto auto auto auto auto; grid-template-columns: 1fr; grid-template-areas: "page-title" "page-lead-paragraph" "page-help" "page-content" "page-preview"; }
+  @media only screen and (min-width: 768px) { main#admin-documents { grid-template-rows: auto auto auto auto; grid-template-columns: 2fr 1fr; grid-column-gap: 30px; grid-template-areas: "page-title ." "page-lead-paragraph ." "page-help ." "page-content page-preview"; } } }
+
+main#admin-documents::after { content: ""; clear: both; display: table; }
+
+main#admin-documents div#page-title { margin-top: 45px; margin-bottom: 45px; }
+
+@supports (display: grid) { main#admin-documents div#page-title { grid-area: page-title; } }
+
+main#admin-documents div#page-title h1.page-title { margin: 0; padding: 0; }
+
+main#admin-documents div#page-lead-paragraph { margin-bottom: 45px; }
+
+@supports (display: grid) { main#admin-documents div#page-lead-paragraph { grid-area: page-lead-paragraph; } }
+
+main#admin-documents div#page-lead-paragraph p:first-child, main#admin-documents div#page-lead-paragraph .text-input:first-child, main#admin-documents div#page-lead-paragraph .radio-input:first-child, main#admin-documents div#page-lead-paragraph .checkbox-input:first-child, main#admin-documents div#page-lead-paragraph label:first-child, main#admin-documents div#page-lead-paragraph .label:first-child, main#admin-documents div#page-lead-paragraph .label-hint:first-child, main#admin-documents div#page-lead-paragraph input[type="text"]:first-child, main#admin-documents div#page-lead-paragraph input[type="email"]:first-child, main#admin-documents div#page-lead-paragraph textarea:first-child { font-size: 24px; }
+
+main#admin-documents div#page-help { margin-bottom: 45px; }
+
+@supports (display: grid) { main#admin-documents div#page-help { grid-area: page-help; } }
+
+main#admin-documents div#page-help ul li, main#admin-documents div#page-help ol li { padding-bottom: 7.5px; }
+
+main#admin-documents div#page-content { margin-bottom: 45px; padding-top: 0; }
+
+@media only screen and (min-width: 768px) { main#admin-documents div#page-content { width: 67%; float: left; clear: left; } }
+
+@supports (display: grid) { main#admin-documents div#page-content { width: 100%; float: none; clear: none; grid-area: page-content; } }
+
+main#admin-documents .foldername { text-transform: capitalize !important; }
+
+main#admin-documents .filename { text-transform: capitalize !important; }
+
+main#admin-documents .filepath { display: inline-block; max-width: 40ch; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+main#admin-documents h1.filesheading, main#admin-documents h2.filesheading, main#admin-documents h3.filesheading, main#admin-documents h4.filesheading, main#admin-documents main#four-oh-four div#page-content div.filesheading.footnotes::before, main#four-oh-four div#page-content main#admin-documents div.filesheading.footnotes::before, main#admin-documents main#loop div#page-content ul li article h2.filesheading, main#loop div#page-content ul li article main#admin-documents h2.filesheading, main#admin-documents main#loop div#page-content ol li article h2.filesheading, main#loop div#page-content ol li article main#admin-documents h2.filesheading, main#admin-documents main#admin div#page-content ul li article h2.filesheading, main#admin div#page-content ul li article main#admin-documents h2.filesheading, main#admin-documents main#admin div#page-content ol li article h2.filesheading, main#admin div#page-content ol li article main#admin-documents h2.filesheading, main#admin-documents main#page div#page-content div.filesheading.footnotes::before, main#page div#page-content main#admin-documents div.filesheading.footnotes::before, main#admin-documents main#news div#page-content div.filesheading.footnotes::before, main#news div#page-content main#admin-documents div.filesheading.footnotes::before, main#admin-documents main#notice div#page-content div.filesheading.footnotes::before, main#notice div#page-content main#admin-documents div.filesheading.footnotes::before, main#admin-documents main#consultation div#page-content div.filesheading.footnotes::before, main#consultation div#page-content main#admin-documents div.filesheading.footnotes::before, main#admin-documents main#publication div#page-contents ul#markdown-toc.filesheading::before, main#publication div#page-contents main#admin-documents ul#markdown-toc.filesheading::before, main#admin-documents main#publication div#page-contents ol#markdown-toc.filesheading::before, main#publication div#page-contents main#admin-documents ol#markdown-toc.filesheading::before, main#admin-documents main#manual div#page-contents ul#markdown-toc.filesheading::before, main#manual div#page-contents main#admin-documents ul#markdown-toc.filesheading::before, main#admin-documents main#manual div#page-contents ol#markdown-toc.filesheading::before, main#manual div#page-contents main#admin-documents ol#markdown-toc.filesheading::before, main#admin-documents main#publication div#page-contents div.filesheading.footnotes::before, main#publication div#page-contents main#admin-documents div.filesheading.footnotes::before, main#admin-documents main#manual div#page-contents div.filesheading.footnotes::before, main#manual div#page-contents main#admin-documents div.filesheading.footnotes::before, main#admin-documents main#event div#page-content div.filesheading.footnotes::before, main#event div#page-content main#admin-documents div.filesheading.footnotes::before, main#admin-documents main#topic div#page-content div.filesheading.footnotes::before, main#topic div#page-content main#admin-documents div.filesheading.footnotes::before, main#admin-documents main#networks div#page-content div.filesheading.footnotes::before, main#networks div#page-content main#admin-documents div.filesheading.footnotes::before, main#admin-documents h5.filesheading, main#admin-documents main#news div#page-content ul.loop li article h2.filesheading, main#news div#page-content ul.loop li article main#admin-documents h2.filesheading, main#admin-documents main#news div#page-content ol.loop li article h2.filesheading, main#news div#page-content ol.loop li article main#admin-documents h2.filesheading, main#admin-documents main#notice div#page-content ul.loop li article h2.filesheading, main#notice div#page-content ul.loop li article main#admin-documents h2.filesheading, main#admin-documents main#notice div#page-content ol.loop li article h2.filesheading, main#notice div#page-content ol.loop li article main#admin-documents h2.filesheading, main#admin-documents main#consultation div#page-content ul.loop li article h2.filesheading, main#consultation div#page-content ul.loop li article main#admin-documents h2.filesheading, main#admin-documents main#consultation div#page-content ol.loop li article h2.filesheading, main#consultation div#page-content ol.loop li article main#admin-documents h2.filesheading, main#admin-documents main#event div#page-content ul.loop li article h2.filesheading, main#event div#page-content ul.loop li article main#admin-documents h2.filesheading, main#admin-documents main#event div#page-content ol.loop li article h2.filesheading, main#event div#page-content ol.loop li article main#admin-documents h2.filesheading, main#admin-documents h6.filesheading { display: inline-block; position: relative; font-size: 19px; line-height: 1.35; padding: 15px 0 15px 30px; color: unset; width: calc(100% - (15px * 2)); }
+
+main#admin-documents details.folder[open] { padding-bottom: 60px; }
+
+main#admin-documents details.folder blockquote { width: calc(100% - 30px); margin-left: 30px; }
+
+main#admin-documents details.file { margin-left: 30px; }
+
 /*# sourceMappingURL=styles.css.map */
