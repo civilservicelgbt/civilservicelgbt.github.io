@@ -1191,6 +1191,8 @@ main#admin details > summary:active span.date, main#admin-new details > summary:
 
 main#admin details > details, main#admin-new details > details, main#admin-edit details > details { margin-left: 30px; }
 
+main#admin details > div.container, main#admin-new details > div.container, main#admin-edit details > div.container { width: calc(100% - (15px * 2)); margin: 0 0 0 30px; padding: 0; }
+
 main#admin-documents { padding: 45px 0; }
 
 @supports (display: grid) { main#admin-documents { display: grid; grid-template-rows: auto auto auto auto auto; grid-template-columns: 1fr; grid-template-areas: "page-title" "page-lead-paragraph" "page-help" "page-content" "page-preview"; }
