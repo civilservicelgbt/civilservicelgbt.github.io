@@ -1193,8 +1193,6 @@ main#admin details > details, main#admin-new-post details > details, main#admin-
 
 main#admin details > div.container, main#admin-new-post details > div.container, main#admin-new-image details > div.container, main#admin-new-document details > div.container, main#admin-edit-post details > div.container, main#admin-edit-image details > div.container, main#admin-edit-document details > div.container { width: calc(100% - (15px * 2)); margin: 0 0 0 30px; padding: 0; }
 
-main#admin .foldername, main#admin-new-post .foldername, main#admin-new-image .foldername, main#admin-new-document .foldername, main#admin-edit-post .foldername, main#admin-edit-image .foldername, main#admin-edit-document .foldername { text-transform: capitalize !important; }
-
 main#admin .filename, main#admin-new-post .filename, main#admin-new-image .filename, main#admin-new-document .filename, main#admin-edit-post .filename, main#admin-edit-image .filename, main#admin-edit-document .filename { text-transform: capitalize !important; }
 
 main#admin .filepath, main#admin .filedate, main#admin .filetype, main#admin-new-post .filepath, main#admin-new-post .filedate, main#admin-new-post .filetype, main#admin-new-image .filepath, main#admin-new-image .filedate, main#admin-new-image .filetype, main#admin-new-document .filepath, main#admin-new-document .filedate, main#admin-new-document .filetype, main#admin-edit-post .filepath, main#admin-edit-post .filedate, main#admin-edit-post .filetype, main#admin-edit-image .filepath, main#admin-edit-image .filedate, main#admin-edit-image .filetype, main#admin-edit-document .filepath, main#admin-edit-document .filedate, main#admin-edit-document .filetype { display: block; }
