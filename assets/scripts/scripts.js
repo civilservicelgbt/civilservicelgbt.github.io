@@ -473,7 +473,7 @@ function getCollection() {
 
 function createGitHubURL() {
   var postCollection = getCollection();
-  var postURL = "https://github.com/civilservicelgbt/civilservicelgbt.github.io/new/master/" + postCollection;
+  var postURL = "/new//" + postCollection;
   
   return postURL;
 }
