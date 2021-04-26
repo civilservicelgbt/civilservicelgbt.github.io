@@ -583,7 +583,7 @@ header[id^='pride'] { background: #e6007e; color: #ffffff; }
 
 header#podcast { background: #e6007e; color: #ffffff; }
 
-header#pride-2019 { background: #e6007e; color: #ffffff; }
+header[id*='lesbian'] { background: #e6007e; color: #ffffff; }
 
 header#bispace { background: #ffed00; color: #0B0C0C; }
 
