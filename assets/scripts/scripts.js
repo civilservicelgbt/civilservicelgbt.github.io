@@ -691,7 +691,7 @@ function eventInfoToMarkdown() {
   
   eventcontent += "---\n" // Do not remove – must be present
   
-  eventcontent += "layout: event\n";
+  eventcontent += "layout: format/event\n";
   eventcontent += "date: " + eventPublishDate + " \# YYYY-MM-DD \n";
   eventcontent += "title: \"" + eventTitle + "\"\n";
   eventcontent += "excerpt: \"" + eventExcerpt + "\"\n";
