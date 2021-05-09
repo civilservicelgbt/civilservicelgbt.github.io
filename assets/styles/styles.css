@@ -250,7 +250,7 @@ center { text-align: center; }
 
 li { padding-left: 10px; margin: 0; }
 
-ul, ol { padding-bottom: 9.5px; padding-left: 40px; list-style: disc; }
+ul, ol { padding-bottom: 19px; padding-left: 40px; list-style: disc; }
 
 ol { list-style: decimal; }
 
@@ -1043,7 +1043,7 @@ header#podcast { background: #e6007e; color: #ffffff; }
 
 header[id*='lesbian'] { background: #e6007e; color: #ffffff; }
 
-header#bispace, header#mentoring { background: #ffed00; color: #0B0C0C; }
+header#mentoring { background: #ffed00; color: #0B0C0C; }
 
 @supports (display: grid) { main#topic, main#format-topic { display: grid; grid-template-rows: auto auto auto auto; grid-template-columns: 1fr; grid-template-areas: "page-title" "page-lead-paragraph" "page-social" "page-content"; }
   @media only screen and (min-width: 768px) { main#topic, main#format-topic { grid-template-rows: auto auto auto auto; grid-template-columns: 2fr 1fr; grid-column-gap: 30px; grid-template-areas: "page-title page-title" "page-lead-paragraph ." "page-social page-social" "page-content page-content"; } } }
