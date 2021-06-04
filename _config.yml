@@ -245,7 +245,6 @@ collections:
 remote_theme: civilservicelgbt/theme
 permalink: pretty
 markdown: kramdown
-future: false
 highlighter: rouge
 sass:
   sass_dir: _sass
