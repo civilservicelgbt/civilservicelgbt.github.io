@@ -20,7 +20,7 @@ url: "https://www.civilservice.lgbt"
 
 git-repos: "https://github.com/civilservicelgbt"
 site-repo: "/civilservicelgbt.github.io"
-site-repo--branch: "master"
+site-repo--branch: "main"
 images-repo: "/images"
 images-repo--branch: "main"
 documents-repo: "/documents"
