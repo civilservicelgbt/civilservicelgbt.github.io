@@ -37,11 +37,11 @@ The **Civil Service LGBT+ Network mentoring programme** is open to all staff who
 
 ### Who can be a mentor
 
-Anyone can be a mentor, so long as they identify as LGBT+.
+Anyone can be a mentor. We ask that mentors identify as LGBT+.
 
 It doesn't matter what grade you are, what profession you work in, or where you are based. We will generally try to match mentors to mentees who are one or two grades more junior than they are.
 
-We will give all mentors training and guidance on how to be an effective in their role as a mentor.
+We will give all mentors access to induction and guidance on how to be effective in their role as a mentor.
 
 We strongly encourage people at all grades to sign up as mentors – whether you're an SCS or an AO. Everyone can help someone! The more mentors we have, the more mentees we can support through the programme.
 
@@ -49,7 +49,7 @@ We strongly encourage people at all grades to sign up as mentors – whether you
 
 ### Who can be a mentee
 
-Anyone can be a mentee, so long as they identify as LGBT+.
+Anyone can be a mentee. The scheme is aimed at people who identify as LGBT+.
 
 If you're a mentee, we'll be aiming to match you to mentors that are one or two grades more senior than you are.
 
@@ -78,13 +78,21 @@ We will use this information to match up potential mentors and mentees.
 
 We only accept new registrations for the programme at certain points of the year. We will publish information our website when the application window is open.
 
+> Registratons for the first round of the programme are open from 7 June 2021 to 31 July 2021.  
+> We will start matching mentors and mentees after the registration window has closed.
+
 ### 2. Wait for your potential matches
 
 ![](https://www.civilservice.lgbt/images/store/mentoring-scheme/website-explainer-2.png)
 
-After you have registered we will email you with several potential matches. Each mentor and mentee will be given up to 3 matches.
+After you have registered and after the registration window has closed, we will:
 
-It may take several weeks to find a suitable match for you. If we are unable to find a potential match, we will contact you to let you know.
+- invite you to an induction event
+- email you with several potential matches 
+
+Each mentor and mentee will be given up to 3 matches.
+
+It may take several weeks to find a suitable match for you. Please be patient. If we are unable to find a potential match, we will contact you to let you know.
 
 ### 3. Set up a 'speed mentoring' session
 
@@ -118,21 +126,24 @@ We will publish and send guidance to you about how to make the most of your ment
 
 ![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--become-a-mentor.png)
 
-**Give something back and become an LGBT+ mentor.** Acting as a mentor can help other, less experienced staff get on with their career. It can be a rewarding experience where you learn new skills, and it makes a great corporate contribution.
+**Give something back and become an LGBT+ mentor.** Acting as a mentor can help other, less experienced staff get on with their career. It can be a rewarding experience for you too; you can learn new skills and it makes a great corporate contribution.
 
 As a mentor, you'll be asked to:
 
 1. **Meet with up to 3 mentees for 'speed mentoring'.** You will be asked to meet for one, 30 minute session with each mentee. They will contact you to arrange a suitable time and date.
-2. **Agree to mentor at least one mentee.** Once you have met all your mentees, you should agree to keep meeting at least one of them to provide them with a mentoring relationship on an ongoing basis.
+2. **Agree to mentor at least one longer-term mentee.** Once you have met all your mentees, we'd ask that you agree to keep meeting at least one of them to provide them with a mentoring relationship on an ongoing basis.
 
 As a mentor, you can expect to:
 
 1. be matched with someone one or two grades more junior to you
-2. be offered a short training session for new mentors
+2. be offered a short induction session for new mentors
 3. receive published guidance on how to maximise your role as a mentor
 4. have the chance to join a network of other mentors who you can speak to for advice too
 
 > [Register as a mentor](https://forms.gle/6HiMCpBJewakzSXt6)
+
+> Registratons for the first round of the programme are open from 7 June 2021 to 31 July 2021.
+> We will start matching mentors and mentees after the registration window has closed.
 
 ### Become a mentee
 
@@ -143,7 +154,7 @@ As a mentor, you can expect to:
 As a mentee, you'll be asked to:
 
 1. **Set up 'speed mentoring' sessions with each mentor we match you with.** It is your responsibility to arrange a suitable time and date. You should meet each mentor for an initial 30 minute session.
-2. **Decide if you want to keep a mentor.** If you feel you can learn something from one of the mentors you meet, ask them to be your mentor long term.
+2. **Decide if you want to keep a mentor.** If you feel you can learn something from one of the mentors you meet, ask them if they can be your mentor long-term.
 2. **Lead your relationship with your mentor.** If you are successful in securing a long-term mentor, it's your responsibility to organise meetings and lead your relationship with them.
 
 As a mentee, you can expect to:
