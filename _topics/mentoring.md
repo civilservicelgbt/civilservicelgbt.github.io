@@ -1,6 +1,6 @@
 ---
 title: "Mentoring"
-date: 2021-06-01 # YYYY-MM-DD
+date: 2021-06-07 # YYYY-MM-DD
 excerpt: "Find out more about our mentoring scheme for LGBT+ civil servants."
 layout: format/topic
 category: mentoring
@@ -13,8 +13,6 @@ image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/webpage-bann
 # Social Media
 # Set to 'true' to turn on the social links
 social-links: false
-
-published: false
 ---
 
 Give yourself a boost, or give something back.

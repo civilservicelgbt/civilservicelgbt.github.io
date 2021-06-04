@@ -1,13 +1,12 @@
 ---
 layout: format/publication
 author: Civil Service LGBT+ Network
-date: '2021-06-01'
+date: '2021-06-07'
 category: ["mentoring"]
 title: "About our mentoring programme"
 permalink: /publication/about-our-mentoring-programme
 excerpt: "This publication provides information about the Civil Service LGBT+ Network's mentoring programme, including how to become a mentor and a mentee."
 image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
-published: false
 ---
 
 <!-- Include the following to generate a Table of Contents -->

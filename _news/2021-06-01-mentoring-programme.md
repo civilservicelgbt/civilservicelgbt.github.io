@@ -1,12 +1,11 @@
 ---
 layout: format/news
-date: 2021-06-01 # YYYY-MM-DD
+date: 2021-06-07 # YYYY-MM-DD
 title: "Introducing the new Civil Service LGBT+ mentoring programme"
 excerpt: "Become a mentor and give something back, or become a mentee to give your career a boost."
 author: "Civil Service LGBT+ Network"
 category: ["mentoring"]
 image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
-published: false
 ---
 
 Today we're launching a new mentoring programme aimed at LGBT+ civil servants. We're asking you – whatever your grade, location, department or identity – to get involved.
