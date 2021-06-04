@@ -1,0 +1,31 @@
+---
+layout: format/page
+title: 'Local organisers'
+excerpt: 'Our local organisers help us deliver work in places near you. This includes our events, campaigns and social activities.'
+permalink: /about/our-team/local-organisers/
+published: true
+---
+
+<table>
+{% for volunteer in site.data.team %}
+
+  {% if volunteer.Team == "Local organisers" %}
+  <tr>
+
+    <td>
+      {% if volunteer.Picture %}
+      <img src="{{ volunteer.Picture }}" alt="{{ volunteer.Name }}">
+      {% endif %}
+    </td>
+
+    <td>
+      <h2>{% if volunteer.Email %}<a href="{{ volunteer.Email | prepend: "mailto:" }}">{{ volunteer.Name }}</a>{% else %}{{ volunteer.Name }}{% endif %}</h2>
+      <h3>{{ volunteer.SubTeam }}</h3>
+      <p>{{ volunteer.Bio }}</p>
+    </td>
+
+  </tr>
+  {% endif %}
+
+{% endfor %}
+</table>
