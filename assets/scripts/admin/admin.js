@@ -426,7 +426,7 @@ function getPermalink() {
 
 function createGitHubPostURL() {
   var postCollection = getCollection();
-  var postURL = "https://github.com/civilservicelgbt/civilservicelgbt.github.io/new/master/" + postCollection;
+  var postURL = "https://github.com/civilservicelgbt/civilservicelgbt.github.io/new/main/" + postCollection;
   if (postCollection == "_events") {
     var postEventDateYear = document.getElementById("post-event-date-year").value;
     var postEventDateMonth = document.getElementById("post-event-date-month").value;
