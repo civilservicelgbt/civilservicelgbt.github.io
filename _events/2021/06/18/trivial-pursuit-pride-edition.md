@@ -7,6 +7,7 @@ author: "Civil Service LGBT+ Network"
 event-date: 2021-06-18 16:00:00 # YYYY-MM-DD hh:mm 
 registration-close-date: 2021-06-17 16:00:00 # YYYY-MM-DD hh:mm 
 location: "Microsoft Teams"
+category: ["pride-2021"]
 link: "https://www.eventbrite.co.uk/e/trivial-pursuit-pride-edition-tickets-158494959691"
 permalink: "/event/2021/06/18/trivial-pursuit-pride-edition"
 ---
