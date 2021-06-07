@@ -5,10 +5,10 @@ title: "Civil Service LGBT+ social – London"
 excerpt: "Summer social in St James' Park. Bring along some refreshments, games and (most importantly) sun screen!"
 author: "Civil Service LGBT+ Network"
 category: [“pride-2021”]
-event-date: 2021-08-07 17:30:00 # YYYY-MM-DD hh:mm 
+event-date: 2021-07-08 17:30:00 # YYYY-MM-DD hh:mm 
 location: "St James Park- near the Guards Memorial"
 no-register: "No need to register. Just turn up."
-permalink: "/event/2021/08/07/civil-service-lgbt-social-london"
+permalink: "/event/2021/07/08/civil-service-lgbt-social-london"
 ---
 
 Our in-person socials are back, starting in London. 
