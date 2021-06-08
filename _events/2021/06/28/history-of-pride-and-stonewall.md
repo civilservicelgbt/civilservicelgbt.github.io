@@ -7,7 +7,7 @@ category: ["pride-2021"]
 event-date: 2021-06-28 13:00:00 # YYYY-MM-DD hh:mm 
 registration-close-date: 2021-06-25 12:00:00 # YYYY-MM-DD hh:mm 
 location: "Microsoft Teams" 
-link: "yes" 
+link: "https://www.eventbrite.co.uk/e/history-of-pride-and-the-stonewall-riots-tickets-158645052623" 
 permalink: "/event/2021/06/28/history-of-pride-and-the-stonewall" 
 ---
 
