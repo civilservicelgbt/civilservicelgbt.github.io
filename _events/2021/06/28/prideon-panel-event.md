@@ -7,7 +7,7 @@ category: ["pride-2021"]
 event-date: 2021-06-28 12:30:00 # YYYY-MM-DD hh:mm 
 registration-close-date: 2021-06-24 17:30:00 # YYYY-MM-DD hh:mm 
 location: "Google Meet"
-link: "https://prideon-panel-july-2021.eventbrite.co.uk"
+link: "https://prideon-panel-june-2021.eventbrite.co.uk"
 permalink: "/event/2021/06/28/prideon-panel-event"
 published: false
 ---
