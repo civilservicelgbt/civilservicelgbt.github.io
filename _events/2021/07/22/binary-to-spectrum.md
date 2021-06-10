@@ -4,10 +4,10 @@ title: "From Binary to Spectrum: Mythbusting Binary Norms around Sex, Sexuality,
 excerpt: "This event includes a short presentation about the history and impact of gender, sex, and sexuality binary norms followed by a facilitated discussion."
 author: "Civil Service LGBT+ Network"
 category: ["pride-2021"]
-event-date: 2021-08-05 12:00:00 # YYYY-MM-DD hh:mm 
+event-date: 2021-07-22 12:00:00 # YYYY-MM-DD hh:mm 
 location: "Microsoft Teams"
 link: "https://www.eventbrite.co.uk/e/from-binary-to-spectrum-mythbusting-binary-norms-tickets-158045080089"
-permalink: "/event/2021/08/05/from-binary-to-spectrum-mythbusting-binary-norms-around-sex-sexuality-and-gender"
+permalink: "/event/2021/07/22/from-binary-to-spectrum-mythbusting-binary-norms-around-sex-sexuality-and-gender"
 ---
 
 A binary approach to sex, sexuality, and gender has shaped traditional Western thought. This male/female, masculine/feminine, homosexual/heterosexual binary mindset has influenced Western traditions, values, and behaviours for centuries. Through empire and globalisation these norms have been exported and often forced on other cultures, influencing the global narrative around sex, sexuality, and gender.
