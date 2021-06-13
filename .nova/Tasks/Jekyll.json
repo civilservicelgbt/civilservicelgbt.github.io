@@ -10,7 +10,7 @@
     },
     "run" : {
       "enabled" : true,
-      "script" : "bundle exec jekyll serve --config _localConfig.yml --future"
+      "script" : "bundle exec jekyll serve --config _localConfig.yml --future --liveReload"
     }
   },
   "identifier" : "6CCC3296-3C88-42F1-98DC-88C4E3AAE0FC",
