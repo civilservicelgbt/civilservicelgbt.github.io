@@ -62,7 +62,7 @@ Being a mentor can be a rewarding experience. As a mentor in the **Civil Service
 
 > We’ve published some perspectives from mentors joining the programme on our blog. [Visit the mentoring page](/mentoring) to read the blog posts.
 
-## What to do as part of the programme
+### What to do as part of the programme
 
 As part of the [**Civil Service LGBT+ mentoring programme**](/mentoring) you have been asked to:
 
@@ -71,15 +71,15 @@ As part of the [**Civil Service LGBT+ mentoring programme**](/mentoring) you hav
 
 The following sections explain how you could structure the time you spend with your mentees during their ‘speed mentoring’ session and in later sessions if you have them.
 
-### Speed mentoring
+## Your speed mentoring
 
-#### Before the session
+### Before the session
 
 After we have completed the matching exercise, your mentees will individually contact you to arrange a speed mentoring session. We will send you the names of your mentees as part of the matching process.
 
 A speed mentoring session is a one-off session, and it should last for around 30 minutes. As each mentor will be paired with a maximum of 3 mentees, the initial time commitment from you is likely to be around 1 hour, 30 minutes.
 
-#### During the session
+### During the session
 
 Each speed mentoring session will be different and 30 minutes isn’t very long. 
 
@@ -96,7 +96,7 @@ Try to ask ‘open’ questions throughout the session to keep the conversation 
 
 These are some topics and prompts you might want to discuss. Don’t rigidly stick to these topics – go with the flow of the conversation – but these prompts may help you to keep the conversation moving forward.
 
-##### Career history and ambitions
+#### Career history and ambitions
 
 Encourage your mentee to set out what they currently do, what they’ve done before, and to explain their long term ambitions. Describe your own career history and journey through the Civil Service too.
 
@@ -109,7 +109,7 @@ You could ask questions like:
 - What motivates you to go to work in the morning?
 - Where do you see yourself in 1 year, 3 years, and 10 years?
 
-##### Strengths and weaknesses
+#### Strengths and weaknesses
 
 Ask your mentee to tell you what they feel they are good at and what they want to develop. Discuss with your mentee how they think a mentor can help them to plug those gaps. 
 
@@ -123,7 +123,7 @@ You could ask questions like:
 - Why did you sign up to get a mentor?
 - What’s the most important think you want a mentor to help you with?
 
-##### The issue
+#### The issue
 
 If they have prepared a specific topic or ‘issue’ they want to discuss with you, try to help them think around the issue. If you’ve been in a similar situation before, explain how you approached it or how you would do things differently if you did it again. 
 
@@ -136,7 +136,7 @@ You could ask questions like:
 - What have you tried so far? Did it work, and if not why not?
 - What other options have you considered? Is there anything else you can try?
 
-#### After the session
+### After the session
 
 Mentees get matched with multiple mentors. We’ve done this so that both mentors and mentees can get a broad sense of their options, and whether they are a good match for each other.
 
@@ -146,7 +146,7 @@ Think carefully about whether you have the time available to properly commit to 
 
 We hope that each mentor will agree to support at least one mentee long term.
 
-### Long term mentoring
+## Long term mentoring
 
 ## Techniques for mentoring
 
