@@ -39,7 +39,7 @@ If there was ever a moment we could all make this work, we think now is it!
 
 It’s still going to be a big logistics exercise to make this programme work – and we’re only at the start – but we’ve got a good plan and we think that our new ways of working are going to make this great for both mentors and mentees.
 
-![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline-4--give-something-back.png)
+![Give something back. Become an LGBT+ mentor.](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline-4--give-something-back.png)
 
 ## Give something back
 
