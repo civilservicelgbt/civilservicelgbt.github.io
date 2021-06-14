@@ -11,7 +11,7 @@ permalink: "/news/2021/06/14/give-something-back-become-an-lgbt-mentor"
 
 Last week, registrations opened for our new LGBT+ mentoring programme. We’re aiming to match junior mentees to more senior mentors; initially for ‘speed mentoring’ and in the hope people make those relationships more permanent.
 
-The response has been brilliant so far. More than 250 people have stepped forward to say they want to either be a mentee, mentor or both.
+The response has been brilliant so far. More than 300 people have stepped forward to say they want to either be a mentee, mentor or both.
 
 I’ve been leading the work to develop this new programme. It’s something the Network has wanted to set up for a long time. I wanted to share my reflections on why I decided to pick up this work and why we’ve done it now.
 
@@ -37,7 +37,7 @@ The pandemic has changed that. It’s changed the ways the Civil Service engages
 
 If there was ever a moment we could all make this work, we think now is it!
 
-It’s still going to be a big logistics exercise to make this programme work – and we’re only at the start – but we’ve got a good plan and we think that our new ways of working is going to make this great for both mentors and mentees.
+It’s still going to be a big logistics exercise to make this programme work – and we’re only at the start – but we’ve got a good plan and we think that our new ways of working are going to make this great for both mentors and mentees.
 
 ![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline-4--give-something-back.png)
 
