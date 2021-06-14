@@ -47,6 +47,6 @@ So that’s why we’ve done it, and why we’ve done it now. Now it’s up to y
 
 Become an LGBT+ mentor. It’ll help someone else and it’ll help to develop you too.
 
-You can [register as an LGBT+ mentor](https://forms.gle/6HiMCpBJewakzSXt6) in the first round of the programme now until the 31 July 2021, and [find out more about the programme](https://github.com/civilservicelgbt/civilservicelgbt.github.io/blob/main/publication/about-our-mentoring-programme) on our website.
+You can [register as an LGBT+ mentor](https://forms.gle/6HiMCpBJewakzSXt6) in the first round of the programme now until the 31 July 2021, and [find out more about the programme](/publication/about-our-mentoring-programme) on our website.
 
 > John Peart is one of the vice-chairs for the Civil Service LGBT+ Network. His day job is in the Department for Digital, Culture, Media and Sport, where he’s currently a Bill Manager.
