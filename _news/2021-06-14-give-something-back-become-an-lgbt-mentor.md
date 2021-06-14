@@ -4,7 +4,7 @@ date: 2021-06-14 # YYYY-MM-DD
 title: "Give something back: become an LGBT+ mentor"
 excerpt: "Read about why we’ve created our new mentoring programme from one of our vice-chairs, John Peart "
 author: "John Peart, Vice-chair, Civil Service LGBT+ Network"
-category: [“mentoring”]
+category: ["mentoring"]
 image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/john-peart.png"
 permalink: "/news/2021/06/14/give-something-back-become-an-lgbt-mentor"
 ---
