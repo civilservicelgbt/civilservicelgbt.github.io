@@ -5,13 +5,13 @@ title: "Give something back: become an LGBT+ mentor"
 excerpt: "Read about why we’ve created our new mentoring programme from one of our vice-chairs, John Peart "
 author: "John Peart, Vice-chair, Civil Service LGBT+ Network"
 category: [“mentoring”]
-image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline-4--give-something-back.png"
+image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/john-peart.png"
 permalink: "/news/2021/06/14/give-something-back-become-an-lgbt-mentor"
 ---
 
 Last week, registrations opened for our new LGBT+ mentoring programme. We’re aiming to match junior mentees to more senior mentors; initially for ‘speed mentoring’ and in the hope people make those relationships more permanent.
 
-The response has been brilliant so far. More than 250 people have stepped forward to say they want to either be a mentee, mentor or both.
+The response has been brilliant so far. More than 300 people have stepped forward to say they want to either be a mentee, mentor or both.
 
 I’ve been leading the work to develop this new programme. It’s something the Network has wanted to set up for a long time. I wanted to share my reflections on why I decided to pick up this work and why we’ve done it now.
 
@@ -37,7 +37,9 @@ The pandemic has changed that. It’s changed the ways the Civil Service engages
 
 If there was ever a moment we could all make this work, we think now is it!
 
-It’s still going to be a big logistics exercise to make this programme work – and we’re only at the start – but we’ve got a good plan and we think that our new ways of working is going to make this great for both mentors and mentees.
+It’s still going to be a big logistics exercise to make this programme work – and we’re only at the start – but we’ve got a good plan and we think that our new ways of working are going to make this great for both mentors and mentees.
+
+![Give something back. Become an LGBT+ mentor.](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline-4--give-something-back.png)
 
 ## Give something back
 
@@ -45,6 +47,6 @@ So that’s why we’ve done it, and why we’ve done it now. Now it’s up to y
 
 Become an LGBT+ mentor. It’ll help someone else and it’ll help to develop you too.
 
-You can [register as an LGBT+ mentor](https://forms.gle/6HiMCpBJewakzSXt6) in the first round of the programme now until the 31 July 2021, and [find out more about the programme](https://github.com/civilservicelgbt/civilservicelgbt.github.io/blob/main/publication/about-our-mentoring-programme) on our website.
+You can [register as an LGBT+ mentor](https://forms.gle/6HiMCpBJewakzSXt6) in the first round of the programme now until the 31 July 2021, and [find out more about the programme](/publication/about-our-mentoring-programme) on our website.
 
 > John Peart is one of the vice-chairs for the Civil Service LGBT+ Network. His day job is in the Department for Digital, Culture, Media and Sport, where he’s currently a Bill Manager.
