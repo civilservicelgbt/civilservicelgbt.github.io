@@ -2,7 +2,7 @@
 layout: format/event
 date: 2021-06-03 # YYYY-MM-DD
 title: "UK Black Pride Panel"
-excerpt: "We are extremely privileged to have members from UK Black Pride speaking at our PRIDE event last year and are pleased to say they are returning in 2021!"
+excerpt: "Join the HMRC LGBT+ Network as they hear from UK Black Pride as part of their pride season of events."
 
 author: "PRISM - the HMRC LGBT+ Network"
 event-date: 2021-06-24 11:00:00 # YYYY-MM-DD hh:mm
@@ -14,6 +14,8 @@ permalink: "/event/2021/06/24/uk-black-pride"
 ---
 
 > Hosted by the HMRC LGBT+ Network, PRISM.
+
+Join the HMRC LGBT+ Network as they hear from UK Black Pride as part of their pride season of events.
 
 We are extremely privileged to have members from UK Black Pride speaking at our PRIDE event last year and are pleased to say they are returning in 2021!
 
