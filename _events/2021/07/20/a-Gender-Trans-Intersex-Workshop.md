@@ -14,6 +14,8 @@ permalink: "/event/2021/07/20/a-Gender-Trans-Intersex-Workshop"
 ---
 
 > Hosted by the HMRC LGBT+ Network, PRISM.
+> 
+Join the HMRC LGBT+ Network as they hear from a:gender as part of their pride season of events.
 
 The workshop covers the following topics:
 
