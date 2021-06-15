@@ -13,6 +13,8 @@ link: "https://forms.office.com/Pages/ResponsePage.aspx?id=PPdSrBr9mkqOekokjzE54
 permalink: "/event/2021/07/20/a-Gender-Trans-Intersex-Workshop"
 ---
 
+> Hosted by the HMRC LGBT+ Network, PRISM.
+
 The workshop covers the following topics:
 
 - understanding what the terms "trans", "intersex" and "nonbinary" mean
