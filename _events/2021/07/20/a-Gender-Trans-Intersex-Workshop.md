@@ -9,7 +9,7 @@ event-date: 2021-07-20 14:00:00 # YYYY-MM-DD hh:mm
 registration-close-date: 2021-07-16 12:00:00 # YYYY-MM-DD hh:mm
 location: "MS Teams"
 link: "https://forms.office.com/Pages/ResponsePage.aspx?id=PPdSrBr9mkqOekokjzE54byar58qvaBLhjAS4MylwMxUODhEUVNGVVRXSVgzUExFS0JONFZLQ1VLTC4u"
-
+category: ["pride-2021"]
 permalink: "/event/2021/07/20/a-Gender-Trans-Intersex-Workshop"
 ---
 
