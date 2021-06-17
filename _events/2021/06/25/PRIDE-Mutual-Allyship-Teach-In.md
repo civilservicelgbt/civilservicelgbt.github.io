@@ -7,6 +7,7 @@ author: "Ethnic Minority Women's Forum, Civil Service LGBT+ Network, a:gender"
 event-date: 2021-06-25 14:00:00 # YYYY-MM-DD hh:mm 
 registration-close-date: 2021-06-25 00:00:00 # YYYY-MM-DD hh:mm 
 location: "Teams"
+category: ["pride-2021"]
 link: "https://www.eventbrite.co.uk/e/pride-mutual-allyship-teach-in-tickets-159080529145"
 permalink: "/event/2021/06/25/PRIDE-Mutual-Allyship-Teach-In"
 ---
