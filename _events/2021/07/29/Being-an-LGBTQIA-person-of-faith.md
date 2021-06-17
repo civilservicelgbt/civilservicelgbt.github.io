@@ -6,6 +6,7 @@ excerpt: "This panel event comprising LGBT+ civil servants will explore the bene
 author: "Civil Service LGBT+ Network"
 event-date: 2021-07-29 12:30:00 # YYYY-MM-DD hh:mm 
 location: "Microsoft Teams"
+category: ["pride-2021"]
 link: "https://www.eventbrite.co.uk/e/being-an-lgbt-person-of-faith-tickets-159871326441"
 permalink: "/event/2021/07/29/Being-an-LGBTQIA-person-of-faith"
 ---
