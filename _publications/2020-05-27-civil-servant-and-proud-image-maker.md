@@ -25,7 +25,7 @@ We are keeping PrideON for the Civil Service, to make sure our voices are heard 
 
 We have created a package of digital assets for you to use and share around your teams to promote LGBT+ visibility. Be sure to post these on social media, add one to your email signature, change your video call background and encourage your colleagues to do it too.
 
-> [Use our image maker to make your own](https://www.civilservice.lgbt/image-maker/civil-servant-and-proud/).
+> [Use our image maker](https://www.civilservice.lgbt/image-maker/civil-servant-and-proud/)
 
 > [Use our email signature generator](https://www.civilservice.lgbt/email-signatures/pride-on)
 
