@@ -4,7 +4,7 @@ author: Civil Service LGBT+ Network
 date: '2020-05-27'
 preview: false
 published: true
-category: pride-2020
+category: ["pride-2021", "pride-2020"]
 title: Communications tool kit PrideON
 permalink: /publication/prideON-communications-tool-kit-2020
 excerpt: "We’ve created this communications tool kit for you to use during PrideON."
@@ -21,13 +21,13 @@ excerpt: "We’ve created this communications tool kit for you to use during Pri
 
 ## Image Maker
 
-We are keeping PrideON in 2020 for the Civil Service, to make sure our voices are heard and we continue to be visible.
+We are keeping PrideON for the Civil Service, to make sure our voices are heard and we continue to be visible.
 
 We have created a tool for you to market your events under our PrideON branding across your social media pages and departments. 
 
 You are able to use this tool to create images for social media with your own text. The tool produces images in the correct sizes for Twitter, Facebook and Instagram. 
 
-Be sure to use this tool to create assets to advertise your own events and content. Please tag @cslgbt on Twitter, @civilservicelgbt on Instagram and 'Civil Service LGBT+ Network' on Facebook so we can repost. 
+Be sure to use this tool to create assets to advertise your own events and content. Please tag [@cslgbt](https://twitter.com/cslgbt) on Twitter, [@civilservicelgbt]](https://instagram.com/civilservicelgbt) on Instagram and 'Civil Service LGBT+ Network' on Facebook so we can repost. 
 
 > [Use our image maker to make your own](https://www.civilservice.lgbt/image-maker/pride-on), to use the image maker. 
 
@@ -49,7 +49,7 @@ We have also created an example email you can send to your colleagues and senior
 
 ## Social Media
 
-Be sure to tag us on social media and use the hashtag #PrideON and #Yearofinclusion. We will share your content throughout the month.
+Be sure to tag us on social media and use the hashtag #PrideON and #CivilServicePride. We will share your content throughout the month.
 
 
 <!-- Include this line to process the Markdown and format the content properly -->
