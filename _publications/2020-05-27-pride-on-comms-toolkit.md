@@ -27,7 +27,7 @@ We have created a tool for you to market your events under our PrideON branding 
 
 You are able to use this tool to create images for social media with your own text. The tool produces images in the correct sizes for Twitter, Facebook and Instagram. 
 
-Be sure to use this tool to create assets to advertise your own events and content. Please tag [@cslgbt](https://twitter.com/cslgbt) on Twitter, [@civilservicelgbt]](https://instagram.com/civilservicelgbt) on Instagram and 'Civil Service LGBT+ Network' on Facebook so we can repost. 
+Be sure to use this tool to create assets to advertise your own events and content. Please tag [@cslgbt](https://twitter.com/cslgbt) on Twitter, [@civilservicelgbt](https://instagram.com/civilservicelgbt) on Instagram and 'Civil Service LGBT+ Network' on Facebook so we can repost. 
 
 > [Use our image maker to make your own](https://www.civilservice.lgbt/image-maker/pride-on), to use the image maker. 
 
