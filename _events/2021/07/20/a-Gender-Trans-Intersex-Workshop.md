@@ -1,7 +1,7 @@
 ---
 layout: format/event
 date: 2021-06-03 # YYYY-MM-DD
-title: "a:gender trans & intersex Workshop"
+title: "a:gender trans & intersex workshop"
 excerpt: "Emma Dunn, the Chair of a:gender - Civil Service's Transgender and Intersex Network will be running a Trans & Intersex Workshop."
 
 author: "PRISM - the HMRC LGBT+ Network"
