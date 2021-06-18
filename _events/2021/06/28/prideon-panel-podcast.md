@@ -16,15 +16,7 @@ PrideON is the Civil Service LGBT+ Network's summer long programme of events to 
 
 To mark the anniversary of the 1969 Stonewall uprising in New York that led to a global pride movement, we'll be releasing a special episode.
 
-In this feature length episode, we'll be speaking to LGBT+ champions and civil servants from across government about their work in championing LGBT+ inclusion.
-
-We'll be joined by:
-
-- [insert name], [insert role] at [insert department]
-- [insert name], [insert role] at [insert department]
-- [insert name], [insert role] at [insert department]
-
-The panel will be chaired by [insert name], [insert role] from [insert department].
+In this feature length episode, the chair and vice-chairs of the Civil Service LGBT+ Network will talk about championing LGBT+ inclusion in government.
 
 The podcast episode will be available online from all the usual podcast places on 28 June 2021. 
 
