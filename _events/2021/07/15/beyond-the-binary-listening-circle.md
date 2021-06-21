@@ -12,7 +12,7 @@ email: "alan.edwards@dhsc.gov.uk"
 permalink: "/event/2021/07/15/beyond-the-binary-listening-circle"
 ---
 
-As part of BiSpace, the Civil Service LGBT+ Network and a:gender are hosting a listening circle to provide a safe space for bi+ and ace+ colleagues to discuss experiences outside the binary. 
+As part of [BiSpace](https://www.civilservice.lgbt/bispace/), the Civil Service LGBT+ Network and a:gender are hosting a listening circle to provide a safe space for bi+ and ace+ colleagues to discuss experiences outside the binary. 
 
 Listening circles allow under-represented groups to come together and discuss thoughts and concerns in a supportive environment. 
 
