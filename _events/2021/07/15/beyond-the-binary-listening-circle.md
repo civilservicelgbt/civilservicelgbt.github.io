@@ -3,7 +3,7 @@ layout: format/event
 date: 2021-06-21 # YYYY-MM-DD
 title: "Beyond the Binary: listening circle"
 excerpt: "Join us for a listening circle to share experiences of falling outside the sexuality, romantic and gender binaries."
-categories: ["pride-2021", "bispace"]
+category: ["pride-2021", "bispace"]
 author: "Civil Service LGBT+ Network"
 event-date: 2021-07-15 17:00:00 # YYYY-MM-DD hh:mm
 location: "Virtual - MS Teams"
