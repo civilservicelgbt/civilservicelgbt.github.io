@@ -2,7 +2,7 @@
 layout: format/event
 title: "Quiz for Pride - Spirit Network"
 excerpt: "Join the Ministry of Justice LGBT+ Network (SPIRIT) for a quiz to round off Pride month!"
-author: "MoJ LGBT+ Network (SPIRIT)"
+author: "Ministry of Justice LGBT+ Network (SPIRIT)"
 category: [pride-2021]
 event-date: 2021-06-24 18:00:00 # YYYY-MM-DD hh:mm
 location: "Online event"

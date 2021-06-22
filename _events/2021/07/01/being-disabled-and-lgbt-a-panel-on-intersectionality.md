@@ -2,7 +2,7 @@
 layout: format/event
 title: "Being disabled and LGBTQ+: A panel on intersectionality"
 excerpt: "Join us for a discussion with civil servants on being disabled and LGBTQ+, pride in our identities and Pride, with questions at the end."
-author: "The Civil Service LGBT+ Network"
+author: "Civil Service LGBT+ Network"
 category: ["pride-2021", "intersectionality", "disability"]
 event-date: 2021-07-01 14:00:00 # YYYY-MM-DD hh:mm
 location: "Microsoft Teams"
@@ -10,13 +10,13 @@ link: "https://www.eventbrite.co.uk/e/being-disabled-and-lgbtq-a-panel-on-inters
 permalink: "/event/2021/07/01/being-disabled-and-lgbt-a-panel-on-intersectionality"
 ---
 
-We are excited to invite you to a panel event where we will discuss the intersectionality experienced by people who are disabled and LGBTQ+. 
+We are excited to invite you to a panel event where we will discuss the intersectionality experienced by people who are disabled and LGBTQ+.
 
-We would encourage you to reflect before the event on several topics in order to help shape our discussions: 
+We would encourage you to reflect before the event on several topics in order to help shape our discussions:
 
-How can disability shape LGBTQ+ expression? 
+How can disability shape LGBTQ+ expression?
 
-How can pride in our LGBTQ+ identities differ from pride in our identities as disabled people? 
+How can pride in our LGBTQ+ identities differ from pride in our identities as disabled people?
 
 What would you like to see change to increase equality in intersectional spaces?
 
