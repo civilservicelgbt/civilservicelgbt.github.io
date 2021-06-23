@@ -1,19 +1,11 @@
 ---
-layout: format/publication
+layout: format/page
 date: 2021-06-23 # YYYY-MM-DD 
 title: "Standards of behaviour"
 excerpt: "This document explains the standards of behaviour we expect of everyone who attends our events."
 author: "Civil Service LGBT+ Network"
 permalink: "/events/standards-of-behaviour"
 ---
-
-<!-- Include the following to generate a Table of Contents -->
-* Table of contents will generate here
-{:toc}
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="page-content" markdown="1">
-<!-- Don't remove code above -->
-
 
 The Civil Service LGBT+ Network exists to ensure that every one can come to work each day feeling safe to be themselves. We do not want anyone to experience, or be in fear of experiencing, discrimination because they have a minority sexual orientation or gender identity. We believe that people will be more effective if they can be themselves at work.
 
@@ -75,7 +67,3 @@ refuse to admit individuals to future events for a period of time or indefinitel
 - formally escalate an issue internal to the attendees’ department or agency
 
 Individuals affected will have a right to appeal a decision retrospectively, either via the Network’s leadership team or, where formal processes are engaged, through usual departmental procedures.
-
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->
