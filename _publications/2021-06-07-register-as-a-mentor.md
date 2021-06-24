@@ -27,6 +27,8 @@ Use these forms to register as a mentor or mentee on the Civil Service LGBT+ men
 > 
 > You should still register with your Civil Service email address.
 
+![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--become-a-mentor.png)
+
 ## Before you register
 
 Before you register, you should read read [our guidance documents](https://www.civilservice.lgbt/publication/about-our-mentoring-programme) so you know what to expect on the programme.
@@ -40,8 +42,6 @@ Registrations for the first round of the mentoring programme will close on 31 Ju
 We will not be able to accept your registration after this point. You will need to wait until the next round.
 
 ## Register as a mentor
-
-![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--become-a-mentor.png)
 
 **Give something back and become an LGBT+ mentor.** Acting as a mentor can help other, less experienced staff get on with their career. It can be a rewarding experience for you too; you can learn new skills and it makes a great corporate contribution.
 
