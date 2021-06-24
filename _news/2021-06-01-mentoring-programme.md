@@ -72,7 +72,7 @@ If you're interested in taking part, the first step is to sign up. You can sign 
 
 Give something back and become an LGBT+ mentor. We strongly encourage people at all grades to sign up as mentors – whether you're an SCS or an EO. Everyone can help someone! The more mentors we have, the more mentees we can support through the programme.
 
-> [Register as a mentor](https://forms.gle/6HiMCpBJewakzSXt6)
+> [Register as a mentor](hhttps://www.civilservice.lgbt/publication/register-as-a-mentor)
 
 ### Sign up as a mentee
 
@@ -80,7 +80,7 @@ Give something back and become an LGBT+ mentor. We strongly encourage people at 
 
 Give your career a boost and sign up as a mentee. Whilst we can't guarantee that everyone will find a mentor they keep for the long term, we will try to ensure everyone can access some speed mentoring.
 
-> [Register as a mentee](https://forms.gle/C9wX2QEcc8njLHbd9)
+> [Register as a mentee](https://www.civilservice.lgbt/publication/register-as-a-mentee)
 
 ## Questions?
 
