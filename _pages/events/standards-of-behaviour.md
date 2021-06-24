@@ -56,14 +56,16 @@ We expect that everyone attending one of our events will also choose their words
 
 ## Responding to issues and managing complaints
 
-If we consider the conduct of someone attending our event to fall below the standards we have set out in this document, we reserve the right to take action in response.
+If we consider the conduct of someone attending our events to fall below the standards we have set out in this document, we reserve the right to take action in response.
 
 Our response will be proportionate to the significance of the issues at hand. We will ordinarily:
 
 - as a first step, ask that attendees stop conducting themselves in the manner that they are
 - if this does not help to resolve a situation, we may eject attendees from an event
-- in light of the severity of an issue, we may also:
-refuse to admit individuals to future events for a period of time or indefinitely
+
+In light of the severity of an issue, we may also:
+
+- refuse to admit individuals to future events for a period of time or indefinitely
 - formally escalate an issue internal to the attendees’ department or agency
 
 Individuals affected will have a right to appeal a decision retrospectively, either via the Network’s leadership team or, where formal processes are engaged, through usual departmental procedures.
