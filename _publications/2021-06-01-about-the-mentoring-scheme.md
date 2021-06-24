@@ -45,7 +45,7 @@ We will give all mentors access to induction and guidance on how to be effective
 
 We strongly encourage people at all grades to sign up as mentors – whether you're an SCS or an AO. Everyone can help someone! The more mentors we have, the more mentees we can support through the programme.
 
-> [Register as a mentor](https://forms.gle/6HiMCpBJewakzSXt6)
+> [Register as a mentor](https://www.civilservice.lgbt/publication/register-as-a-mentor)
 
 ### Who can be a mentee
 
@@ -55,7 +55,7 @@ If you're a mentee, we'll be aiming to match you to mentors that are one or two 
 
 Whilst we can't guarantee that everyone will find a mentor they keep for the long term, we will try to ensure everyone can access a speed mentoring session as part of the programme.
 
-> [Register as a mentee](https://forms.gle/C9wX2QEcc8njLHbd9)
+> [Register as a mentee](https://www.civilservice.lgbt/publication/register-as-a-mentee)
 
 ## How it works
 
@@ -65,8 +65,8 @@ Whilst we can't guarantee that everyone will find a mentor they keep for the lon
 
 You can register as a mentor, a mentee, or both. You can register online using these forms:
 
-- [register as a mentor](https://forms.gle/6HiMCpBJewakzSXt6)
-- [register as a mentee](https://forms.gle/C9wX2QEcc8njLHbd9)
+- [register as a mentor](https://www.civilservice.lgbt/publication/register-as-a-mentor)
+- [register as a mentee](https://www.civilservice.lgbt/publication/register-as-a-mentee)
 
 As part of the registration process you will be asked to provide information including:
 
@@ -140,7 +140,7 @@ As a mentor, you can expect to:
 3. receive published guidance on how to maximise your role as a mentor
 4. have the chance to join a network of other mentors who you can speak to for advice too
 
-> [Register as a mentor](https://forms.gle/6HiMCpBJewakzSXt6)
+> [Register as a mentor](https://www.civilservice.lgbt/publication/register-as-a-mentor)
 
 > Registratons for the first round of the programme are open from 7 June 2021 to 31 July 2021.
 > We will start matching mentors and mentees after the registration window has closed.
@@ -162,7 +162,7 @@ As a mentee, you can expect to:
 1. be offered a short induction session for new mentees
 2. receive published guidance on how to maximise your role as a mentee
 
-> [Register as a mentee](https://forms.gle/C9wX2QEcc8njLHbd9)
+> [Register as a mentee](https://www.civilservice.lgbt/publication/register-as-a-mentee)
 
 
 <!-- Include this line to process the Markdown and format the content properly -->
