@@ -1,6 +1,6 @@
 ---
 layout: event
-date: 2021-06-28 # YYYY-MM-DD 
+date: 2021-06-28
 title: "A listening session with CSLGBT+ and the Ethnic Minority Women's Forum"
 excerpt: "The Ethnic Minority Women's Forum (EMWF) are hosting a listening session in partnership with CSLGBT+."
 author: "Civil Service LGBT+ Network"
