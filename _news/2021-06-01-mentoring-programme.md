@@ -8,7 +8,7 @@ category: ["mentoring"]
 image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
 ---
 
-Today we're launching a new mentoring programme aimed at LGBT+ civil servants. We're asking you – whatever your grade, location, department or identity – to get involved.
+Today we're launching a new mentoring programme aimed at LGBT+ civil servants. We're asking you – whatever your grade, location, department or LGBT+ identity – to get involved.
 
 ## Why we're creating a mentoring programme
 
