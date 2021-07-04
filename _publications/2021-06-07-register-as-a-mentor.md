@@ -16,16 +16,9 @@ permalink: "/publication/register-as-a-mentor"
 <div id="page-content" markdown="1">
 <!-- Don't remove code above -->
 
+## About this publication
 
 Use these forms to register as a mentor or mentee on the Civil Service LGBT+ mentoring programme.
-
-> **We use Google Forms**
->
-> To register as a mentor or mentee, you need to complete a Google Form. These forms are blocked on some departmental IT systems.
->
-> If you cannot open the form on your departmental system, try again on your personal device.
->
-> You should still register with your Civil Service email address.
 
 ![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--become-a-mentor.png)
 
