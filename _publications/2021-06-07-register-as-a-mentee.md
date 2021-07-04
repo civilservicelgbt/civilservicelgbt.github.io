@@ -1,6 +1,6 @@
 ---
 layout: format/publication
-date: 2021-06-07 # YYYY-MM-DD 
+date: 2021-06-07 # YYYY-MM-DD
 title: "Register as a mentee"
 excerpt: "Use this form to register as a mentee on the Civil Service LGBT+ mentoring programme."
 author: "Civil Service LGBT+ Network"
@@ -18,14 +18,6 @@ permalink: "/publication/register-as-a-mentee"
 
 
 Use these forms to register as a mentor or mentee on the Civil Service LGBT+ mentoring programme.
-
-> **We use Google Forms**
-> 
-> To register as a mentor or mentee, you need to complete a Google Form. These forms are blocked on some departmental IT systems.
->
-> If you cannot open the form on your departmental system, try again on your personal device.
-> 
-> You should still register with your Civil Service email address.
 
 ![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--find-a-mentor.png)
 
@@ -56,7 +48,12 @@ As a mentee, you can expect to:
 1. be offered a short induction session for new mentees
 2. receive published guidance on how to maximise your role as a mentee
 
-> [Register as a mentee](https://forms.gle/C9wX2QEcc8njLHbd9)
+{:.external-link}
+[Register as a mentee](https://forms.gle/C9wX2QEcc8njLHbd9)
+
+> **This form might not work on your departmental IT system.** To complete this survey, you need to complete a Google Form. These forms are blocked on some departmental IT systems.
+>
+> If you cannot open the form on your departmental system, try again on your personal device.
 
 <!-- Include this line to process the Markdown and format the content properly -->
 </div>

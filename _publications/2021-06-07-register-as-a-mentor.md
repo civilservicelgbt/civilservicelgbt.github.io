@@ -1,6 +1,6 @@
 ---
 layout: format/publication
-date: 2021-06-07 # YYYY-MM-DD 
+date: 2021-06-07 # YYYY-MM-DD
 title: "Register as a mentor"
 excerpt: "Use this form to register as a mentor on the Civil Service LGBT+ mentoring programme."
 author: "Civil Service LGBT+ Network"
@@ -20,11 +20,11 @@ permalink: "/publication/register-as-a-mentor"
 Use these forms to register as a mentor or mentee on the Civil Service LGBT+ mentoring programme.
 
 > **We use Google Forms**
-> 
+>
 > To register as a mentor or mentee, you need to complete a Google Form. These forms are blocked on some departmental IT systems.
 >
 > If you cannot open the form on your departmental system, try again on your personal device.
-> 
+>
 > You should still register with your Civil Service email address.
 
 ![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--become-a-mentor.png)
@@ -57,7 +57,12 @@ As a mentor, you can expect to:
 3. receive published guidance on how to maximise your role as a mentor
 4. have the chance to join a network of other mentors who you can speak to for advice too
 
-> [Register as a mentor](https://forms.gle/6HiMCpBJewakzSXt6)
+{:.external-link}
+[Register as a mentor](https://forms.gle/6HiMCpBJewakzSXt6)
+
+> **This form might not work on your departmental IT system.** To complete this survey, you need to complete a Google Form. These forms are blocked on some departmental IT systems.
+>
+> If you cannot open the form on your departmental system, try again on your personal device.
 
 
 
