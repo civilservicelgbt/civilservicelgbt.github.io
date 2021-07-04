@@ -21,7 +21,7 @@ This event is for mentors – people who want some career support from a more se
 During the event we will:
 
 - explain how the programme is going to work in practice
-- share tips for building your mentoring relationship with your mentor
+- share tips for building your mentoring relationship with your mentee
 - provide a chance for you to ask any questions you might have
 
 Prior to the event, we recommend that you read the guidance we have published on our website.
