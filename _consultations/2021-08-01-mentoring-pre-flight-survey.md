@@ -1,20 +1,16 @@
 ---
-layout: format/publication
+layout: format/consultation
+author: Civil Service LGBT+ Network
 date: 2021-08-01 # YYYY-MM-DD
+end-date: 2021-08-31
 title: "Mentoring programme: pre-programme survey"
-excerpt: "Complete this survey before you start your speed mentoring sessions so that we can measure the impact of the programme."
+excerpt: "Complete this survey before you start your speed mentoring sessions so that we can measure the impact of the Civil Service LGBT+ mentoring programme."
 author: "Civil Service LGBT+ Network"
 category: ["mentoring"]
+consultation-link: "https://forms.gle/WHwgjiDt3bSc5GB49"
 image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
-permalink: "/publication/mentoring-pre-programme-survey"
+permalink: "/consultation/mentoring-pre-programme-survey"
 ---
-
-<!-- Include the following to generate a Table of Contents -->
-* Table of contents will generate here
-{:toc}
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="page-content" markdown="1">
-<!-- Don't remove code above -->
 
 ## About this publication
 
@@ -38,9 +34,3 @@ If the guidance doesn't answer your question, you can also email us at [mentorin
 > **This form might not work on your departmental IT system.** To complete this survey, you need to complete a Google Form. These forms are blocked on some departmental IT systems.
 >
 > If you cannot open the form on your departmental system, try again on your personal device.
-
-
-
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->
