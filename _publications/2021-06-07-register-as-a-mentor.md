@@ -65,8 +65,6 @@ As a mentor, you can expect to:
 > If you cannot open the form on your departmental system, try again on your personal device.
 
 
-
-
 <!-- Include this line to process the Markdown and format the content properly -->
 </div>
 <!-- Don't remove the line of code above -->
