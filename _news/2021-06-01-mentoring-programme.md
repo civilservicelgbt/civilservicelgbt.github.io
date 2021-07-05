@@ -68,7 +68,7 @@ If you're interested in taking part, the first step is to sign up. You can sign 
 
 ### Become a mentor
 
-<a href="https://forms.gle/6HiMCpBJewakzSXt6" target="_blank" title="Visit the mentor registration form">![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--become-a-mentor.png)</a>
+![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--become-a-mentor.png)
 
 Give something back and become an LGBT+ mentor. We strongly encourage people at all grades to sign up as mentors – whether you're an SCS or an EO. Everyone can help someone! The more mentors we have, the more mentees we can support through the programme.
 
@@ -77,7 +77,7 @@ Give something back and become an LGBT+ mentor. We strongly encourage people at 
 
 ### Sign up as a mentee
 
-<a href="https://forms.gle/C9wX2QEcc8njLHbd9" target="_blank" title="Visit the mentee registration form">![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--find-a-mentor.png)</a>
+![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--find-a-mentor.png)
 
 Give your career a boost and sign up as a mentee. Whilst we can't guarantee that everyone will find a mentor they keep for the long term, we will try to ensure everyone can access some speed mentoring.
 
