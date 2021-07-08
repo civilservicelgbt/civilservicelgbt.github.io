@@ -4,7 +4,7 @@ date: 2021-07-08 # YYYY-MM-DD
 title: "Standards of behaviour - why we've set them"
 excerpt: "A couple of weeks ago we wrote some new standards of behaviour for our events, this blog is to explain why. 
 "
-author: Kate Hughes
+author: Kate Hughes, Chair, Civil Service LGBT+ Network
 permalink: "/news/2021/07/08/standards-of-behaviour-why-we-ve-set-them"
 ---
 
