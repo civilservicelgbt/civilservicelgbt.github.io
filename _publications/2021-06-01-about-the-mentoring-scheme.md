@@ -3,9 +3,9 @@ layout: format/publication
 author: Civil Service LGBT+ Network
 date: '2021-06-07'
 category: ["mentoring"]
-title: "About our mentoring programme"
+title: "Civil Service LGBT+ mentoring programme: about the programme"
 permalink: /publication/about-our-mentoring-programme
-excerpt: "This publication provides information about the Civil Service LGBT+ Network's mentoring programme, including how to become a mentor and a mentee."
+excerpt: "This publication provides general information about the Civil Service LGBT+ Network's mentoring programme, including eligibitly, how to become a mentor and a mentee, and what resources and support are available."
 image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
 ---
 
@@ -80,7 +80,7 @@ We will use this information to match up potential mentors and mentees.
 
 We only accept new registrations for the programme at certain points of the year. We will publish information our website when the application window is open.
 
-> Registratons for the first round of the programme are open from 7 June 2021 to 31 July 2021.  
+> Registratons for the first round of the programme are open from 7 June 2021 to 31 July 2021.
 > We will start matching mentors and mentees after the registration window has closed.
 
 ### 2. Wait for your potential matches
@@ -90,7 +90,7 @@ We only accept new registrations for the programme at certain points of the year
 After you have registered and after the registration window has closed, we will:
 
 - invite you to an induction event
-- email you with several potential matches 
+- email you with several potential matches
 
 Each mentor and mentee will be given up to 3 matches.
 
@@ -167,6 +167,14 @@ As a mentee, you can expect to:
 
 {:.external-link}
 [Register as a mentee](https://www.civilservice.lgbt/publication/register-as-a-mentee)
+
+## Resources and support
+
+We have produced the following resources for those participating in the programme:
+
+- [Advice, guidance and resources for mentees](/publication/resources-for-mentees)
+- [Advice, guidance and resources for mentors](/publication/resources-for-mentors)
+- [Code of Conduct for mentees and mentors](/publication/mentoring-code-of-conduct)
 
 
 <!-- Include this line to process the Markdown and format the content properly -->
