@@ -6,7 +6,6 @@ category: ["mentoring"]
 title: "Civil Service LGBT+ mentoring programme: advice and resources for mentors"
 permalink: /publication/resources-for-mentors
 excerpt: "This document includes advice, guidance and resources for mentors taking part in the Civil Service LGBT+ Network mentoring programme."
-published: false
 ---
 
 <!-- Include the following to generate a Table of Contents -->
@@ -23,6 +22,15 @@ published: false
 This document includes advice, guidance and resources for mentors taking part in the Civil Service LGBT+ Network mentoring programme.
 
 Separate advice is available for [mentees](/publication/resources-for-mentees).
+
+
+
+
+
+
+
+
+
 
 ## Your role as a mentor
 
@@ -62,6 +70,18 @@ Being a mentor can be a rewarding experience. As a mentor in the **Civil Service
 
 > We’ve published some perspectives from mentors joining the programme on our blog. [Visit the mentoring page](/mentoring) to read the blog posts.
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## What to do as part of the programme
 
 As part of the [**Civil Service LGBT+ mentoring programme**](/mentoring) you have been asked to:
@@ -70,6 +90,11 @@ As part of the [**Civil Service LGBT+ mentoring programme**](/mentoring) you hav
 2. choose 1 mentee from those 3 mentees you meet to mentor longer term
 
 The following sections explain how you could structure the time you spend with your mentees during their ‘speed mentoring’ session and in later sessions if you have them.
+
+
+
+
+
 
 ## Your speed mentoring
 
@@ -98,7 +123,15 @@ Try to ask ‘open’ questions throughout the session to keep the conversation 
 
 These are some topics and prompts you might want to discuss. Don’t rigidly stick to these topics – go with the flow of the conversation – but these prompts may help you to keep the conversation moving forward.
 
+<details>
+
+<summary markdown="1">
+
 ##### Career history and ambitions
+
+</summary>
+
+<div class="container" markdown="1">
 
 Encourage your mentee to set out what they currently do, what they’ve done before, and to explain their long term ambitions. Describe your own career history and journey through the Civil Service too.
 
@@ -111,7 +144,19 @@ You could ask questions like:
 - What motivates you to go to work in the morning?
 - Where do you see yourself in 1 year, 3 years, and 10 years?
 
+</div>
+
+</details>
+
+<details>
+
+<summary markdown="1">
+
 ##### Strengths and weaknesses
+
+</summary>
+
+<div class="container" markdown="1">
 
 Ask your mentee to tell you what they feel they are good at and what they want to develop. Discuss with your mentee how they think a mentor can help them to plug those gaps.
 
@@ -125,7 +170,19 @@ You could ask questions like:
 - Why did you sign up to get a mentor?
 - What’s the most important think you want a mentor to help you with?
 
+</div>
+
+</details>
+
+<details>
+
+<summary markdown="1">
+
 ##### The issue
+
+</summary>
+
+<div class="container" markdown="1">
 
 If they have prepared a specific topic or ‘issue’ they want to discuss with you, try to help them think around the issue. If you’ve been in a similar situation before, explain how you approached it or how you would do things differently if you did it again.
 
@@ -138,63 +195,180 @@ You could ask questions like:
 - What have you tried so far? Did it work, and if not why not?
 - What other options have you considered or tried?
 
+</div>
+
+</details>
+
 ### After the session
 
 Mentees get matched with multiple mentors. We’ve done this so that both mentors and mentees can get a broad sense of their options, and whether they are a good match for each other.
 
-After all of their speed mentoring sessions have taken place, one or more of your mentees might contact you to ask you to be their mentor long-term.
+After all of their speed mentoring sessions have taken place, one or more of your mentees might contact you to ask you to be their mentor long-term. If you didn't cover it in your speed mentoring, ask them questions about what they want to get out of a mentoring relationship with you, so that you can decide if you can help them.
 
-Think carefully about whether you have the time available to properly commit to supporting a mentee, and whether your skills, experience, expertise and networks are a good fit to help them.
+Think carefully about whether you have the time available to properly commit to supporting a mentee, and whether your skills, experience, expertise and networks are a good fit to help them. We would anticipate you meeting with your chosen mentee once every 4 to 8 weeks for up to 12 months.
 
 We hope that each mentor will agree to support at least one mentee long term.
 
-## Long term mentoring
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Your long term mentoring
+
+If you agree to act as a mentor for someone long term, then it is for you and your mentee to agree how you want your mentoring relationship to work.
+
+The amount of time mentors and mentees spend together will depend on what the mentee wants to get out of the relationship. In general, we recommend that you meet your mentee:
+
+- once every 4 to 8 weeks
+- for up to an hour
+- for up to a year
+
+You should agree how you want to work together either during or before your first full mentoring session.
+
+If you find that the time commitment is getting too much, then be honest with your mentee about the other commitments you have and negotiate a change to your relationship.
+
+We will contact you throughout the next year to see how your relationship with your mentee is progressing.
+
+
+
+
 
 ## Techniques for mentoring
 
-We've compiled a list of resources that you might find helpful to for your mentoring sessions. Some resources cited below require a Civil Service Learning account, which all Civil Service staff can access for free online. Other resources are from third parties.
+We've compiled a list of resources that you might find helpful to for your mentoring sessions. These resources are sourced from third parties and Civil Service LGBT+ Network did not produce these resources.
 
 ### "GROW" model
 
 The GROW model is a simple framework that can be applied to goal setting and problem solving. The technique helps mentees to identify their 'Goal', establish the 'Reality' of their current situation, the 'Options' to consider or 'Obstacles' to overcome, and then plan a 'Way forward'.
 
+#### Resources
+
 {:.document-box}
 > The GROW Model of coaching and mentoring: a simple process for developing your people
 >
-> MindTools
+> Blog post by MindTools
 >
-> This blogpost by Mindtools Videos explains how to use the GROW model.
->
-> [Open this resource (external site)](https://www.mindtools.com/pages/article/newLDR_89.htm)
+> [Visit this website (external site)](https://www.mindtools.com/pages/article/newLDR_89.htm)
 
 {:.document-box}
 > The GROW Model
 >
-> MindTools Videos
->
-> This video by MindTools Videos explains how to use the GROW model.
+> Video by MindTools Videos
 >
 > [Watch this video (external site)](https://www.youtube.com/watch?v=1fbooiSh_bA)
+
+
+
 
 ### "Five Cs" model
 
 The Five Cs model can be useful to help your mentee to consider all the options that are available to them when considering a complex problem. The framework helps mentees to think about the "Challenges" they face, the "Choices" they have, the "Consequences" of those choice, how they might find "Creative solutions" to the issues and to subsequently draw "Conclusions" about next steps.
 
+#### Resources
 
 {:.document-box}
 > The Five Cs Model of Mentoring
 >
 > Document by Keele University
 >
-> This document, produced by Keele University, explains how to use the Five Cs model, including detailed prompts for a conversation using this technique.
->
 > [Download this document (Microsoft Word format)](https://www.keele.ac.uk/media/keeleuniversity/lpdc/The%20Five%20Cs%20Model%20of%20Mentoring.docx)
+
+
+
+### Civil Service Learning
+
+The resources cited below require a Civil Service Learning account, which all Civil Service staff can access for free online. Other resources are from third parties.
+
+#### Resources
+
+{:.document-box}
+> Mentoring
+>
+> Module by Civil Service Learning
+>
+> This module contains a handbook and templates to help you structure your relationship with your mentor.
+>
+> [Visit this website (external site)](https://learn.civilservice.gov.uk/courses/FA_N1ftJQ5eYESIaJadLqg)
+
+{:.document-box}
+> Coaching and mentoring: ILM qualification (Level 5)
+>
+> Module by Civil Service Learning
+>
+> This module is available as a paid for, distance learning course. A face-to-face module is also available at a higher fee. You should speak to your line manager or HR contact about funding for paid-for training.
+>
+> [Visit this website (external site)](https://learn.civilservice.gov.uk/courses/9LjHBYPsTWyCQj-cQZzjVg)
+
+{:.document-box}
+> Coaching and mentoring: ILM qualification (Level 5)
+>
+> Module by Civil Service Learning
+>
+> [Visit this website (external site)](https://learn.civilservice.gov.uk/courses/kW0YFCMiQe-ZMYPSeD2yrA)
+
+
+
+### Other resources
+
+These are some other resources that you might find helpful when thinking about your mentoring relationship.
+
+#### Resources
+
+{:.document-box}
+> How to conduct a productive mentoring meeting
+>
+> Video by Chronus
+>
+> [Watch this video (external site)](https://www.youtube.com/watch?v=i6Z5dpvPQvU&list=PLJVSo4yG943WSkuJur5Csp0X3PLLQQPJL)
+
+{:.document-box}
+> Sharing constructive feedback with your mentor or mentee
+>
+> Video by Chronus
+>
+> [Watch this Video (external site)](https://www.youtube.com/watch?v=DHvbvR85xL8&list=PLJVSo4yG943WSkuJur5Csp0X3PLLQQPJL)
+
+{:.document-box}
+> 75 things to do with your mentees
+>
+> Document by Linda Phillips-Jones, Ph.D.
+>
+> [Download this document (PDF)](http://my.lerner.udel.edu/wp-content/uploads/75-Things-To-Do-With-Your-Mentees.pdf)
+
+
+
+
+
+
+
+
+
+
+
 
 ## Code of conduct
 
 We expect all our mentors and mentees to conduct themselves professionally and in line with the Civil Service Code – just like any other workplace activity.
 
 We've created a [Code of Conduct](/publication/mentoring-code-of-conduct) that explains the behaviours and standards you should be able to expect of your mentees, and what they expect of you as mentors.
+
+
+
+
+
+
+
+
+
 
 
 
@@ -210,6 +384,12 @@ In addition to drawing on professional experience of those involved in the Civil
 
 <div class="container" markdown="1">
 
+**Civil Service Learning**, [“Mentoring” online course](https://learn.civilservice.gov.uk/courses/FA_N1ftJQ5eYESIaJadLqg)
+
+**Civil Service Learning** (2020), [“Mentoring handbook”](https://learn.civilservice.gov.uk/courses/FA_N1ftJQ5eYESIaJadLqg/bxf9dyiPQPadh3hi_-_I3g)
+
+**Civil Service Learning** (2020), [“Mentoring quick guide”](https://learn.civilservice.gov.uk/courses/FA_N1ftJQ5eYESIaJadLqg/C7FZ2XNXSLKXXrq5SeP_8g)
+
 **Department for Digital, Culture, Media and Sport** (2021), internal guidance on coaching conversations using the GROW model
 
 </div>
@@ -222,7 +402,11 @@ In addition to drawing on professional experience of those involved in the Civil
 
 <div class="container" markdown="1">
 
-All sources were accessed during  June 2021. Publication dates and links are provided where they were available.
+All sources were accessed during June and July 2021. Publication dates and links are provided where they were available.
+
+**Chronus** (Unknown), [”How to conduct a productive mentoring meeting” (Video)](https://www.youtube.com/watch?v=i6Z5dpvPQvU&list=PLJVSo4yG943WSkuJur5Csp0X3PLLQQPJL)
+
+**Chronus** (Unknown), [”Sharing constructive feedback with your mentor or mentee” (Video)](https://www.youtube.com/watch?v=DHvbvR85xL8&list=PLJVSo4yG943WSkuJur5Csp0X3PLLQQPJL)
 
 **European Mentoring and Coaching Council** (2016), [“Global Code of Ethics: for coaches and mentors”](https://www.emccglobal.org/de/wp-content/uploads/sites/5/2018/09/EMCC-Code_of_Ethics_2016.pdf)
 
@@ -230,9 +414,15 @@ All sources were accessed during  June 2021. Publication dates and links are pro
 
 **Manchester Metropolitan University** (Unknown), [“Mentoring Guidelines”](https://www.mmu.ac.uk/media/mmuacuk/content/documents/human-resources/a-z/guidance-procedures-and-handbooks/Mentoring_Guidlines.pdf)
 
+**MentorsMe** (Unknown), [“Sample code of conduct”](http://www.mentorsme.co.uk/images/uploads2/Sample_Code_of_Conduct.pdf)
+
 **MindTools** (Unknown), [“Mentoring: A mutually beneficial partnership”](https://www.mindtools.com/pages/article/newCDV_72.htm)
 
 **MindTools** (Unknown), [“The GROW Model of coaching and mentoring: a simple process for developing your people”](https://www.mindtools.com/pages/article/newLDR_89.htm)
+
+**MindTools** (Unknown), [“The GROW Model” (Video)](https://www.youtube.com/watch?v=1fbooiSh_bA)
+
+**Phillips-Jones, L.** (2003), [“75 things to do with your mentees: Practical and effective development ideas you can try”](http://my.lerner.udel.edu/wp-content/uploads/75-Things-To-Do-With-Your-Mentees.pdf)
 
 **Phillips-Jones, L.** (2003), [“Skills for successful mentoring: Competencies of outstanding mentors and mentees”](https://my.lerner.udel.edu/wp-content/uploads/Skills_for_Sucessful_Mentoring.pdf)
 

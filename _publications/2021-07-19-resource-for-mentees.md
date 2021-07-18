@@ -6,7 +6,6 @@ category: ["mentoring"]
 title: "Civil Service LGBT+ mentoring programme: advice and resources for mentees"
 permalink: /publication/resources-for-mentees
 excerpt: "This document includes advice, guidance and resources for mentees taking part in the Civil Service LGBT+ Network mentoring programme."
-published: false
 ---
 
 <!-- Include the following to generate a Table of Contents -->
@@ -116,13 +115,13 @@ After all your speed mentoring sessions have happened, decide if you want to tur
 
 #### If you want to keep one of your mentors
 
-If one or more of the mentors you met really stood out as someone you'd like to keep meeting with, **it is your responsibility to approach a mentor and to keep the relationship going**.
+If one or more of the mentors you met really stood out as someone you'd like to keep meeting with, **it is your responsibility to approach a mentor and to keep the relationship going**. We would recommend you meet with your mentor once every 4 to 8 weeks for up to 12 months.
 
 You should contact your preferred mentor as soon as possible to ask them if they'd be happy to continue meeting with you.
 
 Please only approach one mentor at a time so that as many mentees as possible get a chance to build that long-term relationship with a mentor.
 
-There is additional guidance below about how to continue the relationship.
+There are resources below to support you to continue the relationship.
 
 #### If you don't want to keep any of your mentors
 
@@ -130,9 +129,75 @@ If your mentors weren't the right fit for you or you just don't want to continue
 
 We hope you were able to get some benefit from the speed mentoring sessions.
 
-## Conversations to have with your mentor
+## Resources to support your mentoring conversations
 
+### Civil Service Learning
 
+The resources cited below require a Civil Service Learning account, which all Civil Service staff can access for free online. Other resources are from third parties.
+
+#### Resources
+
+{:.document-box}
+> Mentoring
+>
+> Module by Civil Service Learning
+>
+> This module contains a handbook and templates to help you structure your relationship with your mentor.
+>
+> [Visit this website (external site)](https://learn.civilservice.gov.uk/courses/FA_N1ftJQ5eYESIaJadLqg)
+
+{:.document-box}
+> Coaching and mentoring: ILM qualification (Level 5)
+>
+> Module by Civil Service Learning
+>
+> This module is available as a paid for, distance learning course. A face-to-face module is also available at a higher fee. You should speak to your line manager or HR contact about funding for paid-for training.
+>
+> [Visit this website (external site)](https://learn.civilservice.gov.uk/courses/9LjHBYPsTWyCQj-cQZzjVg)
+
+{:.document-box}
+> Coaching and mentoring: ILM qualification (Level 5)
+>
+> Module by Civil Service Learning
+>
+> [Visit this website (external site)](https://learn.civilservice.gov.uk/courses/kW0YFCMiQe-ZMYPSeD2yrA)
+
+### Other resources
+
+These are some resources that you might find helpful when thinking about your mentoring relationship.
+
+#### Resources
+
+{:.document-box}
+> How do you find the right mentor?
+>
+> Video by Chronus
+>
+> This video explores what kind of questions you might want to think about when you're deciding what kind of mentor you might need.
+>
+> [Watch this video (external site)](https://www.youtube.com/watch?v=oGG5OciNunw&list=PLJVSo4yG943WSkuJur5Csp0X3PLLQQPJL)
+
+{:.document-box}
+> How to conduct a productive mentoring meeting
+>
+> Video by Chronus
+>
+> [Watch this video (external site)](https://www.youtube.com/watch?v=i6Z5dpvPQvU&list=PLJVSo4yG943WSkuJur5Csp0X3PLLQQPJL)
+
+{:.document-box}
+> Preparing for the first meeting with your mentor
+>
+> Video by Chronus
+>
+> [Watch this video (external site)](https://www.youtube.com/watch?v=wptFV9C2BkA&list=PLJVSo4yG943WSkuJur5Csp0X3PLLQQPJL
+)
+
+{:.document-box}
+> Sharing constructive feedback with your mentor or mentee
+>
+> Video by Chronus
+>
+> [Watch this Video (external site)](https://www.youtube.com/watch?v=DHvbvR85xL8&list=PLJVSo4yG943WSkuJur5Csp0X3PLLQQPJL)
 
 ## Code of conduct
 
@@ -150,6 +215,13 @@ In addition to drawing on professional experience of those involved in the Civil
 
 <div class="container" markdown="1">
 
+**Civil Service Learning**, [“Mentoring” online course](https://learn.civilservice.gov.uk/courses/FA_N1ftJQ5eYESIaJadLqg)
+
+**Civil Service Learning** (2020), [“Mentoring handbook”](https://learn.civilservice.gov.uk/courses/FA_N1ftJQ5eYESIaJadLqg/bxf9dyiPQPadh3hi_-_I3g)
+
+**Civil Service Learning** (2020), [“Mentoring quick guide”](https://learn.civilservice.gov.uk/courses/FA_N1ftJQ5eYESIaJadLqg/C7FZ2XNXSLKXXrq5SeP_8g)
+
+
 **Department for Digital, Culture, Media and Sport** (2021), internal guidance on coaching conversations using the GROW model
 
 </div>
@@ -164,11 +236,21 @@ In addition to drawing on professional experience of those involved in the Civil
 
 All sources were accessed during  June 2021. Publication dates and links are provided where they were available.
 
+**Chronus** (Unknown), [”How to conduct a productive mentoring meeting” (Video)](https://www.youtube.com/watch?v=i6Z5dpvPQvU&list=PLJVSo4yG943WSkuJur5Csp0X3PLLQQPJL)
+
+**Chronus** (Unknown), [”How to find the right mentor?” (Video)](https://www.youtube.com/watch?v=oGG5OciNunw&list=PLJVSo4yG943WSkuJur5Csp0X3PLLQQPJL)
+
+**Chronus** (Unknown), [”Preparing for the first meeting with your mentor” (Video)](https://www.youtube.com/watch?v=wptFV9C2BkA&list=PLJVSo4yG943WSkuJur5Csp0X3PLLQQPJL)
+
+**Chronus** (Unknown), [”Sharing constructive feedback with your mentor or mentee” (Video)](https://www.youtube.com/watch?v=DHvbvR85xL8&list=PLJVSo4yG943WSkuJur5Csp0X3PLLQQPJL)
+
 **European Mentoring and Coaching Council** (2016), [“Global Code of Ethics: for coaches and mentors”](https://www.emccglobal.org/de/wp-content/uploads/sites/5/2018/09/EMCC-Code_of_Ethics_2016.pdf)
 
 **Keele University** (Unknown), [“The Five Cs model of mentoring”](https://www.keele.ac.uk/media/keeleuniversity/lpdc/The%20Five%20Cs%20Model%20of%20Mentoring.docx)
 
 **Manchester Metropolitan University** (Unknown), [“Mentoring Guidelines”](https://www.mmu.ac.uk/media/mmuacuk/content/documents/human-resources/a-z/guidance-procedures-and-handbooks/Mentoring_Guidlines.pdf)
+
+**MentorsMe** (Unknown), [“Sample code of conduct”](http://www.mentorsme.co.uk/images/uploads2/Sample_Code_of_Conduct.pdf)
 
 **MindTools** (Unknown), [“Mentoring: A mutually beneficial partnership”](https://www.mindtools.com/pages/article/newCDV_72.htm)
 
