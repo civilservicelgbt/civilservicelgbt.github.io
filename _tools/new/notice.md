@@ -1,5 +1,5 @@
 ---
-layout: tools--new-post
+layout: tools/new-post
 title: "Add a notice"
 excerpt: "This tool helps you generate a data notice for the website."
 permalink: /tools/new/notice/
