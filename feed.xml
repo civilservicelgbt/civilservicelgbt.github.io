@@ -5,10 +5,9 @@ layout: rss
 	{% assign now = 'now' | date: '%s' %}
 	{% assign alldocuments = site.documents | sort: 'date' | reverse %}
 	{% for post in alldocuments %}
-		{% assign date == post.date | date: '%s' }
-		{% if date <= now %}
+		{% assign date = post.date | date: '%s' %}
+		{% if date >= now %}
 		{% if post.layout == "news" or post.layout == "publication" %}
-		{% if post.preview != true %}
 		<entry{% if post.lang %}{{" "}}xml:lang="{{ post.lang }}"{% endif %}>
 			<title type="html">{{ post.title | smartify | strip_html | normalize_whitespace | xml_escape }}</title>
 			<link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
@@ -49,13 +48,12 @@ layout: rss
 
 				{% assign post_image = post.image.path | default: post.image %}
 				{% if post_image %}
-				{% unless post_image contains "://" %}
-				{% assign post_image = post_image | absolute_url %}
-				{% endunless %}
+					{% unless post_image contains "://" %}
+					{% assign post_image = post_image | absolute_url %}
+					{% endunless %}
 				<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ post_image | xml_escape }}" />
 				{% endif %}
 		</entry>
-		{% endif %}
 		{% endif %}
 		{% endif %}
 	{% endfor %}
