@@ -1,0 +1,15 @@
+- title: "The votes are in."
+  text: "You've elected a new chair for the Civil Service LGBT+ Network."
+  link-title: "See the results"
+  url: "/news/2021/10/01/network-chair-election-results"
+  dates:
+  - start: 2021-10-01
+    end: 2021-10-18
+
+- title: "Our socials are back."
+  text: "Join us in London, Manchester or Liverpool each month."
+  link-title: "View the events schedule"
+  url: "/events/"
+  dates:
+  - start: 2021-10-18
+    end: 2021-12-01
