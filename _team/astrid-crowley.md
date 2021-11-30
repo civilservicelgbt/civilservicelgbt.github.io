@@ -3,7 +3,7 @@ layout: team
 name: "Astrid Crowley"
 role: "vice chair"
 project: "bi+ inclusion"
-email: astrid.crowley@civilservice.lgbt
+archive: true
 image: "https://www.civilservice.lgbt/images/store/team/astrid-crowley.jpeg"
 ---
 
