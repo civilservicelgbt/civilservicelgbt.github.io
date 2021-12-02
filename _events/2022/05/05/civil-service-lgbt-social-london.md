@@ -8,9 +8,9 @@ date: 2021-10-10
 author: "Civil Service LGBT+ Network"
 # category: 
 # - 
-# link: ""
-# email: ""
-no-register: "No need to register. Just turn up."
+link: "https://docs.google.com/forms/d/e/1FAIpQLSfQzGqq0eXgQOsMkvO-ZsrPRBO7rlITr2VnTR0Y1IaCN_ZRuA/viewform?usp=sf_link"
+# email: "london@civilservice.lgbt"
+# no-register: "No need to register. Just turn up."
 location: "London. Venue to be confirmed."
 start-date: 2022-05-05 18:00
 # end-date: -- :
