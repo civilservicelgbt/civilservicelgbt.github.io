@@ -8,9 +8,9 @@ date: 2021-10-10
 author: "Civil Service LGBT+ Network"
 # category: 
 # - 
-# link: ""
+link: "https://docs.google.com/forms/d/e/1FAIpQLScU34wOOsNobUyrmIrDA3mST3I-HOLTm8zTf-gKqbUimSmReA/viewform?usp=sf_link"
 # email: ""
-no-register: "No need to register. Just turn up."
+# no-register: "No need to register. Just turn up."
 location: "Tempest on Tithebarn, 12 Tithebarn St, Liverpool, L2 2DT"
 start-date: 2022-02-03 17:00
 # end-date: -- :
