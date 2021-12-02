@@ -6,7 +6,7 @@ preview: false
 published: true
 title: Asexuality fact sheet
 permalink: /publication/ace-fact-sheet
-category: bispace
+category: acespace
 excerpt: "What’s it like to be asexual (ace) in the Civil Service? We've produced a new fact sheet on asexuality to support ace inclusion in the Civil Service."
 ---
 

@@ -4,7 +4,7 @@ author: Civil Service LGBT+ Network
 preview: false
 published: true
 title: "#AceWeek: Ace diversity and inclusion starts with Ace visibility"
-category: bispace
+category: acespace
 permalink: 2020/10/26/rebecca-ace
 date: 2020-10-26
 excerpt: Rebecca Vignols, the Fast Stream LGBT+ Network's Ace Champion shares how to make your network more Ace inclusive.
