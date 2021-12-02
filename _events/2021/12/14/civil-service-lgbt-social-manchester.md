@@ -8,7 +8,7 @@ date: 2021-10-10
 author: "Civil Service LGBT+ Network"
 # category: 
 # - 
-# link: "https://docs.google.com/forms/d/e/1FAIpQLScU34wOOsNobUyrmIrDA3mST3I-HOLTm8zTf-gKqbUimSmReA/viewform"
+link: "https://docs.google.com/forms/d/e/1FAIpQLScU34wOOsNobUyrmIrDA3mST3I-HOLTm8zTf-gKqbUimSmReA/viewform"
 # email: ""
 # no-register: "No need to register. Just turn up."
 location: "Via, Canal Street, Manchester"
