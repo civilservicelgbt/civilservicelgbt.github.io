@@ -6,6 +6,7 @@ title: "AceSpace"
 excerpt: "Everything you need to know about AceSpace: our initiative that's led by and for civil servants on the asexual or aromantic spectrum."
 category: acespace
 image: "https://www.civilservice.lgbt/images/store/spaces/acespace.png"
+background: "white"
 permalink: /topic/acespace
 redirect_from:
 - /acespace
