@@ -8,7 +8,7 @@ date: 2021-11-23
 author: "Civil Service LGBT+ Network"
 category: 
 - bispace
-link: "https://docs.google.com/forms/d/e/1FAIpQLSfQzGqq0eXgQOsMkvO-ZsrPRBO7rlITr2VnTR0Y1IaCN_ZRuA/viewform?usp=sf_link"
+link: "https://docs.google.com/forms/d/e/1FAIpQLSdSQ4WhP_ufaaoCvnbCz-P2W2d-D8wB6sRURS9_6KYyVh4Jww/viewform"
 # email: "london@civilservice.lgbt"
 # no-register: "No need to register. Just turn up."
 location: "Lounge Cafe Bar, Hub by Premier Inn, 21 Tothill Street, London, SW1H 9LL"
