@@ -524,6 +524,7 @@ objectives:
   complete: false
   team:
   - name: "John Peart"
+  - name: "Dan Tebbutt"
   milestones:
   - milestone: "Publish a new business plan"
     date: 2021-11-01		# YYYY-MM-DD – target date for achieving milestone
