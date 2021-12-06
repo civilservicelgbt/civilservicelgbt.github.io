@@ -74,25 +74,6 @@ As a vice chair, your role will likely take up to 3 hours a week of your time. T
 
 ---
 
-### Vice Chair – Operations
-
-As "Vice Chair – Operations" you'll be responsible for the good running of the Civil Service LGBT+ Network. This includes managing our governance, ensuring our business plan is maintained, and supporting the administrative activities of the Network. You'll be part of our senior leadership team, helping us to lead the Network as a whole.
-
-#### Responsibilities
-
-In this role you will:
-
-- manage and update our rules and procedures, including our constitution, mission statement and objectives
-- maintain and continually develop our business plan
-- support the chair in managing our day-to-day administrative processes
-
-As a vice chair, your role will likely take up to 3 hours a week of your time. This could be made up of time for your corporate contribution in your usual role or from your own time outside of work.
-
-<a href="mailto:info@civilservice.lgbt" title="email the Network about the Vice Chair – Operations role" class="button">Email us about this role</a>
-
-
----
-
 ### Vice Chair – Policy and data
 
 As "Vice Chair – Policy and data" you'll be responsible ensuring the Civil Service LGBT+ Network can act as a centre of expertise and knowledge about the experiences of LGBT+ people working in the Civil Service. You'll help us build a robust evidence base, and use that evidence base to support local networks and feed into Civil Service policy development. You'll be also part of our senior leadership team, helping us to lead the Network as a whole.
@@ -142,6 +123,18 @@ Specific tasks that the role holders could undertake include:
 - helping other team members to create clear, inclusive communications plans and content to support the work they are delivering
 
 As a communications lead, your role will likely take up to 1 hour a week of your time. This could be made up of time for your corporate contribution in your usual role or from your own time outside of work.
+
+<a href="mailto:info@civilservice.lgbt" title="email the Network about this role" class="button">Email us about this role</a>
+
+---
+
+### Conference Organiser
+
+As a "Conference Organiser" you will support  be part of our team designing and delivering an annual LGBT+ workplace and career development conference, led by our Vice-Chair – Conference, James Jefferson.
+
+We're looking for people with experience in communications, design, logistics and project management. We anticipate the conference will take place in Summer 2022.
+
+As a conference organiser, your role will likely take up to 1 hour a week of your time, with a larger time committment closer to the conference. This could be made up of time for your corporate contribution in your usual role or from your own time outside of work.
 
 <a href="mailto:info@civilservice.lgbt" title="email the Network about this role" class="button">Email us about this role</a>
 
