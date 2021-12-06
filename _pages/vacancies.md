@@ -152,6 +152,13 @@ Specific projects that the role holders might be asked to help with include:
 - producing social media graphics, posters, booklets, and other forms of graphic media
 - maintaining our [design system](/design-system) and continually iterating the design of our website and digital services
 
+#### Specific projects
+
+The specific projects we know we need help with right now include, but are not limited to:
+
+- our 2022 annual conference
+- our Pride 2022 programme
+
 As a designer, your role will likely take up to 1 hour a week of your time. This could be made up of time for your corporate contribution in your usual role or from your own time outside of work. 
 
 <a href="mailto:info@civilservice.lgbt" title="email the Network about this role" class="button">Email us about this role</a>
@@ -163,5 +170,13 @@ As a designer, your role will likely take up to 1 hour a week of your time. This
 As a developer, you will work with people across the Civil Service LGBT+ Network to develop tools to support our programmes or to iterate our website. 
 
 A familiarity with GitHub, HTML, CSS, Javascript and Ruby would be desirable.
+
+#### Specific projects
+
+The specific projects we know we need help with right now include:
+
+- integrating our mailing list and website with our mail platform
+- working with [our team member Jonathan Kerr](https://www.civilservice.lgbt/team/jonathan-kerr/), developing a new mentor matching tool to make it easier to run our mentoring programme
+- adding functionality to our website to make it easier to add and review content
 
 <a href="mailto:info@civilservice.lgbt" title="email the Network about this role" class="button">Email us about this role</a>
