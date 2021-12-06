@@ -4,7 +4,7 @@
 layout: team
 title: "Dan Tebbutt"
 name: "Dan Tebbutt"
-role: "vice-chair"
+role: "vice chair"
 project: "Governance"
 # region: ""
 email: "daniel.tebbutt@civilservice.lgbt"
