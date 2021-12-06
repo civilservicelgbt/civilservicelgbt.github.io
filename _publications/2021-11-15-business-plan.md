@@ -472,6 +472,7 @@ objectives:
   team:
   - name: "John Peart"
   - name: "Edward He"
+  - name: "Dan Tebbutt"
   milestones:
   - milestone: "Create a volunteer toolkit explaining common activities and how to do them"
     date: 2022-03-31		# YYYY-MM-DD – target date for achieving milestone
@@ -488,6 +489,7 @@ objectives:
   complete: false
   team:
   - name: "John Peart"
+  - name: "Dan Tebbutt"
   milestones:
   - milestone: "Restart a quarterly Leaders of Networks forum"
     date: 2022-01-31		# YYYY-MM-DD – target date for achieving milestone
