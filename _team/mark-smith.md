@@ -2,6 +2,7 @@
 layout: team
 name: "Mark Smith"
 role: "project team"
+archive: true
 project: "bi+ inclusion"
 ---
 

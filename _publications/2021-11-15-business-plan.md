@@ -209,6 +209,7 @@ objectives:
   - name: "Jordan Ledger"
   - name: "Eamon Evans"
   - name: "Ross Starkie"
+  - name: "Matt Smith"
   - name: "Bethan Cable"
   - name: "Richard Newbury"
   - name: "Gwilym Stone"
@@ -221,12 +222,14 @@ objectives:
     date: 2021-10-30 		# YYYY-MM-DD – target date for achieving milestone
     complete: true
   - milestone: "Restart regular, in-person socials in the North West of England"
+    details: "Socials to take place in Liverpool and Manchester each month"
     date: 2021-10-30 		# YYYY-MM-DD – target date for achieving milestone
     complete: true
   - milestone: "Restart regular, in-person socials in the South West of England"
-    date: 2021-11-30 		# YYYY-MM-DD – target date for achieving milestone
+    date: 2022-02-28 		# YYYY-MM-DD – target date for achieving milestone
     complete: false
   - milestone: "Restart regular, in-person socials in Scotland"
+    details: "Socials to take place once every one or two months in Glasgow and Edinburgh from February 2022"
     date: 2022-02-28 		# YYYY-MM-DD – target date for achieving milestone
     complete: false
   - milestone: "Restart regular, in-person socials in Wales"
@@ -263,9 +266,36 @@ objectives:
   complete: false
   team:
   - name: "Sunny Thompson"
+  - name: "Diana Reynolds"
+  - name: "Emma Altman-Richer"
+  - name: "Robin Tamblyn"
   milestones:
   - milestone: "Develop a plan for BiSpace in 2022"
     date: 2021-12-31		# YYYY-MM-DD – target date for achieving milestone
+    complete: true
+  - milestone: "Run a BiSpace virtual social"
+    date: 2022-01-31		# YYYY-MM-DD – target date for achieving milestone
+    complete: false
+  - milestone: "Events and activities to highlight bi+ identities during LGBT History Month"
+    date: 2022-02-28		# YYYY-MM-DD – target date for achieving milestone
+    complete: false
+  - milestone: "Run a BiSpace virtual social"
+    date: 2022-03-31		# YYYY-MM-DD – target date for achieving milestone
+    complete: false
+  - milestone: "Events and activities to raise awareness of and tackle biphobic bullying, harassment and discrimination at work. "
+    date: 2022-05-17		# YYYY-MM-DD – target date for achieving milestone
+    complete: false
+  - milestone: "Run a BiSpace virtual social"
+    date: 2022-07-30		# YYYY-MM-DD – target date for achieving milestone
+    complete: false
+  - milestone: "Events and activities for Bi Visibility month"
+    date: 2022-09-30		# YYYY-MM-DD – target date for achieving milestone
+    complete: false
+  - milestone: "Events and activities for Ace Awareness month"
+    date: 2022-10-30		# YYYY-MM-DD – target date for achieving milestone
+    complete: false
+  - milestone: "Run a BiSpace virtual social"
+    date: 2022-11-30		# YYYY-MM-DD – target date for achieving milestone
     complete: false
 
 - objective: "Women's inclusion"	# Name of objective
