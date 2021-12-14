@@ -9,7 +9,7 @@ author: "Government Equalities Office"
 # category: 
 # - 
 link: "https://www.gov.uk/government/consultations/banning-conversion-therapy"
-end-date: 2021-12-10 11:45
+end-date: 2022-02-04 11:45
 # image: ""
 # video: ""
 permalink: /consultation/banning-conversion-therapy
