@@ -41,6 +41,35 @@ We also know from engagement with LGBT+ staff over a number of years that they f
 
 This programme aims to address both issues simultaneously. It provides mentees to access to structured mentoring opportunities with staff who are at least one grade more senior than them.
 
+## What you will need
+
+This programme was designed to be delivered at low or no cost but it is relatively time intensive. 
+
+### Tools
+
+The first iteration of the programme was delivered entirely online using the following tools:
+
+- Google Workspace (Google Mail, Meet, Sheets, Forms and Slides) — to manage correspondence, registrations, matching, surveys and online induction
+- GOV.UK Notify — to send transactional emails to participants
+
+At the time of the original programme, Google Workspace cost around £10 per month. The costs were met by the Chair. GOV.UK Notify’s email service is free-to-use for the Civil Service.
+
+There is no specific reason why the programme could not have been delivered using alternative tools.
+
+### Time
+
+The first iteration of the programme programme took around 45 hours to create and around 20 hours to administer. This included:
+
+- 15 hours to create guidance documents
+- 5 hours to create induction presentation materials
+- 5 hours to create notification email templates, forms and surveys
+- 20 hours to conduct matching of mentors to mentees
+- 5 hours to notify participants and provide follow up advice
+- 10 hours to conduct induction events
+- 5 hours to review feedback and survey data
+- regular email correspondence with prticipants
+
+
 ## Preparing to launch the programme
 
 
