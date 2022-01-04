@@ -23,6 +23,25 @@ permalink: /team/vacancies/
 # 
 # <a href="mailto:info@civilservice.lgbt" title="email the Network about the Vice Chair – Minority ethnicity inclusion role" class="button">Email us about this role</a>
 
+# ---
+# 
+# ### Vice Chair – Career development
+# 
+# As "Vice Chair – Career development" you'll develop and lead the delivery of a programme of learning and development activities for the Civil Service LGBT+ Network. You'll also join our senior leadership team, helping us to lead the Network as a whole.
+# 
+# #### Responsibilities
+# 
+# In this role you will:
+# 
+# - deliver our mentoring programme in 2022 and 2023, building upon the existing programme
+# - support the delivery of our Civil Service LGBT+ Network annual conference
+# - develop a wider programme of learning and development activities and events targetted at LGBT+ civil servants
+# - evaluate the impact of the mentoring programme and the wider programme of activities
+# 
+# As a vice chair, your role will likely take up to 3 hours a week of your time. This could be made up of time for your corporate contribution in your usual role or from your own time outside of work.
+# 
+# <a href="mailto:info@civilservice.lgbt" title="email the Network about the Vice Chair – Career development role" class="button">Email us about this role</a>
+
 ---
 
 The **Civil Service LGBT+ Network** delivers its work on an entirely voluntary basis. Our [team](/team) give up their spare time to put on our events, deliver our programmes and make things better for LGBT+ civil servants.
@@ -34,25 +53,6 @@ If you'd like to volunteer, [get in touch](/contact-us).
 These are specific gaps we've identified that we'd like more people to help with, but these aren't the only ways to get involved. 
 
 If you spot something in [our business plan](/our-plan) you'd like to help with, email the vice-chair responsible directly.
-
----
-
-### Vice Chair – Career development
-
-As "Vice Chair – Career development" you'll develop and lead the delivery of a programme of learning and development activities for the Civil Service LGBT+ Network. You'll also join our senior leadership team, helping us to lead the Network as a whole.
-
-#### Responsibilities
-
-In this role you will:
-
-- deliver our mentoring programme in 2022 and 2023, building upon the existing programme
-- support the delivery of our Civil Service LGBT+ Network annual conference
-- develop a wider programme of learning and development activities and events targetted at LGBT+ civil servants
-- evaluate the impact of the mentoring programme and the wider programme of activities
-
-As a vice chair, your role will likely take up to 3 hours a week of your time. This could be made up of time for your corporate contribution in your usual role or from your own time outside of work.
-
-<a href="mailto:info@civilservice.lgbt" title="email the Network about the Vice Chair – Career development role" class="button">Email us about this role</a>
 
 ---
 
