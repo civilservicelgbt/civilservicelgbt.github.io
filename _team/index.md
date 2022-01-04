@@ -14,4 +14,4 @@ breadcrumbs: false
 
 The Civil Service LGBT+ Network is run entirely by a team of volunteers. These volunteers give up their spare time to help to make the Civil Service a great place to be an LGBT+ civil servant.
 
-**Want to get involved?** [Contact us](/about/contact-us).
+**Want to get involved?** We've listed some of [our available roles](/team/vacancies/) on our website, and we've published [a plan of things we want to do](/our-plan). Once you've decided on where you want to help, [contact us](/about/contact-us).
