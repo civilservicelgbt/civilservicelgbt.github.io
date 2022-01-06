@@ -5,7 +5,8 @@ excerpt: "Everything you need to know about BiSpace: our initiative that's by bi
 layout: topic
 category: bispace
 background: white
-redirect_from: /bispace/
+redirect_from: /bispace
+permalink: /topic/bispace
 image: "https://www.civilservice.lgbt/images/store/pages/bispace.png"
 
 #Social Media
