@@ -79,7 +79,7 @@ On this basis, a single volunteer should be able to administer the programme wit
 
 ## Preparing to launch the programme
 
-
+The **Civil Service LGBT+ Network** website is the central location for all information about the programme. All blog posts, guidance and events are linked to a 'topic page' at [www.civilservice.lgbt/mentoring](/mentoring). 
 
 {:.document-box}
 > Civil Service LGBT+ mentoring programme: topic page
@@ -87,6 +87,17 @@ On this basis, a single volunteer should be able to administer the programme wit
 > Webpage
 > 
 > [Open this topic page](/mentoring)
+
+### Updating guidance documents
+
+Guidance documents containing information about how the programme operates and resources for mentors and mentees were written for the original programme. You should review all of these documents prior to each wave of the programme and update them with relevant information.
+
+{:.document-box}
+> Civil Service LGBT+ mentoring programme: about the programme
+> 
+> Webpage
+> 
+> [Open this document](/publication/about-our-mentoring-programme)
 
 {:.document-box}
 > Civil Service LGBT+ mentoring programme: advice and resources for mentees
@@ -102,12 +113,26 @@ On this basis, a single volunteer should be able to administer the programme wit
 > 
 > [Open this document](/publication/resources-for-mentors)
 
+### Preparing for induction
+
+For the original programme, induction events were delivered *after* registrations closed for the programme but *before* mentors and mentees were notified of their matches. These presentations are linked in the "[Inducting mentors and mentees](/manual/civil-service-lgbt-mentoring-programme#inducting-mentors-and-mentees)" section below. 
+
+You should schedule and publish the dates for the induction events as soon as possible.
+
+### Publicise the programme
+
+The original programme was publicised at the same time as registrations opened for the programme. This was then followed up with some blog posts on the **Civil Service LGBT+ Network** website and email mail outs to the entire Network mailing list.
+
+In addition, the Network asked the Permanent Secretary champion to write to the LGBT+ Inclusion Champions in each department publicising the programme.
+
+You should consider how you intend to publicise the programme to encourage sign ups before it launches.
+
 {:.document-box}
-> Civil Service LGBT+ mentoring programme: Code of Conduct
+> Introducing the new Civil Service LGBT+ mentoring programme
 > 
-> Webpage
+> Blog post
 > 
-> [Open this document](/publication/mentoring-code-of-conduct)
+> [Open this document](/archives/2021/06/07/mentoring-programme/)
 
 ### IT systems access
 
@@ -563,6 +588,11 @@ Email templates that you can adapt and re-purpose are already set up on the emai
 
 ## Sending emails
 
+All bulk email messages are sent via GOV.UK Notify. This is a free-to-use service for the public sector. The **Civil Service LGBT+ Network** has been given special dispensation to use it, supported by the Civil Service Inclusive Practice team provided that it remains free-to-use.
+
+To send emails out using GOV.UK Notify, you will need to export the required email addresses and data from the Google Sheet in CSV format. You then select the appropriate template, upload the CSV file to Notify, and it will fill in the template with the appropriate data.
+
+Please contact the Chair for access to the GOV.UK Notify system.
 
 ### Generic email footer
 
@@ -579,12 +609,25 @@ Emails must include a generic footer that tells people how they can change their
 
 ## Templates and other resources
 
+A Code of Conduct was also produced to set expectations for the behaviour of both mentors and mentees. 
+
+{:.document-box}
+> Civil Service LGBT+ mentoring programme: Code of Conduct
+> 
+> Webpage
+> 
+> [Open this document](/publication/mentoring-code-of-conduct)
+
+A generic presentation template was produced and should be used for all presentations.
+
 {:.document-box}
 > Presentation template
 > 
 > Google Slides presentation
 > 
 > [Open this template](https://docs.google.com/presentation/d/1YQb4OuM3Aor36Vb8Qf8DMhM79dh-2sJEQfDDJ3FtoqA/edit#slide=id.p)
+
+A GOV.UK Notify message template has been produced as a starting point for all messages you need to send for the programme.
 
 {:.document-box}
 > [Generic message template](https://www.notifications.service.gov.uk/services/ca9a7b2f-5b83-4ef0-901e-0f2ce4e4d04e/templates/0e8a9151-f0bb-4dc7-8e0f-4f7efbff7728)
