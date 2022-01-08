@@ -6,7 +6,9 @@ excerpt: "Use this form to register as a mentee on the Civil Service LGBT+ mento
 author: "Civil Service LGBT+ Network"
 category: ["mentoring"]
 image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
-permalink: "/publication/register-as-a-mentee"
+permalink: "/mentoring/register-as-a-mentee"
+redirect_from:
+- /publication/register-as-a-mentee
 published: false
 ---
 

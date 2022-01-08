@@ -7,8 +7,8 @@ category: ["mentoring"]
 image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
 permalink: "/mentoring/registrations-closed"
 redirect_from:
-- /publication/register-as-a-mentee
-- /publication/register-as-a-mentor
+- /mentoring/register-as-a-mentee
+- /mentoring/register-as-a-mentor
 ---
 
 Thank you for your interest in the Civil Service LGBT+ mentoring programme.
