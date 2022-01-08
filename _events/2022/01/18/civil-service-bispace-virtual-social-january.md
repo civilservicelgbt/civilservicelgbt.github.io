@@ -8,7 +8,7 @@ date: 2022-01-07
 author: "Civil Service LGBT+ Network"
 category: 
 - bispace
-# link: ""
+link: "https://docs.google.com/forms/d/e/1FAIpQLSdSQ4WhP_ufaaoCvnbCz-P2W2d-D8wB6sRURS9_6KYyVh4Jww/viewform?usp=sf_link"
 email: "sunny.thompson@civilservice.lgbt"
 # no-register: ""
 location: "MS Teams link will be sent to attendees"
