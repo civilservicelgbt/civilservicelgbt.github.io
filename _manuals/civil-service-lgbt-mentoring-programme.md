@@ -10,7 +10,7 @@ meta-info: false
 # - 
 # redirect_to: 
 # - 
-published: false
+published: true
 ---
 
 <!-- Include the following to generate a Table of Contents -->
@@ -20,17 +20,15 @@ published: false
 <div id="markdown-content" markdown="1">
 <!-- Don't remove code above -->
 
-The Civil Service LGBT+ mentoring programme is a career development offer developed and led by the *Civil Service LGBT+ Network*. 
-
 ## About this publication
 
-This is a guidance document. It reflects the process by which the mentoring programme has been administered so far. The intended audience for the document is volunteers who are looking to replicate and improve upon this process.
+This is a guidance document for the Civil Service LGBT+ mentoring programme. It reflects the process by which the mentoring programme has been administered so far. The intended audience for the document is volunteers who are looking to replicate and improve upon this process.
 
 This document was last updated on 2 January 2022.
 
 ## Purpose of the programme
 
-The Civil Service LGBT+ mentoring programme was created for two reasons:
+The Civil Service LGBT+ mentoring programme is a career development offer developed and led by the **Civil Service LGBT+ Network**. The mentoring programme was created for two reasons:
 
 1. to support LGBT+ civil servants in developing their career
 2. to create greater visibility of LGBT+ role models throughout the Civil Service
@@ -43,9 +41,9 @@ This programme aims to address both issues simultaneously. It provides mentees t
 
 ## What you will need
 
-This programme was designed to be delivered at low or no cost but it is relatively time intensive. 
-
 ### Tools
+
+This programme was designed to be delivered at low or no cost. 
 
 The first iteration of the programme was delivered entirely online using the following tools:
 
@@ -58,6 +56,8 @@ There is no specific reason why the programme could not have been delivered usin
 
 ### Time
 
+The original programme was designed and delivered from scratch by a single person over the course of 6 months. Maintaining and updating the programme is likely to be relatively less time intensive. 
+
 The first iteration of the programme programme took around 45 hours to create and around 20 hours to administer. This included:
 
 - 15 hours to create guidance documents
@@ -67,10 +67,18 @@ The first iteration of the programme programme took around 45 hours to create an
 - 5 hours to notify participants and provide follow up advice
 - 10 hours to conduct induction events
 - 5 hours to review feedback and survey data
-- regular email correspondence with prticipants
+- regular email correspondence with participants
+
+Future iterations of the programme are likely to require less time than this because:
+
+- much of the core content for the programme will only require  minor changes (unless a volunteer wants to expand particular elements)
+- the matching process is intended to be simplified by a new software tool that can automatically conduct the matching
+
+On this basis, a single volunteer should be able to administer the programme within 1 to 2 hours a week over the space of 3 months.
 
 
 ## Preparing to launch the programme
+
 
 
 {:.document-box}
@@ -101,13 +109,93 @@ The first iteration of the programme programme took around 45 hours to create an
 > 
 > [Open this document](/publication/mentoring-code-of-conduct)
 
+### IT systems access
+
+There are no commercially available IT solutions – such as Microsoft Office 365 and Google Workspace – that are universally accessible in all departments and agencies. Even in departments that use the same IT system as the one the **Civil Service LGBT+ Network** uses, local IT restrictions might mean specific services are not available. **There is nothing you can do to fix this**.
+
+You will need to remind participants that if a link or form isn't working they should try again from a personal device.
+
+**It is strongly recommended that you do not attempt to set up multiple bespoke solutions for registrations or wider participation.** The administrative burden will be significant and it will make managing the programme much harder.
+
 ## Opening registrations
 
+In order to find mentors and mentees, you will need a registration process. 
+
+For the original programme: 
+
+- participants registered via one of two Google Forms; one for mentors and one for mentees
+- participants could register to be both a mentor **and** and a mentee, if they wished to do so
+- registrations opened for 8 weeks
+
+### Timing
+
+You should open registrations for the programme for a minimum of 4 weeks. During this time, you should promote the programme to potential mentors and mentees. You should consider whether you wish to promote the programme **before** registrations open, to build interest in advance.
+
+You should make the closing date clear to prospective participants. Consider whether you want to set a false deadline  (for example, at 4 weeks) and then extend the deadline for a very short period (for example, an additional 1 week) to help with managing last minute registrations.
+
+**Longer registration windows are not necessarily better.** The data you collect from prospective participants will become outdated quickly due to departmental churn and participants changing their mind.
+
+### Eligibility
+
+Participants in the programme should:
+
+1. be a civil servant employed directly by a central government department or agency[^deptagency]
+2. self-identify as LGBT+; they have a minority sexual orientation, gender identity or expression, or variations in sex characteristics
+3. register with a Civil Service email address
+
+The second criteria was the subject of some debate amongst prospective participants in the original programme and a number of allies wished to take part. 
+
+The programme was intentionally limited to LGBT+ staff only because of the [evidence base identified above](/manual/civil-service-lgbt-mentoring-programme#purpose-of-the-programme). Participants have fed back that they particularly valued knowing their mentors and/or mentees were LGBT+. 
+
+This does not mean that the role of allies isn't valuable, but it is not what this programme has been designed for.
+
+[^deptagency]: The best way to check whether someone is a civil servant is to ask them if their organisation is listed on GOV.UK under '[Departments, agencies and public bodies](https://www.gov.uk/government/organisations)' **and** whether their organisation advertises jobs on Civil Service Jobs. If they do not, then they are unlikely to be eligible. You can consult the Civil Service Inclusive Practice team if you are unsure.
+
+Participants should not:
+
+1. be employed in the wider public sector, such as local government or the NHS
+2. be a consultant, interim contract, or agency-worker
+3. be straight and cisgendered
+4. register with their personal email address 
+
+### Registering as a mentor
+
+Mentors can be from any grade from EO upwards. It would not be possible to match AA and AO mentors to mentees because mentors should mostly be two grades more senior than their mentees.
+
+It is likely that participants who have registered as mentors at the most junior grades will not be successfully matched to a mentee. In the original programme there were too many mentors available at junior grades. Of the 425 mentors that registered, around 20 prospective mentors did not receive a successful match.
+
+{:.document-box}
+> [Register as a mentor](https://www.civilservice.lgbt/mentoring/register-as-a-mentor)
+>
+> Website landing page
+> 
+> To gain access to the registration form, please email <mentoring@civilservice.lgbt>
 
 {:.document-box}
 > [Become a mentee](https://docs.google.com/forms/d/1OPsDRpnBURrSclfYmxV3e1BQ0qazLX70SsY-u51xGf8/edit)
 >
 > Google Form
+> 
+> To gain access to the registration form, please email <mentoring@civilservice.lgbt>
+
+### Registering as a mentee
+
+Mentees can be from any grade up to SCS2. It would not be possible to find mentors for SCS3 and SCS4 mentees (Permanent Secretary) because mentors would usually be two grades more senior than their mentee.
+
+In the original programme, most mentee participants were drawn from the most junior grades. This was expected given the structure of the Civil Service.
+
+It is substantially more difficult to match Grade 7, Grade 6 and Senior Civil Service participants who wish to take part as mentees. For this reason you should proactively market the programme to the Senior Civil Service, asking them to take part as mentors.
+
+#### Registration forms
+
+A landing page was set up on the **Civil Service LGBT+ Network** website. This landing page then linked out to a Google Form where participants could register.
+
+It is recommended that in communications and guidance documents you **always** link to the landing page. This will make it much easier to handle messaging around deadlines and IT access issues.
+
+{:.document-box}
+> [Register as a mentee](https://www.civilservice.lgbt/mentoring/register-as-a-mentee)
+>
+> Website landing page
 > 
 > To gain access to the registration form, please email <mentoring@civilservice.lgbt>
 
@@ -118,7 +206,54 @@ The first iteration of the programme programme took around 45 hours to create an
 > 
 > To gain access to the registration form, please email <mentoring@civilservice.lgbt>
 
+### Data requested from participants
+
+The information requested from participants was:
+
+- name
+- contact details
+- job title
+- current grade
+- profession
+- department or agency
+
+The process did not require participants to provide details of their LGBT+ identity.
+
+{:.warning-text}
+> #### Changes to this process and data protection
+> 
+> If you make changes to the process and data collection, you will need to carefully consider the data protection implications and how any data you collect is communicated to participants. 
+> 
+> You will need to update the privacy statement on the registration forms to make it explicit what you are doing with the information you collect before making changes.
+> 
+> As a general rule, you should seek explicit permission from participants for everything you intend to do with their data.
+
+
+### Registration data location
+
+The data from the Google Forms is stored in a Google Sheet. Throughout the remainder of this guidance there will be references to specific tabs in this Google Sheet.
+
+This Google Sheet contains large amounts of sensitive personal data. Do not under any circumstances share this data with other people, or provide access to the Google Sheet to anyone that isn't directly involved with managing the programme.
+
+### Monitoring registrations and cleaning the data
+
+During the registration window, it is a good idea to monitor registrations. This helps you to understand where you lack mentors and/or mentees, so that you can target particular grades or professions. 
+
+You should also keep an eye out for false registrations, spam, or incorrect data. For example, some participants last year gave their team name or directorate when they were asked for their 'department'; this incorrect data can be easily fixed by looking at the participant's email address but it is fundamental to correct it so the matching process can take place.
+
 ## Closing registrations
+
+After your chosen registration window has finished, you will need to manually close registrations. You do this by:
+
+- changing the landing pages so they redirect to a 'Registrations have closed' landing page (linked below)
+- changing the Google Forms to disallow new registrations
+
+{:.document-box}
+> Registrations have closed
+> 
+> Website landing page
+> 
+> [Open this blogpost](/mentoring/registrations-closed)
 
 {:.document-box}
 > Mentoring registrations are now closed
@@ -126,6 +261,8 @@ The first iteration of the programme programme took around 45 hours to create an
 > Blogpost
 > 
 > [Open this blogpost](/news/2021/08/02/mentoring-registrations-are-now-closed)
+
+You should quickly move into the next phases of the process. The longer you leave between the close of registrations and issuing final matches, the more likely participants will drop out.
 
 ## Inducting mentors and mentees
 
@@ -173,12 +310,24 @@ The first iteration of the programme programme took around 45 hours to create an
 
 ## Matching mentors to mentees
 
+You should aim to match mentors to mentees as quickly as possible after registrations close. Delays at this stage are the biggest risk to the success of the programme. The longer you wait, the more likely that the data you hold will be outdated and the more likely that participants drop out. 
+
+### Validate the registration data
+
+Before you start to match mentees and mentors, you should provide participants with an opportunity to validate their information. Use the GOV.UK Notify template to send a notification to all participants listed on the "GOV.UK Notify – General contact list" tab.
+
+Provide a clear deadline for when matching will take place.
+
 {:.document-box}
 > [Check your details](https://www.notifications.service.gov.uk/services/ca9a7b2f-5b83-4ef0-901e-0f2ce4e4d04e/templates/c31d0e14-e89b-4c54-9076-201cf872e1f2)
 >
 > GOV.UK Notify template
 > 
-> To gain access to template, please email <mentoring@civilservice.lgbt>
+> To gain access to this template, please email <mentoring@civilservice.lgbt>
+
+If participants email you to ask to change their details, update the source data in the Google Sheet on the "Mentors" or "Mentees" tabs. Ensure that the person emailing you is the same person as the person who registered – compare their email addresses in particular.
+
+Once the deadline for the validation process has passed, email all participants again telling them that the matching process has started. Use the GOV.UK Notify template to send a notification to all participants listed on the "GOV.UK Notify – General contact list" tab.
 
 {:.document-box}
 > [Matching has started](https://www.notifications.service.gov.uk/services/ca9a7b2f-5b83-4ef0-901e-0f2ce4e4d04e/templates/8b7d396a-7012-40d6-b427-f18ac2d4539c)
@@ -186,6 +335,70 @@ The first iteration of the programme programme took around 45 hours to create an
 > GOV.UK Notify template
 > 
 > To gain access to template, please email <mentoring@civilservice.lgbt>
+
+### Guidelines for matching mentors and mentees
+
+{:.warning-text}
+> #### Changes for 2022
+>
+> The matching process was conducted manually in the 2021 programme. We anticipate that this process will be handled by newly developed software from 2022 onwards.
+
+The objective of the matching process is to facilitate speed mentoring. A successful matching process would result in:
+
+- each mentee matched with no fewer than 1 and no more than 3 speed mentors
+- each mentor with no more than 3 mentees to meet with for speed mentoring
+
+The matching process for the 2021 programme was based on the following rules:
+
+#### Quantity of matches
+
+Every mentee **must** be matched with at least 1 mentor. All other considerations are secondary.
+
+The rationale is that:
+
+1. it is better to match every mentee with fewer mentors than to have some mentees with 3 mentors, and others with none
+2. it is better to give mentees sub-optimal matches than to give mentees no matches at all
+
+#### Grade gap
+
+A mentor **should** be two grades more senior than their mentee. A mentor **must** be at least one grade more senior than their mentee. A mentor **must not** be matched with a mentee who is 3 grades their junior.
+
+The rationale for this is that a mentor is most useful to a mentee when they are slightly more senior, but not so senior as for their advice and mentoring to feel disconnected from the mentee's current career position.
+
+{:.warning-text}
+> #### Learning point
+> 
+> Note that the 2021 programme did not match a mentor with a mentee if there was a 3 gap difference. There was very limited feedback from middle management grade staff that they would prefer a larger gap; this was not achievable with the mentors available.
+
+#### Profession
+
+Each mentee **should** be matched with at least one mentor who is in the same profession as they are. 
+
+If a mentee has two matches with a mentor in the same profession as they are, they **should** be matched with a *third* mentee in a *different* profession.
+
+The rationale for matching people in different professions is that mentees might benefit from different perspectives and experiences.
+
+{:.warning-text}
+> #### Learning point
+> 
+> Note that the 2021 programme did not consider whether participants might be looking to *change* their profession. This is something future programmes may wish to factor into the matching process.
+
+#### Departments and agencies
+
+A mentee and mentor **must not** be matched with someone who works in the same department or agency as they do. 
+
+The rationale for this is that it will avoid accidentally outing people working in close proximity to each other, and it will enable more honest conversations.
+
+#### Other factors
+
+A participants LGBT+ identity was **not** considered as part of the matching process. There here was some feedback that some participants would prefer to be matched with people with similar identities to them (for example, trans mentees with trans mentors). 
+
+The rationale for this was that it would be too difficult to match people on this basis as well as with other criteria. All participants are LGBT+ and this was believed to provide enough of a link to participants identities to make them comfortable taking part. Additionally, the labels and identities with which people describe themselves are not a uniform list; it may not be straightforward to find a consistent nomenclature that is inclusive and also useful as the basis for matching.
+
+{:.warning-text}
+> #### Learning point
+> 
+> Note that the 2021 programme did not consider identity in the matching process. This is something that future programmes may wish to factor into the process. A key decision for a future programme would be whether it is better to match a mentee to someone who didn't share their identity, or better to not match at all.
 
 ## Notifying mentors and mentees
 
@@ -196,6 +409,25 @@ The first iteration of the programme programme took around 45 hours to create an
 > 
 > [Open this blogpost](/news/2021/08/31/speed-matching-is-complete)
 
+Mentors and mentees received an email notifying them of who they had been matched with. These emails included their matches':
+
+- name
+- job title
+- department or agency
+- grade
+- profession
+
+{:.warning-text}
+> #### Learning point
+> 
+> Note that the 2021 programme did not include biographical information about participants. This is something that future programmes may wish to factor into the notification process.
+
+Mentees were given the contact details of their mentors, but mentors did not receive the contact details for their mentees. This was intentional: the programme was designed to get mentees to take ownership of their mentoring relationship.
+
+{:.warning-text}
+> #### Learning point
+> 
+> Note that the 2021 programme did not provide mentors with the contact details for their mentees. There was significant feedback that this made it harder for mentors to know whether mentees would get in touch. Future programmes may wish to change this part of the process.
 
 {:.document-box}
 > [Speed mentoring matches – to mentees](https://www.notifications.service.gov.uk/services/ca9a7b2f-5b83-4ef0-901e-0f2ce4e4d04e/templates/603a3e85-5650-4406-90ef-c96c32f68034)
