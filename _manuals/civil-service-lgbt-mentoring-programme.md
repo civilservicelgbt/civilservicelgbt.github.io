@@ -341,7 +341,7 @@ You should aim to match mentors to mentees as quickly as possible after registra
 
 Before you start to match mentees and mentors, you should provide participants with an opportunity to validate their information. Use the GOV.UK Notify template to send a notification to all participants listed on the "GOV.UK Notify – General contact list" tab.
 
-Provide a clear deadline for when matching will take place.
+Provide a clear deadline for when matching will take place. Also provide a deadline for when you expect to notify participants of their outcomes.
 
 {:.document-box}
 > [Check your details](https://www.notifications.service.gov.uk/services/ca9a7b2f-5b83-4ef0-901e-0f2ce4e4d04e/templates/c31d0e14-e89b-4c54-9076-201cf872e1f2)
@@ -427,14 +427,9 @@ The rationale for this was that it would be too difficult to match people on thi
 
 ## Notifying mentors and mentees
 
-{:.document-box}
-> Speed matching is complete
-> 
-> Blogpost
-> 
-> [Open this blogpost](/news/2021/08/31/speed-matching-is-complete)
+Once the matching process is complete, you will need to individually notify every mentor and mentee of their matching outcomes. This is managed through personalised email sent with GOV.UK Notify.
 
-Mentors and mentees received an email notifying them of who they had been matched with. These emails included their matches':
+Mentors and mentees received an email notifying them of who they had been matched with and basic information about their matches. These emails included their matches':
 
 - name
 - job title
@@ -475,7 +470,29 @@ Mentees were given the contact details of their mentors, but mentors did not rec
 > 
 > To gain access to template, please email <mentoring@civilservice.lgbt>
 
-## Speed mentoring
+You may find it helpful to also publish a blog post (which can then be publicised separately through the wider Network newsletter) informing everyone generically that the matching process has concluded. 
+
+{:.document-box}
+> Speed matching is complete
+> 
+> Blogpost
+> 
+> [Open this blogpost](/news/2021/08/31/speed-matching-is-complete)
+
+## Mentoring process
+
+The mentoring process is structured in two parts:
+
+1. mentees meet up to three mentors and hold a 30 minute speed-mentoring session with each of them
+2. mentees then choose one mentor that they feel can help them the most to continue to work with for up to 1 year
+
+The programme facilitates the speed mentoring process through the initial matching (as outlined above) and then nudges participants to move through these two stages of the mentoring process.
+
+### Speed mentoring
+
+The speed mentoring process takes place first. You should send participants their matches via email and advise them to complete their speed mentoring within a set timeframe. For the original programme, participants were asked to organise their speed-mentoring session within 1 month of receiving their matches.
+
+Inevitably people will miss their notification email for any number of reasons. Follow up reminders were sent to participants – in particular mentees – to remind them to contact their mentors. 
 
 {:.document-box}
 > [Have you contacted your mentors?](https://www.notifications.service.gov.uk/services/ca9a7b2f-5b83-4ef0-901e-0f2ce4e4d04e/templates/5b48f6bd-b938-43b4-a154-bc52b67e8bca)
@@ -484,7 +501,18 @@ Mentees were given the contact details of their mentors, but mentors did not rec
 > 
 > To gain access to template, please email <mentoring@civilservice.lgbt>
 
-## Long term mentoring
+### Long term mentoring
+
+Once you are confident that speed mentoring is underway, you should start to nudge mentees and mentors to move onto long-term matching. This is a process managed entirely between individual participants; your role is to nudge them to do it. 
+
+Mentees were encouraged to ask one of their three matches to be a long-term mentor. Mentors were asked to take on one mentee, considering whether they were able to appropriately help their mentees.
+
+Email templates for this part of the process are set up on GOV.UK Notify.
+
+{:.warning-text}
+> #### Learning point
+> 
+> Note that for the 2021 programme the onus was on mentees to contact mentors asking some mentors fed back that 
 
 {:.document-box}
 > [Post-speed mentoring – to mentees](https://www.notifications.service.gov.uk/services/ca9a7b2f-5b83-4ef0-901e-0f2ce4e4d04e/templates/726e2deb-ec25-4f2a-9fa1-c0b74dd80063)
