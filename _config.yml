@@ -259,6 +259,12 @@ collections:
     defaults:
       values:
         layout: tools
+  design-system:
+    output: true
+    permalink: /design-system/:title/
+    defaults:
+      values:
+        layout: page
 
 ##################
 # Build settings #
