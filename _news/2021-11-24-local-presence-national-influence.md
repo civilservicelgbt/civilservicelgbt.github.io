@@ -5,7 +5,7 @@ layout: news
 title: "Local presence. National influence."
 excerpt: "Read about our work to deliver activities in your local area, and get involved."
 date: 2021-11-24
-author: "Edward He"
+author: "Ed"
 # category: 
 # - 
 # image: ""
