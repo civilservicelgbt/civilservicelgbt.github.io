@@ -14,7 +14,7 @@ link: "https://docs.google.com/forms/d/e/1FAIpQLSdSQ4WhP_ufaaoCvnbCz-P2W2d-D8wB6
 location: "MS Teams link will be sent to attendees"
 start-date: 2022-01-18 18:00
 end-date: 2022-01-18 19:00
-registration-close-date: 2022-01-16 18:00
+registration-close-date: 2022-01-18 10:00
 # image: ""
 # video: ""
 permalink: /event/2022/01/18/civil-service-bispace-virtual-social-january
