@@ -11,7 +11,7 @@ category:
 link: "https://docs.google.com/forms/d/e/1FAIpQLSeMl7UIrDqDqH6mysmX6xG9Msb1NvXf5htaYwOCbKSN8cU5Kw/viewform?usp=sf_link"
 # email: ""
 # no-register: ""
-# location: ""
+location: "Old Joint Stock Pub & Theatre (4 Temple Row W, Birmingham B2 5NY)"
 start-date: 2022-02-03 17:00
 # end-date: -- :
 registration-close-date: 2022-02-03 09:00
