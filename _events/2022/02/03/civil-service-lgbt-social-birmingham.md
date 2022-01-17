@@ -12,7 +12,7 @@ link: "https://docs.google.com/forms/d/e/1FAIpQLSeMl7UIrDqDqH6mysmX6xG9Msb1NvXf5
 # email: ""
 # no-register: ""
 # location: ""
-start-date: 2022-02-03 18:00
+start-date: 2022-02-03 17:00
 # end-date: -- :
 registration-close-date: 2022-02-03 09:00
 # image: ""
