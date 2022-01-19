@@ -4,8 +4,8 @@
 layout: team
 title: "Jack Victor"
 name: "Jack Victor"
-role: "Project team"
-project: "Conference"
+role: "project team"
+project: "conference"
 # region: ""
 # email: ""
 image: "https://www.civilservice.lgbt/images/store/team/jackvictor.jpg"
