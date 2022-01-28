@@ -2,8 +2,8 @@
 layout: team
 name: "Sarah Adams"
 role: "local organiser"
-region: "North East"
-email: "northeast@civilservice.lgbt"
+region: "Yorkshire and Humber"
+email: "yorkshireandhumber@civilservice.lgbt"
 image: "https://www.civilservice.lgbt/images/store/team/sarah-adams.jpg"
 ---
 
