@@ -4,7 +4,7 @@
 layout: event
 title: "Ofcom’s LGBTQ+ History month event"
 excerpt: "A hybrid event to focus on LGBTQ+ Representation in Broadcasting."
-date: 2022-01-29
+date: 2022-01-28
 author: "Ofcom"
 category: 
 - lgbt-history-month
