@@ -12,7 +12,7 @@ link: "https://docs.google.com/forms/d/e/1FAIpQLSfQzGqq0eXgQOsMkvO-ZsrPRBO7rlITr
 # email: ""
 # no-register: "No need to register. Just turn up."
 location: "London. Venue to be confirmed."
-start-date: 2022-10-06 18:00
+start-date: 2022-09-06 18:00
 # end-date: -- :
 # registration-close-date: -- :
 # image: ""
