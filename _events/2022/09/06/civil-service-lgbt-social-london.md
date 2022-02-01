@@ -17,7 +17,7 @@ start-date: 2022-10-06 18:00
 # registration-close-date: -- :
 # image: ""
 # video: ""
-permalink: /event/2022/10/06/civil-service-lgbt-social-london
+permalink: /event/2022/09/06/civil-service-lgbt-social-london
 # redirect_from: 
 # - 
 # redirect_to: 
