@@ -1,6 +1,6 @@
 ---
 title: "Pride 2022"
-date: 2021-05-01 # YYYY-MM-DD 
+date: 2022-02-01 # YYYY-MM-DD 
 excerpt: "Everything you need to know about Civil Service Pride 2022."
 layout: topic
 category: pride-2022
