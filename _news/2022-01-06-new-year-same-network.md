@@ -57,13 +57,13 @@ We need a lot of help to make this possible and James is putting a team together
 
 ### 3. Mentoring
 
-Following last year's mentoring programme success, we're planning to run it again this year. Our ambition is to re-open the programme again in April 2022 – a little earlier than last year, to avoid the summer holidays. A small team is currently being formed around this programme to take over from the work I did last year, so if you'd like to be involved with that, please [email me directly](john.peart@civilservice.lgbt).
+Following last year's mentoring programme success, we're planning to run it again this year. Our ambition is to re-open the programme again in April 2022 – a little earlier than last year, to avoid the summer holidays. A small team led by our new Vice Chair for Career Development, [Dee](team/dee), is currently being formed around this programme to take over from the work I did last year, so if you'd like to be involved with that, please [email Dee directly](dee@civilservice.lgbt).
 
 ### 4. Expanding our local presence
 
-Another of our Vice-Chairs, [Edward He](/team/edward-he), wrote last month that our local organisers help us to have [a local presence and a national influence](/news/2021/11/24/local-presence-national-influence). We're looking to double up on volunteers in each region and nation this year, so that we can deliver social and networking opportunities, learning and development opportunities and pride activities in every part of the UK. 
+Another of our Vice-Chairs, [Ed](/team/ed), wrote last month that our local organisers help us to have [a local presence and a national influence](/news/2021/11/24/local-presence-national-influence). We're looking to double up on volunteers in each region and nation this year, so that we can deliver social and networking opportunities, learning and development opportunities and pride activities in every part of the UK. 
 
-Team is already growing. If you want to join them, [please email Edward directly](edward.he@civilservice.lgbt).
+Team is already growing. If you want to join them, [please email Ed directly](ed@civilservice.lgbt).
 
 ### 5. More space for Spaces
 

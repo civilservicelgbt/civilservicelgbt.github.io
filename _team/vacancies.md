@@ -180,3 +180,25 @@ The specific projects we know we need help with right now include:
 - adding functionality to our website to make it easier to add and review content
 
 <a href="mailto:info@civilservice.lgbt" title="email the Network about this role" class="button">Email us about this role</a>
+
+---
+
+### Local Organisers
+
+As a "Local Organiser" you will lead activities in your local city, region or nation. You will help build local communities of LGBT+ civil servants through activities including social events, pride coordination, and learning and development events.
+
+We are looking for local organisers to start a team in the following areas:
+
+- East Midlands
+- East of England
+- North East
+- Northern Ireland
+
+We are looking for people to join our existing local organiser teams in the following areas:
+
+- Scotland
+- South East
+- South West
+- West Midlands
+
+<a href="mailto:info@civilservice.lgbt" title="email the Network about this role" class="button">Email us about this role</a>

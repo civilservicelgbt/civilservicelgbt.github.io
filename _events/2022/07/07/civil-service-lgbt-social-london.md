@@ -11,13 +11,13 @@ author: "Civil Service LGBT+ Network"
 link: "https://docs.google.com/forms/d/e/1FAIpQLSfQzGqq0eXgQOsMkvO-ZsrPRBO7rlITr2VnTR0Y1IaCN_ZRuA/viewform?usp=sf_link"
 # email: ""
 # no-register: "No need to register. Just turn up."
-location: "Retro Bar, 2 George Court, London WC2N 6HH"
-start-date: 2022-02-03 18:00
+location: "London. Venue to be confirmed."
+start-date: 2022-07-07 18:00
 # end-date: -- :
 # registration-close-date: -- :
 # image: ""
 # video: ""
-permalink: /event/2022/02/03/civil-service-lgbt-social-london
+permalink: /event/2022/07/07/civil-service-lgbt-social-london
 # redirect_from: 
 # - 
 # redirect_to: 

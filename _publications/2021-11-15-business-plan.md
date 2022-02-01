@@ -25,7 +25,7 @@ objectives:
   milestones:
   - milestone: "Recruit a lead vice-chair for this work"
     date: 2021-12-31		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    complete: true
   - milestone: "Recruit and mobilise a mentoring programme team"
     date: 2021-12-31
     complete: false
