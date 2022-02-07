@@ -37,7 +37,9 @@ Join the MOD DE&S LGBT+ network for their annual LGBT+ History Month seminar. Th
 - **13:30 - 14:15 – Lived Experiences** A chance to listen to the lived experiences of some of our members. If you'd like to share, please let us know in advance. 
 - **14:30 - 15:30 – Q&A Session** Your chance to ask questions to the Pride Committee and some of our colleagues in the D&I team.
 
-Please register your interest by emailing <DESHR-Pride@mod.gov.uk> using a gov.uk email address.
+If you work for the MOD, you can sign-up on e-Solutions for either online or in-person attendance.
+
+If you do not work in the MOD, please register your interest by emailing <DESHR-Pride@mod.gov.uk> using a gov.uk email address.
  
 All attendees will be sent a link which will be valid for the entire event.
 Online experience will be better on a Windows 10 or 11 machine.
