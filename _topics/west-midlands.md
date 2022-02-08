@@ -2,11 +2,11 @@
 # Adding or removing a '#' in front of a line will toggle that information off and on from being processed. 
 
 layout: topic
-title: "LGBT History Month"
-excerpt: "LGBT History Month is an annual event celebrating the lives of LGBT+ people."
-category: lgbt-history-month
+title: "West Midlands"
+excerpt: "All our latest information and events for the West Midlands region."
+category: west-midlands
 # image: ""
-permalink: /topic/lgbt-history-month
+permalink: /topic/west-midlands
 # redirect_from: 
 # - 
 # redirect_to: 

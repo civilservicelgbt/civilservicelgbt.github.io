@@ -6,8 +6,8 @@ title: "Civil Service LGBT+ social – Liverpool"
 excerpt: "Join our regular social and networking event for LGBT+ civil servants based in and around Liverpool."
 date: 2021-10-10
 author: "Civil Service LGBT+ Network"
-# category: 
-# - 
+category: 
+- north-west
 link: "https://docs.google.com/forms/d/e/1FAIpQLScU34wOOsNobUyrmIrDA3mST3I-HOLTm8zTf-gKqbUimSmReA/viewform?usp=sf_link"
 # email: ""
 # no-register: "No need to register. Just turn up."

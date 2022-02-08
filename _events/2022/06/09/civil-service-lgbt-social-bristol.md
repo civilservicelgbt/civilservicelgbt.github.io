@@ -7,7 +7,7 @@ excerpt: "Join our regular social and networking event for LGBT+ civil servants 
 date: 2022-01-06
 author: "Civil Service LGBT+ Network"
 category: 
-- southwest
+- south-west
 link: "https://docs.google.com/forms/d/e/1FAIpQLSc4slvyJczQO2XI-1u9XhohyxgtXePV8MYCpIByg7KlthmBmA/viewform?usp=sf_link"
 # email: ""
 # no-register: ""

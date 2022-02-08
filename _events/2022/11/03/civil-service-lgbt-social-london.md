@@ -6,8 +6,8 @@ title: "Civil Service LGBT+ social – London"
 excerpt: "Join our regular social and networking event for LGBT+ civil servants based in and around London."
 date: 2021-10-10
 author: "Civil Service LGBT+ Network"
-# category: 
-# - 
+category: 
+- london
 link: "https://docs.google.com/forms/d/e/1FAIpQLSfQzGqq0eXgQOsMkvO-ZsrPRBO7rlITr2VnTR0Y1IaCN_ZRuA/viewform?usp=sf_link"
 # email: ""
 # no-register: "No need to register. Just turn up."
