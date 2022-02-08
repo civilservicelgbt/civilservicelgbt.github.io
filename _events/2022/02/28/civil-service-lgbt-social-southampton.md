@@ -4,7 +4,7 @@
 layout: event 
 title: "Civil Service LGBT+ social – Southampton" 
 excerpt: "An informal networking and socialising opportunity" 
-date: 2022-02-28 
+date: 2022-02-08
 author: "Civil Service LGBT+ Network" 
 category: 
 - south-east
