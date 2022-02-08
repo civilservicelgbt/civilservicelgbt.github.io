@@ -6,8 +6,13 @@ title: "Our socials are expanding"
 excerpt: "More locations across the country added to our networking and social calendar."
 date: 2022-02-08
 author: "Civil Service LGBT+ Network"
-# category: 
-# - 
+category: 
+- west-midlands
+- london
+- north-west
+- scotland
+- south-west
+- south-east
 image: "https://www.civilservice.lgbt/images/store/events/map-pin.png"
 # video: ""
 permalink: /news/2022/02/08/our-socials-are-expanding
@@ -25,6 +30,8 @@ For the first time, you'll now be able to attend socials in all of these locatio
 
 - Birmingham
 - Bristol
+- Edinburgh
+- Glasgow
 - Liverpool
 - London
 - Manchester
@@ -34,7 +41,7 @@ All of these socials are led by our 'local organiser' team.
 
 ## Join us at the events
 
-If you'd like to attend one of our events, register your information and just turn up! 
+If you'd like to attend one of our events: register your information so we can update you of any changes, and then just turn up! 
 
 Details of where the events are taking place are always published on our website at [www.civilservice.lgbt/events](/events). 
 
