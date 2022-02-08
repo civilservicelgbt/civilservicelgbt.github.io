@@ -26,8 +26,8 @@ permalink: /event/2022/03/05/civil-service-lgbt-social-glasgow
 
 The Civil Service LGBT+ Network organises informal networking and social events so that LGBT+ civil servants can meet each other. Our [local organisers](/team) organise these events in various cities across the country.
 
-Our Manchester socials take place on the **second Tuesday of each month**. 
+Our Scotland socials take place in Glasgow and Edinburgh, alternating each time.
 
-We usually organise our Manchester events near Canal Street. The venue changes regularly, so check back on this website a few days before the event to find out the exact venue. On the day, you'll be able to identify the rest of the group by an inflatable unicorn totem pole!
+The venue changes regularly, so check back on this website a few days before the event to find out the exact venue.
 
-If you have questions about this event, or you have an idea for a future event, you can contact our North West local organiser, [Ross Starkie](/team/ross-starkie/).
+If you have questions about this event, or you have an idea for a future event, you can contact our Scotland local organiser, [Derek Bradford](/team/derek-bradford/).
