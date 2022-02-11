@@ -8,7 +8,7 @@ date: 2022-02-08
 author: "Civil Service LGBT+ Network" 
 category: 
 - south-east
-# link: "" 
+link: "https://docs.google.com/forms/d/e/1FAIpQLSf3IxfCH-3n9N8DYbhiDtfg-1p_UOFFsm_XvrCHyVhKH6ZxCA/viewform?usp=sf_link" 
 email: "southeast@civilservice.lgbt" 
 # no-register: "" 
 location: "Dancing Man, Southampton, SO14 2AR" 
