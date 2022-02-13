@@ -3,6 +3,7 @@
 
 layout: topic
 title: "AceSpace"
+date: 2022-01-01
 excerpt: "Everything you need to know about AceSpace: our initiative that's led by and for civil servants on the asexual or aromantic spectrum."
 category: acespace
 image: "https://www.civilservice.lgbt/images/store/spaces/acespace.png"

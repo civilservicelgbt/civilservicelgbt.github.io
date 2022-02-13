@@ -3,6 +3,7 @@
 
 layout: topic
 title: "Yorkshire and Humber"
+date: 2022-01-01
 excerpt: "All our latest information and events for the Yorkshire and Humber region."
 category: yorkshire-and-humber
 # image: ""

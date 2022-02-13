@@ -3,6 +3,7 @@
 
 layout: topic
 title: "East Midlands"
+date: 2022-01-01
 excerpt: "All our latest information and events for the East Midlands region."
 category: east-midlands
 # image: ""

@@ -3,6 +3,7 @@
 
 layout: topic
 title: "North West"
+date: 2022-01-01
 excerpt: "All our latest information and events for the North West region."
 category: north-west
 # image: ""

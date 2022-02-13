@@ -3,6 +3,7 @@
 
 layout: topic
 title: "Northern Ireland"
+date: 2022-01-01
 excerpt: "All our latest information and events for Northern Ireland."
 category: northern-ireland
 # image: ""

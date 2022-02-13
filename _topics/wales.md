@@ -3,6 +3,7 @@
 
 layout: topic
 title: "Wales"
+date: 2022-01-01
 excerpt: "All our latest information and events for Wales."
 category: wales
 # image: ""
