@@ -5,7 +5,7 @@ layout: team
 title: "Louise Bayliss-Chapman"
 name: "Louise Bayliss-Chapman"
 role: "project team"
-project: "bi+ inclusion"
+project: "Bi+ inclusion"
 # region: ""
 # email: ""
 image: "https://www.civilservice.lgbt/images/store/team/louise-bayliss-chapman.jpg.JPG"

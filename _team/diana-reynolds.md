@@ -2,7 +2,7 @@
 layout: team
 name: "Diana Reynolds"
 role: "project team"
-project: "bi+ inclusion"
+project: "Bi+ inclusion"
 image: "https://www.civilservice.lgbt/images/store/team/diana-reynolds.jpeg"
 ---
 

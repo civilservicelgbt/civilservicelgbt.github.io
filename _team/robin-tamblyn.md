@@ -2,7 +2,7 @@
 layout: team
 name: "Robin Tamblyn"
 role: "project team"
-project: "bi+ inclusion"
+project: "Bi+ inclusion"
 image: "https://www.civilservice.lgbt/images/store/team/robin-tamblyn1.JPG"
 ---
 

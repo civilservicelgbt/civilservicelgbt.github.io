@@ -2,7 +2,7 @@
 layout: team
 name: "Emma Altmann-Richer"
 role: "project team"
-project: "bi+ inclusion"
+project: "Bi+ inclusion"
 image: "https://www.civilservice.lgbt/images/store/team/emma-altmann-richer.jpeg"
 ---
 

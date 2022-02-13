@@ -2,7 +2,7 @@
 layout: team
 name: "Astrid Crowley"
 role: "vice chair"
-project: "bi+ inclusion"
+project: "Bi+ inclusion"
 archive: true
 image: "https://www.civilservice.lgbt/images/store/team/astrid-crowley.jpeg"
 ---

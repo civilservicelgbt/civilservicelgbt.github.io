@@ -6,7 +6,7 @@ title: "Matt Walker"
 name: "Matt Walker"
 role: "local organiser"
 # project: ""
-region: "North west"
+region: "North West"
 email: "northwest@civilservice.lgbt"
 image: "https://www.civilservice.lgbt/images/store/team/matthew-walker.jpg"
 permalink: /team/matt-walker

@@ -5,7 +5,7 @@ layout: team
 title: "Michael Jeannette"
 name: "Michael Jeannette"
 role: "project team"
-project: "bi+ inclusion"
+project: "Bi+ inclusion"
 # region: ""
 # email: ""
 image: "https://www.civilservice.lgbt/images/store/team/michael-jeannette.jpg"
