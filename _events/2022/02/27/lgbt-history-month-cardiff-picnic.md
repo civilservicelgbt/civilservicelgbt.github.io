@@ -14,7 +14,7 @@ link: " https://docs.google.com/forms/d/e/1FAIpQLSeRGPT-je6LbbC1TCT_Pm6do1T_LSd9
 location: "Senedd Cymru"
 start-date: 2022-02-27 12:00
 end-date: 2022-02-27 14:30
-registration-close-date: 2020-02-27 10:00
+registration-close-date: 2022-02-27 10:00
 # image: ""
 # video: ""
 permalink: /event/2022/02/27/lgbt-history-month-cardiff-picnic
