@@ -22,5 +22,3 @@ permalink: /consultation/pride-2022-expression-of-interest
 The Civil Service LGBT+ Network is coordinating a hybrid programme of in-person and digital events for Civil Service Pride 2022.
 
 To help us decide which locations are the best for us to attend in person, please complete our expression of interest form and let us know where you’d most like to take part. 
-
-Please complete the form by 16 February 2022.
