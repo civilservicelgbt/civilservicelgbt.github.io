@@ -26,11 +26,11 @@ permalink: /event/2022/03/14/civil-service-pride-organising-forum
 
 The Civil Service LGBT+ Network is coordinating this year’s, nationwide Pride participation for the Civil Service, alongside an online programme of events this summer.
 
-The **Pride Organisers’ Forum** is an opportunity for any civil servant who is leading Pride organising for their department to hear about our plans and help to shape them.
+The **Pride Organising Forum** is an opportunity for any civil servant who is involved in organising activities for Pride in their department or agency to hear about our plans and help to shape them.
 
 The forum will particularly focus on attendance at physical pride marches and parades across the country.
 
-> Please register to attend
+> ## Please register to attend
 > 
 > Use the registration form, linked above, to register your interest in attending. We will send you a calendar invite to all the upcoming Forum meetings. All the dates for these upcoming meetings are on our [events page](/events).
 > 
