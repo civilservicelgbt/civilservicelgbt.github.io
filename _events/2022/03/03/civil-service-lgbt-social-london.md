@@ -32,4 +32,8 @@ We usually organise our London events in Westminster or in Soho. The venue chang
 
 Our London events are incredibly popular – we regularly see around 50 to 100 people attend. Finding venues that are available at no cost to accommodate everyone's needs and tastes is incredibly difficult. We rotate our venue choices to try and accommodate everyone.
 
+> **London Underground industrial action**
+> 
+> Industrial action is expected to affect large parts of the Transport for London Underground network on 3 March 2022. The event will still be going ahead. Please check the Transport for London website for up to date travel information.
+
 If you have any questions, an idea for a venue, or you're willing to help organise a social yourself, please contact our [London local organisers](/team).
