@@ -180,7 +180,7 @@ Participants should not:
 
 1. be employed in the wider public sector, such as local government or the NHS
 2. be a consultant, interim contract, or agency-worker
-3. be straight and cisgendered
+3. be straight and cisgender
 4. register with their personal email address 
 
 ### Registering as a mentor
@@ -197,7 +197,7 @@ It is likely that participants who have registered as mentors at the most junior
 > To gain access to the registration form, please email <mentoring@civilservice.lgbt>
 
 {:.document-box}
-> [Become a mentee](https://docs.google.com/forms/d/1OPsDRpnBURrSclfYmxV3e1BQ0qazLX70SsY-u51xGf8/edit)
+> [Become a mentor](https://docs.google.com/forms/d/16O-4quc8wVqXDGw9Fi3N30b8kFLVyMecbUiHSdcG3zU/edit)
 >
 > Google Form
 > 
@@ -225,7 +225,7 @@ It is recommended that in communications and guidance documents you **always** l
 > To gain access to the registration form, please email <mentoring@civilservice.lgbt>
 
 {:.document-box}
-> [Become a mentor](https://docs.google.com/forms/d/16O-4quc8wVqXDGw9Fi3N30b8kFLVyMecbUiHSdcG3zU/edit)
+> [Become a mentee](https://docs.google.com/forms/d/1OPsDRpnBURrSclfYmxV3e1BQ0qazLX70SsY-u51xGf8/edit)
 >
 > Google Form
 > 
@@ -280,6 +280,8 @@ After your chosen registration window has finished, you will need to manually cl
 > 
 > [Open this blogpost](/mentoring/registrations-closed)
 
+You can redirect to the above page by editing the [Register as a mentee](https://github.com/civilservicelgbt/civilservicelgbt.github.io/blob/main/_programmes/mentoring/register-as-a-mentee.md) and [Register as a mentor](https://github.com/civilservicelgbt/civilservicelgbt.github.io/blob/main/_programmes/mentoring/register-as-a-mentor.md) files on Github to add a `redirect_to:` entry.
+
 {:.document-box}
 > Mentoring registrations are now closed
 > 
@@ -290,6 +292,10 @@ After your chosen registration window has finished, you will need to manually cl
 You should quickly move into the next phases of the process. The longer you leave between the close of registrations and issuing final matches, the more likely participants will drop out.
 
 ## Inducting mentors and mentees
+
+For the original programme, induction consisted of a one-hour call held over Google Meet. These induction sessions were optional, but gave mentees and mentors a chance to learn about how the programme worked and understand the expectations being placed upon them. 
+
+In total, 8 sessions were organised over three weeks. The sessions took place after registrations closed and before matches were issued; but there is no reason why you couldn't run the sessions across the entire registration window. You should complete all inductions before you send out people's matches.
 
 {:.document-box}
 > Induction for mentees
