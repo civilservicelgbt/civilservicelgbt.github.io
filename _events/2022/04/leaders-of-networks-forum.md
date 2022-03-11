@@ -14,10 +14,10 @@ email: "info@civilservice.lgbt"
 location: "Google Meet"
 start-date: 2022-04-25 11:00
 end-date: 2022-04-25 12:00
-registration-close-date: 2022-04-14 10:00
+registration-close-date: 2022-04-18 10:00
 # image: ""
 # video: ""
-permalink: /event/2022/04/25/leaders-of-networks-forum
+permalink: /event/2022/04/18/leaders-of-networks-forum
 # redirect_from:
 # -
 # redirect_to:
