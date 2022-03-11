@@ -28,6 +28,6 @@ The Civil Service LGBT+ Network organises informal networking and social events 
 
 Our Manchester socials take place on the **second Tuesday of each month**.
 
-We usually organise our Manchester events near Canal Street. The venue changes regularly, so check back on this website a few days before the event to find out the exact venue.
+We usually organise our Manchester events near Canal Street. The venue sometimes changes, so check back on this website a few days before the event to find out the exact venue.
 
 If you have questions about this event, or you have an idea for a future event, you can contact our North West local organiser, [Ross Starkie](/team/ross-starkie/).

@@ -11,13 +11,13 @@ category:
 link: "https://docs.google.com/forms/d/e/1FAIpQLScU34wOOsNobUyrmIrDA3mST3I-HOLTm8zTf-gKqbUimSmReA/viewform?usp=sf_link"
 # email: ""
 # no-register: "No need to register. Just turn up."
-location: "Via, Canal Street, Manchester"
-start-date: 2022-02-08 17:00
+location: "VIA, 28-30 Canal Street, Manchester, M1 3EZ"
+start-date: 2022-12-13 17:00
 # end-date: -- :
 # registration-close-date: -- :
 # image: ""
 # video: ""
-permalink: /event/2022/02/08/civil-service-lgbt-social-manchester
+permalink: /event/2022/12/13/civil-service-lgbt-social-manchester
 # redirect_from: 
 # - 
 # redirect_to: 
@@ -28,6 +28,6 @@ The Civil Service LGBT+ Network organises informal networking and social events 
 
 Our Manchester socials take place on the **second Tuesday of each month**. 
 
-We usually organise our Manchester events near Canal Street. The venue sometimes changes, so check back on this website a few days before the event to find out the exact venue. On the day, you'll be able to identify the rest of the group by an inflatable unicorn totem pole!
+If you have questions about this event, or you have an idea for a future event, you can contact our [North West local organisers](mailto:northwest@civilservice.lgbt).
 
-If you have questions about this event, or you have an idea for a future event, you can contact our North West local organiser, [Ross Starkie](/team/ross-starkie/).
+For all the latest updates from the North West region, check the [North West topic page](/topic/north-west)
