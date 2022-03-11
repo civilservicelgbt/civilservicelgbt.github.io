@@ -4,7 +4,7 @@
 layout: team
 title: "Sam Johnson"
 name: "Sam Johnson"
-role: "vice-chair"
+role: "vice chair"
 project: "Digital events and community"
 # region: ""
 email: "sam.johnson@civilservice.lgbt"
