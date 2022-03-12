@@ -5,6 +5,7 @@ layout: topic
 title: "South East"
 date: 2022-01-01
 excerpt: "All our latest information and events for the South East region."
+topic-type: region
 category: south-east
 # image: ""
 permalink: /topic/south-east

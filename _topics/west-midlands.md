@@ -5,6 +5,7 @@ layout: topic
 title: "West Midlands"
 date: 2022-01-01
 excerpt: "All our latest information and events for the West Midlands region."
+topic-type: region
 category: west-midlands
 # image: ""
 permalink: /topic/west-midlands

@@ -5,6 +5,7 @@ layout: topic
 title: "London"
 date: 2022-01-01
 excerpt: "All our latest information and events for the London region."
+topic-type: region
 category: london
 # image: ""
 permalink: /topic/london

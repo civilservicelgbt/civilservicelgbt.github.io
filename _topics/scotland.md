@@ -5,6 +5,7 @@ layout: topic
 title: "Scotland"
 date: 2022-01-01
 excerpt: "All our latest information and events for Scotland."
+topic-type: region
 category: scotland
 # image: ""
 permalink: /topic/scotland
