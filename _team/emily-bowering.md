@@ -4,7 +4,7 @@
 layout: team
 title: "Emily Bowering"
 name: "Emily Bowering"
-role: "Local organiser"
+role: "local organiser"
 # project: ""
 region: "North east"
 email: "northeast@civilservice.lgbt"
