@@ -4,7 +4,7 @@
 layout: team
 title: "Sean Peacock"
 name: "Sean Peacock"
-role: "undefined"
+role: "local organiser"
 # project: ""
 region: "North east"
 email: "northeast@civilservice.lgbt"
