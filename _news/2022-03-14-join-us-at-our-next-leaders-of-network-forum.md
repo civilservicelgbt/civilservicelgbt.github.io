@@ -17,7 +17,7 @@ permalink: /news/2022/03/14/join-us-at-our-next-leaders-of-network-forum
 # - 
 ---
 
-The [Leaders of Networks forum](/news/2021/11/22/restarting-the-leaders-of-networks-forum) is a regular opportunity for those leading departmental and agency networks to discuss issues across the Civil Service affecting LGBT+ staff.
+The [Leaders of Networks forum](/topic/leaders-of-networks) is a regular opportunity for those leading departmental and agency networks to discuss issues across the Civil Service affecting LGBT+ staff.
 
 This meeting is open to:
 

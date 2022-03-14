@@ -7,8 +7,8 @@ excerpt: "Our Leaders of Networks forum is a quarterly opportunity for those lea
 "
 date: 2021-11-22
 author: "John Peart"
-# category: 
-# - 
+category: 
+- leaders-of-networks
 image: "https://www.civilservice.lgbt/images/store/leaders-of-networks-forum/leaders-of-networks-forum-logo.png"
 # video: ""
 permalink: /news/2021/11/22/restarting-the-leaders-of-networks-forum
