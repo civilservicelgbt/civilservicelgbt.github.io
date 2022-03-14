@@ -4,12 +4,17 @@ date: 2022-02-01 # YYYY-MM-DD
 excerpt: "Everything you need to know about Civil Service Pride 2022."
 layout: topic
 category: pride-2022
+permalink: /topic/pride
 redirect_from:
 - /pride/
 - /prideon/
 - /pride-on/
 - /pride-2021/
 - /pride-2022/
+- /topic/prideon/
+- /topic/pride-on/
+- /topic/pride-2021/
+- /topic/pride-2022/
 
 image: "https://www.civilservice.lgbt/images/store/pages/pride-2022.png"
 

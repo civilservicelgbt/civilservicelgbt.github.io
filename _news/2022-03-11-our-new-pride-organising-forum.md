@@ -29,4 +29,4 @@ The meetings will take place every 4 weeks, starting on 14 March 2022. You can [
 
 > **Find out more about pride**
 > 
-> Visit our [Pride 2022 topic page](/topic/pride-2022) to find out all the latest information about Pride 2022 in the Civil Service.
+> Visit our [Pride 2022 topic page](/topic/pride) to find out all the latest information about Pride 2022 in the Civil Service.
