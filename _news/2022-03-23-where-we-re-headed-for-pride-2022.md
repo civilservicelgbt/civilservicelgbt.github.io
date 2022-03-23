@@ -23,21 +23,22 @@ Following a consultation earlier this year, we are pleased to announce that we p
 
 ## Our planned locations
 
-Location           	| Date
-----------------------------------------------------
-Belfast 			| 30 July 2022
-Birmingham 		| 24 September 2022
-Blackpool			| 11 June 2022
-Cardiff			| To be confirmed
-Edinburgh			| 25 June 2022
-Glasgow			| 16 July 2022
-Leeds 			| 7 August 2022
-Liverpool			| To be confirmed
-London			| 2 July 2022
-Manchester 		| To be confirmed
-Newcastle			| 23 July 2022
-Sheffield			| To be confirmed
-Southampton		| 27 August 2022
+| Location           	| Date					|
+| --------------------|-------------- |
+| Belfast 			| 30 July 2022				|
+| Birmingham 		| 24 September 2022			|
+| Blackpool		| 11 June 2022				|
+| Cardiff			| To be confirmed			|
+| Edinburgh		| 25 June 2022				|
+| Glasgow			| 16 July 2022				|
+| Leeds 			| 7 August 2022				|
+| Liverpool		| To be confirmed			|
+| London			| 2 July 2022				|
+| Manchester 		| To be confirmed			|
+| Newcastle		| 23 July 2022				|
+| Sheffield		| To be confirmed			|
+| Southampton		| 27 August 2022			|
+
 
 We’ve chosen these locations because you said you wanted us to go to these pride events, and because we have identified local volunteers to lead coordination locally. If you don’t see a location here but you’d like to lead on organising attendance for the Civil Service there please get in touch and join our regular pride forum here.
 
