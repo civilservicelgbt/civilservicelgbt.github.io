@@ -4,6 +4,7 @@ name: "Leah Cunnah"
 role: "vice chair"
 project: "Allies"
 email: leah.cunnah@civilservice.lgbt
+archive: true
 image: "https://www.civilservice.lgbt/images/store/team/leah-cunnah.jpeg"
 ---
 
