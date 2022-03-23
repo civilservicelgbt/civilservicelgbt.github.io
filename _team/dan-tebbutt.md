@@ -10,6 +10,7 @@ project: "Governance"
 email: "daniel.tebbutt@civilservice.lgbt"
 image: "https://www.civilservice.lgbt/images/store/team/daniel-tebbutt.jpg"
 permalink: /team/dan-tebbutt
+archive: true
 # redirect_from: 
 # - 
 # redirect_to: 
