@@ -5,24 +5,6 @@ excerpt: "Our network works because of volunteers like you. These are some of th
 
 permalink: /team/vacancies/
 
-
-
-# ### Vice Chair – Minority ethnicity inclusion
-# 
-# As "Vice Chair – Minority ethnicity inclusion" you'll help the Civil Service LGBT+ Network become a more inclusive place for LGBT+ civil servants who are from ethnic minority backgrounds. You'll do this by building on our '[BiSpace](/topics/bispace)' programme, developing a new initiative by and for the community it seeks to support. Ideally you will identify as LGBT+ and have a minority ethnicity. You'll also join our senior leadership team, helping us to lead the Network as a whole.
-# 
-# #### Responsibilities
-# 
-# In this role you will:
-# 
-# - undertake research and consultation to understand the experiences of LGBT+ civil servants who have a minority ethnicity
-# - develop a programme of activity by and for LGBT+ civil servants who have a minority ethnicity
-# - evaluate the impact of this programme of work
-# 
-# As a vice chair, your role will likely take up to 3 hours a week of your time. This could be made up of time for your corporate contribution in your usual role or from your own time outside of work.
-# 
-# <a href="mailto:info@civilservice.lgbt" title="email the Network about the Vice Chair – Minority ethnicity inclusion role" class="button">Email us about this role</a>
-
 # ---
 # 
 # ### Vice Chair – Career development
@@ -42,6 +24,40 @@ permalink: /team/vacancies/
 # 
 # <a href="mailto:info@civilservice.lgbt" title="email the Network about the Vice Chair – Career development role" class="button">Email us about this role</a>
 
+
+### Vice Chair – Digital events and community
+
+# As "Vice Chair – Digital events" you'll develop and lead the delivery of a programme of online events that support informal networking for LGBT+ civil servants across the country, and manage our online community. You'll also join our senior leadership team, helping us to lead the Network as a whole.
+
+#### Responsibilities
+
+# In this role you will:
+
+# - develop a programme of digital social and networking opportunities to take place throughout the year
+# - manage an online community space for LGBT+ civil servants, ensuring it is inclusive, welcoming and vibrant
+# - evaluate the impact of this programme of work
+
+# As a vice chair, your role will likely take up to 3 hours a week of your time. This could be made up of time for your corporate contribution in your usual role or from your own time outside of work.
+
+# <a href="mailto:info@civilservice.lgbt" title="email the Network about the Vice Chair – Digital events and community role" class="button">Email us about this role</a>
+
+
+### Vice Chair – Policy and data
+
+# As "Vice Chair – Policy and data" you'll be responsible ensuring the Civil Service LGBT+ Network can act as a centre of expertise and knowledge about the experiences of LGBT+ people working in the Civil Service. You'll help us build a robust evidence base, and use that evidence base to support local networks and feed into Civil Service policy development. You'll be also part of our senior leadership team, helping us to lead the Network as a whole.
+
+#### Responsibilities
+
+# In this role you will:
+
+# - develop an evidence base about the experiences of LGBT+ civil servants
+# - create easy to use products and tools to help inform others about those experiences
+# - provide advice and guidance to networks and feed into discussions with central Civil Service policy teams as appropriate
+
+# As a vice chair, your role will likely take up to 3 hours a week of your time. This could be made up of time for your corporate contribution in your usual role or from your own time outside of work.
+
+# <a href="mailto:info@civilservice.lgbt" title="email the Network about the Vice Chair – Policy and data role" class="button">Email us about this role</a>
+
 ---
 
 The **Civil Service LGBT+ Network** delivers its work on an entirely voluntary basis. Our [team](/team) give up their spare time to put on our events, deliver our programmes and make things better for LGBT+ civil servants.
@@ -56,39 +72,21 @@ If you spot something in [our business plan](/our-plan) you'd like to help with,
 
 ---
 
-### Vice Chair – Digital events and community
+### Vice Chair – Minority ethnicity inclusion
 
-As "Vice Chair – Digital events" you'll develop and lead the delivery of a programme of online events that support informal networking for LGBT+ civil servants across the country, and manage our online community. You'll also join our senior leadership team, helping us to lead the Network as a whole.
+As "Vice Chair – Minority ethnicity inclusion" you'll help the Civil Service LGBT+ Network become a more inclusive place for LGBT+ civil servants who are from ethnic minority backgrounds. You'll do this by building on our '[BiSpace](/topics/bispace)' programme, developing a new initiative by and for the community it seeks to support. Ideally you will identify as LGBT+ and have a minority ethnicity. You'll also join our senior leadership team, helping us to lead the Network as a whole.
 
 #### Responsibilities
 
 In this role you will:
 
-- develop a programme of digital social and networking opportunities to take place throughout the year
-- manage an online community space for LGBT+ civil servants, ensuring it is inclusive, welcoming and vibrant
+- undertake research and consultation to understand the experiences of LGBT+ civil servants who have a minority ethnicity
+- develop a programme of activity by and for LGBT+ civil servants who have a minority ethnicity
 - evaluate the impact of this programme of work
 
 As a vice chair, your role will likely take up to 3 hours a week of your time. This could be made up of time for your corporate contribution in your usual role or from your own time outside of work.
-
-<a href="mailto:info@civilservice.lgbt" title="email the Network about the Vice Chair – Digital events and community role" class="button">Email us about this role</a>
-
----
-
-### Vice Chair – Policy and data
-
-As "Vice Chair – Policy and data" you'll be responsible ensuring the Civil Service LGBT+ Network can act as a centre of expertise and knowledge about the experiences of LGBT+ people working in the Civil Service. You'll help us build a robust evidence base, and use that evidence base to support local networks and feed into Civil Service policy development. You'll be also part of our senior leadership team, helping us to lead the Network as a whole.
-
-#### Responsibilities
-
-In this role you will:
-
-- develop an evidence base about the experiences of LGBT+ civil servants
-- create easy to use products and tools to help inform others about those experiences
-- provide advice and guidance to networks and feed into discussions with central Civil Service policy teams as appropriate
-
-As a vice chair, your role will likely take up to 3 hours a week of your time. This could be made up of time for your corporate contribution in your usual role or from your own time outside of work.
-
-<a href="mailto:info@civilservice.lgbt" title="email the Network about the Vice Chair – Policy and data role" class="button">Email us about this role</a>
+ 
+<a href="mailto:info@civilservice.lgbt" title="email the Network about the Vice Chair – Minority ethnicity inclusion role" class="button">Email us about this role</a>
 
 ---
 
@@ -107,6 +105,24 @@ In this role you will:
 As a vice chair, your role will likely take up to 3 hours a week of your time. This could be made up of time for your corporate contribution in your usual role or from your own time outside of work.
 
 <a href="mailto:info@civilservice.lgbt" title="email the Network about the Vice Chair – Women's inclusion role" class="button">Email us about this role</a>
+
+---
+
+### Vice Chair – Governance
+
+As "Vice Chair – Governance" you'll help us to make sure the Civil Service LGBT+ Network is an exemplar for good governance practice amongst Civil Service staff networks. You'll be responsible for coordinating our membership and network engagement, running our governance forums, and owning our operational policies like our constitution and data protection policy.
+
+This role is would be ideal for someone who is looking to develop core policy and secretatiat skills for their role.
+
+#### Responsibilities
+
+In this role you will:
+
+- coordinate our regular board meetings, Leaders of Networks forum and other governance forums
+- lead a review of the networks' constitution and governance
+- manage relationships with departmental networks
+
+<a href="mailto:info@civilservice.lgbt" title="email the Network about the Vice Chair – Governance role" class="button">Email us about this role</a>
 
 ---
 
@@ -200,5 +216,6 @@ We are looking for people to join our existing local organiser teams in the foll
 - South East
 - South West
 - West Midlands
+- London
 
 <a href="mailto:info@civilservice.lgbt" title="email the Network about this role" class="button">Email us about this role</a>
