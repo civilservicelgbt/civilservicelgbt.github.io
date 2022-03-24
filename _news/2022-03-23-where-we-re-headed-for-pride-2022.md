@@ -40,15 +40,15 @@ Following a consultation earlier this year, we are pleased to announce that we p
 | Southampton		| 27 August 2022			|
 
 
-We’ve chosen these locations because you said you wanted us to go to these pride events, and because we have identified local volunteers to lead coordination locally. If you don’t see a location here but you’d like to lead on organising attendance for the Civil Service there please get in touch and join our regular pride forum here.
+We’ve chosen these locations because you said you wanted us to go to these pride events, and because we have identified local volunteers to lead coordination locally. If you don’t see a location here but you’d like to lead on organising attendance for the Civil Service there please [get in touch](mailto:marc.fitchett@civilservice.lgbt) and join our regular [pride organising forum](/event/2022/05/09/civil-service-pride-organising-forum).
 
 ## Register to attend
 
-Registrations to join the Civil Service at these pride events are now open. 
+**Registrations to join the Civil Service at these pride events are now open.**
 
-If the local pride event has confirmed a date for their parade, you can register to attend all of these events, or enter a ticket where there are restrictions on the numbers of people who can enter the parade. 
+**If the local pride event has confirmed a date for their parade**, you can register to attend all of these events, or enter a ticket where there are restrictions on the numbers of people who can enter the parade. 
 
-Some dates aren’t yet confirmed and may not go ahead. If they do go ahead, once a date is confirmed we’ll add the event to our Pride event calendar on the [topic page](/topic/pride). You can pre-register for these events and we’ll email you to confirm the date when we know it.
+**Some pride events aren’t yet confirmed and may not go ahead.** If they do go ahead, once a date is confirmed we’ll add the event to our Pride event calendar on the [topic page](/topic/pride). You can pre-register for these events and we’ll email you to confirm the date when we know it.
 
 Please register via the [Pride topic page](/topic/pride) if you’d like to attend. 
 
