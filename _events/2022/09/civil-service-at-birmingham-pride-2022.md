@@ -9,6 +9,7 @@ date: 2022-03-23
 author: "Civil Service LGBT+ Network"
 category: 
 - pride-2022
+- west-midlands
 link: "https://docs.google.com/forms/d/e/1FAIpQLSeYJmQ_hTZoMQsgAFTjhONCPNBYGJi0VUNCJYVt1r-NbWpw8Q/viewform?usp=sf_link"
 # email: ""
 # no-register: ""

@@ -12,7 +12,7 @@ category:
 link: "https://docs.google.com/forms/d/e/1FAIpQLSeYJmQ_hTZoMQsgAFTjhONCPNBYGJi0VUNCJYVt1r-NbWpw8Q/viewform?usp=sf_link"
 # email: ""
 # no-register: ""
-# location: ""
+location: "Glasgow"
 start-date: 2022-07-16 12:00
 # end-date: -- :
 # registration-close-date: -- :

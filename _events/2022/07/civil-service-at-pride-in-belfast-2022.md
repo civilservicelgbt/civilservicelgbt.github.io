@@ -12,7 +12,7 @@ category:
 link: "https://docs.google.com/forms/d/e/1FAIpQLSeYJmQ_hTZoMQsgAFTjhONCPNBYGJi0VUNCJYVt1r-NbWpw8Q/viewform?usp=sf_link"
 # email: ""
 # no-register: ""
-location: "London"
+location: "Belfast"
 start-date: 2022-07-30 12:00
 # end-date: -- :
 # registration-close-date: -- :
