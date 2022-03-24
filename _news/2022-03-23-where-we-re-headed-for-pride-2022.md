@@ -32,9 +32,9 @@ Following a consultation earlier this year, we are pleased to announce that we p
 | Edinburgh		| 25 June 2022				|
 | Glasgow			| 16 July 2022				|
 | Leeds 			| 7 August 2022				|
-| Liverpool		| To be confirmed			|
+| Liverpool		| 30 July 2022			|
 | London			| 2 July 2022				|
-| Manchester 		| To be confirmed			|
+| Manchester 		| 27 August 2022			|
 | Newcastle		| 23 July 2022				|
 | Sheffield		| To be confirmed			|
 | Southampton		| 27 August 2022			|
