@@ -38,15 +38,6 @@ You may like to:
 - Allies Guidance resource produced by the Civil Service LGBT+ Network - 
 [Download this publication (PDF)](https://www.civilservice.lgbt/documents/store/factsheets/allies.pdf)
 
-- Allies Training Presentation produced by the Cabinet Office - 
-[Download this publication (PPTX)](https://www.civilservice.lgbt/documents/store/cabinet-office-allies-training/allies-training.pptx)
-
-- Allies Terminology resource produced by the Cabinet Office - 
-[Download this publication (DOCX)](https://www.civilservice.lgbt/documents/store/cabinet-office-allies-training/allies-training-terminology.docx)
-
-- Allies Guidance resource produced by the Cabinet Office - 
-[Download this publication (DOCX)](https://www.civilservice.lgbt/documents/store/cabinet-office-allies-training/allies-training.docx)
-
 ---
 
 ## Introduction
