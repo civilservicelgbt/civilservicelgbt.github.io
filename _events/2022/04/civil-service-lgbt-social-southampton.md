@@ -6,8 +6,8 @@ title: "Civil Service LGBT+ Social - Southampton"
 excerpt: "An informal networking and socialising opportunity" 
 date: 2022-03-25 
 author: "Civil Service LGBT+ Network" 
-# category: 
-# - 
+category: 
+- south-east
 # link: "" 
 email: "southeast@civilservice.lgbt" 
 # no-register: "" 
