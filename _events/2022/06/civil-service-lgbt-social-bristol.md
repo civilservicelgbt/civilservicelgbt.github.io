@@ -11,7 +11,7 @@ category:
 link: "https://docs.google.com/forms/d/e/1FAIpQLSc4slvyJczQO2XI-1u9XhohyxgtXePV8MYCpIByg7KlthmBmA/viewform?usp=sf_link"
 # email: ""
 # no-register: ""
-location: "To be confirmed. Please check a few days before each event."
+location: "Phoenix, 1 Wellington Buildings, Champion Square, Bristol BS2 9DB"
 start-date: 2022-06-09 18:00
 # end-date: -- :
 # registration-close-date: -- :
