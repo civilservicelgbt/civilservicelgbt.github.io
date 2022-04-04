@@ -16,7 +16,7 @@ redirect_from:
 - /topic/pride-2021/
 - /topic/pride-2022/
 
-image: "https://www.civilservice.lgbt/images/store/pages/pride-2022.png"
+image: "https://www.civilservice.lgbt/images/store/pages/pride.png"
 
 # Social Media
 # Set to 'true' to turn on the social links
