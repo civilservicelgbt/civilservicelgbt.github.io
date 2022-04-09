@@ -26,7 +26,7 @@ permalink: /event/2022/04/26/pride-in-ccs-fabulosa-the-history-of-britain-s-secr
 
 Boyno, sailors! And how bona it is to vada your dolly old eeks, if you savvy my palare? From perhaps the 16th century right up until the early 1970s, it wouldn't have been uncommon to hear phrases just like this in certain pubs and bars of Britain, backstage at the theatre... or even on the sedate BBC radio show <i>Round The Horne</i>. Polari was a secret language, used by gay men and some other LGBTQ+ people to talk more freely and avoid the attentions of the 'orderly daughters' (er, the police) at a time when being gay was illegal. So where did it come from, and why did it (mostly) die out? And what can it tell us about the language we use in the civil service today?
 
-Lancaster University's Professor Paul Baler is the acclaimed author of <i>Fabulosa! The Story Of Polari, Britain's Secret Gay Language</i>. Join the Crown Commercial Service's LGBTQ+ Network, Pride in CCS, as we host him for a lunchtime webinar and Q&A session on the history of Polari at 12:30 on Tuesday 26 April.
+Lancaster University's Professor Paul Baker is the acclaimed author of <i>Fabulosa! The Story Of Polari, Britain's Secret Gay Language</i>. Join the Crown Commercial Service's LGBTQ+ Network, Pride in CCS, as we host him for a lunchtime webinar and Q&A session on the history of Polari at 12:30 on Tuesday 26 April.
 
 All Civil Servants are welcome!
 
