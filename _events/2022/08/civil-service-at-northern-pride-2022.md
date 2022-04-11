@@ -14,12 +14,12 @@ link: "https://docs.google.com/forms/d/e/1FAIpQLSeYJmQ_hTZoMQsgAFTjhONCPNBYGJi0V
 # email: ""
 # no-register: ""
 location: "Newcastle"
-start-date: 2022-08-07 12:00
+start-date: 2022-07-23 12:00
 # end-date: -- :
 # registration-close-date: -- :
 image: "https://www.civilservice.lgbt/images/store/pages/pride-2022.png"
 # video: ""
-permalink: /event/2022/08/07/civil-service-at-northern-pride-2022
+permalink: /event/2022/07/23/civil-service-at-northern-pride-2022
 # redirect_from: 
 # - 
 # redirect_to: 
