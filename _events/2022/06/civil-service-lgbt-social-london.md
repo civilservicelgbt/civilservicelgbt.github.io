@@ -12,7 +12,7 @@ link: "https://docs.google.com/forms/d/e/1FAIpQLSfQzGqq0eXgQOsMkvO-ZsrPRBO7rlITr
 # email: "london@civilservice.lgbt"
 # no-register: "No need to register. Just turn up."
 location: "Retro Bar, 2 George Court, London WC2N 6HH"
-start-date: 2022-06-02 18:00
+start-date: 2022-06-09 18:00
 # end-date: -- :
 # registration-close-date: -- :
 # image: ""
@@ -26,7 +26,7 @@ permalink: /event/2022/06/02/civil-service-lgbt-social-london
 
 The Civil Service LGBT+ Network organises informal networking and social events so that LGBT+ civil servants can meet each other. Our [local organisers](/team) organise these events in various cities across the country.
 
-Our London socials usually take place on the **first Thursday of each month**. We usually skip the January event.
+Our London socials usually take place on the **first Thursday of each month**. We usually skip the January event. **Please note that this event has been moved to avoid the Jubilee bank holiday weekend**
 
 We usually organise our London events in Westminster or in Soho. The venue changes regularly, so check back on this website a few days before the event to find out the exact venue. 
 
