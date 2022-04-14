@@ -1,6 +1,6 @@
 ---
 layout: business-plan
-date: 2021-11-15 # YYYY-MM-DD
+date: 2022-04-14 # YYYY-MM-DD
 title: "Our work and programmes"
 excerpt: "This document explains the work and programmes that we have planned, and our progress in delivering them. It will be updated as our plans change and work develops."
 author: "Civil Service LGBT+ Network"
@@ -502,6 +502,10 @@ We are an employee network created to ensure LGBT+ staff can be themselves, be t
 - representing the interests of LGBT+ staff across the Civil Service
 
 This document explains our priorities and our programmes of work. It also records our progress in delivering against those priorities.
+
+## Latest updates
+
+This business plan was updated to reflect our latest plans and performance on 14 April 2022.
 
 ## How this will be delivered
 
