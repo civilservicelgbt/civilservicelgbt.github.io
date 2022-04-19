@@ -25,7 +25,7 @@ You can register to attend by completing our registration form.
 
 **The registration form is a Google Form.** You may not be able to access it from a work device. You can use a personal device to complete the form if you cannot access it from your work device.
 
-<a href="" class="button" title="Open the registration form (Opens in a new window)" target="_blank">Register to attend</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeYJmQ_hTZoMQsgAFTjhONCPNBYGJi0VUNCJYVt1r-NbWpw8Q/viewform?usp=sf_link" class="button" title="Open the registration form (Opens in a new window)" target="_blank">Register to attend</a>
 
 Some Pride events place limits on the number of people who can go into each group in their parade. For those events, you will be placed into a lottery and we will contact you 4 weeks in advance of the event to confirm your place.
 
