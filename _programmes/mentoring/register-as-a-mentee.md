@@ -9,7 +9,7 @@ image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-time
 permalink: "/mentoring/register-as-a-mentee"
 redirect_from:
 - /publication/register-as-a-mentee
-published: false
+published: true
 ---
 
 <!-- Include the following to generate a Table of Contents -->
