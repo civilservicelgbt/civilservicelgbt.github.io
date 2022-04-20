@@ -6,7 +6,7 @@ title: "Emily Bowering"
 name: "Emily Bowering"
 role: "local organiser"
 # project: ""
-region: "North east"
+region: "North East"
 email: "northeast@civilservice.lgbt"
 image: "https://www.civilservice.lgbt/images/store/team/emily-bowering.jpg"
 permalink: /team/emily-bowering
