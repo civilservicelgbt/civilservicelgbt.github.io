@@ -2,8 +2,8 @@
 # Adding or removing a '#' in front of a line will toggle that information off and on from being processed. 
 
 layout: event
-title: "Civil Service LGBT+ Social - North East"
-excerpt: "The social for Civil Servants based in the North East, taking place in Newcastle."
+title: "Civil Service LGBT+ social - North East"
+excerpt: "The social for civil servants based in the North East, taking place in Newcastle."
 date: 2022-04-19
 author: "Civil Service LGBT+ Network"
 category: 
@@ -34,3 +34,11 @@ If anyone has any feedback on the location, let us know, as we want to make sure
 
 Looking forward to seeing you soon, 
 Sean & Emily
+
+---
+
+The Civil Service LGBT+ Network organises informal networking and social events so that LGBT+ civil servants can meet each other. Our local organisers organise these events in various cities across the country.
+
+If you have questions about this event, or you have an idea for a future event, you can contact our [North East local organisers](mailto:northeast@civilservice.lgbt).
+
+For all the latest updates from the South East region, check the [North East topic page](/topic/north-east)
