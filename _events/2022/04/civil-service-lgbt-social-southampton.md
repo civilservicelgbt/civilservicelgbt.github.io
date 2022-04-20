@@ -2,7 +2,7 @@
 # Adding or removing a '#' in front of a line will toggle that information off and on from being processed.
 
 layout: event 
-title: "Civil Service LGBT+ Social – Southampton" 
+title: "Civil Service LGBT+ social – Southampton" 
 excerpt: "An informal networking and socialising opportunity" 
 date: 2022-03-25 
 author: "Civil Service LGBT+ Network" 
