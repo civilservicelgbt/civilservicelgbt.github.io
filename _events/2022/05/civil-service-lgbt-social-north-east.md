@@ -33,6 +33,7 @@ There is no obligation to be at the social for the entire listed time, as we are
 If anyone has any feedback on the location, let us know, as we want to make sure everyone is comfortable and has good access to the meet-ups. As we develop as a group we will likely be branching out more as time goes on, so open to further suggestions for locations or activities! 
 
 Looking forward to seeing you soon, 
+
 Sean & Emily
 
 ---
