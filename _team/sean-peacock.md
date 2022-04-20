@@ -6,7 +6,7 @@ title: "Sean Peacock"
 name: "Sean Peacock"
 role: "local organiser"
 # project: ""
-region: "North east"
+region: "North East"
 email: "northeast@civilservice.lgbt"
 image: "https://www.civilservice.lgbt/images/store/team/sean-peacock.jpg"
 permalink: /team/sean-peacock
