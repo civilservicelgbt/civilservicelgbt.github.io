@@ -26,6 +26,6 @@ permalink: /event/2022/04/25/civil-service-lgbt-social-southampton
 
 The Civil Service LGBT+ Network organises informal networking and social events so that LGBT+ civil servants can meet each other. Our [local organisers](/team) organise these events in various cities across the country.
 
-If you have questions about this event, or you have an idea for a future event, you can contact our [South East local organisers](mailto:northwest@civilservice.lgbt).
+If you have questions about this event, or you have an idea for a future event, you can contact our [South East local organisers](mailto:southeast@civilservice.lgbt).
 
 For all the latest updates from the South East region, check the [South East topic page](/topic/south-east)
