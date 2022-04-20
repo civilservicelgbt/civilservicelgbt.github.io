@@ -214,6 +214,11 @@ objectives:
   - name: "Diana Reynolds"
   - name: "Emma Altman-Richer"
   - name: "Robin Tamblyn"
+  - name: "Michael Jeannette"
+  - name: "Robin Tamblyn"
+  - name: "Louise Bayliss-Chapman"
+  - name: "Paul Fogg"
+  - name: "Alan Edwards"
   milestones:
   - milestone: "Develop a plan for BiSpace in 2022"
     date: 2021-12-31		# YYYY-MM-DD – target date for achieving milestone
@@ -364,6 +369,8 @@ objectives:
 ##########################
 - objective: "Data on LGBT+ civil servants"	# Name of objective
   description: "Provide insights into the demographics and experiences of LGBT+ civil servants that can be easily used by networks and HR teams internally."
+  team:
+  - name: "John Smith"
   complete: false
   milestones:
   - milestone: "Recruit a lead vice-chair for this work"
