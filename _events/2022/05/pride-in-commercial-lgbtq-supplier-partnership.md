@@ -3,11 +3,11 @@
 
 layout: event
 title: "Pride in Commercial: LGBTQ+ Supplier Partnership"
-excerpt: ""
+excerpt: "How can Pride be implemented in the commercial space?"
 date: 2022-04-27
 author: "Commercial Pride Team — Home Office"
 category:
-- pride-in-commercial-lgbtq-supplier-partnership
+- pride-in-commercial
 link: "https://www.eventbrite.co.uk/e/pride-in-commercial-lgbtq-supplier-partnership-tickets-297085088497"
 # email: ""
 # no-register: ""
