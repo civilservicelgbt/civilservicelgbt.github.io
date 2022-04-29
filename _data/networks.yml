@@ -361,7 +361,7 @@
 - type: 'Departmental'
   department: 'Welsh Government'
   network: 'PRISM'
-  email: 'PRISM@wales.gov.uk'
+  email: 'PRISM@gov.wales'
   website: ''
   twitter: ''
 - type: 'Cross-government'
