@@ -25,7 +25,7 @@ We're pleased to introduce **Groups**: a new, more informal way of staying up to
 
 You can already sign up for [email alerts](/join-us) via our website. Email alerts are semi-automated emails that notify you when things are added to our website. **Groups** are different; they include wider topics, informal discussion, and allow a bit more of a two-way conversation.
 
-## Our first Group
+## Our first Group
 
 Our first **Group** is the "North West Group", for civil servants who are based in the North West region. This **Group** is managed by [Ross](https://www.civilservice.lgbt/team/ross-starkie/) and [Matt](https://www.civilservice.lgbt/team/matt-walker) from our North West local organiser team. We'll be adding more Groups over time for more regions, nations and project teams.
 
