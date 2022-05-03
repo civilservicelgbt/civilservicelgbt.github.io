@@ -12,7 +12,7 @@ link: "https://docs.google.com/forms/d/e/1FAIpQLScU34wOOsNobUyrmIrDA3mST3I-HOLTm
 email: "northwest@civilservice.lgbt"
 # no-register: ""
 location: "Sackville Gardens, Manchester Gay Village"
-start-date: 2022-07-10 :
+start-date: 2022-07-10
 # end-date: -- :
 # registration-close-date: -- :
 # image: ""

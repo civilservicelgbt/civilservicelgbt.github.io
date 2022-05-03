@@ -12,7 +12,7 @@ link: "https://docs.google.com/forms/d/e/1FAIpQLScU34wOOsNobUyrmIrDA3mST3I-HOLTm
 email: "northwest@civilservice.lgbt"
 # no-register: ""
 location: "St James and Emmanuel church parish gardens, Didsbury"
-start-date: 2022-09-03 :
+start-date: 2022-09-03
 # end-date: -- :
 # registration-close-date: -- :
 # image: ""
