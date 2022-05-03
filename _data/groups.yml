@@ -1,4 +1,5 @@
 - type: "Region"
   name: "North West"
+  category: "north-west"
   description: "The North West group is for members who live in the North West region of England. It is run by our local organisers in the North West region."
   email: "northwest@groups.civilservice.lgbt"
