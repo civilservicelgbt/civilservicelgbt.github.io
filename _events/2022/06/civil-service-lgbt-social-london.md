@@ -11,7 +11,7 @@ category:
 link: "https://docs.google.com/forms/d/e/1FAIpQLSfQzGqq0eXgQOsMkvO-ZsrPRBO7rlITr2VnTR0Y1IaCN_ZRuA/viewform?usp=sf_link"
 # email: "london@civilservice.lgbt"
 # no-register: "No need to register. Just turn up."
-location: "Retro Bar, 2 George Court, London WC2N 6HH"
+location: "St James' Park, London"
 start-date: 2022-06-09 18:00
 # end-date: -- :
 # registration-close-date: -- :
@@ -25,6 +25,15 @@ permalink: /event/2022/06/02/civil-service-lgbt-social-london
 ---
 
 The Civil Service LGBT+ Network organises informal networking and social events so that LGBT+ civil servants can meet each other. Our [local organisers](/team) organise these events in various cities across the country.
+
+> ## Meeting point 
+> 
+> This month's event is being held in St James' Park (weather permitting). 
+> 
+> Our meeting point will be behind *Cafe at Storey's Gate*, on the corner of Horse Guards Road and Birdcage Walk. 
+> 
+> [See the meeting point on Google Maps](https://goo.gl/maps/EX1b1dfmJnqP33To7)
+> [See the meeting point on Apple Maps](https://maps.apple.com/?address=St%20James's%20Park,%20Birdcage%20Walk,%20London,%20SW1H,%20England&ll=51.501607,-0.129987&q=Marked%20Location&_ext=EiYpNQnegZy/SUAxmhQ6orqOwb85s94D3sLASUBB4O+XH7drv79QBA%3D%3D)
 
 Our London socials usually take place on the **first Thursday of each month**. We usually skip the January event. **Please note that this event has been moved to avoid the Jubilee bank holiday weekend**
 
