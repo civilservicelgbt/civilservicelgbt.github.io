@@ -36,6 +36,10 @@ The Civil Service LGBT+ Network organises informal networking and social events 
 > 
 > [See the meeting point on Apple Maps](https://maps.apple.com/?address=St%20James's%20Park,%20Birdcage%20Walk,%20London,%20SW1H,%20England&ll=51.501607,-0.129987&q=Marked%20Location&_ext=EiYpNQnegZy/SUAxmhQ6orqOwb85s94D3sLASUBB4O+XH7drv79QBA%3D%3D)
 
+As we're in the park this month, there will be some sports and activities on offer if people wish to join in. Bring your own refreshments and snacks.
+
+---
+
 Our London socials usually take place on the **first Thursday of each month**. We usually skip the January event. **Please note that this event has been moved to avoid the Jubilee bank holiday weekend**
 
 We usually organise our London events in Westminster or in Soho. The venue changes regularly, so check back on this website a few days before the event to find out the exact venue. 
