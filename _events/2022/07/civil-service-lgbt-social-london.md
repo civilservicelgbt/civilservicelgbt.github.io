@@ -11,7 +11,7 @@ category:
 link: "https://docs.google.com/forms/d/e/1FAIpQLSfQzGqq0eXgQOsMkvO-ZsrPRBO7rlITr2VnTR0Y1IaCN_ZRuA/viewform?usp=sf_link"
 # email: ""
 # no-register: "No need to register. Just turn up."
-location: "London. Venue to be confirmed."
+location: "Retro Bar, 2 George Ct, London WC2N 6HH."
 start-date: 2022-07-07 18:00
 # end-date: -- :
 # registration-close-date: -- :
