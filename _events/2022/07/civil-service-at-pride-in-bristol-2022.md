@@ -18,7 +18,7 @@ start-date: 2022-07-09 12:00
 # registration-close-date: -- :
 image: "https://www.civilservice.lgbt/images/store/pages/pride-2022.png"
 # video: ""
-permalink: /event/2022/07/02/civil-service-at-pride-in-bristol-2022
+permalink: /event/2022/07/09/civil-service-at-pride-in-bristol-2022
 # redirect_from: 
 # - 
 # redirect_to: 
