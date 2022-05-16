@@ -3,8 +3,24 @@
   link-title: "Find out more"
   url: "/topic/pride"
   dates:
+  - start: 2022-06-17
+    end: 2022-08-01
+
+- title: "Become a mentor or mentee."
+  text: "Our award-winning programme is back."
+  link-title: "Sign up now."
+  url: "/topic/mentoring"
+  dates:
+  - start: 2022-05-17
+    end: 2022-06-17
+    
+- title: "Pride 2022."
+  text: "Join us at Pride events across the country and online."
+  link-title: "Find out more"
+  url: "/topic/pride"
+  dates:
   - start: 2022-04-01
-    end: 2022-07-01
+    end: 2022-05-17
 
 - title: "The votes are in."
   text: "You've elected a new chair for the Civil Service LGBT+ Network."
