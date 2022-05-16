@@ -1,7 +1,7 @@
 ---
 layout: publication
 author: Civil Service LGBT+ Network
-date: '2021-05-17'
+date: '2022-05-17'
 category: ["mentoring"]
 title: "Civil Service LGBT+ mentoring programme: about the programme"
 permalink: /publication/about-our-mentoring-programme
