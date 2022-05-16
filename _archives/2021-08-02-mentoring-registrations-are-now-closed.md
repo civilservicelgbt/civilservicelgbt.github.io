@@ -7,6 +7,7 @@ author: "Civil Service LGBT+ Network"
 category: ["mentoring"]
 image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
 permalink: "/news/2021/08/02/mentoring-registrations-are-now-closed"
+published: false
 ---
 
 The Civil Service LGBT+ mentoring programme is a new initiative from the Civil Service LGBT+ Network. It aims to give LGBT+ civil servants support in developing their career by speaking to more senior LGBT+ mentors.

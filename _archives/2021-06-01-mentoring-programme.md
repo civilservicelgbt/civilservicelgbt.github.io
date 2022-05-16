@@ -63,9 +63,6 @@ If you didn't match with someone then you can submit yourself to the next round 
 
 If you're interested in taking part, the first step is to sign up. You can sign up as both a mentor and a mentee if you like.
 
-> Registratons for the first round of the programme are open from 7 June 2021 to 31 July 2021.
-> We will start matching mentors and mentees after the registration window has closed.
-
 ### Become a mentor
 
 ![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--become-a-mentor.png)

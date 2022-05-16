@@ -1,7 +1,7 @@
 ---
 layout: publication
 author: Civil Service LGBT+ Network
-date: '2021-06-07'
+date: '2021-05-17'
 category: ["mentoring"]
 title: "Civil Service LGBT+ mentoring programme: about the programme"
 permalink: /publication/about-our-mentoring-programme
@@ -22,10 +22,6 @@ image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-time
 {{ page.excerpt }}
 
 ![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png)
-
-> **Registrations for the 2021 programme have now closed.**
->
-> If you registered as either a mentee or mentor before the deadline, we will contact you soon via email with your matches. If you have not heard from us by 1 September 2021, please email <mentoring@civilservice.lgbt> and we will check the status of your application.
 
 ## About the programme
 
@@ -49,8 +45,7 @@ We will give all mentors access to induction and guidance on how to be effective
 
 We strongly encourage people at all grades to sign up as mentors – whether you're an SCS or an AO. Everyone can help someone! The more mentors we have, the more mentees we can support through the programme.
 
-{:.external-link}
-[Register as a mentor](https://www.civilservice.lgbt/publication/register-as-a-mentor)
+<a href="https://www.civilservice.lgbt/publication/register-as-a-mentor" title="Visit the mentee registration page" class="button button--action">Register as a mentor</a>
 
 ### Who can be a mentee
 
@@ -60,8 +55,7 @@ If you're a mentee, we'll be aiming to match you to mentors that are one or two 
 
 Whilst we can't guarantee that everyone will find a mentor they keep for the long term, we will try to ensure everyone can access a speed mentoring session as part of the programme.
 
-{:.external-link}
-[Register as a mentee](https://www.civilservice.lgbt/publication/register-as-a-mentee)
+<a href="https://www.civilservice.lgbt/publication/register-as-a-mentee" title="Visit the mentee registration page" class="button button--action">Register as a mentee</a>
 
 ## How it works
 
@@ -143,8 +137,7 @@ As a mentor, you can expect to:
 3. receive published guidance on how to maximise your role as a mentor
 4. have the chance to join a network of other mentors who you can speak to for advice too
 
-{:.external-link}
-[Register as a mentor](https://www.civilservice.lgbt/publication/register-as-a-mentor)
+<a href="https://www.civilservice.lgbt/publication/register-as-a-mentor" title="Visit the mentee registration page" class="button button--action">Register as a mentor</a>
 
 ### Become a mentee
 
@@ -163,8 +156,7 @@ As a mentee, you can expect to:
 1. be offered a short induction session for new mentees
 2. receive published guidance on how to maximise your role as a mentee
 
-{:.external-link}
-[Register as a mentee](https://www.civilservice.lgbt/publication/register-as-a-mentee)
+<a href="https://www.civilservice.lgbt/publication/register-as-a-mentee" title="Visit the mentee registration page" class="button button--action">Register as a mentee</a>
 
 ## Resources and support
 
@@ -174,6 +166,7 @@ We have produced the following resources for those participating in the programm
 - [Advice, guidance and resources for mentors](/publication/resources-for-mentors)
 - [Code of Conduct for mentees and mentors](/publication/mentoring-code-of-conduct)
 
+These resources will be updated regularly throughout the programme.
 
 <!-- Include this line to process the Markdown and format the content properly -->
 </div>

@@ -19,23 +19,19 @@ published: true
 <div id="markdown-content" markdown="1">
 <!-- Don't remove code above -->
 
-## About this publication
-
-Use these forms to register as a mentor or mentee on the Civil Service LGBT+ mentoring programme.
-
 ![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--become-a-mentor.png)
+
+Use this forms to register as a mentor on the Civil Service LGBT+ mentoring programme.
 
 ## Before you register
 
-Before you register, you should read read [our guidance documents](https://www.civilservice.lgbt/publication/about-our-mentoring-programme) so you know what to expect on the programme.
+Before you register, you should read [our guidance documents](https://www.civilservice.lgbt/publication/about-our-mentoring-programme) so you know what to expect on the programme.
 
 If the guidance doesn't answer your question, you can also email us at [mentoring@civilservice.lgbt](mailto:mentoring@civilservice.lgbt).
 
 ## Registration deadline
 
-Registrations for the first round of the mentoring programme will close on 31 July 2021.
-
-We will not be able to accept your registration after this point. You will need to wait until the next round.
+**Registrations for this round of the programme close on 17 June 2022.** We will not be able to accept your registration after this point. You will need to wait until the next round.
 
 ## Register as a mentor
 
@@ -53,8 +49,7 @@ As a mentor, you can expect to:
 3. receive published guidance on how to maximise your role as a mentor
 4. have the chance to join a network of other mentors who you can speak to for advice too
 
-{:.external-link}
-[Register as a mentor](https://forms.gle/6HiMCpBJewakzSXt6)
+<a href="https://forms.gle/fZ4eWxt19aNiYdxV9" title="Visit the mentee registration page" class="button button--action">Register as a mentor</a>
 
 > **This form might not work on your departmental IT system.** To complete this survey, you need to complete a Google Form. These forms are blocked on some departmental IT systems.
 >

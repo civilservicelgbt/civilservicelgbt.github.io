@@ -7,6 +7,7 @@ author: "John Peart"
 category: ["mentoring"]
 image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline%201.png"
 permalink: "/news/2021/08/31/speed-matching-is-complete"
+published: false
 ---
 
 The Civil Service LGBT+ mentoring programme is a new development opportunity for civil servants with minority sexual orientations, gender identities and expressions, and variations in sex characteristics.
