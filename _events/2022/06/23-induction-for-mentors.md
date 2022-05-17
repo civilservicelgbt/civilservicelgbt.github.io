@@ -12,8 +12,8 @@ link: "https://forms.gle/SeVcYqqhv2xTWZJv8"
 # email: ""
 # no-register: ""
 location: "Microsoft Teams"
-start-date: 2022-06-23 13:00
-end-date: 2022-06-23 13:45
+start-date: 2022-06-23 16:00
+end-date: 2022-06-23 16:45
 registration-close-date: 2022-06-06 12:00
 # image: ""
 # video: ""
