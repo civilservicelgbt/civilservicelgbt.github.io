@@ -72,7 +72,7 @@ Happy mentoring!
 
 <p><a href="https://www.civilservice.lgbt/publication/register-as-a-mentee" title="Register to become a mentee" class="button">Register to become a mentee</a> <a href="https://www.civilservice.lgbt/publication/register-as-a-mentor" title="Register to become a mentor" class="button">Register to become a mentor</a></p> 
 
-<details>
+<details markdown="1">
 <summary>2022 Civil Service LGBT+ Network mentoring programme timeline</summary>
 
 - **17 May**<br>Registration opens 
