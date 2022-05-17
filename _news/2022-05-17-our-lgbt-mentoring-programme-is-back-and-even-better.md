@@ -17,7 +17,7 @@ permalink: /news/2022/05/17/our-lgbt-mentoring-programme-is-back-and-even-better
 # - 
 ---
 
-Today is International Day Against Homophobia, Biphobia and Transphobia (IDAHOBIT) and here at the Civil Service LGBT+ Network we’re excited to mark the day by opening registrations for our 2022 Mentoring Programme. You can [read more about the 2022 Mentoring Programme on our website](/publication/about-the-mentoring-programme).
+Today is International Day Against Homophobia, Biphobia and Transphobia (IDAHOBIT) and here at the Civil Service LGBT+ Network we’re excited to mark the day by opening registrations for our 2022 Mentoring Programme. You can [read more about the 2022 Mentoring Programme on our website](/publication/about-our-mentoring-programme).
 
 **Registrations open today and close on 17 June 2022.**
 
