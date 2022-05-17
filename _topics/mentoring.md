@@ -9,7 +9,7 @@ redirect_from:
 - /mentoring
 - /mentoring-scheme
 
-image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/webpage-banner--mentoring-scheme.png"
+image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/mentoring-scheme-csa-banner.png"
 
 # Social Media
 # Set to 'true' to turn on the social links
