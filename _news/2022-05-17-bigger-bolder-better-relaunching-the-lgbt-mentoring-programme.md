@@ -105,7 +105,7 @@ mentors we have, the more mentees we can support through the programme.
 
 ### Sign up as a mentee
 
-![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--become-a-mentee.png)
+![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--find-a-mentor.png)
 
 Give your career a boost and sign up as a mentee. Whilst we can’t guarantee that everyone will find
 a mentor they keep for the long term, we will try to ensure everyone can access some speed
