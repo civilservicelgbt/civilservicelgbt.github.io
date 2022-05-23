@@ -32,3 +32,7 @@ If you have already registered, your place is guaranteed and we have a Civil Ser
 # What happens next
 
 [Matt](/team/matt-walker) and [Ross](/team/ross-starkie) will be coordinating activities on the day. They'll be in touch with those who have registered soon.
+
+# Attend other pride events
+
+We're attending lots of Pride events across the UK this year. You can find out about all the events, and register to attend, on [our Pride topic page](/pride).
