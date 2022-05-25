@@ -16,7 +16,7 @@ link: "https://docs.google.com/forms/d/e/1FAIpQLSeYJmQ_hTZoMQsgAFTjhONCPNBYGJi0V
 location: "Blackpool"
 start-date: 2022-06-11 12:00
 # end-date: -- :
-# registration-close-date: -- :
+registration-close-date: 2022-05-30 23:59
 image: "https://www.civilservice.lgbt/images/store/pages/pride-2022.png"
 # video: ""
 permalink: /event/2022/06/11/civil-service-at-blackpool-pride-2022
