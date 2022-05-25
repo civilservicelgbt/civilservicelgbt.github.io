@@ -54,9 +54,8 @@ During the induction sessions we will:
 - provide a chance for you to ask any questions you might have
 
 Prior to the induction session, we recommend that you read the guidance we have published on our website.
- 
 
-## How to register
+## How to register
 
 We have listed all dates on [our Events page](/events). You can [register to attend online](https://docs.google.com/forms/d/e/1FAIpQLSfCgd-X9fG9cmXgb4EyUpIWRSo3yxck_b2l6gFLT72dGuOycw/viewform)
 
