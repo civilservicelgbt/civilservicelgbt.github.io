@@ -9,6 +9,7 @@ permalink: /our-rules/privacy-and-data
 
 redirect_from:
 - /about/your-data
+- /about/your-data/
 - /privacy-and-data
 - /your-data
 - /your-privacy
