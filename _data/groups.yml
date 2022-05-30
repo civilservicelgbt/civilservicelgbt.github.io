@@ -3,4 +3,18 @@
   category: "north-west"
   description: "The North West group is for members who live in the North West region of England. It is run by our local organisers in the North West region."
   email: "northwest@groups.civilservice.lgbt"
-  url: https://groups.google.com/a/groups.civilservice.lgbt/g/northwest
+  url: "https://groups.google.com/a/groups.civilservice.lgbt/g/northwest"
+
+- type: "Project"
+  name: "BiSpace"
+  category: "bispace"
+  description: "The BiSpace group is for members who identify as Bi+. It is run by our volunteer team."
+  email: "bispace@groups.civilservice.lgbt"
+  url: "https://groups.google.com/a/groups.civilservice.lgbt/g/bispace"
+
+- type: "Project"
+  name: "AceSpace"
+  category: "acespace"
+  description: "The AceSpace group is for members who identify as asexual or aromantic. It is run by our volunteer team."
+  email: "acespace@groups.civilservice.lgbt"
+  url: "https://groups.google.com/a/groups.civilservice.lgbt/g/acespace"
