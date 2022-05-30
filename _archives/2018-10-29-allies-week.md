@@ -177,7 +177,7 @@ We'll be posting new blog posts and resources all week. Keep checking this page 
 		</article>
 	</li>
 	
-	<li>
+	<li class="loop--article-list--item">
 		<article>
 			<h2 class="loop--article-list--item--title"><a href="/2018/11/02/allies-week-matt-baugh" title="Read Allies in Action: Matt Baugh">Allies in Action: Matt Baugh</a></h2>
 			<p>Matt is a Director at the Department for Exiting the European Union, and an LGBT+ ally.</p>
