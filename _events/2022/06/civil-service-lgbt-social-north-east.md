@@ -12,8 +12,8 @@ link: "https://docs.google.com/forms/d/e/1FAIpQLScu85pzFzRBGmav48OFGzDM-dU6NwpOo
 email: "northeast@civilservice.lgbt"
 # no-register: ""
 location: "Microsoft Teams"
-start-date: 2022-06-09 16:45
-end-date: 2022-06-09 18:00
+start-date: 2022-06-14 16:45
+end-date: 2022-06-14 18:00
 registration-close-date: 2022-06-09 18:00
 # image: ""
 # video: ""
