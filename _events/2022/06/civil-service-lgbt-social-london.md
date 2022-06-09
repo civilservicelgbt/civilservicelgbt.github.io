@@ -38,6 +38,8 @@ The Civil Service LGBT+ Network organises informal networking and social events 
 
 As we're in the park this month, there will be some sports and activities on offer if people wish to join in. Bring your own refreshments and snacks.
 
+If it starts to rain, we will reconvene at *Halfway to Heaven*, on Duncannon Street.
+
 ---
 
 Our London socials usually take place on the **first Thursday of each month**. We usually skip the January event. **Please note that this event has been moved to avoid the Jubilee bank holiday weekend**
