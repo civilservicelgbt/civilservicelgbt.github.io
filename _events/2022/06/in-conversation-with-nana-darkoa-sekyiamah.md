@@ -7,7 +7,7 @@ excerpt: "In conversation with Nana Darkoa Sekyiamah, Ghanaian feminist, author 
 date: 2022-06-13
 author: "Civil Service Race Forum"
 category: 
-- pride
+- pride-2022
 link: "https://www.eventbrite.co.uk/e/summer-book-fest-pride-focus-in-conversation-with-nana-darkoa-sekyiamah-tickets-344289728847"
 # email: ""
 # no-register: ""
