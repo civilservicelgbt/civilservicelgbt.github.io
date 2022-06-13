@@ -11,7 +11,7 @@ category:
 link: "https://www.eventbrite.co.uk/e/csrfs-summer-book-fest-pride-focus-in-conversation-with-okechukwu-nzelu-tickets-344312236167?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb"
 # email: ""
 # no-register: ""
-# location: ""
+location: "Online"
 start-date: 2022-06-27 12:30
 end-date: 2022-06-27 13:30
 # registration-close-date: -- :
