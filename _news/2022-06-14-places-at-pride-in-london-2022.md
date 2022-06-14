@@ -23,18 +23,18 @@ As we explained when we announced our plans for pride 2022, there are only a lim
 
 We have now concluded the ballot and places have been allocated. 
 
-# If you have been allocated a place
+## If you have been allocated a place
 
 If you have been allocated a place, you will have received an email from us confirming you're in our parade group. Further details will be released shortly.
 
 Your place is for you and you alone. We cannot offer places for additional friends or family, due to limited capacity.
 
-# We're running a reserve list
+## We're running a reserve list
 
 If you didn't get a place, you will be automatically placed on a reserve list. The reserve list will be drawn from on a first-come-first-served basis, to make sure we fill all our places.
 
 You will be emailed when a place becomes available.
 
-# Cancelling a place
+## Cancelling a place
 
 If you no longer wish to attend, please email us at <pride@civilservice.lgbt>. 
