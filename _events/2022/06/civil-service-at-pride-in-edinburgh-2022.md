@@ -30,3 +30,17 @@ The Civil Service LGBT+ Network is coordinating the Civil Service's presence at 
 We will be taking part in pride marches and parades in every UK capital city this year, as well as a number of other towns and cities across the country.
 
 Find out more on our [Pride 2022 topic page](/pride-2022).
+
+## Joining instructions
+
+The Pride will begin with a pre-pride in the form of a breakfast which will be taking place at Loudons situated across from Queen Elizabeth House for 10:00. This is booked out until 11:15. 
+
+If you wish to attend the breakfast or have any questions about the day then please contact <matthew.paton@hmrc.gov.uk> or <alan.black@hmrc.gov.uk>. 
+
+We will then gather outside the Scottish Parliament at 12:00 for the speeches and the Pride Walk will commence at 13:00. The route will assemble on Parliament Green by Horse Wynd. [See the start location on Google Maps](https://goo.gl/maps/7c2g3Kd8ErfiAAj4A)
+
+T-shirts will be provided on the day. 
+
+After the Pride March we will be attending some of the LGBT+ venues in the city where you are all more than welcome to join us. If you would like to go to these events then ID is recommended just in case, but ID is not required for the actual march.
+
+Please remember that during the event we are representing our organisations. Please do not drink any alcohol during the parade.
