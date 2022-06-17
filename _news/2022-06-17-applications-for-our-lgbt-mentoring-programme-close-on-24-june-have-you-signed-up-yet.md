@@ -7,7 +7,7 @@ excerpt: "Applications to be a mentor, mentee, or both on our award-winning LGBT
 date: 2022-06-17
 author: "Civil Service LGBT+ Network"
 category: 
-- mentoring-2022
+- mentoring
 # image: ""
 # video: ""
 permalink: /news/2022/06/17/lgbt-mentoring-deadline-extended
