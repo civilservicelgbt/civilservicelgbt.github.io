@@ -43,7 +43,7 @@ This guidance is for civil servants who are joining the cross-government Pride i
 
 This year's Pride in London theme is #AllOurPride. 
 
-Tweet us [@cslgbt](https://www.twitter.com/cslgbt) or email us at [info@civilservice.lgbt](mailto:info@civilservice.lgbt) to tell us why Pride matters to you as civil servant. 
+Tweet us [@cslgbt](https://www.twitter.com/cslgbt).
 
 ### Meeting points, arrival times, and parade times
 
