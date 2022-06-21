@@ -65,7 +65,7 @@ All members of our parade group are required to wear a wristband, provided by Pr
 
 Wristbands will be given to those who registered in advance first.
 
-Any wristbands that are uncollected by 2:45pm will be handed out to others so that all those that want to participate can do so. **If you were unsuccessful in securing a place online** and want one of our spare wristbands to join the group, please arrive at 1:30pm at the meeting point.
+Any wristbands that are uncollected by 14:30 will be handed out to others so that all those that want to participate can do so. **If you were unsuccessful in securing a place online** and want one of our spare wristbands to join the group, please arrive at 1:30pm at the meeting point.
 
 ### If you can no longer attend
 
