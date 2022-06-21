@@ -38,4 +38,4 @@ There will also be access digitally across two days (6th and 7th October) so don
 
 We’ve been busy behind the scenes planning for the past few months, so look forward to sharing more details with you shortly.
 
-**Interested in speaking at the conference, facilitating a session, or just helping out?** [Drop us an email](info@civilservice.lgbt) to let us know where you can support.
+**Interested in speaking at the conference, facilitating a session, or just helping out?** [Drop us an email](mailto:conference@civilservice.lgbt) to let us know where you can support.
