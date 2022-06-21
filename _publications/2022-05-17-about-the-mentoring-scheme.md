@@ -5,7 +5,7 @@ date: '2022-05-17'
 category: ["mentoring"]
 title: "Civil Service LGBT+ mentoring programme: about the programme"
 permalink: /mentoring/about-the-programme
-excerpt: "This publication provides general information about the Civil Service LGBT+ Network's mentoring programme, including eligibitly, how to become a mentor and a mentee, and what resources and support are available."
+excerpt: "This publication provides general information about the Civil Service LGBT+ Network's mentoring programme, including eligibility, how to become a mentor and a mentee, and what resources and support are available."
 image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
 redirect_from:
 - /publication/about-the-mentoring-programme

@@ -27,7 +27,7 @@ All our volunteering opportunities are published on our ‘[vacancies](/team/vac
 
 ### Vice-chairs for women’s inclusion and ethnic minority inclusion
 
-We want this network to be inclusive of every part of the LGBT+ spectrum. We think the work that has been done over the past few years to establish [BiSpace](/topics/bispace), and now [AceSpace](/topics/bispace), is a fantastic model of how we can do that. We already have work underway to create a space for trans and non-binary staff in the network; we want to do the same for LGBT+ staff who are women, and LGBT+ staff who have a minority ethnicity.
+We want this network to be inclusive of every part of the LGBT+ spectrum. We think the work that has been done over the past few years to establish [BiSpace](/topic/bispace), and now [AceSpace](/topic/bispace), is a fantastic model of how we can do that. We already have work underway to create a space for trans and non-binary staff in the network; we want to do the same for LGBT+ staff who are women, and LGBT+ staff who have a minority ethnicity.
 
 We think it’s important these initiatives are led by those they are intended to support – just like BiSpace and AceSpace – so we’re keen to speak to any LGBT+ women or LGBT+ people who have a minority ethnicity who would be interested in stepping up and developing these programmes. If that’s you, please [email me directly](mailto:john.peart@civilservice.lgbt); I’d love to chat!
 

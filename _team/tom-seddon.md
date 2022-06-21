@@ -5,7 +5,7 @@ layout: team
 title: "Tom Seddon"
 name: "Tom Seddon"
 role: "project team"
-project: "career development"
+project: "mentoring"
 # region: ""
 # email: ""
 image: "https://www.civilservice.lgbt/images/store/team/tom-seddon.jpg"
