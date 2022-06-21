@@ -37,7 +37,7 @@ Find out more on our [Pride 2022 topic page](/pride-2022).
 
 This guidance is for civil servants who are joining the cross-government Pride in London parade group on 2 July 2022.
 
-### This year's parade theme and our group
+### This year's parade theme
 
 #### #AllOurPride
 
