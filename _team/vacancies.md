@@ -90,42 +90,6 @@ As a vice chair, your role will likely take up to 3 hours a week of your time. T
 
 ---
 
-### Vice Chair – Women's inclusion
-
-As "Vice Chair – Women's inclusion" you'll help the Civil Service LGBT+ Network become a more inclusive place for LGBT+ women. You'll do this by building on our '[BiSpace](/topics/bispace)' programme, developing a new initiative by LGBT+ women, for LGBT+ women. You'll also join our senior leadership team, helping us to lead the Network as a whole.
-
-#### Responsibilities
-
-In this role you will:
-
-- undertake research and consultation to understand the experiences of LGBT+ civil servants who are women
-- develop a programme of activity by and for LGBT+ civil servants who are women
-- evaluate the impact of this programme of work
-
-As a vice chair, your role will likely take up to 3 hours a week of your time. This could be made up of time for your corporate contribution in your usual role or from your own time outside of work.
-
-<a href="mailto:info@civilservice.lgbt" title="email the Network about the Vice Chair – Women's inclusion role" class="button">Email us about this role</a>
-
----
-
-### Vice Chair – Governance
-
-As "Vice Chair – Governance" you'll help us to make sure the Civil Service LGBT+ Network is an exemplar for good governance practice amongst Civil Service staff networks. You'll be responsible for coordinating our membership and network engagement, running our governance forums, and owning our operational policies like our constitution and data protection policy.
-
-This role is would be ideal for someone who is looking to develop core policy and secretatiat skills for their role.
-
-#### Responsibilities
-
-In this role you will:
-
-- coordinate our regular board meetings, Leaders of Networks forum and other governance forums
-- lead a review of the networks' constitution and governance
-- manage relationships with departmental networks
-
-<a href="mailto:info@civilservice.lgbt" title="email the Network about the Vice Chair – Governance role" class="button">Email us about this role</a>
-
----
-
 ### Communications leads (multiple roles)
 
 As "Communications lead" you will support the chair and wider team in ensuring the work of the Network is clearly communicated. You will help us to ensure LGBT+ civil servants know what we do, why we do it and how they can get involved. 
@@ -203,19 +167,6 @@ The specific projects we know we need help with right now include:
 
 As a "Local Organiser" you will lead activities in your local city, region or nation. You will help build local communities of LGBT+ civil servants through activities including social events, pride coordination, and learning and development events.
 
-We are looking for local organisers to start a team in the following areas:
-
-- East Midlands
-- East of England
-- North East
-- Northern Ireland
-
-We are looking for people to join our existing local organiser teams in the following areas:
-
-- Scotland
-- South East
-- South West
-- West Midlands
-- London
+We are looking for local organisers to join any of our teams across the UK.
 
 <a href="mailto:info@civilservice.lgbt" title="email the Network about this role" class="button">Email us about this role</a>
