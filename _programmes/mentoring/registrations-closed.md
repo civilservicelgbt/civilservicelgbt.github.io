@@ -10,7 +10,7 @@ redirect_from:
 - /mentoring/register-as-a-mentee
 - /mentoring/register-as-a-mentor
 
-published: false
+published: true
 
 ---
 

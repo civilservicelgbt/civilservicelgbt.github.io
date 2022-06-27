@@ -10,7 +10,7 @@ permalink: "/mentoring/register-as-a-mentee"
 redirect_from:
 - /publication/register-as-a-mentee
 - /register-as-a-mentee
-published: true
+published: false
 ---
 
 <!-- Include the following to generate a Table of Contents -->
