@@ -13,7 +13,7 @@ link: "https://docs.google.com/forms/d/e/1FAIpQLSeYJmQ_hTZoMQsgAFTjhONCPNBYGJi0V
 # email: ""
 # no-register: ""
 location: "Liverpool"
-start-date: 2022-07-30 12:00
+start-date: 2022-07-30 10:30
 # end-date: -- :
 # registration-close-date: -- :
 image: "https://www.civilservice.lgbt/images/store/pages/pride-2022.png"
