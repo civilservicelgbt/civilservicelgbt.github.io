@@ -101,8 +101,8 @@ T-shirts are being provided with Civil Service Pride branding to all attendees. 
 
 You can collect your t-shirt in advance at the following times:
 
-- 29 June 2022
-- 30 June 2022
+- 29 June 2022 from 09:30 to 11:00
+- 30 June 2022 from 12:00 to 13:00
 - 1 July 2022 from 13:00 to 15:00
 
 The collection point is the waiting room of the Department for Education. The Department for Education is located at Sanctuary Buildings, Great Smith Street, London, SW1P 3BT. The waiting room is located to the left of the reception desk. 
