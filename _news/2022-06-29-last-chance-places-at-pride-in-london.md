@@ -21,7 +21,7 @@ The Civil Service will be taking part in Pride in London this weekend. We recent
 
 We are anticipating that some people will drop out on the day, for various reasons, and so want to offer 'last chance' places to anyone else who wishes to join our parade group.
 
-If you missed out on a place, and you want to attend, 'last chance' places will be allocated **in-person** at the pre-parade meeting point. More details, and the full joining instructions, are available on the event page.
+If you missed out on a place, and you want to attend, 'last chance' places will be allocated **in-person** at the pre-parade meeting point. More details, and the full joining instructions, are available on the [event page](https://www.civilservice.lgbt/event/2022/07/02/civil-service-at-pride-in-london-2022).
 
 **We cannot guarantee you a place if you try to secure one on the day.** Spare places will be allocated on a first-come-first-served basis.
 
