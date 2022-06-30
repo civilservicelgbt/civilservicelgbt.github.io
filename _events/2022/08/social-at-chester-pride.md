@@ -8,8 +8,8 @@ date: 2022-06-30
 author: "Civil Service LGBT+ Network"
 # category: 
 # - 
-# link: ""
-# email: ""
+link: "https://docs.google.com/forms/d/e/1FAIpQLScU34wOOsNobUyrmIrDA3mST3I-HOLTm8zTf-gKqbUimSmReA/viewform?usp=sf_link"
+email: "northwest@civilservice.lgbt"
 # no-register: ""
 location: "Chester Pride, Castle Square Car Park"
 start-date: 2022-08-30 13:00
