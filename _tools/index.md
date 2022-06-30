@@ -3,11 +3,6 @@ layout: tools
 title: "Add or edit content"
 excerpt: "These tools and guidance will help you to add or edit content on the Civil Service LGBT+ Network website."
 permalink: /tools/
-redirect_from:
-- /tools/new/
-- /new/
-- /edit/
-- /admin/
 ---
 
 These tools are designed to be used by Civil Service LGBT+ Network volunteers.
