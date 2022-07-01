@@ -1,5 +1,3 @@
-local_backend: true
-
 backend:
   name: 'github'
   repo: 'civilservicelgbt/civilservicelgbt.github.io'
@@ -16,13 +14,23 @@ backend:
     deleteMedia: "Delete “{{path}}”"
     openAuthoring: "'{{message}}'"
 
+site_url: 'https://www.civilservice.lgbt'
+logo_url: 'https://www.civilservice.lgbt/assets/images/site/cms-icon.svg'
+
 publish_mode: editorial_workflow
 
 media_folder: "assets/images/uploads" # Media files will be stored in the repo under images/uploads
 
 collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: '_posts/'
+  - name: 'news'
+    label: 'News'
+    folder: '_news/'
+    slug: "/news/{{year}}/{{month}}/{{day}}/{{slug}}"
     fields:
-      - { name: Title }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'news' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Author', name: 'author', widget: 'markdown' }
+      - { label: 'Category', name: 'category', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
