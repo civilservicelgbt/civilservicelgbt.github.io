@@ -1,9 +1,16 @@
 backend:
-  name: github
-  repo: civilservicelgbt/civilservicelgbt.github.io
-  branch: main # Branch to update
+  name: 'github'
+  repo: 'civilservicelgbt/civilservicelgbt.github.io'
+  branch: 'main' # Branch to update
+  api_root: 'https://api.github.com'
+  site_domain: 'civilservicelgbt.netlify.app'
+  base_url: 'https://api.netlify.com'
+  auth_endpoint: 'auth'
+  
 publish_mode: editorial_workflow
+
 media_folder: "assets/images/uploads" # Media files will be stored in the repo under images/uploads
+
 collections:
   - name: 'blog'
     label: 'Blog'
