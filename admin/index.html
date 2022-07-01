@@ -1,14 +1,32 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Content Manager</title>
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+---
+layout: skeleton
+---
 
-</head>
-<body>
-  <!-- Include the script that builds the page and powers Netlify CMS -->
-  <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
-</body>
-</html>
+<header class="header" role="banner">
+	<div class="header--container width-container">
+		<div class="header--logo">
+		  <a href="{{ site.url }}" class="header--logotype--link">
+			<span class="header--logotype--text">Civil Service</span>
+			<span class="header--logotype--text">LGBT+ Network</span>
+		  </a>
+		</div>
+	</div>
+</header>
+
+<div class="width-container">
+
+	<main class="main-wrapper main-wrapper--auto-spacing" id="main-content" role="main">
+
+		{{ content }}
+		<section id="nc-root">
+			
+		</section>
+
+	</main>
+
+</div>
+
+
+<!-- Include the script that builds the page and powers Netlify CMS -->
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
