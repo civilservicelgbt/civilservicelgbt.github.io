@@ -3,11 +3,10 @@
 
 layout: news
 title: "Restarting the Leaders of Networks forum"
-excerpt: "Our Leaders of Networks forum is a quarterly opportunity for those leading departmental and agency networks to discuss issues across the Civil Service affecting LGBT+ staff.
-"
+excerpt: "Our Leaders of Networks forum is a quarterly opportunity for those leading departmental and agency networks to discuss issues across the Civil Service affecting LGBT+ staff."
 date: 2021-11-22
 author: "John Peart"
-category: 
+category:
 - leaders-of-networks
 image: "https://www.civilservice.lgbt/images/store/leaders-of-networks-forum/leaders-of-networks-forum-logo.png"
 # video: ""
