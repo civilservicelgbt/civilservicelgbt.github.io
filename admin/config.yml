@@ -1,3 +1,5 @@
+local_backend: true
+
 backend:
   name: 'github'
   repo: 'civilservicelgbt/civilservicelgbt.github.io'
@@ -6,7 +8,14 @@ backend:
   site_domain: 'civilservicelgbt.netlify.app'
   base_url: 'https://api.netlify.com'
   auth_endpoint: 'auth'
-  
+  commit_messages:
+    create: "Create {{collection}} “{{slug}}”"
+    update: "Update {{collection}} “{{slug}}”"
+    delete: "Delete {{collection}} “{{slug}}”"
+    uploadMedia: "Upload “{{path}}”"
+    deleteMedia: "Delete “{{path}}”"
+    openAuthoring: "'{{message}}'"
+
 publish_mode: editorial_workflow
 
 media_folder: "assets/images/uploads" # Media files will be stored in the repo under images/uploads
