@@ -46,6 +46,29 @@ collections:
         fields:
         - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
         - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
+  - name: 'publications'
+    label: 'Publication'
+    folder: '_publications/'
+    create: true
+    slug: "publication/{{year}}/{{month}}/{{day}}/{{slug}}"
+    preview_path: 'publication/{{year}}/{{month}}/{{day}}/{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'publication' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Category', name: 'category', widget: 'list', required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Featured image', name: 'image', widget: 'image', choose_url: true, required: false }
+      - { label: 'YouTube video URL', name: 'video', widget: 'string', required: false }
+      - label: "Redirects" 
+        name: 'redirects'
+        widget: 'object'
+        minimize_collapsed: false
+        fields:
+        - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
+        - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
   - name: 'notices'
     label: 'Data Notice'
     folder: '_notices/'
@@ -53,8 +76,20 @@ collections:
     slug: "notice/{{year}}/{{month}}/{{day}}/{{slug}}"
     preview_path: 'notice/{{year}}/{{month}}/{{day}}/{{slug}}'
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'news' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'notice' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Excerpt', name: 'excerpt', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'pages'
+    label: 'Page'
+    folder: '_pages/'
+    create: true
+    slug: "{{slug}}"
+    preview_path: '{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'string' }
+      - { label: 'Permalink', name: 'permalink', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
