@@ -14,18 +14,21 @@ backend:
     deleteMedia: "Delete “{{path}}”"
     openAuthoring: "'{{message}}'"
 
+publish_mode: editorial_workflow 
+show_preview_links: true
+
 site_url: 'https://www.civilservice.lgbt'
 logo_url: 'https://www.civilservice.lgbt/assets/images/site/cms-icon.svg'
-
-publish_mode: editorial_workflow
 
 media_folder: "assets/images/uploads" # Media files will be stored in the repo under images/uploads
 
 collections:
   - name: 'news'
-    label: 'News'
+    label: 'News Article'
     folder: '_news/'
-    slug: "/news/{{year}}/{{month}}/{{day}}/{{slug}}"
+    create: true
+    slug: "news/{{year}}/{{month}}/{{day}}/{{slug}}"
+    preview_path: 'news/{{year}}/{{month}}/{{day}}/{{slug}}'
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'news' }
       - { label: 'Title', name: 'title', widget: 'string' }
@@ -35,3 +38,23 @@ collections:
       - { label: 'Category', name: 'category', widget: 'list', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Featured image', name: 'image', widget: 'image', choose_url: true, required: false }
+      - { label: 'YouTube video URL', name: 'video', widget: 'string', required: false }
+      - label: "Redirects" 
+        name: 'redirects'
+        widget: 'object'
+        minimize_collapsed: false
+        fields:
+        - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
+        - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
+  - name: 'notices'
+    label: 'Data Notice'
+    folder: '_notices/'
+    create: true
+    slug: "notice/{{year}}/{{month}}/{{day}}/{{slug}}"
+    preview_path: 'notice/{{year}}/{{month}}/{{day}}/{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'news' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
