@@ -3,13 +3,12 @@
 
 layout: publication
 title: "Local Organiser role description"
-excerpt: "This document describes the role of our Local Organisers. It also provides some examples of the events and activities organised by them. "
+excerpt: "This document describes the role of our Local Organisers. It also provides some examples of the events and activities organised by them."
 date: 2022-03-11
 author: "Civil Service LGBT+ Network"
 # category: 
 # - 
 # image: ""
-permalink: /publication/local-organiser-role-description
 permalink: /publication/local-organiser-role-description
 # redirect_from: 
 # - 
