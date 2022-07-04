@@ -1,6 +1,5 @@
 ---
 layout: consultation
-author: "Civil Service LGBT+ Network"
 date: 2021-08-01
 end-date: 2021-09-30 23:45
 title: "Mentoring programme: pre-programme survey"
