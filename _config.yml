@@ -253,12 +253,6 @@ collections:
     defaults:
       values:
         layout: tools
-  admin:
-    output: true
-    permalink: /admin/:title/
-    defaults:
-      values:
-        layout: default
   design-system:
     output: true
     permalink: /design-system/:title/
