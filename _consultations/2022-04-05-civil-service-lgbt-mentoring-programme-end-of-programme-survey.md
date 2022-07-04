@@ -9,7 +9,7 @@ author: "Civil Service LGBT+ Network"
 category: 
 - mentoring
 link: "https://forms.gle/cFrvkLfboCAd8BrR6"
-end-date: 2022-05-22 00:00
+end-date: 2022-05-22 23:45
 # image: ""
 # video: ""
 permalink: /consultation/civil-service-lgbt-mentoring-programme-end-of-programme-survey
