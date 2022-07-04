@@ -6,9 +6,9 @@ excerpt: Join colleagues from around South Wales for an after-work social at
 date: 2022-07-04T20:59:14.745Z
 event:
   location: The Queer Emporium, St Mary's Street, Cardiff
-  start: 2022-07-19T15:30:14.795Z
-  end: 2022-07-19T17:30:14.818Z
-  deadline: 2022-07-19T14:45:14.832Z
+  start: 2022-07-19T16:30:14.795Z
+  end: 2022-07-19T18:30:14.818Z
+  deadline: 2022-07-19T15:45:14.832Z
   link: https://forms.gle/qq5S7LveULfukZU78
   email: wales@civilservice.lgbt
   host: Civil Service LGBT+ Network
