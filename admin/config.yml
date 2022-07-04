@@ -24,11 +24,12 @@ media_folder: "assets/images/uploads" # Media files will be stored in the repo u
 
 collections:
   - name: 'news'
-    label: 'News Article'
+    label: 'News article'
     folder: '_news/'
     create: true
     slug: "news/{{year}}/{{month}}/{{day}}/{{slug}}"
     preview_path: 'news/{{year}}/{{month}}/{{day}}/{{slug}}'
+    preview_path_date_field: date
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'news' }
       - { label: 'Title', name: 'title', widget: 'string' }
@@ -39,13 +40,42 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Featured image', name: 'image', widget: 'image', choose_url: true, required: false }
       - { label: 'YouTube video URL', name: 'video', widget: 'string', required: false }
-      - label: "Redirects" 
-        name: 'redirects'
-        widget: 'object'
-        minimize_collapsed: false
-        fields:
-        - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
-        - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
+      - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
+      - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
+        
+  - name: 'events'
+    label: 'Event'
+    folder: '_events/'
+    create: true
+    slug: 'event/{{year}}/{{month}}/{{day}}/{{slug}}'
+    preview_path: 'event/{{year}}/{{month}}/{{day}}/{{slug}}'
+    preview_path_date_field: start-date
+    nested:
+      depth: 4 # max depth to show in the collection tree
+      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
+    fields:
+    - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'event' }
+    - { label: 'Title', name: 'title', widget: 'string' }
+    - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+    - { label: 'Publish date', hint: 'This should usually be set to today’s date', name: 'date', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm" }
+    - { label: 'Event start date and time', name: 'start-date', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm", required: true }
+    - { label: 'Event end date and time', name: 'end-date', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm", required: false }
+    - { label: 'Event host', name: 'author', widget: 'string', default: 'Civil Service LGBT+ Network' }
+    - { label: 'Permalink', name: 'permalink', widget: 'string', default: '{{ start-date }}'}
+    - label: 'Registration methods'
+      name: 'registration'
+      hint: 'You must complete at least one of these three fields.'
+      widget: 'object'
+      required: true
+      fields:
+      - { label: 'Registration site or form URL', name: 'link', widget: 'string', required: false }
+      - { label: 'Registration email address', name: 'email', widget: 'string', required: false }
+      - { label: 'Alternative registration message', hint: 'For example, if participants don’t need to register in advance, include a message here about what to do like; ”No need to register. Just turn up.”', name: 'no-register', widget: 'string', required: false }
+    - { label: 'Category', name: 'category', widget: 'list', required: false }
+    - { label: 'Body', name: 'body', widget: 'markdown' }
+    - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
+    - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
+      
   - name: 'publications'
     label: 'Publication'
     folder: '_publications/'
@@ -62,13 +92,9 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Featured image', name: 'image', widget: 'image', choose_url: true, required: false }
       - { label: 'YouTube video URL', name: 'video', widget: 'string', required: false }
-      - label: "Redirects" 
-        name: 'redirects'
-        widget: 'object'
-        minimize_collapsed: false
-        fields:
-        - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
-        - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
+      - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
+      - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
+      
   - name: 'consultations'
     label: 'Consultation'
     folder: '_consultations/'
@@ -85,13 +111,25 @@ collections:
       - { label: 'Consultation link', name: 'link', widget: 'string' }
       - { label: 'Consultation end date', name: 'end-date', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm" }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - label: "Redirects" 
-        name: 'redirects'
-        widget: 'object'
-        minimize_collapsed: false
-        fields:
-        - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
-        - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
+      - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
+      - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
+      
+  - name: 'manuals'
+    label: 'Volunteer guidance'
+    folder: '_manuals/'
+    create: true
+    slug: "manual/{{slug}}"
+    preview_path: 'manual/{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'select', options: ['manual', 'publication'], default: 'manual' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+      - { label: 'Category', name: 'category', widget: 'list', required: false }
+      - { label: 'Show meta info (author, Publish date, etc)', name: 'meta-info', widget: 'select', options: ['true', 'false'], default: 'false' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
+      - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
+      
   - name: 'rules'
     label: 'Rules'
     folder: '_rules/'
@@ -107,14 +145,11 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Featured image', name: 'image', widget: 'image', choose_url: true, required: false }
       - { label: 'YouTube video URL', name: 'video', widget: 'string', required: false }
-      - label: "Redirects" 
-        name: 'redirects'
-        widget: 'object'
-        fields:
-        - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
-        - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
+      - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
+      - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
+      
   - name: 'notices'
-    label: 'Data Notice'
+    label: 'Data notice'
     folder: '_notices/'
     create: true
     slug: "notice/{{year}}/{{month}}/{{day}}/{{slug}}"
@@ -125,6 +160,9 @@ collections:
       - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
       - { label: 'Publish date', name: 'date', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm" }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
+      - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
+      
   - name: 'topics'
     label: 'Topic page'
     folder: '_topics/'
@@ -140,12 +178,9 @@ collections:
       - { label: 'Featured image', name: 'image', widget: 'image', choose_url: true, required: false }
       - { label: 'Background colour', name: 'background', widget: 'select', options: ['white', 'yellow', 'cyan', 'magenta'], default: 'white' }
       - { label: 'Permalink', name: 'permalink', widget: 'string' }
-      - label: "Redirects" 
-        name: 'redirects'
-        widget: 'object'
-        fields:
-        - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
-        - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
+      - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
+      - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
+      
   - name: 'pages'
     label: 'Page'
     folder: '_pages/'
@@ -158,3 +193,5 @@ collections:
       - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
       - { label: 'Permalink', name: 'permalink', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
+      - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
