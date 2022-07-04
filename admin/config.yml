@@ -32,8 +32,8 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'news' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Excerpt', name: 'excerpt', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+      - { label: 'Publish date', name: 'date', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm" }
       - { label: 'Author', name: 'author', widget: 'string' }
       - { label: 'Category', name: 'category', widget: 'list', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -55,8 +55,8 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'publication' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Excerpt', name: 'excerpt', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+      - { label: 'Publish date', name: 'date', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm" }
       - { label: 'Author', name: 'author', widget: 'string' }
       - { label: 'Category', name: 'category', widget: 'list', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -69,6 +69,50 @@ collections:
         fields:
         - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
         - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
+  - name: 'consultations'
+    label: 'Consultation'
+    folder: '_consultations/'
+    create: true
+    slug: "consultation/{{slug}}"
+    preview_path: 'consultation/{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'consultation' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+      - { label: 'Publish date', name: 'date', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm" }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Category', name: 'category', widget: 'list', required: false }
+      - { label: 'Consultation link', name: 'link', widget: 'string' }
+      - { label: 'Consultation end date', name: 'end-date', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm" }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: "Redirects" 
+        name: 'redirects'
+        widget: 'object'
+        minimize_collapsed: false
+        fields:
+        - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
+        - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
+  - name: 'rules'
+    label: 'Rules'
+    folder: '_rules/'
+    create: true
+    slug: "our-rules/{{slug}}"
+    preview_path: 'our-rules/{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'select', options: ['publication', 'page'], default: 'publication' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+      - { label: 'Show meta info (author, Publish date, etc)', name: 'meta-info', widget: 'select', options: ['true', 'false'], default: 'false' }
+      - { label: 'Category', name: 'category', widget: 'list', required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Featured image', name: 'image', widget: 'image', choose_url: true, required: false }
+      - { label: 'YouTube video URL', name: 'video', widget: 'string', required: false }
+      - label: "Redirects" 
+        name: 'redirects'
+        widget: 'object'
+        fields:
+        - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
+        - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
   - name: 'notices'
     label: 'Data Notice'
     folder: '_notices/'
@@ -78,9 +122,30 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'notice' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Excerpt', name: 'excerpt', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+      - { label: 'Publish date', name: 'date', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm" }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'topics'
+    label: 'Topic page'
+    folder: '_topics/'
+    create: true
+    slug: "topic/{{slug}}"
+    preview_path: 'topic/{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish date', name: 'date', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm" }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+      - { label: 'Category', name: 'category', widget: 'list', required: false }
+      - { label: 'Featured image', name: 'image', widget: 'image', choose_url: true, required: false }
+      - { label: 'Background colour', name: 'background', widget: 'select', options: ['white', 'yellow', 'cyan', 'magenta'], default: 'white' }
+      - { label: 'Permalink', name: 'permalink', widget: 'string' }
+      - label: "Redirects" 
+        name: 'redirects'
+        widget: 'object'
+        fields:
+        - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
+        - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
   - name: 'pages'
     label: 'Page'
     folder: '_pages/'
@@ -90,6 +155,6 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Excerpt', name: 'excerpt', widget: 'string' }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
       - { label: 'Permalink', name: 'permalink', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
