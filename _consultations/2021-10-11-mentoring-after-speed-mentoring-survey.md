@@ -9,7 +9,6 @@ author: "Civil Service LGBT+ Network"
 category:
 - mentoring
 link: "https://docs.google.com/forms/d/e/1FAIpQLSfSLqntFY_yI76z0r9PRXEtJ_H5ADIoJYMhD5Sl4cri2aTRGA/viewform?usp=sf_link"
-image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
 permalink: "/consultation/mentoring-after-speed-mentoring-survey"
 ---
 
