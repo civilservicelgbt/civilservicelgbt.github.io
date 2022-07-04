@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "Ed"
+person-name: "Ed"
 role: "vice chair"
 project: "local organising"
 email: ed@civilservice.lgbt

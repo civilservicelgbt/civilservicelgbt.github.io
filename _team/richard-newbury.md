@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "Richard Newbury"
+person-name: "Richard Newbury"
 role: "local organiser"
 region: "Wales"
 email: "wales@civilservice.lgbt"

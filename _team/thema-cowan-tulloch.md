@@ -3,7 +3,7 @@
 
 layout: team
 title: "Théma Cowan-Tulloch"
-name: "Théma Cowan-Tulloch"
+person-name: "Théma Cowan-Tulloch"
 role: "local organiser"
 # project: ""
 region: "East midlands"

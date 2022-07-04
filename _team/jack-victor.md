@@ -3,7 +3,7 @@
 
 layout: team
 title: "Jack Victor"
-name: "Jack Victor"
+person-name: "Jack Victor"
 role: "project team"
 project: "conference"
 # region: ""

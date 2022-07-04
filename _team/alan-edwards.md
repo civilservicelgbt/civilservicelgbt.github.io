@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "Alan Edwards"
+person-name: "Alan Edwards"
 role: "vice chair"
 project: "Trans and non-binary inclusion"
 email: alan.edwards@civilservice.lgbt

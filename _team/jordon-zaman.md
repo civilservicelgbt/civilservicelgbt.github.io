@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "Jordon Zaman"
+person-name: "Jordon Zaman"
 role: "vice chair"
 archive: true
 ---

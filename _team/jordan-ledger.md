@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "Jordan Ledger"
+person-name: "Jordan Ledger"
 role: "local organiser"
 region: "London"
 email: "london@civilservice.lgbt"

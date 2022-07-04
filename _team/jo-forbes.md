@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "Jo Forbes"
+person-name: "Jo Forbes"
 role: "local organiser"
 region: "West Midlands"
 archive: true

@@ -1,7 +1,7 @@
 ---
 layout: team
 archive: true
-name: "Mark Lambert"
+person-name: "Mark Lambert"
 role: "local organiser"
 region: "South East"
 email: "southeast@civilservice.lgbt"

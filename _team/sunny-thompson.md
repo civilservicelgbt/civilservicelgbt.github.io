@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "Sunny Thompson"
+person-name: "Sunny Thompson"
 role: "vice chair"
 project: "Bi+ inclusion"
 email: sunny.thompson@civilservice.lgbt

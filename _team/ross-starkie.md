@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "Ross Starkie"
+person-name: "Ross Starkie"
 role: "local organiser"
 region: "North West"
 email: "northwest@civilservice.lgbt"

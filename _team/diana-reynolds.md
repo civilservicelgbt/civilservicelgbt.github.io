@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "Diana Reynolds"
+person-name: "Diana Reynolds"
 role: "project team"
 project: "Bi+ inclusion"
 image: "https://www.civilservice.lgbt/images/store/team/diana-reynolds.jpeg"

@@ -3,7 +3,7 @@
 
 layout: team
 title: "Lyle Pewsey"
-name: "Lyle Pewsey"
+person-name: "Lyle Pewsey"
 role: "local organiser"
 # project: ""
 region: "London"

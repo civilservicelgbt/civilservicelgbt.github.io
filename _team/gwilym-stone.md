@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "Gwilym Stone"
+person-name: "Gwilym Stone"
 role: "local organiser"
 region: "South East"
 email: "southeast@civilservice.lgbt"

@@ -3,7 +3,7 @@
 
 layout: team
 title: "Louise Bayliss-Chapman"
-name: "Louise Bayliss-Chapman"
+person-name: "Louise Bayliss-Chapman"
 role: "project team"
 project: "Bi+ inclusion"
 # region: ""

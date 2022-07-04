@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "Kate Hughes"
+person-name: "Kate Hughes"
 role: "chair"
 archive: true
 image: "https://www.civilservice.lgbt/images/store/team/kate-hughes.jpg"

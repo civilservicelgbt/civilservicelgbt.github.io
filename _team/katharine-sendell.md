@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "Katherine Sendall"
+person-name: "Katherine Sendall"
 role: "local organiser"
 region: "South West"
 email: "southwest@civilservice.lgbt"

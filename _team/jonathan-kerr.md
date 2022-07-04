@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "Jonathan Kerr"
+person-name: "Jonathan Kerr"
 role: "project team"
 project: "mentoring"
 image: "https://www.civilservice.lgbt/images/store/team/jonathan-kerr.jpg"

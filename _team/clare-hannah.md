@@ -3,7 +3,7 @@
 
 layout: team
 title: "Clare Hannah"
-name: "Clare Hannah"
+person-name: "Clare Hannah"
 role: "local organiser"
 # project: ""
 region: "West Midlands"

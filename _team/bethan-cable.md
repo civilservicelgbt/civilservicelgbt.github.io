@@ -2,7 +2,7 @@
 # Adding or removing a '#' in front of a line will toggle that information off and on from being processed. 
 
 layout: team
-name: "Bethan Cable"
+person-name: "Bethan Cable"
 role: "local organiser"
 # project: ""
 region: "Wales"

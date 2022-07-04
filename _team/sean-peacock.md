@@ -3,7 +3,7 @@
 
 layout: team
 title: "Sean Peacock"
-name: "Sean Peacock"
+person-name: "Sean Peacock"
 role: "local organiser"
 # project: ""
 region: "North East"

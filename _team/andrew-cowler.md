@@ -1,7 +1,7 @@
 ---
 layout: team
 archive: true
-name: "Andrew Cowler"
+person-name: "Andrew Cowler"
 role: "local organiser"
 region: "South West"
 email: "southwest@civilservice.lgbt"

@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "Sarah Adams"
+person-name: "Sarah Adams"
 role: "local organiser"
 region: "Yorkshire and Humber"
 email: "yorkshireandhumber@civilservice.lgbt"

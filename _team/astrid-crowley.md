@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "Astrid Crowley"
+person-name: "Astrid Crowley"
 role: "vice chair"
 project: "Bi+ inclusion"
 archive: true

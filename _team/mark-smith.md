@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "Mark Smith"
+person-name: "Mark Smith"
 role: "project team"
 archive: true
 project: "Bi+ inclusion"

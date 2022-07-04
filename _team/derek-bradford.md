@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "Derek Bradford"
+person-name: "Derek Bradford"
 role: "local organiser"
 region: "Scotland"
 email: "scotland@civilservice.lgbt"

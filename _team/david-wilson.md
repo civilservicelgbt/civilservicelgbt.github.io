@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "David Wilson"
+person-name: "David Wilson"
 role: "local organiser"
 region: "East Midlands"
 archive: true

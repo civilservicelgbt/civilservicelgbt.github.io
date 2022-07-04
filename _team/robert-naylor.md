@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "Robert Naylor"
+person-name: "Robert Naylor"
 role: "local organiser"
 region: "East Midlands"
 archive: true

@@ -3,7 +3,7 @@
 
 layout: team
 title: "Michael Jeannette"
-name: "Michael Jeannette"
+person-name: "Michael Jeannette"
 role: "project team"
 project: "Bi+ inclusion"
 # region: ""

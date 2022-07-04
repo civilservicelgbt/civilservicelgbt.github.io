@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "Leah Cunnah"
+person-name: "Leah Cunnah"
 role: "vice chair"
 project: "Allies"
 email: leah.cunnah@civilservice.lgbt

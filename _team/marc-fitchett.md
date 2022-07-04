@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "Marc Fitchett"
+person-name: "Marc Fitchett"
 role: "vice chair"
 project: "Pride"
 email: marc.fitchett@civilservice.lgbt

@@ -3,7 +3,7 @@
 
 layout: team
 title: "Dan Tebbutt"
-name: "Dan Tebbutt"
+person-name: "Dan Tebbutt"
 role: "vice chair"
 project: "Governance"
 # region: ""

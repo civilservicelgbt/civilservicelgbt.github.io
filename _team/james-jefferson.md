@@ -1,6 +1,6 @@
 ---
 layout: team
-name: "James Jefferson"
+person-name: "James Jefferson"
 role: "vice chair"
 project: "conference"
 email: james.jefferson@civilservice.lgbt
