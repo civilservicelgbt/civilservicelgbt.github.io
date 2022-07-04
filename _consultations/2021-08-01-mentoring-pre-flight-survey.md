@@ -6,7 +6,8 @@ end-date: 2021-09-30
 title: "Mentoring programme: pre-programme survey"
 excerpt: "Complete this survey before you start your speed mentoring sessions so that we can measure the impact of the Civil Service LGBT+ mentoring programme."
 author: "Civil Service LGBT+ Network"
-category: ["mentoring"]
+category: 
+- mentoring
 link: "https://forms.gle/WHwgjiDt3bSc5GB49"
 image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
 permalink: "/consultation/mentoring-pre-programme-survey"
