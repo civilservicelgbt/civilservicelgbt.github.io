@@ -48,8 +48,7 @@ collections:
     folder: '_events/'
     create: true
     slug: 'event/{{year}}/{{month}}/{{day}}/{{slug}}'
-    preview_path: 'event/{{year}}/{{month}}/{{day}}/{{slug}}'
-    preview_path_date_field: start-date
+    preview_path: 'event/{{slug}}'
     nested:
       depth: 4 # max depth to show in the collection tree
       summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
@@ -58,16 +57,16 @@ collections:
     - { label: 'Title', name: 'title', widget: 'string' }
     - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
     - { label: 'Publish date', hint: 'This should usually be set to today’s date', name: 'date', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm" }
-    - { label: 'Event start date and time', name: 'start-date', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm", required: true }
-    - { label: 'Event end date and time', name: 'end-date', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm", required: false }
-    - { label: 'Event host', name: 'author', widget: 'string', default: 'Civil Service LGBT+ Network' }
-    - { label: 'Permalink', name: 'permalink', widget: 'string', default: '{{ start-date }}'}
-    - label: 'Registration methods'
-      name: 'registration'
-      hint: 'You must complete at least one of these three fields.'
+    - label: 'Event details'
+      name: 'event'
       widget: 'object'
       required: true
       fields:
+      - { label: 'Event start date and time', name: 'start', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm", required: true }
+      - { label: 'Event end date and time', name: 'end', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm", required: false }
+      - { label: 'Event registration deadline', name: 'deadline', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm", required: false }
+      - { label: 'Event host', name: 'host', widget: 'string', default: 'Civil Service LGBT+ Network', required: false }
+      - { label: 'Event location', name: 'location', widget: 'string', default: 'Civil Service LGBT+ Network' }
       - { label: 'Registration site or form URL', name: 'link', widget: 'string', required: false }
       - { label: 'Registration email address', name: 'email', widget: 'string', required: false }
       - { label: 'Alternative registration message', hint: 'For example, if participants don’t need to register in advance, include a message here about what to do like; ”No need to register. Just turn up.”', name: 'no-register', widget: 'string', required: false }
