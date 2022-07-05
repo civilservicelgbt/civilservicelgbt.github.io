@@ -26,4 +26,4 @@ Anyone else will access to this link will also have access to photos you upload.
 
 ## If you want your photo removed
 
-If you spot yourself in a photo and want it to be removed, please email us with the link to the photo at info@civilservice.lgbt.
+If you spot yourself in a photo and want it to be removed, please email us with the link to the photo at <info@civilservice.lgbt>.
