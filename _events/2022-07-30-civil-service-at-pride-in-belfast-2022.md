@@ -14,7 +14,9 @@ event:
 category:
   - pride-2022
   - northern-ireland
-redirect_from: /event/2022/07/30/civil-service-at-pride-in-belfast-2022
+redirect_from: 
+- /event/2022/07/30/civil-service-at-pride-in-belfast-2022
+- /event/2022/07/30/civil-service-at-pride-in-belfast-2022/
 ---
 
 The Civil Service LGBT+ Network is coordinating the Civil Service's presence at Pride events across the UK in 2022. We are also organising an online programme of events to keep Pride On wherever you live.
