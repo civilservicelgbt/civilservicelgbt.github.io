@@ -7,10 +7,9 @@ event:
   host: Civil Service LGBT+ Network
   link: https://docs.google.com/forms/d/e/1FAIpQLSeYJmQ_hTZoMQsgAFTjhONCPNBYGJi0VUNCJYVt1r-NbWpw8Q/viewform?usp=sf_link
   location: Belfast
-  start-date: 2022-07-30 12:00
-  start: 2022-07-05T16:23:11.954Z
-  end: 2022-07-05T16:23:11.992Z
-  deadline: 2022-07-05T16:23:12.019Z
+  start: 2022-07-30 12:00
+  end: 2022-07-30 12:00
+  deadline: 2022-07-20 12:00
 category:
   - pride-2022
   - northern-ireland
