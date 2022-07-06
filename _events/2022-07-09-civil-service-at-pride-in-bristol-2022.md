@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Civil Service at Bristol Pride 2022
-excerpt: Join the Civil Service as we take part in the Pride in London parade.
+excerpt: Join the Civil Service as we take part in the Pride in Bristol parade.
 date: 2022-02-28
 event:
   host: Civil Service LGBT+ Network
