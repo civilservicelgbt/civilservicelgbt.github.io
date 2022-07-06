@@ -54,4 +54,4 @@ Optional [wristbands are available for purchase on the Bristol Pride website](ht
 
 If you have any further questions then please contact your local representative  [southwest@civilservice.lgbt](mailto:southwest@civilservice.lgbt).
 
-\*Happy Pride\**
+**Happy Pride**
