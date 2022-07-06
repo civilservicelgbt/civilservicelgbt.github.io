@@ -7,7 +7,7 @@ event:
   host: Civil Service LGBT+ Network
   link: https://docs.google.com/forms/d/e/1FAIpQLSeYJmQ_hTZoMQsgAFTjhONCPNBYGJi0VUNCJYVt1r-NbWpw8Q/viewform?usp=sf_link
   location: Bristol
-  start: 2022-07-09 10:00
+  start: 2022-07-09T10:00:00.000Z
   end: 2022-07-09T13:00:28.411Z
   deadline: 2022-07-06T12:00:28.460Z
 category:
