@@ -6,9 +6,9 @@ excerpt: An informal, safe and inclusive space to discuss LGBT+ women's
 date: 2022-07-07T16:15:35.759Z
 event:
   location: Microsoft Teams (calendar invites sent to those who have registered)
-  start: 2022-07-07T16:15:35.773Z
-  end: 2022-08-04T15:00:35.790Z
-  deadline: 2022-08-04T16:00:35.814Z
+  start: 2022-08-04T15:00:00.000Z
+  end: 2022-08-04T16:00:00.000Z
+  deadline: ""
   email: info@civilservice.lgbt
 category:
   - women
