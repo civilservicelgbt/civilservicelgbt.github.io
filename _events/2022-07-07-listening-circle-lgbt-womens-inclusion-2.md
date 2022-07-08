@@ -15,4 +15,7 @@ category:
 ---
 These listening circles are a chance to discuss what more the Civil Service LGBT+ Network can do to support the inclusion of LGBTQ+ women in the Civil Service. 
 
-These events are open to civil servants only who define as women or femme, and who are LGBTQ+.
+These events are open to civil servants only. You can attend these events if you are:
+
+- a cisgender or transgender woman, non-binary, femme or questioning, *and*
+- LGBTQ+
