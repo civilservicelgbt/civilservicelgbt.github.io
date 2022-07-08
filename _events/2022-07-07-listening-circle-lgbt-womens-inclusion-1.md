@@ -8,7 +8,7 @@ event:
   location: Microsoft Teams (calendar invites sent to those who have registered)
   start: 2022-08-04T15:00:00.000Z
   end: 2022-08-04T16:00:00.000Z
-  deadline: ""
+  deadline: 2022-08-04T00:00:00.000Z
   email: info@civilservice.lgbt
 category:
   - women
