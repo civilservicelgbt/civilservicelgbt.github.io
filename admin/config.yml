@@ -64,7 +64,7 @@ collections:
       fields:
       - { label: 'Event start date and time', name: 'start', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm", picker_utc: true, required: true }
       - { label: 'Event end date and time', name: 'end', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm", picker_utc: true, required: false }
-      - { label: 'Event registration deadline', name: 'deadline', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm", picker_utc: true, required: false }
+      - { label: 'Event registration deadline', name: 'deadline', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm", picker_utc: true }
       - { label: 'Event host', name: 'host', widget: 'string', required: false }
       - { label: 'Event location', name: 'location', widget: 'string', default: 'Civil Service LGBT+ Network' }
       - { label: 'Registration site or form URL', name: 'link', widget: 'string', required: false }
