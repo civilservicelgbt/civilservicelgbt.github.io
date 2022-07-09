@@ -4,6 +4,7 @@
 layout: notice
 title: "Data notice: updates to our privacy and data policy"
 excerpt: "We have updated our policy to reflect our latest programme delivery and ways of working."
+author: "Civil Service LGBT+ Network"
 permalink: /notice/2022/06/30/data-notice-updates-to-our-privacy-and-data-policy
 # redirect_from: 
 # - 

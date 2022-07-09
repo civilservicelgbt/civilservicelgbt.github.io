@@ -30,7 +30,7 @@ collections:
     label: 'News article'
     folder: '_news/'
     create: true
-    slug: "news/{{year}}/{{month}}/{{day}}/{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     preview_path: 'news/{{year}}/{{month}}/{{day}}/{{slug}}'
     preview_path_date_field: date
     fields:
@@ -79,7 +79,7 @@ collections:
     label: 'Publication'
     folder: '_publications/'
     create: true
-    slug: "publication/{{year}}/{{month}}/{{day}}/{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     preview_path: 'publication/{{year}}/{{month}}/{{day}}/{{slug}}'
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'publication' }
@@ -98,7 +98,7 @@ collections:
     label: 'Consultation'
     folder: '_consultations/'
     create: true
-    slug: "consultation/{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     preview_path: 'consultation/{{slug}}'
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'consultation' }
@@ -117,7 +117,7 @@ collections:
     label: 'Volunteer guidance'
     folder: '_manuals/'
     create: true
-    slug: "manual/{{slug}}"
+    slug: "{{slug}}"
     preview_path: 'manual/{{slug}}'
     fields:
       - { label: 'Layout', name: 'layout', widget: 'select', options: ['manual', 'publication'], default: 'manual' }
@@ -133,7 +133,7 @@ collections:
     label: 'Rules'
     folder: '_rules/'
     create: true
-    slug: "our-rules/{{slug}}"
+    slug: "{{slug}}"
     preview_path: 'our-rules/{{slug}}'
     fields:
       - { label: 'Layout', name: 'layout', widget: 'select', options: ['publication', 'page'], default: 'publication' }
@@ -151,13 +151,14 @@ collections:
     label: 'Data notice'
     folder: '_notices/'
     create: true
-    slug: "notice/{{year}}/{{month}}/{{day}}/{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     preview_path: 'notice/{{year}}/{{month}}/{{day}}/{{slug}}'
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'notice' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
       - { label: 'Publish date', name: 'date', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm" }
+      - { label: 'Author', name: 'author', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
       - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
@@ -166,7 +167,7 @@ collections:
     label: 'Topic page'
     folder: '_topics/'
     create: true
-    slug: "topic/{{slug}}"
+    slug: "{{slug}}"
     preview_path: 'topic/{{slug}}'
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'topic' }
