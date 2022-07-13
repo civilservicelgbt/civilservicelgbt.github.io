@@ -13,6 +13,8 @@ event:
   host: Civil Service LGBT+ Network - BiSpace Team
   link: ""
   email: info@civilservice.lgbt
+category:
+  - bispace
 ---
 Join the BiSpace team for a discussion of Sophie Hagen and Dr Julia Shaw's podcast "Bi People". We will be discussing episode 4, which tells the story of the experience one of the US's first openly Bi politicians, and why it is difficult for some of us to be visibly out at work.  
 
