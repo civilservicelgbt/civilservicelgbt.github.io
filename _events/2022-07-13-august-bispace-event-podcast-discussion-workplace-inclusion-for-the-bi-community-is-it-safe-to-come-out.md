@@ -11,7 +11,6 @@ event:
   end: 2022-08-10T19:00:28.360Z
   deadline: 2022-08-08T18:00:28.374Z
   host: Civil Service LGBT+ Network - BiSpace Team
-  link: ""
   email: info@civilservice.lgbt
 category:
   - bispace
