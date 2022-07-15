@@ -11,7 +11,6 @@ end-date: 2022-11-15T23:45:34.740Z
 ---
 This Call for Evidence is seeking testimony and views from individuals and organisations on the impact of the pre-2000 ban on homosexuality in the Armed Forces.
 
----
+- - -
 
-The *Civil Service LGBT+ Network* is not involved in the policy development for the LGBT Veterans Independent Review. We are circulating this call for evidence because it may have relevance to members of the network in a personal capacity.
-
+The **Civil Service LGBT+ Network** is not involved in the policy development for the LGBT Veterans Independent Review. We are circulating this call for evidence because it may have relevance to members of the network in a personal capacity.
