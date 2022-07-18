@@ -40,7 +40,7 @@ From the meeting point, the march will set off to join the parade at 10:30am and
 
 If you have any queries on the day then please contact [EastMidlands@civilservice.lgbt](mailto:EastMidlands@civilservice.lgbt). 
 
-To note on the day Thema will be holding the Civil Service Pride Banner, so will be easy to locate. 
+To note on the day, Thema will be holding the Civil Service Pride banner, so will be easy to locate. 
 
 #### After the parade 
 
