@@ -1,14 +1,15 @@
 ---
 layout: consultation
-date: 2021-08-01
-end-date: 2021-09-30 23:45
 title: "Mentoring programme: pre-programme survey"
-excerpt: "Complete this survey before you start your speed mentoring sessions so that we can measure the impact of the Civil Service LGBT+ mentoring programme."
-author: "Civil Service LGBT+ Network"
-category: 
-- mentoring
-link: "https://forms.gle/WHwgjiDt3bSc5GB49"
-permalink: "/consultation/mentoring-pre-programme-survey"
+excerpt: Complete this survey before you start your speed mentoring sessions so
+  that we can measure the impact of the Civil Service LGBT+ mentoring programme.
+date: 2022-07-17T23:00:00.000Z
+author: Civil Service LGBT+ Network
+category:
+  - mentoring
+link: https://forms.gle/UCu4cbgrLcchcfU19
+end-date: 2021-09-03T22:45:00.000Z
+permalink: /consultation/mentoring-pre-programme-survey
 ---
 
 {:.warning-text}
@@ -22,7 +23,7 @@ This survey will help us to measure the impact of the Civil Service LGBT+ mentor
 
 You should only complete this survey if you have registered as a mentor or mentee on our [mentoring programme](/mentoring).
 
-Mentors and mentees should complete this survey **_before_** they start their speed mentoring sessions.
+Mentors and mentees should complete this survey **_before_** they start any long-term mentoring.
 
 ## Before you complete the survey
 
