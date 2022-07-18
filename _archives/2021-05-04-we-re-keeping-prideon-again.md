@@ -1,6 +1,6 @@
 ---
 layout: news
-date: 2021-05-04 # YYYY-MM-DD 
+date: 2021-05-04T00:00:00.00Z # YYYY-MM-DD 
 title: "We’re keeping #PrideOn, again"
 excerpt: "The anniversary of the Stonewall riots, and the start of pride season, is right around the corner. That means it's almost time for our annual season of events to kick off inside the Civil Service."
 author: "Civil Service LGBT+ Network"

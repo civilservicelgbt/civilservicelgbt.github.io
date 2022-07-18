@@ -1,7 +1,7 @@
 ---
 layout: news
 author: Kelly Cowley
-date: 2020-07-27
+date: 2020-07-27T00:00:00.00Z
 preview: false
 published: true
 title: "Kelly Cowley: For me being a LGBT+ Ally means to stand alongside my colleagues in their fight for equality and inclusion"

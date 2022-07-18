@@ -2,7 +2,7 @@
 layout: event
 title: "Social at Didsbury Pride"
 excerpt: "We are organising socials at some of the free Pride events as a way to get to get together to support each other and support the local community."
-date: 2022-05-03
+date: 2022-05-03T00:00:00.00Z
 category: 
 - north-west
 - pride-2022

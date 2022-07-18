@@ -4,7 +4,7 @@
 layout: news
 title: "Introducing Groups"
 excerpt: "A new, more informal way of connecting with the work of the Civil Service LGBT+ Network and our teams"
-date: 2022-05-03
+date: 2022-05-03T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 # category: 
 # - 

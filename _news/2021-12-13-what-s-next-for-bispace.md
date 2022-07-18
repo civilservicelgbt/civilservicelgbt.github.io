@@ -4,7 +4,7 @@
 layout: news
 title: "What's next for BiSpace"
 excerpt: "Our new Vice Chair for Bi+ Inclusion, Sunny Thompson, explains what's next for our programme for and by bi+ civil servants."
-date: 2021-12-13
+date: 2021-12-13T00:00:00.00Z
 author: "Sunny Thompson"
 category:
 - bispace

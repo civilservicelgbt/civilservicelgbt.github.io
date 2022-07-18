@@ -4,7 +4,7 @@
 layout: news
 title: "New LGBT+ network socials in Birmingham"
 excerpt: "Birmingham joins our growing social and networking calendar."
-date: 2022-01-17
+date: 2022-01-17T00:00:00.00Z
 author: "Clare Hannah"
 category: 
 - west-midlands

@@ -1,6 +1,6 @@
 ---
 layout: news
-date: 2021-04-26 # YYYY-MM-DD 
+date: 2021-04-26T00:00:00.00Z # YYYY-MM-DD 
 title: "“It's important that I'm visible as a lesbian in a leadership role”"
 excerpt: "Pippa Gibson from the Department for Education blogs for us about her experience as a lesbian, as we kick off Lesbian Visibility Week."
 author: "Pippa Gibson"

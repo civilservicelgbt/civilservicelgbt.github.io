@@ -1,6 +1,6 @@
 ---
 layout: news
-date: 2021-10-01 # YYYY-MM-DD 
+date: 2021-10-01T00:00:00.00Z # YYYY-MM-DD 
 title: "Network Chair Election Results"
 excerpt: "John Peart has been elected as the new Chair of the Civil Service LGBT+ Network."
 author: "Kate Hughes"

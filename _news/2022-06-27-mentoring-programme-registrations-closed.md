@@ -4,7 +4,7 @@
 layout: news
 title: "Mentoring programme: registrations closed"
 excerpt: "Registrations for the 2022 mentoring programme have now closed. Here's what happens next."
-date: 2022-06-27
+date: 2022-06-27T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - mentoring

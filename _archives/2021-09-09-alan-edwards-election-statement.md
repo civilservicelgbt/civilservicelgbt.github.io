@@ -1,6 +1,6 @@
 ---
 layout: news
-date: 2021-09-09 # YYYY-MM-DD 
+date: 2021-09-09T00:00:00.00Z # YYYY-MM-DD 
 title: "Alan Edwards (they/he) Election Statement"
 excerpt: "Alan's pitch for election as Chair of the Civil Service LGBT+ Network"
 author: "Civil Service LGBT+ Network"

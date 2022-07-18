@@ -1,6 +1,6 @@
 ---
 title: 'Everyone works better when they can be themselves'
-date: 2016-06-22T07:00:01+00:00
+date: 2016-06-22T00:00:00.00ZT07:00:01+00:00
 author: Ben Reardon
 excerpt: "We've asked civil servants to blog about why it's important to #beyourself this Pride. Ben Reardon works in the Payments team for Natural Resources Wales. He writes about why its important for civil servants to be themselves at work."
 

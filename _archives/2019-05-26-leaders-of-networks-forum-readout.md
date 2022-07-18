@@ -5,7 +5,7 @@ preview: false
 published: true
 title: "What happened at the second Leaders of Networks Forum"
 redirect_from: 2019/05/26/leaders-of-networks-forum-readout
-date: 2019-05-26
+date: 2019-05-26T00:00:00.00Z
 excerpt: We recently held our second Leaders of Networks Forum. This is what happened.
 ---
 

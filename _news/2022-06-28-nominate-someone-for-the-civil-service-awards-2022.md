@@ -4,7 +4,7 @@
 layout: news
 title: "Nominate someone for the Civil Service Awards 2022"
 excerpt: "Last year, the Civil Service LGBT+ Network scooped a Civil Service Award. This year, it could be you!"
-date: 2022-06-28
+date: 2022-06-28T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 # category: 
 # - 

@@ -4,7 +4,7 @@
 layout: news
 title: "Join us at our next Leaders of Network forum"
 excerpt: "The next Leaders of Networks forum is on 25 April 2022."
-date: 2022-03-14
+date: 2022-03-14T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - leaders-of-networks

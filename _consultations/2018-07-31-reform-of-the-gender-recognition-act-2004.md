@@ -5,7 +5,7 @@ date: '2018-07-31'
 preview: false
 published: false
 title: Reform of the Gender Recognition Act 2004
-end-date: 2018-10-19T23:00:00.000Z
+end-date: 2018-10-19T00:00:00.00ZT23:00:00.000Z
 link: >-
   https://www.gov.uk/government/consultations/reform-of-the-gender-recognition-act-2004
 slug: /reform-of-the-gender-recognition-act

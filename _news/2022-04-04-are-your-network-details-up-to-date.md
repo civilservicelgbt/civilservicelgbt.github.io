@@ -4,7 +4,7 @@
 layout: news
 title: "Are your network details up to date?"
 excerpt: "An ask for chairs and vice-chairs of departmental networks to check their contact details"
-date: 2022-04-04
+date: 2022-04-04T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - leaders-of-networks

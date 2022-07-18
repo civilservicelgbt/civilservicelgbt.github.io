@@ -4,7 +4,7 @@
 layout: news
 title: "The benefits of mentoring"
 excerpt: "Interested in being a mentor for this year's Mentoring Programme? Hear from previous mentors about the skills they've developed through the Mentoring Programme."
-date: 2022-05-31
+date: 2022-05-31T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - mentoring

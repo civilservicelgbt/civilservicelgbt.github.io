@@ -1,6 +1,6 @@
 ---
 layout: topic
-date: 2021-04-26 # YYYY-MM-DD 
+date: 2021-04-26T00:00:00.00Z # YYYY-MM-DD 
 title: "Lesbian Visibility Week"
 excerpt: "Lesbian Visibility Week takes place at the end of April each year."
 author: "Civil Service LGBT+ Network"

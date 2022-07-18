@@ -4,12 +4,12 @@
 layout: consultation
 title: "CPS consultation on Rape & Serious Sexual Offence (RASSO) Guide"
 excerpt: "The Crown Prosecution Service is consulting on new guidance for victims, supporters and the public about how Rape & Serious Sexual Offence cases are charged and prosecuted."
-date: 2021-12-06
+date: 2021-12-06T00:00:00.00Z
 author: "Crown Prosecution Service"
 # category: 
 # - 
 link: "https://www.cps.gov.uk/rasso-feedback"
-end-date: 2021-12-23 23:45
+end-date: 2021-12-23T00:00:00.00ZT23:45:00.00Z
 # image: ""
 # video: ""
 permalink: /consultation/cps-consultation-on-rape-serious-sexual-offence-rasso-guide

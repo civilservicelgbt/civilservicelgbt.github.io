@@ -4,7 +4,7 @@
 layout: news
 title: "Signed up for mentoring? Come along to an induction session! "
 excerpt: "If you’ve signed up for our mentoring programme join us at an induction session and learn more about being a mentee or mentor."
-date: 2022-05-25
+date: 2022-05-25T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - mentoring

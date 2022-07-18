@@ -4,7 +4,7 @@
 layout: news
 title: "Bigger, Bolder, Better – Relaunching the LGBT+ Mentoring Programme"
 excerpt: "Sign up to become a mentor or mentee, and join the hundreds of LGBT+ civil servants who have benefited from our award-winning programme."
-date: 2022-05-17
+date: 2022-05-17T00:00:00.00Z
 author: "Dee"
 category: 
 - mentoring

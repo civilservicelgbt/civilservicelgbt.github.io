@@ -1,7 +1,7 @@
 ---
 layout: news
 author: Nick Pett
-date: 2020-07-16
+date: 2020-07-16T00:00:00.00Z
 preview: false
 published: true
 title: "Nick Pett: My allyship is a promise to LGBT+ people. It is an offer of love and friendship"

@@ -3,7 +3,7 @@
 
 layout: topic
 title: "South East"
-date: 2022-01-01
+date: 2022-01-01T00:00:00.00Z
 excerpt: "All our latest information and events for the South East region."
 topic-type: region
 category: south-east

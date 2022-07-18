@@ -1,7 +1,7 @@
 ---
 layout: news
 author: Paul Kett
-date: 2020-07-09
+date: 2020-07-09T00:00:00.00Z
 preview: false
 published: true
 title: "Paul Kett: It is more important than ever that we are supporting one another "

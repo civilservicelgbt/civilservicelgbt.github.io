@@ -1,7 +1,7 @@
 ---
 layout: news
 author: Andrew Cowler and Katharine Sendell
-date: 2019-06-13
+date: 2019-06-13T00:00:00.00Z
 preview: false
 published: true
 title: "Some changes to our social events in the South West"

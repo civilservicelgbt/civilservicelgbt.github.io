@@ -3,7 +3,7 @@ layout: event
 title: Listening circle – LGBT+ womens' inclusion
 excerpt: An informal, safe and inclusive space to discuss LGBT+ women's
   inclusion in the Civil Service LGBT+ Network.
-date: 2022-07-07T16:16:05.606Z
+date: 2022-07-07T00:00:00.00ZT16:16:05.606Z
 event:
   location: Microsoft Teams (calendar invites sent to those who have registered)
   start: 2022-08-18T13:00:00.000Z

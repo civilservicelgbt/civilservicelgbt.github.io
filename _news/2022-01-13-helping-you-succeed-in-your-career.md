@@ -4,7 +4,7 @@
 layout: news
 title: "Helping you succeed in your career"
 excerpt: "Dee, our new Vice-Chair for Career Development, writes about our plans to support LGBT+ people's career development in the Civil Service"
-date: 2022-01-13
+date: 2022-01-13T00:00:00.00Z
 author: "Dee"
 # category: 
 # - 

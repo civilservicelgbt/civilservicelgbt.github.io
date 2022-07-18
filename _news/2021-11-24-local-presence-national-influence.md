@@ -4,7 +4,7 @@
 layout: news
 title: "Local presence. National influence."
 excerpt: "Read about our work to deliver activities in your local area, and get involved."
-date: 2021-11-24
+date: 2021-11-24T00:00:00.00Z
 author: "Ed"
 # category: 
 # - 

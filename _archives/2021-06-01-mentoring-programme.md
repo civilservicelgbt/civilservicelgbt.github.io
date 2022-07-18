@@ -1,6 +1,6 @@
 ---
 layout: news
-date: 2021-06-07 # YYYY-MM-DD
+date: 2021-06-07T00:00:00.00Z # YYYY-MM-DD
 title: "Introducing the new Civil Service LGBT+ mentoring programme"
 excerpt: "Become a mentor and give something back, or become a mentee to give your career a boost."
 author: "Civil Service LGBT+ Network"

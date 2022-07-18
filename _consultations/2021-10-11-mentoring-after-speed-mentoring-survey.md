@@ -2,12 +2,12 @@
 layout: consultation
 title: "Mentoring programme: after speed mentoring survey"
 excerpt: "Complete this survey after you have completed your speed mentoring sessions, so that we can measure the impact of the Civil Service LGBT+ mentoring programme."
-date: 2021-10-11
+date: 2021-10-11T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category:
 - mentoring
 link: "https://docs.google.com/forms/d/e/1FAIpQLSfSLqntFY_yI76z0r9PRXEtJ_H5ADIoJYMhD5Sl4cri2aTRGA/viewform?usp=sf_link"
-end-date: 2021-11-30 23:45
+end-date: 2021-11-30T00:00:00.00ZT23:45:00.00Z
 permalink: "/consultation/mentoring-after-speed-mentoring-survey"
 ---
 

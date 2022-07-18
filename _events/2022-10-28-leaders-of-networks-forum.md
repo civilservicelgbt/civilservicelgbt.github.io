@@ -2,7 +2,7 @@
 layout: event
 title: "Leaders of Networks forum"
 excerpt: "Our Leaders of Networks forum is a quarterly opportunity for those leading departmental and agency networks to discuss issues across the Civil Service affecting LGBT+ staff."
-date: 2021-11-05
+date: 2021-11-05T00:00:00.00Z
 category:
 - leaders-of-networks
 event:
@@ -10,9 +10,9 @@ event:
   link: "https://docs.google.com/forms/d/e/1FAIpQLSdCQQlGbeHsnDps-GQcVTz8jBpqDXuVhYevOtrt3gx9vmdU-A/viewform"
   email: "info@civilservice.lgbt"
   location: "Google Meet"
-  start: 2022-10-28 09:30
-  end: 2022-10-28 10:30
-  deadline: 2022-10-25 10:00
+  start: 2022-10-28T09:30:00.00Z
+  end: 2022-10-28T10:30:00.00Z
+  deadline: 2022-10-21T16:00:00.00Z
 ---
 
 Our Leaders of Networks forum is a regular opportunity for those leading departmental and agency networks to discuss issues across the Civil Service affecting LGBT+ staff.

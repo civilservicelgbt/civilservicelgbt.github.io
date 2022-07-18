@@ -1,7 +1,7 @@
 ---
 layout: news
 author: Leah Cunnah
-date: 2020-07-15
+date: 2020-07-15T00:00:00.00Z
 preview: false
 published: true
 title: "Leah Cunnah: It is no longer enough to just say you are an ally. We need to challenge discriminative language and behaviour to speak up for LGBT+ people"

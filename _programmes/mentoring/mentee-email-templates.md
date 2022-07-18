@@ -1,6 +1,6 @@
 ---
 layout: publication
-date: 2021-06-07 # YYYY-MM-DD
+date: 2021-06-07T00:00:00.00Z # YYYY-MM-DD
 title: "Email templates for mentees"
 excerpt: "These are email templates for use by mentees who feel less confident approaching their mentors as part of the Civil Service LGBT+ mentoring programme."
 author: "Civil Service LGBT+ Network"

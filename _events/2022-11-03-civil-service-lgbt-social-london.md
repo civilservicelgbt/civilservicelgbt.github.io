@@ -2,14 +2,14 @@
 layout: event
 title: "Civil Service LGBT+ social – London"
 excerpt: "Join our regular social and networking event for LGBT+ civil servants based in and around London."
-date: 2022-01-28
+date: 2022-01-28T00:00:00.00Z
 category: 
 - london
 event:
   host: "Civil Service LGBT+ Network"
   link: "https://docs.google.com/forms/d/e/1FAIpQLSfQzGqq0eXgQOsMkvO-ZsrPRBO7rlITr2VnTR0Y1IaCN_ZRuA/viewform?usp=sf_link"
   location: "London. Venue to be confirmed."
-  start: 2022-11-03 18:00
+  start: 2022-11-03T18:00:00.00Z
 ---
 
 The Civil Service LGBT+ Network organises informal networking and social events so that LGBT+ civil servants can meet each other. Our [local organisers](/team) organise these events in various cities across the country.

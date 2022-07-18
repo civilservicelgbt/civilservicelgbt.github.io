@@ -6,7 +6,7 @@ excerpt: >-
   LGBT+ Network.
 date: '2018-03-01'
 link: 'https://civilservicelgbt.typeform.com/to/mMXCuG'
-end-date: 2018-04-20T00:00:00.000Z
+end-date: 2018-04-20T00:00:00.00ZT00:00:00.000Z
 layout: consultation
 slug: /our-plan-for-improving-LGBT-civil-servant-experiences
 published: false

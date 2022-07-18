@@ -1,6 +1,6 @@
 ---
 layout: news
-date: 2021-07-05 # YYYY-MM-DD
+date: 2021-07-05T00:00:00.00Z # YYYY-MM-DD
 title: "Anyone can become a mentor"
 excerpt: "Helena Ross from DCMS talks about why signing up as a mentor is a great idea - and why you shouldn't worry about having the 'right' experience!"
 author: "Helena Ross"

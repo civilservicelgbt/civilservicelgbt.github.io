@@ -4,7 +4,7 @@
 layout: news
 title: "Save the date: Civil Service LGBT+ conference"
 excerpt: "The career development and workplace inclusion conference for LGBT+ civil servants"
-date: 2022-06-20
+date: 2022-06-20T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - conference-2022

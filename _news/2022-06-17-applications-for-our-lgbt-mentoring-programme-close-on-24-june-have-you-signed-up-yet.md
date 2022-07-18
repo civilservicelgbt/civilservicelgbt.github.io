@@ -4,7 +4,7 @@
 layout: news
 title: "Mentoring programme deadline extended: sign up before 24 June"
 excerpt: "Applications to be a mentor, mentee, or both on our award-winning LGBT+ mentoring programme have been extended for one more week. Register before Friday 24 June."
-date: 2022-06-17
+date: 2022-06-17T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - mentoring

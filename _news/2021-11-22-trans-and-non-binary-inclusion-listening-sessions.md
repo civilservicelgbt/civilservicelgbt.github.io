@@ -4,7 +4,7 @@
 layout: news
 title: "Trans and non-binary inclusion listening sessions"
 excerpt: "We're holding listening sessions to help us make our Network more inclusive for trans and non-binary civil servants."
-date: 2021-11-22
+date: 2021-11-22T00:00:00.00Z
 author: "Alan Edwards"
 # category: 
 # - 

@@ -4,7 +4,7 @@ title: August BiSpace event – Podcast discussion - Workplace Inclusion for the
   Bi+ community – is it “safe” to come out?
 excerpt: This will be a facilitated group discussion (like a book or film club),
   based around the fourth episode of the BBC Radio 5 podcast series “Bi People”.
-date: 2022-07-13T10:15:28.311Z
+date: 2022-07-13T00:00:00.00ZT10:15:28.311Z
 event:
   location: Teams link to follow
   start: 2022-08-10T18:00:00.000Z

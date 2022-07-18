@@ -4,7 +4,7 @@
 layout: news
 title: "Last chance to register for Pride in Blackpool"
 excerpt: "Join the Civil Service LGBT+ Network at Pride in Blackpool on 11 June 2022"
-date: 2022-05-23
+date: 2022-05-23T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - pride-2022

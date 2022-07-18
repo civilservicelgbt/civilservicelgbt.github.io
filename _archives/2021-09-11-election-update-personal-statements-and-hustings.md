@@ -1,6 +1,6 @@
 ---
 layout: news
-date: 2021-09-11 # YYYY-MM-DD 
+date: 2021-09-11T00:00:00.00Z # YYYY-MM-DD 
 title: "Election Update - Personal Statements and Hustings"
 excerpt: "Following a nomination period which was open from 16 August 2021 to 6 September 2021 two candidates have put themselves forward for election to the role of Chair of the Civil Service LGBT+ Network. This means that we now progress to an election."
 author: "Civil Service LGBT+ Network"

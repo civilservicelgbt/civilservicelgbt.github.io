@@ -3,7 +3,7 @@
 
 layout: topic
 title: "LGBT History Month"
-date: 2022-02-01
+date: 2022-02-01T00:00:00.00Z
 excerpt: "LGBT History Month is an annual event celebrating the lives of LGBT+ people."
 category: lgbt-history-month
 # image: ""

@@ -2,7 +2,7 @@
 layout: event
 title: Civil Service at Pride in Liverpool 2022
 excerpt: Join the Civil Service as we take part in the Pride in Liverpool parade.
-date: 2022-02-28
+date: 2022-02-28T00:00:00.00Z
 event:
   host: Civil Service LGBT+ Network
   link: https://docs.google.com/forms/d/e/1FAIpQLSeYJmQ_hTZoMQsgAFTjhONCPNBYGJi0VUNCJYVt1r-NbWpw8Q/viewform?usp=sf_link

@@ -1,7 +1,7 @@
 ---
 layout: news
 author: Naomi Diver
-date: 2020-07-13
+date: 2020-07-13T00:00:00.00Z
 preview: false
 published: true
 title: "Naomi Diver: Whilst being an ally all my life, it was only once I got involved in the network did I start to see that I could be doing a whole lot more"

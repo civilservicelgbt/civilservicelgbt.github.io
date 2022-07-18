@@ -1,7 +1,7 @@
 ---
 layout: news
 author: Civil Service LGBT+ Network
-date: 2020-07-27
+date: 2020-07-27T00:00:00.00Z
 title: "LGB&TI inclusion: micro behaviours"
 excerpt: "Watch LGB&TI civil servants talk about the micro behaviours they experience which make them feel excluded."
 category: ["video"]

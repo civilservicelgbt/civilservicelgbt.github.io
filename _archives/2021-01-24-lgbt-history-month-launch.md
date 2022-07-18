@@ -5,7 +5,7 @@ preview: false
 published: true
 title: "Days of Queer: Celebrating Our LGBT+ History"
 permalink: 2021/01/24/days-of-queer-celebrating-our-lgbtplus-history
-date: 2021-01-24
+date: 2021-01-24T00:00:00.00Z
 excerpt: Find out what we have planned for LGBT+ History Month!
 ---
 

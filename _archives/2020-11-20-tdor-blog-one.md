@@ -5,7 +5,7 @@ preview: false
 published: true
 title: "TDoR 2020: I don’t want to dwell on individual losses this year: I want to write about myself"
 permalink: 2020/11/20/tdor-blog-1
-date: 2020-11-20
+date: 2020-11-20T00:00:00.00Z
 excerpt: A blog post from a:gender, to mark TDoR.
 ---
 

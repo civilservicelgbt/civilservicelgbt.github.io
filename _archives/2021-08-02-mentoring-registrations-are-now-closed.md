@@ -1,6 +1,6 @@
 ---
 layout: news
-date: 2021-08-02 # YYYY-MM-DD 
+date: 2021-08-02T00:00:00.00Z # YYYY-MM-DD 
 title: "Mentoring registrations are now closed"
 excerpt: "The Civil Service LGBT+ mentoring programme is now closed for new registrations. This is what happens next."
 author: "Civil Service LGBT+ Network"

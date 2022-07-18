@@ -2,7 +2,7 @@
 layout: event
 title: "Social at Chester Pride"
 excerpt: "We are organising socials at some of the free Pride events as a way to get to get together to support each other and support the local community."
-date: 2022-06-30
+date: 2022-06-30T00:00:00.00Z
 category: 
 - north-west
 - pride-2022
@@ -11,7 +11,7 @@ event:
   link: "https://docs.google.com/forms/d/e/1FAIpQLScU34wOOsNobUyrmIrDA3mST3I-HOLTm8zTf-gKqbUimSmReA/viewform?usp=sf_link"
   email: "northwest@civilservice.lgbt"
   location: "Chester Pride, Castle Square Car Park"
-  start: 2022-08-13 13:00
+  start: 2022-08-13T13:00:00.00Z
 ---
 
 The Civil Service LGBT+ Network organises informal networking and social events so that LGBT+ civil servants can meet each other. Our local organisers organise these events in various cities across the country.

@@ -1,6 +1,6 @@
 ---
 title: "Allies Week"
-date: 2018-10-29 # YYYY-MM-DD 
+date: 2018-10-29T00:00:00.00Z # YYYY-MM-DD 
 excerpt: "A week recognising the important role of allies in making our workplaces more diverse and inclusive."
 layout: topic
 category: allies-week

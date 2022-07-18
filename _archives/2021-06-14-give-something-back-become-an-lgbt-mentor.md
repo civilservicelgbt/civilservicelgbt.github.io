@@ -1,6 +1,6 @@
 ---
 layout: news
-date: 2021-06-14 # YYYY-MM-DD
+date: 2021-06-14T00:00:00.00Z # YYYY-MM-DD
 title: "Give something back: become an LGBT+ mentor"
 excerpt: "Read about why we’ve created our new mentoring programme from one of our vice-chairs, John Peart"
 author: "John Peart"

@@ -4,12 +4,12 @@
 layout: consultation
 title: "Pride 2022: expression of interest"
 excerpt: "Tell us where you'd like the Civil Service to participate in in-person Pride events for 2022"
-date: 2022-02-01
+date: 2022-02-01T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - pride-2022
 link: "https://docs.google.com/forms/d/e/1FAIpQLSfZLsybANGKVcschWN2TbD0yIto9e695eHV6zQGK6BM1eppCw/viewform?usp=sf_link"
-end-date: 2022-03-16 23:45
+end-date: 2022-03-16T00:00:00.00ZT23:45:00.00Z
 # image: ""
 # video: ""
 permalink: /consultation/pride-2022-expression-of-interest

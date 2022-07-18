@@ -4,7 +4,7 @@ title: Supporting womens' inclusion in the Civil Service LGBT+ Network
 excerpt: Anna-Josie Linighan, our new Vice-Chair for Womens' Inclusion, writes
   about starting work to improve inclusion for LGBT women in the Civil Service
   LGBT+ Network.
-date: 2022-07-07T16:05:48.890Z
+date: 2022-07-07T00:00:00.00ZT16:05:48.890Z
 author: Anna-Josie Linighan
 category:
   - women

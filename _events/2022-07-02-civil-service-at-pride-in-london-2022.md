@@ -2,7 +2,7 @@
 layout: event
 title: "Civil Service at Pride in London 2022"
 excerpt: "Join the Civil Service as we take part in the Pride in London parade."
-date: 2022-02-28
+date: 2022-02-28T00:00:00.00Z
 category: 
 - pride-2022
 - london
@@ -10,7 +10,7 @@ event:
   link: "https://docs.google.com/forms/d/e/1FAIpQLSeYJmQ_hTZoMQsgAFTjhONCPNBYGJi0VUNCJYVt1r-NbWpw8Q/viewform?usp=sf_link"
   host: "Civil Service LGBT+ Network"
   location: "London"
-  start: 2022-07-02 13:00
+  start: 2022-07-02T13:00:00.00Z
 ---
 
 The Civil Service LGBT+ Network is coordinating the Civil Service's presence at Pride events across the UK in 2022. We are also organising an online programme of events to keep Pride On wherever you live.

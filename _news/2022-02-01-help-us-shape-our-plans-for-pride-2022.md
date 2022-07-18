@@ -4,7 +4,7 @@
 layout: news
 title: "Help us shape our plans for Pride 2022"
 excerpt: "We're want to create a hybrid Pride programme for 2022. Help us decide where we go and what we do."
-date: 2022-02-01
+date: 2022-02-01T00:00:00.00Z
 author: "Marc Fitchett"
 category: 
 - pride-2022

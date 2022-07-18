@@ -12,9 +12,9 @@ event:
   link: "https://docs.google.com/forms/d/e/1FAIpQLSdCQQlGbeHsnDps-GQcVTz8jBpqDXuVhYevOtrt3gx9vmdU-A/viewform"
   email: "info@civilservice.lgbt"
   location: "Google Meet"
-  start: 2023-01-23 16:00
-  end: 2023-01-23 17:00
-  deadline: 2023-01-19 10:00
+  start: 2023-01-23T16:00:00.000Z
+  end: 2023-01-23T17:00:00.000Z
+  deadline: 2023-01-20T17:00:00.000Z
 ---
 
 Our Leaders of Networks forum is a regular opportunity for those leading departmental and agency networks to discuss issues across the Civil Service affecting LGBT+ staff.

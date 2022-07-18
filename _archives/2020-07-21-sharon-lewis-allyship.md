@@ -1,7 +1,7 @@
 ---
 layout: news
 author: Sharon Lewis
-date: 2020-07-21
+date: 2020-07-21T00:00:00.00Z
 preview: false
 published: true
 title: "Sharon Lewis: So Sharon, what does it feel like to be the only heterosexual at the table? That was the question lobbed at me like a hand grenade during lunch about 5 years ago."

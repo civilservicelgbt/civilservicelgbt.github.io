@@ -1,7 +1,7 @@
 ---
 layout: news
 author: Civil Service LGBT+ Network
-date: 2020-07-01
+date: 2020-07-01T00:00:00.00Z
 preview: false
 published: true
 category: pride-2020

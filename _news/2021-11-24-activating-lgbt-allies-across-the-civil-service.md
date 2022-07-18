@@ -4,7 +4,7 @@
 layout: news
 title: "Activating LGBT+ allies across the Civil Service"
 excerpt: "Read about our plans for a new Allies programme, from our Vice Chair for Allies, Leah Cunnah."
-date: 2021-11-24
+date: 2021-11-24T00:00:00.00Z
 author: "Leah Cunnah"
 category: 
 - allies

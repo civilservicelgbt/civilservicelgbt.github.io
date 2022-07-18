@@ -5,7 +5,7 @@ preview: false
 published: true
 title: "What happened at the first Leaders of Networks Forum"
 redirect_from: 2019/02/06/leaders-of-networks-forum-readout
-date: 2019-02-06
+date: 2019-02-06T00:00:00.00Z
 excerpt: Last week we held our first Leaders of Networks Forum. This is what happened.
 ---
 

@@ -3,7 +3,7 @@ layout: event
 title: Civil Service LGBT+ social – Cardiff
 excerpt: Join colleagues from around South Wales for an after-work social at
   Cardiff's Queer Emporium. All civil servants welcome!
-date: 2022-07-04T20:59:14.745Z
+date: 2022-07-04T00:00:00.00ZT20:59:14.745Z
 event:
   location: The Queer Emporium, St Mary's Street, Cardiff
   start: 2022-07-19T16:30:14.795Z

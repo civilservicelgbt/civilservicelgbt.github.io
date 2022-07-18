@@ -1,6 +1,6 @@
 ---
 layout: news
-date: 2021-08-10 # YYYY-MM-DD 
+date: 2021-08-10T00:00:00.00Z # YYYY-MM-DD 
 title: "Kate Hughes to step down as Chair of the Civil Service LGBT+ Network"
 excerpt: "Kate Hughes, chair of the Civil Service LGBT+ Network, will step down from her role after 4 years."
 author: "Kate Hughes, Chair, Civil Service LGBT+ Network"

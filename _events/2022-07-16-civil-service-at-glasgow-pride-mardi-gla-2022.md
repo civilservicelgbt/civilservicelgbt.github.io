@@ -2,7 +2,7 @@
 layout: event
 title: Civil Service at Glasgow Pride Mardi Gla 2022
 excerpt: Join the Civil Service as we take part in the Pride Mardi Gla in Glasgow.
-date: 2022-07-05T23:00:00.000Z
+date: 2022-07-05T00:00:00.00ZT23:00:00.000Z
 event:
   host: Civil Service LGBT+ Network
   link: https://docs.google.com/forms/d/e/1FAIpQLSeYJmQ_hTZoMQsgAFTjhONCPNBYGJi0VUNCJYVt1r-NbWpw8Q/viewform?usp=sf_link

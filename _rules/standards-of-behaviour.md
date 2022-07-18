@@ -1,6 +1,6 @@
 ---
 layout: publication
-date: 2021-06-23 # YYYY-MM-DD
+date: 2021-06-23T00:00:00.00Z # YYYY-MM-DD
 title: "Standards of behaviour"
 excerpt: "This document explains the standards of behaviour we expect of everyone who attends our events."
 author: "Civil Service LGBT+ Network"

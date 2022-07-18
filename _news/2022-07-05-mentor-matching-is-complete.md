@@ -2,7 +2,7 @@
 layout: news
 title: Mentor matching is complete
 excerpt: More than 1,000 mentoring matches have now been made.
-date: 2022-07-05T16:51:37.856Z
+date: 2022-07-05T00:00:00.00ZT16:51:37.856Z
 author: Civil Service LGBT+ Network
 category:
   - mentoring

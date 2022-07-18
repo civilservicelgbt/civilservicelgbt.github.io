@@ -4,7 +4,7 @@
 layout: news
 title: "A conference for LGBT+ civil servants"
 excerpt: "Learn more about our plans for a development and workplace inclusion conference for LGBT+ civil servants in 2022"
-date: 2021-12-14
+date: 2021-12-14T00:00:00.00Z
 author: "James Jefferson"
 # category: 
 # - 

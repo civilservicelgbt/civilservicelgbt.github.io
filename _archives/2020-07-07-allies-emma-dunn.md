@@ -1,7 +1,7 @@
 ---
 layout: news
 author: Emma Dunn
-date: 2020-07-07
+date: 2020-07-07T00:00:00.00Z
 preview: false
 published: true
 title: "Emma Dunn: Don't buy the grapes"

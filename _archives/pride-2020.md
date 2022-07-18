@@ -1,6 +1,6 @@
 ---
 title: "Civil Service PrideON 2020"
-date: 2020-06-01 # YYYY-MM-DD 
+date: 2020-06-01T00:00:00.00Z # YYYY-MM-DD 
 excerpt: "Everything you need to know about #PrideON, a programme of digital events, content and resources from the Civil Service LGBT+ Network."
 layout: topic
 category: pride-2020

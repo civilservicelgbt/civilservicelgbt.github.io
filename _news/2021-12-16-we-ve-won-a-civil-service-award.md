@@ -4,7 +4,7 @@
 layout: news
 title: "We've won a Civil Service Award"
 excerpt: "The Civil Service LGBT+ mentoring programme has won the award for Developing and Supporting People"
-date: 2021-12-16
+date: 2021-12-16T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - mentoring

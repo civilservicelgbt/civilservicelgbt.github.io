@@ -4,10 +4,10 @@ title: Preventing Burnout Project
 excerpt: "The feeling of burnout amongst the LGBT+ civil servant community where
   higher than average. We are working with the Civil Service HR function to
   understand what the reasons behind this are. "
-date: 2022-07-15T15:03:34.655Z
+date: 2022-07-15T00:00:00.00ZT15:03:34.655Z
 author: Civil Service HR
 link: https://www.smartsurvey.co.uk/s/burnout_experiences/
-end-date: 2022-08-29T22:55:44.269Z
+end-date: 2022-08-29T00:00:00.00ZT22:55:44.269Z
 ---
 **Background**\
 In late 2019 the Civil Service Senior Steering Group for Health and Wellbeing agreed that ‘Preventing Burnout’ should be one of the Civil Service Health and Wellbeing priority areas.

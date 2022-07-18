@@ -2,14 +2,14 @@
 layout: event
 title: Civil Service at Pride in Belfast 2022
 excerpt: Join the Civil Service as we take part in the Pride in Belfast parade.
-date: 2022-02-28
+date: 2022-02-28T00:00:00.00Z
 event:
   host: Civil Service LGBT+ Network
   link: https://docs.google.com/forms/d/e/1FAIpQLSeYJmQ_hTZoMQsgAFTjhONCPNBYGJi0VUNCJYVt1r-NbWpw8Q/viewform?usp=sf_link
   location: Belfast
-  start: 2022-07-30 12:00
-  end: 2022-07-30 12:00
-  deadline: 2022-07-20 12:00
+  start: 2022-07-30T12:00:00.00Z
+  end: 2022-07-30T13:00:00.00Z
+  deadline: 2022-07-15T12:00:00.00Z
 category:
   - pride-2022
   - northern-ireland

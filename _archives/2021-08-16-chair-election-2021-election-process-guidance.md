@@ -1,6 +1,6 @@
 ---
 layout: publication
-date: 2021-08-16 # YYYY-MM-DD 
+date: 2021-08-16T00:00:00.00Z # YYYY-MM-DD 
 title: "Chair election 2021: election process guidance"
 excerpt: "This publication explains the process for the election of the Civil Service LGBT+ Network's new chair, following the resignation of the incumbent chair, Kate Hughes."
 author: "Civil Service LGBT+ Network"

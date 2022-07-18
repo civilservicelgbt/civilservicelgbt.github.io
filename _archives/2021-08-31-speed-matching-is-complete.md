@@ -1,6 +1,6 @@
 ---
 layout: news
-date: 2021-08-31 # YYYY-MM-DD
+date: 2021-08-31T00:00:00.00Z # YYYY-MM-DD
 title: "Speed matching is complete"
 excerpt: "The process of matching mentees to mentors on the Civil Service LGBT+ mentoring programme is complete."
 author: "John Peart"

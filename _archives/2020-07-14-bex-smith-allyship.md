@@ -1,7 +1,7 @@
 ---
 layout: news
 author: Bex Smith
-date: 2020-07-14
+date: 2020-07-14T00:00:00.00Z
 preview: false
 published: true
 title: "Bex Smith: As an ally it is my job to challenge those who do not accept it and help those people to understand"

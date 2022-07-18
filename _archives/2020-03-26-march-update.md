@@ -5,7 +5,7 @@ preview: false
 published: true
 title: "March Update"
 permalink: 2020/03/26/march-update
-date: 2020-03-26
+date: 2020-03-26T00:00:00.00Z
 excerpt: An update from the Civil Service LGBT+ Network.
 ---
 

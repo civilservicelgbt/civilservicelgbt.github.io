@@ -4,7 +4,7 @@
 layout: news
 title: "Join our volunteer team"
 excerpt: "Use your corporate contribution to make the Civil Service a great, inclusive place to work for LGBT+ staff."
-date: 2022-03-24
+date: 2022-03-24T00:00:00.00Z
 author: "John Peart"
 category: 
 - volunteers

@@ -4,12 +4,12 @@
 layout: consultation
 title: "A survey on the conference for LGBT+ civil servants "
 excerpt: "The Civil Service LGBT+ network is consulting with network members on their views and ideas for the conference for LGBT+ civil servants, planned for summer 2022"
-date: 2022-01-17
+date: 2022-01-17T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 # category: 
 # - 
 link: "https://docs.google.com/forms/d/e/1FAIpQLSfCbdtXXLkjYCJCnq-Td2p-pmSDAg7WyOT6rwst2TuFeoZrWw/viewform"
-end-date: 2022-01-28 17:30
+end-date: 2022-01-28T00:00:00.00ZT17:30:00.00Z
 # image: ""
 # video: ""
 permalink: /consultation/a-survey-on-the-conference-for-lgbt-civil-servants-

@@ -6,7 +6,7 @@ published: true
 title: "#AceWeek: Ace diversity and inclusion starts with Ace visibility"
 category: acespace
 permalink: 2020/10/26/rebecca-ace
-date: 2020-10-26
+date: 2020-10-26T00:00:00.00Z
 excerpt: Rebecca Vignols, the Fast Stream LGBT+ Network's Ace Champion shares how to make your network more Ace inclusive.
 ---
 

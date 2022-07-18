@@ -4,7 +4,7 @@
 layout: news
 title: "Civil Service Awards: Why victory is ‘over the rainbow’"
 excerpt: "The Civil Service LGBT+ Networks’ win at the Civil Service Awards 2021 is highlighted on the Civil Service blog."
-date: 2022-01-24
+date: 2022-01-24T00:00:00.00Z
 author: "Civil Service Blog Team"
 category: 
 - mentoring

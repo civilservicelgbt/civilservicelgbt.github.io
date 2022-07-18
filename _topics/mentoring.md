@@ -1,6 +1,6 @@
 ---
 title: "Mentoring"
-date: 2022-05-17 # YYYY-MM-DD
+date: 2022-05-17T00:00:00.00Z # YYYY-MM-DD
 excerpt: "Find out more about our mentoring scheme for LGBT+ civil servants."
 layout: topic
 category: mentoring

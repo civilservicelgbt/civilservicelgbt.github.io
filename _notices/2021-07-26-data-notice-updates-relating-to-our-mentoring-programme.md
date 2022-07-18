@@ -1,6 +1,6 @@
 ---
 layout: notice
-date: 2021-07-26 # YYYY-MM-DD 
+date: 2021-07-26T00:00:00.00Z # YYYY-MM-DD 
 title: "Data notice: updates relating to our mentoring programme"
 excerpt: "This data notice explains updates to our privacy and data statement to account for services we use to administer the Civil Service LGBT+ mentoring programme."
 author: "Civil Service LGBT+ Network"

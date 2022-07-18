@@ -2,7 +2,7 @@
 layout: event
 title: Civil Service at Manchester Pride 2022
 excerpt: Join the Civil Service as we take part in Manchester Pride.
-date: 2022-03-23T00:00:00.000Z
+date: 2022-03-23T00:00:00.00ZT00:00:00.000Z
 event:
   host: Civil Service LGBT+ Network
   link: https://docs.google.com/forms/d/e/1FAIpQLSeYJmQ_hTZoMQsgAFTjhONCPNBYGJi0VUNCJYVt1r-NbWpw8Q/viewform?usp=sf_link

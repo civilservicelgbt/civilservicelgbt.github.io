@@ -2,11 +2,11 @@
 layout: event
 title: "Civil Service LGBT+ social – Manchester"
 excerpt: "Join our regular social and networking event for LGBT+ civil servants based in and around Manchester."
-date: 2021-10-10
+date: 2021-10-10T00:00:00.00Z
 category: 
 - north-west
 event:
-  start: 2022-11-08 17:00
+  start: 2022-11-08T17:00:00.00Z
   host: "Civil Service LGBT+ Network"
   location: "VIA, 28-30 Canal Street, Manchester, M1 3EZ"
   link: "https://docs.google.com/forms/d/e/1FAIpQLScU34wOOsNobUyrmIrDA3mST3I-HOLTm8zTf-gKqbUimSmReA/viewform?usp=sf_link"

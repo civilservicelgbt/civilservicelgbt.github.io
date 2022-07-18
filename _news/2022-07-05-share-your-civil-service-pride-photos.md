@@ -3,7 +3,7 @@ layout: news
 title: Share your Civil Service Pride photos
 excerpt: Attended a pride event with the Civil Service LGBT+ Network? Share your
   photos with us.
-date: 2022-07-05T16:33:53.530Z
+date: 2022-07-05T00:00:00.00ZT16:33:53.530Z
 author: Civil Service LGBT+ Network
 category:
   - pride-2022

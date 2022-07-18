@@ -4,7 +4,7 @@
 layout: news
 title: "Places at Pride in London 2022"
 excerpt: "All places have now been allocated and a reserve list is in operation."
-date: 2022-06-14
+date: 2022-06-14T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - pride-2022

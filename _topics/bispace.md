@@ -1,6 +1,6 @@
 ---
 title: "BiSpace"
-date: 2018-09-03 # YYYY-MM-DD
+date: 2018-09-03T00:00:00.00Z # YYYY-MM-DD
 excerpt: "Everything you need to know about BiSpace: our initiative that's by bi+ civil servants, for bi+ civil servants."
 layout: topic
 category: bispace

@@ -4,7 +4,7 @@
 layout: news
 title: "Our new Pride Organising Forum"
 excerpt: "We're creating a new, regular chance to find out about and shape our plans for Pride 2022"
-date: 2022-03-11
+date: 2022-03-11T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - pride-2022

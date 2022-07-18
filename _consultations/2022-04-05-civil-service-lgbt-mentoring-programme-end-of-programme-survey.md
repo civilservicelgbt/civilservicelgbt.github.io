@@ -4,12 +4,12 @@
 layout: consultation
 title: "Civil Service LGBT+ mentoring programme: end of programme survey"
 excerpt: "An end of programme survey for those who participated in the 2021-22 Civil Service LGBT+ mentoring programme - as a mentor, mentee or both."
-date: 2022-05-04
+date: 2022-05-04T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - mentoring
 link: "https://forms.gle/cFrvkLfboCAd8BrR6"
-end-date: 2022-05-22 23:45
+end-date: 2022-05-22T00:00:00.00ZT23:45:00.00Z
 # image: ""
 # video: ""
 permalink: /consultation/civil-service-lgbt-mentoring-programme-end-of-programme-survey

@@ -3,7 +3,7 @@
 
 layout: topic
 title: "Scotland"
-date: 2022-01-01
+date: 2022-01-01T00:00:00.00Z
 excerpt: "All our latest information and events for Scotland."
 topic-type: region
 category: scotland

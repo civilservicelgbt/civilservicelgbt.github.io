@@ -4,7 +4,7 @@
 layout: news
 title: "Our LGBT+ mentoring programme is back and even better"
 excerpt: "The award-winning Civil Service LGBT+ mentoring programme has returned for its second year. Find out what’s new and how to register."
-date: 2022-05-17
+date: 2022-05-17T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - mentoring

@@ -4,7 +4,7 @@
 layout: news
 title: "Our socials are expanding"
 excerpt: "More locations across the country added to our networking and social calendar."
-date: 2022-02-08
+date: 2022-02-08T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - west-midlands

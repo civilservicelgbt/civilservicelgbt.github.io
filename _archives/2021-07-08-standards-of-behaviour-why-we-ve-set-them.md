@@ -1,6 +1,6 @@
 ---
 layout: news
-date: 2021-07-08 # YYYY-MM-DD 
+date: 2021-07-08T00:00:00.00Z # YYYY-MM-DD 
 title: "Standards of behaviour - why we've set them"
 excerpt: "A couple of weeks ago we wrote some new standards of behaviour for our events, this blog is to explain why. 
 "

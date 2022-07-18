@@ -5,7 +5,7 @@ preview: false
 published: true
 title: "April Update"
 permalink: 2020/04/15/april-update
-date: 2020-04-15
+date: 2020-04-15T00:00:00.00Z
 excerpt: An update from the Civil Service LGBT+ Network.
 ---
 

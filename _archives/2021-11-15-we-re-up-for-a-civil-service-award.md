@@ -4,7 +4,7 @@
 layout: news
 title: "We're up for a Civil Service Award"
 excerpt: "Our mentoring programme has been shortlisted in this year's Civil Service Awards."
-date: 2021-11-15
+date: 2021-11-15T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category:
 - mentoring

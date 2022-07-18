@@ -5,7 +5,7 @@ preview: false
 published: true
 title: "#BiWeek Blogs: Alan, Serious Fraud Office"
 permalink: 2020/09/30/bi-alan
-date: 2020-09-30
+date: 2020-09-30T00:00:00.00Z
 category: bispace
 excerpt: Alan shares his story of coming out as bisexual at work.
 ---

@@ -1,6 +1,6 @@
 ---
 layout: news
-date: 2021-04-26 # YYYY-MM-DD 
+date: 2021-04-26T00:00:00.00Z # YYYY-MM-DD 
 title: "A focus on gender-based violence this Lesbian Visibility Week"
 excerpt: "We're planning to produce guidance, with the input of LGBT+ civil servants, to help others to understand LGBT+ people’s experiences of gender-based violence."
 author: "Leah Cunnah, Vice-chair, Civil Service LGBT+ Network"

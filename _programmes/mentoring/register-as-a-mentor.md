@@ -1,6 +1,6 @@
 ---
 layout: publication
-date: 2021-06-07 # YYYY-MM-DD
+date: 2021-06-07T00:00:00.00Z # YYYY-MM-DD
 title: "Register as a mentor"
 excerpt: "Use this form to register as a mentor on the Civil Service LGBT+ mentoring programme."
 author: "Civil Service LGBT+ Network"

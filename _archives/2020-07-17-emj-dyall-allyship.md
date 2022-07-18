@@ -1,7 +1,7 @@
 ---
 layout: news
 author: Emj Dyall
-date: 2020-07-17
+date: 2020-07-17T00:00:00.00Z
 preview: false
 published: true
 title: "Emj Dyall: As I grew up, I noticed how wrong it was to hide the people I love and so I am now open and vocal, fighting for LGBT+ rights"

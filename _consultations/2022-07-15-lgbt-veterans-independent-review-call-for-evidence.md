@@ -4,10 +4,10 @@ title: LGBT Veterans Independent Review – Call for Evidence
 excerpt: This Call for Evidence is seeking testimony and views from individuals
   and organisations on the impact of the pre-2000 ban on homosexuality in the
   Armed Forces.
-date: 2022-07-15T11:18:34.705Z
+date: 2022-07-15T00:00:00.00ZT11:18:34.705Z
 author: LGBT Veterans Independent Review
 link: https://www.gov.uk/government/publications/call-for-evidence/call-for-evidence
-end-date: 2022-11-15T23:45:34.740Z
+end-date: 2022-11-15T00:00:00.00ZT23:45:34.740Z
 ---
 This Call for Evidence is seeking testimony and views from individuals and organisations on the impact of the pre-2000 ban on homosexuality in the Armed Forces.
 

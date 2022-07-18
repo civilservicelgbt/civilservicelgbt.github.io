@@ -4,12 +4,12 @@
 layout: consultation
 title: "Government consultation on banning conversion therapy"
 excerpt: "Government consultation to help the development of legislation for banning conversion therapy."
-date: 2021-10-29
+date: 2021-10-29T00:00:00.00Z
 author: "Government Equalities Office"
 # category: 
 # - 
 link: "https://www.gov.uk/government/consultations/banning-conversion-therapy"
-end-date: 2022-02-04 11:45
+end-date: 2022-02-04T00:00:00.00ZT11:45:00.00Z
 # image: ""
 # video: ""
 permalink: /consultation/banning-conversion-therapy

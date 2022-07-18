@@ -4,7 +4,7 @@
 layout: news
 title: "Where we’re headed for Pride 2022"
 excerpt: "Join the Civil Service as we take part in Pride events across the UK. Register now or sign up to the ticket ballots."
-date: 2022-03-23
+date: 2022-03-23T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - pride-2022

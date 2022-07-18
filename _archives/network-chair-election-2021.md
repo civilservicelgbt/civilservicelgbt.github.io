@@ -1,6 +1,6 @@
 ---
 layout: topic
-date: 2021-08-10 # YYYY-MM-DD 
+date: 2021-08-10T00:00:00.00Z # YYYY-MM-DD 
 title: "Network Chair election 2021"
 excerpt: "The Civil Service LGBT+ Network will elect a new Chair to take over from Kate Hughes."
 author: "Civil Service LGBT+ Network"

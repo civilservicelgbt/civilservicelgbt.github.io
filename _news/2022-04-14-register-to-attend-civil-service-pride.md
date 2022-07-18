@@ -4,7 +4,7 @@
 layout: news
 title: "Register to attend Civil Service Pride"
 excerpt: "Sign up to take part in person as the Civil Service LGBT+ Network joins Pride events in cities and towns across the UK."
-date: 2022-04-14
+date: 2022-04-14T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - pride-2022

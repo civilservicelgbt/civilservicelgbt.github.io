@@ -4,7 +4,7 @@
 layout: news
 title: "New year. Same network."
 excerpt: "Reflecting on our work in 2021 and looking forward to our work in 2022."
-date: 2022-01-06
+date: 2022-01-06T00:00:00.00Z
 author: "John Peart"
 # category: 
 # - 

@@ -1,7 +1,7 @@
 ---
 layout: news
 author: Civil Service LGBT+ Network
-date: '2019-02-06 10:00'
+date: '2019-02-06T00:00:00.000Z'
 preview: false
 published: true
 title: 'Updated: Events for LGBT History Month 2019'

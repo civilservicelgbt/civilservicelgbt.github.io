@@ -1,6 +1,6 @@
 ---
 layout: notice
-date: 2021-11-13 # YYYY-MM-DD
+date: 2021-11-13T00:00:00.00Z # YYYY-MM-DD
 title: "Data notice: updates to our privacy and data policy"
 excerpt: "This data notice explains recent updates to our privacy and data statement to account for a new bulk email system."
 author: "Civil Service LGBT+ Network"

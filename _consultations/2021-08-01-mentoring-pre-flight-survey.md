@@ -3,12 +3,12 @@ layout: consultation
 title: 2022 mentoring programme – onboarding survey
 excerpt: Complete this survey before you start your speed mentoring sessions so
   that we can measure the impact of the Civil Service LGBT+ mentoring programme.
-date: 2022-07-17T23:00:00.000Z
+date: 2022-07-17T00:00:00.00ZT23:00:00.000Z
 author: Civil Service LGBT+ Network
 category:
   - mentoring
 link: https://forms.gle/UCu4cbgrLcchcfU19
-end-date: 2022-09-03T22:45:00.000Z
+end-date: 2022-09-03T00:00:00.00ZT22:45:00.000Z
 permalink: /consultation/mentoring-programme-onboarding-survey
 ---
 

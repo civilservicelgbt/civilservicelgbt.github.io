@@ -1,6 +1,6 @@
 ---
 layout: news
-date: 2021-04-26 # YYYY-MM-DD 
+date: 2021-04-26T00:00:00.00Z # YYYY-MM-DD 
 title: "Episode 10 of PrideON Podcast for Lesbian Visibility Week with Kirsty"
 excerpt: "Listen to episode 10 now, with host Leah Cunnah and guest Kirsty Austin from the Department for Transport."
 author: "Civil Service LGBT+ Network"

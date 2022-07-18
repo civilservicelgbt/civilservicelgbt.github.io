@@ -5,7 +5,7 @@ preview: false
 published: true
 title: "What happened at our latest Leaders of Networks Forum"
 permalink: 2020/02/17/leaders-of-networks-forum-readout
-date: 2020-02-17
+date: 2020-02-17T00:00:00.00Z
 excerpt: We recently held our Leaders of Networks Forum. This is what happened.
 ---
 

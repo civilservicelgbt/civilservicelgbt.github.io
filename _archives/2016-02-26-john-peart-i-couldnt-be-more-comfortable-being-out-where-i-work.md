@@ -1,7 +1,7 @@
 ---
 id: 415
 title: "I couldn't be more comfortable being out where I work"
-date: 2016-02-26T09:00:39+00:00
+date: 2016-02-26T00:00:00.00ZT09:00:39+00:00
 author: John Peart
 excerpt: "As part of LGBT History Month, we’re highlighting the stories of LGB* civil servants. John Peart works at the Government Digital Service - part of the Cabinet Office. He writes about how important it is to be able to bring your whole self to work."
 

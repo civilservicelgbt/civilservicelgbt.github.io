@@ -5,7 +5,7 @@ preview: false
 published: true
 title: "February Update"
 permalink: 2020/02/17/february-update
-date: 2020-02-17
+date: 2020-02-17T00:00:00.00Z
 excerpt: An update from the Civil Service LGBT+ Network.
 ---
 

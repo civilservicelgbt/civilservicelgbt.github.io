@@ -1,7 +1,7 @@
 ---
 layout: news
 author: Emma Hope
-date: 2020-07-08
+date: 2020-07-08T00:00:00.00Z
 preview: false
 published: true
 title: "Emma Hope: Speaking a more inclusive language avoids alienating someone from a conversation"

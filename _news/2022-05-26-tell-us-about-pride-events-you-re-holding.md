@@ -4,7 +4,7 @@
 layout: news
 title: "Tell us about pride events you're holding"
 excerpt: "We'll add your events to our website and help you to promote them across the Civil Service"
-date: 2022-05-26
+date: 2022-05-26T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - pride-2022

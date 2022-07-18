@@ -4,12 +4,12 @@
 layout: consultation
 title: "10-Year Cancer Plan: Call for Evidence"
 excerpt: "The Department of Health and Social Care are holding a Call for Evidence to inform the development of the government's 10-year Cancer Plan for England."
-date: 2022-04-04
+date: 2022-04-04T00:00:00.00Z
 author: "Crown Prosecution Service"
 # category: 
 # - 
 link: "https://www.gov.uk/government/consultations/10-year-cancer-plan-call-for-evidence"
-end-date: 2022-04-08 23:45
+end-date: 2022-04-08T00:00:00.00ZT23:45:00.00Z
 # image: ""
 # video: ""
 permalink: /consultation/10-year-cancer-plan

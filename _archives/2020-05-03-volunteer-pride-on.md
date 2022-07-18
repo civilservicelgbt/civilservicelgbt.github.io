@@ -5,7 +5,7 @@ preview: false
 published: true
 title: "Volunteer to keep PrideON"
 permalink: 2020/05/03/volunteer-pride-on
-date: 2020-05-03
+date: 2020-05-03T00:00:00.00Z
 excerpt: PrideON - we're looking for volunteers.
 ---
 

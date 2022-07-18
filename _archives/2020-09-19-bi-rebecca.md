@@ -5,7 +5,7 @@ preview: false
 published: true
 title: "#BiWeek Blogs: Rebecca, Home Office"
 permalink: 2020/09/19/bi-rebecca
-date: 2020-09-19
+date: 2020-09-19T00:00:00.00Z
 category: bispace
 excerpt: Rebecca sheds light on the importance of sharing who you are.
 ---

@@ -1,6 +1,6 @@
 ---
 layout: news
-date: 2021-05-17 # YYYY-MM-DD 
+date: 2021-05-17T00:00:00.00Z # YYYY-MM-DD 
 title: "IDAHOBIT 2021: Steph (vice chair A:GENDER) "
 excerpt: "17th May 2021 marks International Day Against Homophobia, Transphobia and Biphobia. Read about Steph's experiences."
 author: "Civil Service LGBT+ Network"

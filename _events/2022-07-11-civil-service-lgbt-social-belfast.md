@@ -2,7 +2,7 @@
 layout: event
 title: Civil Service LGBT+ social – Belfast
 excerpt: Join us for a networking event in Belfast for LGBT civil servants.
-date: 2022-07-11T09:06:50.445Z
+date: 2022-07-11T00:00:00.00ZT09:06:50.445Z
 event:
   location: The Maverick Belfast, 1 Union Street, Belfast, BT1 2JF
   start: 2022-07-29T17:00:50.498Z
