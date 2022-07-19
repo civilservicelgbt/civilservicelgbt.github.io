@@ -195,7 +195,7 @@ collections:
         layout: publication
   consultations:
     output: true
-    permalink: /consultation/:title/
+    permalink: /consultation/:year/:month/:day/:title/
     defaults:
       values:
         layout: consultation
