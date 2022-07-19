@@ -9,9 +9,13 @@ category:
   - preventing-burnout
 ---
 <!-- Include the following to generate a Table of Contents -->
-
 * Table of contents will generate here
-  {:toc}
+{:toc}
+<!-- Don't touch the Table of Contents above -->
+
+<!-- Include this line to process the Markdown and format the content properly -->
+<div id="markdown-content" markdown="1">
+<!-- Don't remove the line of code above -->
 
 ## About this document
 
@@ -52,7 +56,7 @@ This publication is available as a PDF and Word Document.
 
 [Download as a Word Document](https://www.civilservice.lgbt/documents/store/consultations/preventing-burnout-resources-accessible.docx)
 
-<!-- Include this line to process the Markdown and format the content properly -->
 
+<!-- Include this line to process the Markdown and format the content properly -->
 </div>
 <!-- Don't remove the line of code above -->
