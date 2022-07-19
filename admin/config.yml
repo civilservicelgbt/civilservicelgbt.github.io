@@ -176,10 +176,9 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish date', name: 'date', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm" }
       - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
-      - { label: 'Category', name: 'category', widget: 'list', required: false }
+      - { label: 'Category', name: 'category', widget: 'string' }
       - { label: 'Featured image', name: 'image', widget: 'image', choose_url: true, required: false }
       - { label: 'Background colour', name: 'background', widget: 'select', options: ['white', 'yellow', 'cyan', 'magenta'], default: 'white' }
-      - { label: 'Permalink', name: 'permalink', widget: 'string' }
       - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
       - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
           
