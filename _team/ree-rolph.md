@@ -1,19 +1,15 @@
 ---
-# Adding or removing a '#' in front of a line will toggle that information off and on from being processed. 
-
 layout: team
-title: "Ree Rolph"
-name: "Ree Rolph"
-role: "local organiser"
-# project: ""
-region: "Scotland"
-email: "Scotland@civilservice.lgbt"
-image: "https://www.civilservice.lgbt/images/store/team/Ree-Rolph.jpg"
+person-name: Ree Rolph
+name: Ree Rolph
 permalink: /team/ree-rolph
-# redirect_from: 
-# - 
-# redirect_to: 
-# - 
+region: Scotland
+role: local organiser
+title: Ree Rolph
+email: Scotland@civilservice.lgbt
+project: Regional delivery
+select: Scotland
+image: https://www.civilservice.lgbt/images/store/team/Ree-Rolph.jpg
 ---
 
 Hi! I’m Ree (he/him) and I recently joined the HMRC Surge and Rapid Response team in Edinburgh. 
