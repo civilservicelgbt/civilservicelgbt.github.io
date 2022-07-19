@@ -6,6 +6,8 @@ excerpt: "The feeling of burnout amongst the LGBT+ civil servant community is
   HR function to understand what the reasons behind this are. "
 date: 2022-07-15T00:00:00.00ZT15:03:34.655Z
 author: Civil Service HR
+category:
+  - preventing-burnout
 link: https://www.smartsurvey.co.uk/s/burnout_experiences/
 end-date: 2022-08-29T00:00:00.00ZT22:55:44.269Z
 ---
