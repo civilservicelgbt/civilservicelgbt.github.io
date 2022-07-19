@@ -1,15 +1,16 @@
 ---
 layout: consultation
-title: Preventing Burnout Project
-excerpt: "The feeling of burnout amongst the LGBT+ civil servant community where
-  higher than average. We are working with the Civil Service HR function to
-  understand what the reasons behind this are. "
+title: Preventing burnout project
+excerpt: "The feeling of burnout amongst the LGBT+ civil servant community is
+  higher than the Civil Service average. We are working with the Civil Service
+  HR function to understand what the reasons behind this are. "
 date: 2022-07-15T00:00:00.00ZT15:03:34.655Z
 author: Civil Service HR
 link: https://www.smartsurvey.co.uk/s/burnout_experiences/
 end-date: 2022-08-29T00:00:00.00ZT22:55:44.269Z
 ---
-**Background**\
+## Background
+
 In late 2019 the Civil Service Senior Steering Group for Health and Wellbeing agreed that ‘Preventing Burnout’ should be one of the Civil Service Health and Wellbeing priority areas.
 
 To support this priority Civil Service HR and a cross-government Preventing Burnout Working Group have been delivering activities which support the health and wellbeing (H&WB) priority of preventing employee burnout. This has enabled the Civil Service to produce a wide range of products for departments to help leaders, line managers and individuals to:
@@ -18,13 +19,15 @@ To support this priority Civil Service HR and a cross-government Preventing Burn
 * identify the causes of burnout so that all employees an work at their optimum and support eachother; and
 * know when they need to switch off to think, recharge and enjoy their lives.
 
-**Burnout Survey**
+## Burnout survey
 
 The Civil Service asked civil servants in late 2021 about their feelings of subjective burnout and results from the LGBT+ community indicate that feelings of burnout were higher than average.
 
-To better understand the reasons behind this we have developed an anonymous survey here: <https://www.smartsurvey.co.uk/s/burnout_experiences/>. Information from it will be used to consider what further activity is required.
+To better understand the reasons behind this Civil Service HR have developed [an anonymous survey](https://www.smartsurvey.co.uk/s/burnout_experiences/).
 
-**Sources of support**
+Information from it will be used to consider what further activity is required.
+
+## Sources of support
 
 Burnout won’t go away by itself, and ignoring the issues causing it can affect both your physical and mental wellbeing. Sometimes we need to be reminded to look after our own wellbeing and seek help quickly. 
 
@@ -32,4 +35,4 @@ If you’re missing deadlines, struggling to switch off, distracted, irritable, 
 
 Additional resources can be found on Civil Service organisational intranet sites, including signposting to stress risk assessments, wellbeing support such as Mental Health First Aiders, Employee Assistance Programmes and Occupational Health.
 
-Also attached for information is a [Blog ](https://civilservice.blog.gov.uk/2021/04/06/spotting-signs-of-excessive-stress-and-burnout/)from a member of the cross-government Preventing Burnout Working Group describing her own personal experience of burnout.
+Also attached for information is a [blog post from a member of the cross-government Preventing Burnout Working Group](https://civilservice.blog.gov.uk/2021/04/06/spotting-signs-of-excessive-stress-and-burnout/) describing her own personal experience of burnout.
