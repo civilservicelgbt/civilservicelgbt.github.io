@@ -2,20 +2,20 @@
 layout: event
 title: Civil Service at Pride in Belfast 2022
 excerpt: Join the Civil Service as we take part in the Pride in Belfast parade.
-date: 2022-02-28T00:00:00.00Z
+date: 2022-02-28T00:00:00.000Z
 event:
   host: Civil Service LGBT+ Network
   link: https://docs.google.com/forms/d/e/1FAIpQLSeYJmQ_hTZoMQsgAFTjhONCPNBYGJi0VUNCJYVt1r-NbWpw8Q/viewform?usp=sf_link
-  location: Belfast
-  start: 2022-07-30T12:00:00.00Z
-  end: 2022-07-30T13:00:00.00Z
-  deadline: 2022-07-15T12:00:00.00Z
+  location: "Belfast. Meeting point: Erskine House."
+  start: 2022-07-30T11:30:00.000Z
+  end: 2022-07-30T14:30:00.000Z
+  deadline: 2022-07-15T12:00:00.000Z
 category:
   - pride-2022
   - northern-ireland
-redirect_from: 
-- /event/2022/07/30/civil-service-at-pride-in-belfast-2022
-- /event/2022/07/30/civil-service-at-pride-in-belfast-2022/
+redirect_from:
+  - /event/2022/07/30/civil-service-at-pride-in-belfast-2022
+  - /event/2022/07/30/civil-service-at-pride-in-belfast-2022/
 ---
 
 The Civil Service LGBT+ Network is coordinating the Civil Service's presence at Pride events across the UK in 2022. We are also organising an online programme of events to keep Pride On wherever you live.
@@ -23,3 +23,35 @@ The Civil Service LGBT+ Network is coordinating the Civil Service's presence at 
 We will be taking part in pride marches and parades in every UK capital city this year, as well as a number of other towns and cities across the country.
 
 Find out more on our [Pride 2022 topic page](/pride-2022).
+
+---
+
+## Joining instructions
+
+### Belfast Social Event: Friday 29th July 2022
+
+Thank you for registering to take part in Belfast Civil Service LGBT+ Network Social.
+
+For those who have registered for the social event, then please join us at The Maverick between 17:00-19:00. 
+
+[Location of the event](https://goo.gl/maps/Lb3a4xdzq1jpCXAz8). 
+
+Please remember to bring your ID with you, and to note this venue does not serve food. If you have any queries then please contact <ryan.ohara@hmrc.gov.uk>.
+
+### Belfast Pride: Saturday 30th July 2022
+
+For those who will be joining us for the Pride March on Saturday, 30th July then the meeting point will be at Erskine House for 11:30am and will then walk together to the Parade Start. Look out for the Civil Service LGBT+ Banner. 
+
+[Start Location](https://goo.gl/maps/uDAWmMSuLFEegLk57). 
+
+The parade will leave at 1:00pm sharp and will make its way to Victoria Street. [For the latest Belfast Pride Information](https://belfastpride.com/parade/)
+
+We know that this will be an exciting day, however there are rules of the day. 
+
+Please remember that you are representing the Civil Service at this event so you:
+
+- must adhere to the Civil Service Code at all times
+- must not promote any political messaging during the parade, or do anything that might be perceived as jeopardising your impartiality
+- must not drink alcohol on the parade route or bring glass bottles to the parade or parade route
+
+We hope that you have a great Pride Event.
