@@ -25,14 +25,6 @@ Find out more on our Pride 2022 topic page.
 
 ---
 
-## Reserve list
-
-We are now operating a reserve list for Manchester Pride.
-
-If you would like to join the reserve list please email <northwest@civilservice.lgbt>
-
----
-
 ## Joining instructions
 
 Thank you for registering for Manchester Pride. We hope that you have an amazing day with us. The theme this year will be **March for Peace**, with the importance of peace in a world where all LGBTQ+ people are free to live and love without prejudice at its heart. [Visit the Manchester Pride website for more information](https://www.manchesterpride.com).
@@ -57,24 +49,26 @@ Face paints and hand waving flags will be provided on the day and bring your own
 
 Taking part in the Parade does not entitle entrants to tickets to other pride events. Tickets for other pride activities must be purchased separately if you wish to attend them over the August Bank Holiday weekend. [Ticket information is available on the Manchester Pride website](https://www.manchesterpride.com/tickets).
 
-## Contacting the local team
+### Contacting the local team
 
 The North West local organiser team, Matt and Ross, will be coordinating the event on the day. You can email them at <northwest@civilservice.lgbt>.
 
-## Rules of the day
+### Rules of the day
 
 Please remember that you’re representing the Civil Service and therefore should conduct yourself in line with the Civil Service Code at any time when you can be identified as a civil servant. This includes, but is not limited to, whilst you are wearing a Civil Service LGBT+ Network t-shirt. 
 
 When wearing those T-Shirts, we will not be drinking. Following the parade, it will be asked that you removed the T-Shirt before drinking. No alcohol is to be consumed at any point before or during the parade. If you are found with alcohol you will be asked to leave the parade.
 
-Glitter cannons are not permitted anywhere along the route due to the cleaning costs that are associated. Any clean-up costs will be passed back to the offending entry and they may be prohibited from taking part in future parades.
 
-Unfortunately we are unable to accommodate any under 18s in the parade group.
+Manchester Pride have advised that:
 
-In the interest of animal welfare, pets are not permitted along the parade route.
+- glitter cannons are not permitted anywhere along the route.
+- if you are bringing children, they are supervised at all times. 
+- in the interest of animal welfare, pets are not permitted along the parade route.
+- flags, props or banners must not be waved over the Metrolink cross-over point on Peter Street due to live, overhead power lines.
 
-Flags, props or banners must not be waved over the Metrolink cross-over point on Peter Street due to live, overhead power lines.
+### Accessibility 
 
-In the interest of those with access needs, the route itself is suitable for walkers and wheelchair users. If you need assistance then please contact the nominated responsible people for the parade. [Find out more about accessibility on the Manchester Pride website](https://www.manchseterpride.com/accessibility).
+In the interest of those with access needs, the route itself is suitable for walkers and wheelchair users. If you need assistance then please contact the nominated responsible people for the parade. [Find out more about accessibility on the Manchester Pride website](https://www.manchesterpride.com/accessibility).
 
 Happy Pride!
