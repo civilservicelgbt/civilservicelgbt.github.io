@@ -10,9 +10,8 @@ event:
   start: 2022-08-27T11:00:00.000Z
   end: 2022-08-27T16:30:43.869Z
   deadline: 2022-08-26T12:00:44.109Z
-  email: ""
-  no-register: We are now operating a reserve list for Manchester Pride. Please
-    email northwest@civilservice.lgbt to register.
+  email: northwest@civilservice.lgbt
+  no-register: ""
 category:
   - pride-2022
   - north-west
