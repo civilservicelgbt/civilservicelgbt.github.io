@@ -1,18 +1,9 @@
 ---
 layout: event
-title: Social at Preston Pride
-excerpt: >-
-  The Civil Service LGBT+ Network organises informal networking and social
-  events so that LGBT+ civil servants can meet each other. Our local organisers
-  organise these events in various cities across the country. We are organising
-  socials at some of the free Pride events as a way to get to get together to
-  support each other and support the local community.
-
-
-  This is a free of charge and un-ticketed event but please register here so we can share times contact details so you can find us on the day.
-
-
-  This is a social event at Preston Pride launching the new. Future events will alternate  between Preston and Blackpool, and will normally be the first Thursday of the month, but these may vary depending on whether there are any special events happening in the area. Please regularly check the events page
+title: Civil Service LGBT+ social – Blackpool
+excerpt: The Civil Service LGBT+ Network organises informal networking and
+  social events so that LGBT+ civil servants can meet each other. Our local
+  organisers organise these events in various cities across the country.
 date: 2022-08-02T09:24:26.701Z
 event:
   location: The Flying Handbag , 44 Queen Street , Blackpool FY1 2AY
