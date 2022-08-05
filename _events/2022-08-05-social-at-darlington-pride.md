@@ -1,8 +1,8 @@
 ---
 layout: event
-title: Social at Darlington Pride
-excerpt: A social ran by Darlington Economic Campus, in collaboration with Civil
-  Service LGBT+ Network.
+title: DEC & Civil Service at Darlington Pride 2022
+excerpt: A social and Pride ran by Darlington Economic Campus, in collaboration
+  with Civil Service LGBT+ Network.
 date: 2022-08-05T16:38:09.128Z
 event:
   location: Meet in front of Feethams House, Feethams, Darlington DL1 5AD
