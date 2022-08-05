@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Pre-Pride social in Darlington
+title: Civil Service LGBT+ Pre-Pride social in Darlington
 excerpt: A social ran by Darlington Economic Campus, in collaboration with Civil
   Service LGBT+ Network.
 date: 2022-08-05T16:32:21.021Z
