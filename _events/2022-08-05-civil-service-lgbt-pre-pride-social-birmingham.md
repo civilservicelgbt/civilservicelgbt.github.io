@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Social at Birmingham Pride
+title: Civil Service LGBT+ Pre-Pride social – Birmingham
 excerpt: "\n\n"
 date: 2022-08-05T15:09:40.841Z
 event:
