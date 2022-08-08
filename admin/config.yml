@@ -186,6 +186,7 @@ collections:
     label: 'Team member'
     folder: '_team/'
     create: true
+    identifier_field: person-name
     slug: "{{slug}}"
     preview_path: '{{slug}}'
     fields:
@@ -194,7 +195,7 @@ collections:
       - { label: 'Team member role', name: 'role', widget: 'select', options: ['chair', 'vice chair', 'project team', 'local organiser'], default: 'chair', required: true }
       - { label: 'Team email', name: 'email', widget: 'string', required: false }
       - { label: 'Team member project', name: 'project', widget: 'string' }
-      - { label: 'Team member region', name: 'select', options: ['East Midlands', 'London', 'North East', 'North West', 'Northern Ireland', 'Scotland', 'South East', 'South West', 'Wales', 'West Midlands', 'Yorkshire and Humber'], required: false }
+      - { label: 'Team member region', name: 'region', options: ['East Midlands', 'London', 'North East', 'North West', 'Northern Ireland', 'Scotland', 'South East', 'South West', 'Wales', 'West Midlands', 'Yorkshire and Humber'], required: false }
       - { label: 'Biography', name: 'body', widget: 'markdown', required: true }
       - { label: 'Profile picture', name: 'image', widget: 'image', choose_url: true, required: false }
 
