@@ -2,10 +2,9 @@
 layout: team
 person-name: Bryan Wood
 role: local organiser
-email: NorthWest@civilservice.lgbt
-project: Regional delivery
-select: North west
-image: /assets/images/uploads/may-22.jpg
+email: northWest@civilservice.lgbt
+region: North west
+image: /assets/images/uploads/team-bryan-wood.jpg
 ---
 I joined the Civil Service at Warbreck House in Blackpool, working on the Kickstart Programme. 
 
