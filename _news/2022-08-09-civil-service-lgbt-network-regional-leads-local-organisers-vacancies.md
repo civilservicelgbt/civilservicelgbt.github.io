@@ -1,14 +1,13 @@
 ---
 layout: news
 title: Civil Service LGBT+ Network Local Organisers (Regional Leads) vacancies
-excerpt: "We are looking for additional Local Organisers (Regional Leads) to
-  join our team. "
+excerpt: "We are looking for additional Regional Leads to join our team. "
 date: 2022-08-09T11:41:03.400Z
 author: Civil Service LGBT+ Network
 ---
 The Civil Service LGBT+ Network organises a series of events and socials throughout the year, with many being delivered close to you. 
 
-We are run entirely by volunteers. We are looking for additional Regional Leads (Local Organisers) to join our team for the following Regions and Nations: 
+We are run entirely by volunteers. We are looking for additional Regional Leads to join our team for the following Regions and Nations: 
 
 East Midlands
 
