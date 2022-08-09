@@ -25,6 +25,6 @@ You can have a look of the role description for our Regional Leads at <https://w
 
 For Our Current Team, including our bios and photos, please visit <https://www.civilservice.lgbt/team/> 
 
-If you are based in one of these areas and are interested in the role, please contact Ed ([Ed@civilservice.lgbt](Ed@civilservice.lgbt)), quoting "Regional Lead + Your Region". We can then arrange an informal chat to discuss this with you.
+If you are based in one of above areas and are interested in the role, please contact Ed ([Ed@civilservice.lgbt](Ed@civilservice.lgbt)), quoting "Regional Lead + Your Region/Nation". We can then arrange an informal chat to discuss this with you.
 
 Thank you. 😊
