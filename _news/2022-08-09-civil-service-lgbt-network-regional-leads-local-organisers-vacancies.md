@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Civil Service LGBT+ Network Local Organisers (Regional Leads) vacancies
-excerpt: "We are looking for additional Regional Leads to join our team. "
+excerpt: We are looking for additional Regional Leads to join our team.
 date: 2022-08-09T11:41:03.400Z
 author: Civil Service LGBT+ Network
 ---
@@ -27,4 +27,6 @@ For Our Current Team, including our bios and photos, please visit <https://www.c
 
 If you are based in one of above areas and are interested in the role, please contact Ed ([Ed@civilservice.lgbt](Ed@civilservice.lgbt)), quoting "Regional Lead + Your Region/Nation". We can then arrange an informal chat to discuss this with you.
 
-Thank you. 😊
+We look forward to hearing from you soon!
+
+Thank you.
