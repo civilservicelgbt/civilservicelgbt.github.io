@@ -1,7 +1,7 @@
 ---
 layout: news
-title: Civil Service LGBT+ Network Regional Leads (Local Organisers) vacancies
-excerpt: "We are looking for additional Regional Leads (Local Organisers) to
+title: Civil Service LGBT+ Network Local Organisers (Regional Leads) vacancies
+excerpt: "We are looking for additional Local Organisers (Regional Leads) to
   join our team. "
 date: 2022-08-09T11:41:03.400Z
 author: Civil Service LGBT+ Network
