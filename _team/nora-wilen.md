@@ -6,7 +6,7 @@ title: "Nora Wilen"
 person-name: "Nora Wilen"
 role: "local organiser"
 # project: ""
-region: "West midlands"
+region: "West Midlands"
 email: "WestMidlands@civilservice.lgbt"
 image: "https://www.civilservice.lgbt/images/store/team/Nora-Wilen.jpeg.jpg"
 permalink: /team/nora-wilen

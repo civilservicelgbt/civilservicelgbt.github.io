@@ -6,7 +6,7 @@ title: "Théma Cowan-Tulloch"
 person-name: "Théma Cowan-Tulloch"
 role: "local organiser"
 # project: ""
-region: "East midlands"
+region: "East Midlands"
 email: "EastMidlands@civilservice.lgbt"
 image: "https://www.civilservice.lgbt/images/store/team/Th%C3%A9ma-Cowan-Tulloch.jpeg.jpg"
 permalink: /team/thema-cowan-tulloch

@@ -6,7 +6,7 @@ title: "David Raine"
 person-name: "David Raine"
 role: "local organiser"
 # project: ""
-region: "South west"
+region: "South West"
 email: "SouthWest@civilservice.lgbt"
 image: "https://www.civilservice.lgbt/images/store/team/David-Raine.png"
 permalink: /team/david-raine
