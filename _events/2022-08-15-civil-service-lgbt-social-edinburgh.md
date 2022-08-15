@@ -1,7 +1,8 @@
 ---
 layout: event
 title: Civil Service LGBT+ social – Edinburgh
-excerpt: We are very pleased to announce Edinburgh's first social event since Covid.
+excerpt: We are very pleased to announce our first social event in Edinburgh
+  since Covid.
 date: 2022-08-15T12:00:52.312Z
 event:
   location: Regent Bar, 2 Montrose Terrace, Edinburgh EH7 5DL
