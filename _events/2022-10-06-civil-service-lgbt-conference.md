@@ -11,6 +11,7 @@ event:
     London, SW1H 0ET
   start: 2022-10-06T10:00:00.000Z
   end: 2022-10-06T11:00:00.000Z
+  deadline: 2022-08-15T08:07:44.159Z
 category:
   - conference-2022
 image: https://www.civilservice.lgbt/images/store/conference/conference-2022.png
