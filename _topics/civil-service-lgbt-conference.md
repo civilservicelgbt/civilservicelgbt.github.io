@@ -6,9 +6,9 @@ title: "Civil Service LGBT+ conference"
 excerpt: "The career development and workplace inclusion conference for LGBT+ civil servants"
 category: conference-2022
 image: "https://www.civilservice.lgbt/images/store/conference/conference-2022.png"
-permalink: /topic/civil-service-lgbt-conference
-# redirect_from: 
-# - 
+permalink: /conference-2022
+redirect_from: 
+- /topic/civil-service-lgbt-conference
 # redirect_to: 
 # - 
 ---
