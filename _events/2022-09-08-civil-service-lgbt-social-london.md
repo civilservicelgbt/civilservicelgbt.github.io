@@ -7,7 +7,9 @@ date: 2022-01-28T00:00:00.000Z
 event:
   host: Civil Service LGBT+ Network
   link: https://docs.google.com/forms/d/e/1FAIpQLSfQzGqq0eXgQOsMkvO-ZsrPRBO7rlITr2VnTR0Y1IaCN_ZRuA/viewform?usp=sf_link
-  location: St James's Park, London SW1H 9AP
+  location: St James's Park, London SW1H 9AP - We will gather in the corner of the
+    park behind the cafe at Storey's Gate (opposite HMT). If the weather is bad,
+    the social will move to Halfway to Heaven.
   start: 2022-09-08T18:00:00.000Z
   end: ""
   deadline: 2022-09-06T17:00:51.441Z
