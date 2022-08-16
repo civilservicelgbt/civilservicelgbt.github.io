@@ -8,7 +8,7 @@ category:
   - conference-2022
 image: https://www.civilservice.lgbt/images/store/conference/conference-2022.png
 ---
-The Civil Service LGBT+ Network a free career development and workplace inclusion conference on 6 October 2022. This learning and development event exclusively for LGBT+ civil servants is free of charge. It will take place in-person at the BEIS Conference Centre in London.
+The Civil Service LGBT+ conference is a career development and workplace inclusion conference exclusively for LGBT+ civil servants. It will be held on 6 October 2022, in-person, at the BEIS Conference Centre in London. This learning and development event is free of charge.
 
 ## Register to attend
 
