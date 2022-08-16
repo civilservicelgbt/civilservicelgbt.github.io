@@ -1,16 +1,16 @@
 ---
 layout: news
-title: Register your interest for the Civil Service LGBT+ Conference 2022
+title: Secure your place at the Civil Service LGBT+ Conference 2022
 excerpt: Taking place on Thursday 6th October 2022 at the BEIS Conference Centre.
 date: 2022-08-10T17:02:44.487Z
 author: Civil Service LGBT+ Network
 category:
-  - conference
+  - conference-2022
 image: https://www.civilservice.lgbt/images/store/conference/conference-2022.png
 ---
 The Civil Service LGBT+ Network a free career development and workplace inclusion conference on 6 October 2022. This learning and development event exclusively for LGBT+ civil servants is free of charge. It will take place in-person at the BEIS Conference Centre in London.
 
-> [Register your interest to attend](https://www.eventbrite.com/e/civil-service-lgbt-conference-2022-register-your-interest-tickets-398936779647) and save the date.
+> [Register to attend](https://www.civilservice.lgbt/event/2022-10-06-civil-service-lgbt-conference/) and save the date.
 >
 > 6 October 2022 at the BEIS Conference Centre, 1 Victoria Street, London
 
@@ -28,20 +28,6 @@ On the day, you can expect keynote speeches and panel discussions focusing on:
 You'll also be able to take part in speed mentoring and a range of breakout sessions covering successful profiles, confidence and resilience building and much more.
 
 More information about the agenda will be released soon.
-
-## Register your interest
-
-[You can register your interest to attend via Eventbrite](https://www.eventbrite.com/e/civil-service-lgbt-conference-2022-register-your-interest-tickets-398936779647).
-
-**Registering your interest does not guarantee you a place**. You **should not** book travel or accomodation yet. We will release further information about securing a place soon.
-
-We are asking people to register their interest now so that we can plan the event, and so that you can start to get approvals to attend in your department from your line manager.
-
-**You can only attend this event if you are an LGBT+ civil servant.** Places at the conference are free of charge.
-
-## Travel and subsistence 
-
-We are not able to offer any funding for travel, accommodation or subsistence; this should be covered by your department from their usual learning and development budgets.
 
 ## Help on the day
 
