@@ -2,7 +2,7 @@
 layout: news
 title: Secure your place at the Civil Service LGBT+ Conference 2022
 excerpt: Taking place on Thursday 6th October 2022 at the BEIS Conference Centre.
-date: 2022-08-10T17:02:44.487Z
+date: 2022-08-16T11:00:44.487Z
 author: James Jefferson
 category:
   - conference-2022
