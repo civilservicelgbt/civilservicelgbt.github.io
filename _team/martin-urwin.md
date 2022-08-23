@@ -3,7 +3,7 @@ layout: team
 person-name: Martin Urwin
 role: local organiser
 email: northeast@civilservice.lgbt
-project: North East
+project: Regional Delivery
 region: North East
 image: /assets/images/uploads/martin_urwin.jpg
 ---
