@@ -4,9 +4,9 @@ title: Civil Service at Pride Cymru 2022
 excerpt: Join the Civil Service as we take part in Pride in Cardiff.
 date: 2022-03-23T00:00:00.000Z
 event:
-  deadline: 2022-08-24T14:54:58.517Z
-  end: 2022-08-24T14:54:59.074Z
-  start: 2022-08-24T14:54:59.884Z
+  deadline: 2022-08-19T09:30:00.000Z
+  end: 2022-08-27T14:30:00.000Z
+  start: 2022-08-27T09:30:59.884Z
   location: Cardiff (meeting point at City United Reform Church)
   no-register: Registrations are now closed.
 category:
