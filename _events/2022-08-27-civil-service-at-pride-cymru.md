@@ -4,12 +4,10 @@ title: Civil Service at Pride Cymru 2022
 excerpt: Join the Civil Service as we take part in Pride in Cardiff.
 date: 2022-03-23T00:00:00.000Z
 event:
-  host: Civil Service LGBT+ Network
-  link: ""
+  deadline: 2022-08-19T09:30:00.000Z
+  end: 2022-08-27T14:30:00.000Z
+  start: 2022-08-27T09:30:59.884Z
   location: Cardiff (meeting point at City United Reform Church)
-  start: 2022-08-27T08:30:00.000Z
-  end: 2022-08-27T16:00:12.169Z
-  deadline: 2022-08-19T17:00:00.000Z
   no-register: Registrations are now closed.
 category:
   - pride-2022
@@ -45,7 +43,7 @@ Once the parade is complete there will be an option to attend:
 - Pride event at City Hall (tickets are required and these can be purchased on the gate, but please remember that there is no re-entry and you will have to pay again)
 - the Big Queer Picnic in Sophia Gardens (Free)
 
-## Rules of the Day
+## Rules of the Day
 
 Please remember that you are representing the Civil Service and must follow the Civil Service Code, and Civil Service LGBT+ Network's Standards of Behaviour policy at all times especially when wearing the Civil Service t-shirts.
 
