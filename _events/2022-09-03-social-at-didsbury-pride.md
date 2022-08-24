@@ -1,18 +1,23 @@
 ---
 layout: event
-title: "Social at Didsbury Pride"
-excerpt: "We are organising socials at some of the free Pride events as a way to get to get together to support each other and support the local community."
-date: 2022-05-03T00:00:00.00Z
-category: 
-- north-west
-- pride-2022
+title: Social at Didsbury Pride
+excerpt: We are organising socials at some of the free Pride events as a way to
+  get to get together to support each other and support the local community.
+date: 2022-05-03T00:00:00.000Z
 event:
-  host: "Civil Service LGBT+ Network"
-  link: "https://docs.google.com/forms/d/e/1FAIpQLScU34wOOsNobUyrmIrDA3mST3I-HOLTm8zTf-gKqbUimSmReA/viewform?usp=sf_link"
-  email: "northwest@civilservice.lgbt"
-  location: "St James and Emmanuel church parish gardens, Didsbury"
-  start: 2022-09-03
+  host: Civil Service LGBT+ Network
+  link: https://docs.google.com/forms/d/e/1FAIpQLScU34wOOsNobUyrmIrDA3mST3I-HOLTm8zTf-gKqbUimSmReA/viewform?usp=sf_link
+  email: northwest@civilservice.lgbt
+  location: Meet at the front of the church by the café, St James and Emmanuel
+    Church (Parish Office), 6 Barlow Moor Road, Didsbury M20 6TR
+  start: 2022-09-03T13:00:00.000Z
+  end: ""
+  deadline: 2022-08-31T17:00:10.664Z
+category:
+  - north-west
+  - pride-2022
 ---
+Matt will be identifiable by civil service lanyard. 
 
 The Civil Service LGBT+ Network organises informal networking and social events so that LGBT+ civil servants can meet each other. Our [local organisers](https://www.civilservice.lgbt/team) organise these events in various cities across the country.
 
