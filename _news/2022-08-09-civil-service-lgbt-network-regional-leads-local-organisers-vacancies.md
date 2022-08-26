@@ -9,6 +9,7 @@ The Civil Service LGBT+ Network organises a series of events and socials through
 
 We are run entirely by volunteers. We are looking for additional Regional Leads to join our team for the following regions and nations: 
 
+* East of England
 * East Midlands
 * North East
 * South East
@@ -20,7 +21,7 @@ You can have a look of the role description for our Regional Leads at <https://w
 
 For our current team, including our bios and photos, please visit <https://www.civilservice.lgbt/team/> 
 
-If you are based in one of above areas and are interested in the role, please contact Ed at <ed@civilservice.lgbt>, quoting the following in your subject line:
+If you are based in one of above areas and are interested in the role, please contact Ed at [ed@civilservice.lgbt](mailto:ed@civilservice.lgbt), quoting the following in your subject line:
 
 > Regional Lead + `Your Region/Nation`
 
