@@ -11,7 +11,7 @@ event:
   end: 2022-10-06T22:00:00.000Z
   deadline: 2022-10-06T12:00:26.774Z
   host: ""
-  email: nothwest@civilservice.lgbt
+  email: northwest@civilservice.lgbt
   link: https://docs.google.com/forms/d/e/1FAIpQLScU34wOOsNobUyrmIrDA3mST3I-HOLTm8zTf-gKqbUimSmReA/viewform?usp=sf_link
 category:
   - north-west
