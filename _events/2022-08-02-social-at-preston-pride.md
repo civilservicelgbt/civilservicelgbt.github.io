@@ -20,7 +20,7 @@ event:
   end: 2022-09-24T13:00:00.000Z
   deadline: 2022-09-23T13:00:00.000Z
   host: Bryan Wood, Civil Service LGBT+ Network North West Local Organiser
-  email: nothwest@civilservice.lgbt
+  email: northwest@civilservice.lgbt
   link: https://docs.google.com/forms/d/e/1FAIpQLScU34wOOsNobUyrmIrDA3mST3I-HOLTm8zTf-gKqbUimSmReA/viewform?usp=sf_link
 category:
   - pride
