@@ -8,6 +8,7 @@ author: Matt Walker
 category:
   - pride-2022
   - north-west
+image: /assets/images/uploads/5ebbe0e4-2539-426a-a359-3d7baf123bb1.jpeg
 ---
 Ross, Bryan and I are the North West local organisers for the Civil Service LGBT+ group. We have organised participation in the Pride parades at: 
 
@@ -27,6 +28,10 @@ And we've kept up our regular monthly socials in Liverpool, Manchester and bi-mo
 
 After a very quiet 2020/2021, our Pride season in the North West started in June at Blackpool and [concludes in September at Preston](https://www.civilservice.lgbt/events/). We have covered 4 out of the 5 counties in the North West, and will have organised 15 events over the last four months as well as supporting the Environment Agency at Chester Pride (thank you for having us). 
 
+![Right to left — Ross, Bryan and Matt](/assets/images/uploads/0416eb65-ae5d-4391-97bc-5d5968049cd9.jpeg "Our local organisers for the North West region")
+
+
+
 As a cross-Civil Service group, we have met with some amazing colleagues from around the country and more departments than I knew existed. It has been incredible to network and socialise with new faces but also build on existing relationships too. 
 
 We have been privileged to have been involved in so many people’s ‘First Pride’ stories and touched at how many of the community and our allies want to show solidarity and be visible with us as civil servants. Our numbers have varied from 13 to 103. Each one has required a lot of time and energy but worth every minute when it all comes together – the smiles, joy and positivity really makes it. 
@@ -34,6 +39,8 @@ We have been privileged to have been involved in so many people’s ‘First Pri
 We do all this on top of our day jobs as volunteers and we couldn’t have done it without our helpers in the background; departmental contacts sharing information, colleagues promoting events, as well as those participating and continuing to support our events – so a big thank you too all.
 
 As well as the Civil Service network, [a:gender]((https://www.agender.org.uk/)) – the cross Civil Service trans and intersex network – are so welcoming to us when we meet them at events. The joy of catching up in person with real people has been overwhelming this year.
+
+![The Civil Service group at Liverpool pride](/assets/images/uploads/6320428b-dc60-4e73-aeda-d8987da36b8e.jpeg "The Civil Service group at Liverpool pride")
 
 We do this because we want everyone to have someone to walk with or to and not feel like they are left in the shadows alone, like a lot of us were in the past. I always describe our role as a compass: knowing the right person, team or organisation to point to but also staying on the path till you know where you are.
 
