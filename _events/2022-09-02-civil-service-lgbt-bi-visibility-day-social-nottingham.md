@@ -9,7 +9,8 @@ event:
   end: 2022-09-23T19:15:00.000Z
   deadline: 2022-09-22T17:00:00.000Z
   host: Civil Service LGBT+ Network
-  no-register: EastMidlands@civilservice.lgbt
+  no-register: ""
+  email: EastMidlands@civilservice.lgbt
 category:
   - East Midlands
 ---
