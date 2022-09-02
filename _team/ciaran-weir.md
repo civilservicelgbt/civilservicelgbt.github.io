@@ -3,7 +3,7 @@ layout: team
 person-name: Ciarán Weir
 role: local organiser
 email: NorthernIreland@civilservice.lgbt
-project: Regional Delivery
+project: Northern Ireland
 region: Northern Ireland
 image: /assets/images/uploads/ciaran-weir.jpg
 ---
