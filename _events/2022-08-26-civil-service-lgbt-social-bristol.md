@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Civil Service LGBT+ social – Bristol
-excerpt: Join other LGBT+ civil servants at our social in Bristol.
+excerpt: Join other LGBT+ civil servants at our social in Bristol
 date: 2022-08-26T13:05:40.168Z
 event:
   location: Phoenix Pub, 1 Wellington Buildings, Champion Square, Bristol BS2 9DB
