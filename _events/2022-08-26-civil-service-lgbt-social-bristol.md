@@ -17,4 +17,4 @@ The Civil Service LGBT+ Network organises informal networking and social events 
 
 If you have questions about this event, or you have an idea for a future event, you can contact [our local organisers](/team).
 
-For all the latest updates from the West Midlands region, check the [South West topic page](https://www.civilservice.lgbt/topic/south-west).
+For all the latest updates from the South West region, check the [South West topic page](https://www.civilservice.lgbt/topic/south-west).
