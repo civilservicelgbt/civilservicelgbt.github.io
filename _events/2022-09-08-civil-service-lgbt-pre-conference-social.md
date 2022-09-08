@@ -19,8 +19,6 @@ For more details about the venue, please visit:
 
 <https://www.greeneking-pubs.co.uk/pubs/greater-london/silver-cross/>
 
-
-
-Please note, you will need a ticket to attend the Conference itself on the following day (6th October). For Conference details, please visit:
+This social is open to all Civil Servants. Please note, you will need a ticket to attend the Conference itself on the following day (6th October). For Conference details, please visit:
 
 <https://www.civilservice.lgbt/event/2022-10-06-civil-service-lgbt-conference/>
