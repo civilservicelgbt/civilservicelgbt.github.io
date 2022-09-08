@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ Pre-Conference Social
+title: Civil Service LGBT+ Pre-Conference social
 excerpt: "Please join us for an informal pre-conference social. "
 date: 2022-09-08T13:34:58.552Z
 event:
