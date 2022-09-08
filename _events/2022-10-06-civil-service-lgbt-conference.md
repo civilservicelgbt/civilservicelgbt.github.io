@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ conference
+title: Civil Service LGBT+ Conference
 excerpt: The career development and workplace inclusion conference for LGBT+
   civil servants.
 date: 2022-06-20T00:00:00.000Z
@@ -10,7 +10,7 @@ event:
   location: BEIS Conference Centre, 1 Victoria Street, London, SW1H 0ET
   start: 2022-10-06T09:30:00.000Z
   end: 2022-10-06T16:30:00.000Z
-  deadline: 2022-09-30T00:00:44.159Z
+  deadline: 2022-09-05T00:00:44.159Z
   link: https://cslgbt2022.eventbrite.co.uk
 category:
   - conference-2022
