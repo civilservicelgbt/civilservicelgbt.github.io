@@ -18,3 +18,7 @@ An informal social to meet and talk to other Civil Service LGBT+ colleagues.
 For more details about the venue, please visit: 
 
 <https://www.greeneking-pubs.co.uk/pubs/greater-london/silver-cross/>
+
+This social is open to all Civil Servants. Please note, you will need a ticket to attend the Conference itself on the following day (6th October). For Conference details, please visit:
+
+<https://www.civilservice.lgbt/event/2022-10-06-civil-service-lgbt-conference/>
