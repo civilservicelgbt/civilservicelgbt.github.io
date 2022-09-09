@@ -1,7 +1,6 @@
 ---
 layout: event
-title: Cancelled - Bi+ Masculinities - an event for all LGBT+ civil servants in
-  Bi Visibility Week
+title: Bi+ Masculinities - an event for all LGBT+ civil servants in Bi Visibility Week
 excerpt: >+
   An informative panel event focussing on “Bi+ Masculinities”.  This is an event
   for our lesbian, gay, trans, ace and other colleagues and friends on the
