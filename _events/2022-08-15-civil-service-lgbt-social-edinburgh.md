@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ social – Edinburgh
+title: POSTPONED (New Date TBC) - Civil Service LGBT+ social – Edinburgh
 excerpt: We are very pleased to announce our first social event in Edinburgh
   since Covid.
 date: 2022-08-15T12:00:52.312Z
