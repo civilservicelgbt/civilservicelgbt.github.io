@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Bi+ Masculinities - an event for all LGBT+ civil servants in Bi
-  Visibility Week - POSTPONED
+  Visibility Week - POSTPONED, future date tbc
 excerpt: >+
   Following the sad death of Her Late Majesty Queen Elizabeth II, we are
   postponing this event until after the official mourning period as a mark of
