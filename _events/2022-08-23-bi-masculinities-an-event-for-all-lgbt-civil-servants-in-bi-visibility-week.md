@@ -1,10 +1,11 @@
 ---
 layout: event
-title: Bi+ Masculinities - an event for all LGBT+ civil servants in Bi Visibility Week
+title: Bi+ Masculinities - an event for all LGBT+ civil servants in Bi
+  Visibility Week - POSTPONED
 excerpt: >+
-  An informative panel event focussing on “Bi+ Masculinities”.  This is an event
-  for our lesbian, gay, trans, ace and other colleagues and friends on the
-  rainbow, as well as Bi+ colleagues.
+  Following the sad death of Her Late Majesty Queen Elizabeth II, we are
+  postponing this event until after the official mourning period as a mark of
+  respect. More information to follow.
 
 date: 2022-08-23T17:48:34.837Z
 event:
