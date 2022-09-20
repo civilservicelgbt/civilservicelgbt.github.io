@@ -13,15 +13,13 @@ event:
 ---
 Meet outside Baker Street Kitchen between 1200 and 1300 hours, then we will be heading to Baker and Bedford Street Opposite the Teesside Magistrates courts.
 
+Middlesbrough Pop Up Pride Orange Pip Market Takeover.
 
 An ever-popular artisan street food and entertainment event with a daytime programme of family-friendly performances, events and activities to celebrate Tees Valley's LGBTQ+ community, with stalls, live music, tasty treats, gorgeous gifts and more. 
 
-
 It is not believed that there will be a parade/march, but if there is then details will be posted.
 
-
 In the unlikely event the market is cancelled, it is still intended to go ahead with a social in the Baker Street kitchen.
-
 
 There is an after pride Blackpool take over party at Sapphires Middlesbrough, and should you wish to attend tickets may be booked at:
 [www.ticketsource.co.uk/sapphires-middlesbrough](www.ticketsource.co.uk/sapphires-middlesbrough)
