@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ social – North East
+title: Civil Service LGBT+ social – Middlesbrough
 excerpt: Middlesbrough Pop Up Pride Orange Pip Market Takeover
 date: 2022-09-20T17:16:23.824Z
 event:
