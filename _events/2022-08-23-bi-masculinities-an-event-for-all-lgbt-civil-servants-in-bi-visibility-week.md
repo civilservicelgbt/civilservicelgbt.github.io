@@ -1,18 +1,16 @@
 ---
 layout: event
-title: POSTPONED (New Date TBC) - Bi+ Masculinities - an event for all LGBT+
-  civil servants in Bi Visibility Week
+title: RESCHEDULED - Bi+ Masculinities - an event for all LGBT+ civil servants
 excerpt: >+
-  Following the sad death of Her Late Majesty Queen Elizabeth II, we are
-  postponing this event until after the official mourning period as a mark of
-  respect. More information to follow.
+  Rearranged from 19 September, our Bi Visibility event for all LGBT+ Civil
+  Servants
 
 date: 2022-08-23T17:48:34.837Z
 event:
   location: Online
-  start: 2022-09-19T18:00:34.856Z
-  end: 2022-09-19T19:00:34.872Z
-  deadline: 2022-09-15T12:00:34.884Z
+  start: 2022-10-10T18:00:34.856Z
+  end: 2022-10-10T19:00:34.872Z
+  deadline: 2022-10-08T12:00:34.884Z
   host: Civil Service LGBT+ Network BiSpace Team in collaboration with The
     Environment Agency LGBT+ Network
   email: info@civilservice.lgbt
@@ -22,4 +20,4 @@ category: []
 
 Bi+ men and bi+ masculine non-binary people often experience a heightened level of invisibility and a particular set of false assumptions, compared to bi+ women and bi+ feminine non-binary people.  We have invited an engaging and diverse panel of speakers to share their lived experience, following which there will be opportunity for questions and discussion.
 
-The event will take place at 6pm on Monday 19 September to mark the start of Bi Visibility Week.  Please register your intent to attend by emailing <info@civilservice.lgbt> by noon on Thursday 15th September, following which a calendar invitation will be sent.
+**Originally planned for Bi Visibility Week, this event  has been rearranged to 10 October, and previous people who registered will be emailed in the next couple of days. If you still want to register, please  contact [info@civilservice.lgbt](mailto:info@civilservice.lgbt) by Saturday 8 October, following which a Teams link will be sent.**
