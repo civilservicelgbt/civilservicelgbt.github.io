@@ -15,6 +15,11 @@ redirect_from:
 * Table of contents will generate here
 {:toc}
 
+{:.warning-text}
+> ### Registrations for the mentoring programme are currently closed. 
+> 
+> The programme will re-open in early 2023.
+
 ## Publication description
 
 {{ page.excerpt }}

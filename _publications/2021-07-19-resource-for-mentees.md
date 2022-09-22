@@ -8,13 +8,8 @@ permalink: /publication/resources-for-mentees
 excerpt: "This document includes advice, guidance and resources for mentees taking part in the Civil Service LGBT+ Network mentoring programme."
 ---
 
-<!-- Include the following to generate a Table of Contents -->
 * Table of contents will generate here
 {:toc}
-<!-- Don't touch the Table of Contents above -->
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
 
 
 ## Publication description
@@ -288,7 +283,3 @@ All sources were accessed during  June 2021. Publication dates and links are pro
 </details>
 
 </div>
-
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->
