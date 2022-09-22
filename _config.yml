@@ -266,6 +266,8 @@ collections:
 remote_theme: civilservicelgbt/magenta
 permalink: pretty
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 highlighter: rouge
 sass:
   sass_dir: _sass

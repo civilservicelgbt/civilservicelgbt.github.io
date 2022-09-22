@@ -16,14 +16,8 @@ permalink: /publication/local-organiser-role-description
 # - 
 ---
 
-
-<!-- Include the following to generate a Table of Contents -->
 * Table of contents will generate here
 {:toc}
-<!-- Don't touch the Table of Contents above -->
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
 
 # **About the Role**
         
@@ -96,7 +90,3 @@ You can also review a list of our current Local Organisers, read about their sto
 
 **Come and join us for this exciting journey!**
 
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->
-				

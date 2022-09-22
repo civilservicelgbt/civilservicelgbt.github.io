@@ -9,14 +9,8 @@ permalink: /publication/pride-posters-2019
 excerpt: "We’ve created these posters for pride season 2019."
 ---
 
-<!-- Include the following to generate a Table of Contents -->
 * Table of contents will generate here
 {:toc}
-<!-- Don't touch the Table of Contents above -->
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
-
 
 ## Publication description
 
@@ -40,9 +34,4 @@ This publication is available as a series of PDF files.
 ![](https://www.civilservice.lgbt/images/store/posts/preview-pride-posters-2019.png)
 
 ![](https://www.civilservice.lgbt/images/store/posts/preview-pride-posters-2019-2.png)
-
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->
-
 

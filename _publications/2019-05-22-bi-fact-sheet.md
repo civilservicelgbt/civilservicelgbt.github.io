@@ -10,14 +10,8 @@ excerpt: "We’ve created this fact sheet about bisexuality to raise awareness o
 category: bispace
 ---
 
-<!-- Include the following to generate a Table of Contents -->
 * Table of contents will generate here
 {:toc}
-<!-- Don't touch the Table of Contents above -->
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
-
 
 ## Publication description
 
@@ -110,9 +104,4 @@ Sign up to the mailing list at [www.civilservice.lgbt/join-us](//www.civilservic
 > **Bi Visibility Day**
 >
 > Bi Visibility Day is on 23 September every year. The day celebrates the bisexual community, raises awareness of bisexuality, and highlights biphobia and bi-erasure. 2019 marks the 20th anniversary of the day. Visit [bivisibilityday.com](//bivisibilityday.com) to find out more.
-
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->
-
 

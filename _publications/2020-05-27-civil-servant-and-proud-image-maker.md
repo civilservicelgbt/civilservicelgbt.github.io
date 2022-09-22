@@ -10,13 +10,8 @@ permalink: /publication/civil-servant-and-proud-image-maker
 excerpt: "We’ve created these digital assets for you to download, to keep PrideON in 2020."
 ---
 
-<!-- Include the following to generate a Table of Contents -->
 * Table of contents will generate here
 {:toc}
-<!-- Don't touch the Table of Contents above -->
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
 
 
 ## Publication description
@@ -33,9 +28,4 @@ We have created a package of digital assets for you to use and share around your
 
 ![](https://www.civilservice.lgbt/images/store/posts/PrideON - poster previews.png)
 ![](https://www.civilservice.lgbt/images/store/posts/PrideON Ally - poster previews.png)
-
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->
-
 

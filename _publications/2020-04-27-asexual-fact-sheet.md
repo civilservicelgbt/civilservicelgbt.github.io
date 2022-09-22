@@ -10,14 +10,8 @@ category: acespace
 excerpt: "What’s it like to be asexual (ace) in the Civil Service? We've produced a new fact sheet on asexuality to support ace inclusion in the Civil Service."
 ---
 
-<!-- Include the following to generate a Table of Contents -->
 * Table of contents will generate here
 {:toc}
-<!-- Don't touch the Table of Contents above -->
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
-
 
 ## Publication description
 
@@ -112,9 +106,5 @@ Sign up to the mailing list at [www.civilservice.lgbt/join-us](https://www.civil
 >
 > **The Asexual Visibility and Education Network (AVEN)**
 > hosts the world’s largest online asexual community and a large archive of resources on asexuality. AVEN strives to create open, honest discussion about asexuality among sexual and asexual people alike. Visit [asexuality.org](https://asexuality.org).
-
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->
 
 

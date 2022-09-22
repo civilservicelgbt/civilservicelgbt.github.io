@@ -9,14 +9,8 @@ permalink: /publication/allies-resources
 excerpt: "Want to be a good ally to your LGBT+ colleagues? We’ve produced and collated a range of resources to help you."
 ---
 
-<!-- Include the following to generate a Table of Contents -->
 * Table of contents will generate here
 {:toc}
-<!-- Don't touch the Table of Contents above -->
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
-
 
 ## Publication description
 These resources are designed to help you understand what being an ally is and resources to help. This involves guidance around terminology, why we need allies in the workplace and what allies can do to support.  
@@ -171,7 +165,3 @@ Encourage change if there aren’t LGBT+ policies or training in place to help r
 Start a network if there isn’t one already.
 
 Encourage conversations about LGBT+ issues to promote inclusion in the office – there may be someone around you who isn’t out, and this could make them feel supported and comfortable at work.
-
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->

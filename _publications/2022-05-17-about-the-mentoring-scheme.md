@@ -12,13 +12,8 @@ redirect_from:
 - /publication/about-our-mentoring-programme
 ---
 
-<!-- Include the following to generate a Table of Contents -->
 * Table of contents will generate here
 {:toc}
-<!-- Don't touch the Table of Contents above -->
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
 
 ## Publication description
 
@@ -177,7 +172,3 @@ We have produced the following resources for those participating in the programm
 - [Code of Conduct for mentees and mentors](/publication/mentoring-code-of-conduct)
 
 These resources will be updated regularly throughout the programme.
-
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->

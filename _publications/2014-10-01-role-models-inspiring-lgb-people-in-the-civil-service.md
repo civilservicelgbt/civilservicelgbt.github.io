@@ -9,14 +9,8 @@ permalink: /publication/2014/10/01/role-models-inspiring-lgb-people-in-the-civil
 redirect_from: /2014/10/01/role-models-inspiring-lgb-people-in-the-civil-service/
 ---
 
-<!-- Include the following to generate a Table of Contents -->
 * Table of contents will generate here
 {:toc}
-<!-- Don't touch the Table of Contents above -->
-
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
 
 ## Publication description
 
@@ -33,8 +27,3 @@ The role models featured in this guide are from a broad range of Departments and
 This publication is available as a PDF.
 
 **[Download this publication](https://www.civilservice.lgbt/documents/store/role-models/role-models-guide.pdf)**
-
-
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->

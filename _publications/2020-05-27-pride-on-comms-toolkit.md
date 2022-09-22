@@ -10,14 +10,8 @@ permalink: /publication/prideON-communications-tool-kit-2020
 excerpt: "We’ve created this communications tool kit for you to use during PrideON."
 ---
 
-<!-- Include the following to generate a Table of Contents -->
 * Table of contents will generate here
 {:toc}
-<!-- Don't touch the Table of Contents above -->
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
-
 
 ## Image Maker
 
@@ -50,8 +44,3 @@ We have also created an example email you can send to your colleagues and senior
 ## Social Media
 
 Be sure to tag us on social media and use the hashtag #PrideON and #CivilServicePride. We will share your content throughout the month.
-
-
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->

@@ -9,14 +9,8 @@ excerpt: "This document explains the behaviours and standards that mentors and m
 published: true
 ---
 
-<!-- Include the following to generate a Table of Contents -->
 * Table of contents will generate here
 {:toc}
-<!-- Don't touch the Table of Contents above -->
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
-
 
 ## Publication description
 
@@ -68,6 +62,3 @@ If a mentor or mentee has a concern about the conduct of their partner on this p
 
 If, after raising this with them, a mentor or mentee still has concerns, they should seek to raise this via their usual departmental complaints procedures.
 
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->
