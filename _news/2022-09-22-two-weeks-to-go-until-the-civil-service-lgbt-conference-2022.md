@@ -14,6 +14,14 @@ We’re really excited to be welcoming you to the Civil Service LGBT+ Conference
 
 This update will give you important information you need to know ahead of the conference.
 
+<﻿nav>
+<﻿blockquote markdown="1">
+<h4>Table of Contents</h4>
+* this unordered seed list will be replaced by toc as unordered list
+{:toc}
+<blockquote>
+<﻿/nav>
+
 ## The address
 
 The conference is being held at:
