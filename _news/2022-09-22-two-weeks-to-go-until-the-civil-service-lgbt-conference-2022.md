@@ -16,10 +16,12 @@ This update will give you important information you need to know ahead of the co
 
 <﻿nav>
 <﻿blockquote markdown="1">
-<h4>Table of Contents</h4>
+
+## Table of Contents
 * this unordered seed list will be replaced by toc as unordered list
 {:toc}
-<blockquote>
+
+</blockquote>
 <﻿/nav>
 
 ## The address
