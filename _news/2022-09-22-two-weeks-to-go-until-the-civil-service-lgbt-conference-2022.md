@@ -97,7 +97,7 @@ Instructions on how to sign-up can be found on GOV.UK.
 
 There will be a multifaith prayer room within the BEIS conference centre for delegates to use on the day. This room is non-denominational and is accessible to delegates of all faiths, and of no faith, for individual contemplation and/or prayer.
 
-If you have any specific access requirements please email: conference@civilservice.lgbt.
+If you have any specific access requirements please email: <conference@civilservice.lgbt>.
 
 ## Agenda
 
