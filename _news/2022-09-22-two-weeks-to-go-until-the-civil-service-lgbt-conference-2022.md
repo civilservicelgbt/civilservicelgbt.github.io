@@ -31,7 +31,7 @@ The conference is being held at:
 > BEIS Conference Centre,
 > 1 Victoria Street,
 > London,
-> SW1H 0E. 
+> SW1H 0ET
 
 The conference centre entrance is to the left of the main BEIS entrance.
 
