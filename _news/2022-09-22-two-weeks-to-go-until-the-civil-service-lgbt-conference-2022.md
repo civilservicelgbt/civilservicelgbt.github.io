@@ -99,8 +99,6 @@ There will be a multifaith prayer room within the BEIS conference centre for del
 
 If you have any specific access requirements please email: conference@civilservice.lgbt.
 
---- 
-
 ## Agenda
 
 We are pleased to provide an overview of the agenda:
@@ -142,14 +140,6 @@ An update on the work being led by the Civil Service Inclusive Practice Team on 
 #### Bringing your Whole Self to work
 
 An interactive workshop considering the barriers people face to coming out at work and how we can recognise and feel confident addressing inappropriate behaviour and language that could cause barriers to an inclusive workplace.  
-
-#### Reservists
-
-#### Preventing Burnout
-
-#### Creating confidence
-
-#### Security Vetting for LGBT+ civil servants
 
 #### Listening circles
 
