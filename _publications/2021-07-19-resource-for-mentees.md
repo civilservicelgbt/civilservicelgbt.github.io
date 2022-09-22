@@ -223,6 +223,8 @@ We expect all our mentors and mentees to conduct themselves professionally and i
 
 We've created a [Code of Conduct](/publication/mentoring-code-of-conduct) that explains the behaviours and standards you should be able to expect of your mentors, and what they expect of you as mentees.
 
+---
+
 <div class="footnotes margin-top" role="doc-endnotes" markdown="1">
 
 In addition to drawing on professional experience of those involved in the Civil Service LGBT+ mentoring programme, a number of sources were drawn upon to inform this resource. Use of these sources does not constitute an endorsement of the publisher. These resources are listed below.

@@ -480,7 +480,7 @@ We've created a [Code of Conduct](/publication/mentoring-code-of-conduct) that e
 
 
 
-
+---
 
 <div class="footnotes margin-top" role="doc-endnotes" markdown="1">
 
