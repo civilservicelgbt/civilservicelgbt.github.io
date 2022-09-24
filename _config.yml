@@ -259,6 +259,12 @@ collections:
     defaults:
       values:
         layout: page
+  agendas:
+    output: true
+    permalink: /agenda/:title/
+    defaults:
+      values:
+        layout: agenda
 
 ##################
 # Build settings #
