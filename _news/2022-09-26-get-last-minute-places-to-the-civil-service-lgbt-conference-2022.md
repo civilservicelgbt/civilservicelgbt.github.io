@@ -14,6 +14,13 @@ S﻿ome additional tickets are becoming available due to previously registered a
 
 I﻿f you joined the reserve list, we will email you to remind you to secure a place.
 
+{﻿:.warning-text}
+>﻿ ## Rail strike action – 5 October
+>﻿ 
+>﻿ Some trains are affected by strike action on 5 October 2022; the day before the conference. Trains on the day of the conference are also likely to be affected by strike action in the morning.
+>﻿ 
+>﻿ Please check the latest journey information with your rail operator if you are travelling to London. If you are no longer willing or able to travel due to the strike action, please cancel your place as soon as possible.
+
 ## If you can no longer
 
 I﻿f you want to cancel your place, you can do this directly on the Eventbrite website or, if that doesn't work, email [conference@civilservice.lgbt](mailto:conference@civilservice.lgbt)
