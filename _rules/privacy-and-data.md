@@ -16,14 +16,8 @@ redirect_from:
 - /privacy-policy
 ---
 
-<!-- Include the following to generate a Table of Contents -->
 * Table of contents will generate here
 {:toc}
-<!-- Don't touch the Table of Contents above -->
-
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
 
 The Civil Service LGBT+ Network is a volunteer-led employee network for the UK Civil Service. We follow Civil Service policies and procedures.
 
@@ -114,7 +108,3 @@ If we make changes to the way we process your information, or we identify an iss
 ## How to contact us
 
 Please [contact us](/about/contact-us) if you have any questions about this policy or information we hold about you.
-
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->

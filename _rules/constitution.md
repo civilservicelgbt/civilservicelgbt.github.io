@@ -6,14 +6,8 @@ meta-info: false
 redirect_from: /about/constitution/
 ---
 
-<!-- Include the following to generate a Table of Contents -->
 * Table of contents will generate here
 {:toc}
-<!-- Don't touch the Table of Contents above -->
-
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
 
 ## 1. Name
 
@@ -67,8 +61,3 @@ For non-Chair election issues, any votes in a member’s meeting are conducted o
 ## 7. Amendments
 
 Amendments to this constitution can be made by proposal in a member’s meeting. They will then be discussed and voted on at the next member’s meeting, so as to give member’s time to consider the proposals properly.
-
-
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->

@@ -6,14 +6,9 @@ meta-info: false
 redirect_from: /about/mission-statement/
 ---
 
-<!-- Include the following to generate a Table of Contents -->
+
 * Table of contents will generate here
 {:toc}
-<!-- Don't touch the Table of Contents above -->
-
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
 
 The **Civil Service LGBT+ Network** exists to ensure that each and every one of you can come to work each day feeling safe about being yourself. We do not want anyone to experience, or be in fear of experiencing, discrimination because they have a minority sexual orientation or gender identity. We believe that you will be more effective if you can be yourself at work.
 
@@ -36,8 +31,3 @@ Civil Service, including by raising awareness of the issues affecting LGBT+ civi
 - to facilitate access to learning and development opportunities for LGBT+ civil servants
 
 The objectives are kept under continuous review.
-
-
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->

@@ -9,14 +9,8 @@ redirect_from:
 - /events/standards-of-behaviour
 ---
 
-<!-- Include the following to generate a Table of Contents -->
 * Table of contents will generate here
 {:toc}
-<!-- Don't touch the Table of Contents above -->
-
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
 
 The Civil Service LGBT+ Network exists to ensure that every one can come to work each day feeling safe to be themselves. We do not want anyone to experience, or be in fear of experiencing, discrimination because they have a minority sexual orientation or gender identity. We believe that people will be more effective if they can be themselves at work.
 
@@ -80,7 +74,3 @@ In light of the severity of an issue, we may also:
 - formally escalate an issue internal to the attendees’ department or agency
 
 Individuals affected will have a right to appeal a decision retrospectively, either via the Network’s leadership team or, where formal processes are engaged, through usual departmental procedures.
-
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->
