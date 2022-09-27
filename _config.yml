@@ -259,9 +259,9 @@ collections:
     defaults:
       values:
         layout: page
-  agendas:
+  conference:
     output: true
-    permalink: /agenda/:title/
+    permalink: /conference-agenda/:title/
     defaults:
       values:
         layout: agenda
