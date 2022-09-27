@@ -213,3 +213,21 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
       - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
+      
+  - name: 'agendas'
+    label: 'Conference agendas'
+    folder: '_agendas/'
+    create: true
+    slug: "{{slug}}"
+    preview_path: 'agenda/{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'news' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Category', name: 'category', widget: 'list', required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Featured image', name: 'image', widget: 'image', choose_url: true, required: false }
+      - { label: 'YouTube video URL', name: 'video', widget: 'string', required: false }
+      - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
+      - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
