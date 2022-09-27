@@ -215,7 +215,7 @@ collections:
       - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
       
   - name: 'agendas'
-    label: 'Conference agendas'
+    label: 'Conference agenda items'
     folder: '_conference/'
     create: true
     slug: "{{slug}}"
