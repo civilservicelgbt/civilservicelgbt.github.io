@@ -10,6 +10,8 @@ category: conference-2022
 permalink: /conference
 redirect_from: 
 - /agenda/conference-2022
+- /agenda/conference
+- published: true
 # redirect_to: 
 # - 
 ---
