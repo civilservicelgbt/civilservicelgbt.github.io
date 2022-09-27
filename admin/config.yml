@@ -67,8 +67,8 @@ collections:
       - { label: 'Event start date and time', name: 'start', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm", picker_utc: true, required: true }
       - { label: 'Event end date and time', name: 'end', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm", picker_utc: true, required: false }
       - { label: 'Event registration deadline', name: 'deadline', widget: 'datetime' , date_format: "YYYY-MM-DD", time_format: "HH:mm", picker_utc: true }
-      - { label: 'Event host', name: 'host', widget: 'string', required: false }
-      - { label: 'Event location', name: 'location', widget: 'string', default: 'Civil Service LGBT+ Network' }
+      - { label: 'Event host', name: 'host', widget: 'string', required: false, default: 'Civil Service LGBT+ Network' }
+      - { label: 'Event location', name: 'location', widget: 'string' }
       - { label: 'Registration site or form URL', name: 'link', widget: 'string', required: false }
       - { label: 'Registration email address', name: 'email', widget: 'string', required: false }
       - { label: 'Alternative registration message', hint: 'For example, if participants don’t need to register in advance, include a message here about what to do like; ”No need to register. Just turn up.”', name: 'no-register', widget: 'string', required: false }
@@ -195,7 +195,7 @@ collections:
       - { label: 'Team member role', name: 'role', widget: 'select', options: ['chair', 'vice chair', 'project team', 'local organiser'], default: 'chair', required: true }
       - { label: 'Team email', name: 'email', widget: 'string', required: false }
       - { label: 'Team member project', name: 'project', widget: 'string' }
-      - { label: 'Team member region', name: 'region', options: ['East Midlands', 'London', 'North East', 'North West', 'Northern Ireland', 'Scotland', 'South East', 'South West', 'Wales', 'West Midlands', 'Yorkshire and Humber'], required: false }
+      - { label: 'Team member region', name: 'region', widget: 'select', options: ['East Midlands', 'London', 'North East', 'North West', 'Northern Ireland', 'Scotland', 'South East', 'South West', 'Wales', 'West Midlands', 'Yorkshire and Humber'], required: false }
       - { label: 'Biography', name: 'body', widget: 'markdown', required: true }
       - { label: 'Profile picture', name: 'image', widget: 'image', choose_url: true, required: false }
 
@@ -216,18 +216,14 @@ collections:
       
   - name: 'agendas'
     label: 'Conference agendas'
-    folder: '_agendas/'
+    folder: '_conference/'
     create: true
     slug: "{{slug}}"
     preview_path: 'agenda/{{slug}}'
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'news' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
-      - { label: 'Author', name: 'author', widget: 'string' }
-      - { label: 'Category', name: 'category', widget: 'list', required: false }
+      - { label: 'Event', hint: 'i.e. “conference-2022”', name: 'event', widget: 'string', default: 'conference-2022' }
+      - { label: 'Agenda section', name: 'section', widget: 'select', options: ['agenda', 'after', 'before', 'during', 'logistics', 'plenary', 'speaker', 'thanks', 'welcome', 'workshop'], required: true }
+      - { label: 'Sequence', hint: 'Manually rank order the items in this section. Enter an integer i.e. ‘1’, ‘42’', name: 'sequence', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Featured image', name: 'image', widget: 'image', choose_url: true, required: false }
-      - { label: 'YouTube video URL', name: 'video', widget: 'string', required: false }
-      - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
-      - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
