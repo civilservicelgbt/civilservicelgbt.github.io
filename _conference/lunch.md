@@ -1,8 +1,8 @@
 ---
-title: "12:30 – Lunch"
+title: 12:30 – Lunch
 event: conference-2022
 section: agenda
-sequence: 5
+sequence: "9"
 ---
 
 A light lunch will be provided.
