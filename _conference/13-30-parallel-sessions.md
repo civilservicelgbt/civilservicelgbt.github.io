@@ -1,6 +1,6 @@
 ---
 layout: news
-title: 13:30 – Parallel sessions
+title: 13:30 – Workshop sessions
 event: conference-2022
 section: agenda
 sequence: "10"
