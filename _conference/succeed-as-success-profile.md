@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Succeed as success profiles
+title: Succeed at success profiles
 event: conference-2022
 section: workshop
 ---
