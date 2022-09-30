@@ -4,10 +4,7 @@ event: conference-2022
 section: agenda
 sequence: 2
 ---
+O﻿pening remarks from:
 
-Details about each session, like:
-
-- Name of session (in title above)
-- Short description of session
-
-**Do not include speakers lists or speaker bios** – Use the other sections for this to avoid duplicating content and making it easier if things need to change.
+1. Jim Harra, Permanent Secretary of HM Revenue and Customs and Civil Service LGBT+ Inclusion Champion
+2. J﻿ohn Peart, Chair of the Civil Service LGBT+ Network
