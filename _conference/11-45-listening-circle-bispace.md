@@ -1,6 +1,6 @@
 ---
 layout: news
-title: 11:45 – Listening circle – BiSpace
+title: 11:40 – Listening circle – BiSpace
 event: conference-2022
 section: agenda
 sequence: "6"
