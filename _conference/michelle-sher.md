@@ -2,7 +2,7 @@
 layout: news
 title: Michelle Sher
 event: conference-2022
-section: agenda
+section: speaker
 ---
 **S﻿he/Her**
 
