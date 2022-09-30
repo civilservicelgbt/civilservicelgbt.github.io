@@ -6,7 +6,7 @@ section: speaker
 ---
 **H﻿e/Him**
 
-**Debt Management Officer, Department of Work and Pensions** 
+**Debt Management Officer, Department for Work and Pensions** 
 
 **A﻿O, Counter Fraud**
 
