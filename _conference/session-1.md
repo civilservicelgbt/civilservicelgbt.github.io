@@ -1,5 +1,5 @@
 ---
-title: "10:00 – Session 1"
+title: 10:15 – Opening remarks
 event: conference-2022
 section: agenda
 sequence: 2
