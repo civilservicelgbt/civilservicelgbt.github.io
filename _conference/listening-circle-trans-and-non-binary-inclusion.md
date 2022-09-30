@@ -8,4 +8,4 @@ The Trans and Non-Binary Inclusion team will provide a safe space for trans, non
 
 We will also provide an opportunity to reflect on the importance of trans and non-binary role models and allies at work and how they create an inclusive environment where we can be our authentic selves and allow people to flourish.
 
-L﻿ed by Alan Edwards, Civil Service LGBT+ Network Vice chair for Trans and non-binary inclusion.
+Listening circle facilitated by Alan Edwards, Civil Service LGBT+ Network Vice chair for Trans and non-binary inclusion.
