@@ -2,7 +2,7 @@
 layout: news
 title: Succeed at success profiles
 event: conference-2022
-section: workshop
+section: session
 ---
 A workshop to support civil servants navigate the success profile framework.
 

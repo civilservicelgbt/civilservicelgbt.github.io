@@ -2,7 +2,7 @@
 layout: news
 title: Demystifying Vetting
 event: conference-2022
-section: workshop
+section: session
 ---
 We know that many LGBT+ people are nervous about security vetting and that this can often be a barrier to roles requiring higher levels of security clearance.
 

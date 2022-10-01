@@ -2,7 +2,7 @@
 layout: news
 title: "Listening circle - Ethnic minority inclusion "
 event: conference-2022
-section: workshop
+section: session
 ---
 The Civil Service LGBT+ Network will be hosting an in-person listening circle for LGBT+ Ethnic minorities during the conference. This will be an opportunity to share your experiences and opinions of how being an LGBT+ Ethnic minority have shaped your experience of being a civil servant. 
 

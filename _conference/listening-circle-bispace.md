@@ -2,7 +2,7 @@
 layout: news
 title: Listening circle - BiSpace
 event: conference-2022
-section: workshop
+section: session
 ---
 The BiSpace team will be providing a safe space for Bi, Pan, Queer, Ace/aro and other minority sexual orientations to network across government and build confidence through finding common ground.
 

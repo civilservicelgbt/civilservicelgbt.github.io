@@ -2,7 +2,7 @@
 layout: news
 title: Bringing your whole self to work
 event: conference-2022
-section: workshop
+section: session
 ---
 An interactive workshop considering the barriers people face to coming out at work and how we can recognise and feel confident addressing inappropriate behaviour and language that could cause barriers to an inclusive workplace.
 

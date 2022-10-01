@@ -224,6 +224,6 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'news' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Event', hint: 'i.e. “conference-2022”', name: 'event', widget: 'string', default: 'conference-2022' }
-      - { label: 'Agenda section', name: 'section', widget: 'select', options: ['agenda', 'after', 'before', 'during', 'logistics', 'plenary', 'speaker', 'thanks', 'welcome', 'workshop'], required: true }
+      - { label: 'Agenda section', name: 'section', widget: 'select', options: ['agenda', 'after', 'before', 'during', 'logistics', 'session', 'speaker', 'thanks', 'welcome'], required: true }
       - { label: 'Sequence', hint: 'Manually rank order the items in this section. Enter an integer i.e. ‘1’, ‘42’', name: 'sequence', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }

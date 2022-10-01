@@ -2,7 +2,7 @@
 layout: news
 title: "Listening circle - Trans and non-binary inclusion "
 event: conference-2022
-section: workshop
+section: session
 ---
 The Trans and Non-Binary Inclusion team will provide a safe space for trans, non-binary and genderqueer people to network across government. 
 

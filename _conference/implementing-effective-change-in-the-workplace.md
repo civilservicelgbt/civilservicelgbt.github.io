@@ -2,7 +2,7 @@
 layout: news
 title: Implementing effective change in the workplace
 event: conference-2022
-section: workshop
+section: session
 ---
 In this presentation, you will learn how a LGBT+ civil servant has implemented an effective data driven change within their organisation and the result it had.
 

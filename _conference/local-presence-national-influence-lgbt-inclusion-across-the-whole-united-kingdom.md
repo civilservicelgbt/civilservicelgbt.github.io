@@ -3,7 +3,7 @@ layout: news
 title: Local Presence, National Influence – LGBT+ inclusion across the whole
   United Kingdom
 event: conference-2022
-section: workshop
+section: session
 ---
 In this panel session, you will hear from LGBT+ staff network leaders, representatives and members from different departments across all four nations of the UK. They will share their experiences in organising LGBT+ inclusion activities at departmental, local and national levels and how they are working together as One Civil Service.
 

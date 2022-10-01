@@ -2,7 +2,7 @@
 layout: news
 title: Listening circle - Women's inclusion
 event: conference-2022
-section: workshop
+section: session
 ---
 The Civil Service LGBT+ Network will be hosting an in-person listening circle for LGBT+ women during the conference. This will be an opportunity to share your experiences and opinions of how being an LGBT+ women have shaped your experience of being a civil servant. 
 

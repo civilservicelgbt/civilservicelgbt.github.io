@@ -2,7 +2,7 @@
 layout: news
 title: Tackling Bullying, Harassment and Discrimination
 event: conference-2022
-section: workshop
+section: session
 ---
 An update on the work being led by the Civil Service Inclusive Practice Team on Bullying, Harassment and Discrimination. 
 

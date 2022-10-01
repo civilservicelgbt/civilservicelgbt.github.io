@@ -2,7 +2,7 @@
 layout: news
 title: Bringing your authentic self to work - reflections from LGBT+ civil servants
 event: conference-2022
-section: plenary
+section: session
 ---
 In this panel session, you will gain an insight into the work practices of different LGBT+ civil servants in how they have navigated their sexuality, gender, and identity throughout the course of their career.
 
