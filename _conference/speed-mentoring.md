@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Speed Mentoring
+title: Speed mentoring
 event: conference-2022
 section: session
 ---
