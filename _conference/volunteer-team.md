@@ -1,5 +1,5 @@
 ---
-title: Our volunteers
+title: Our volunteers and participants
 event: conference-2022
 section: thanks
 ---
