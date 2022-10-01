@@ -4,7 +4,7 @@ title: Sam des Forges
 event: conference-2022
 section: speaker
 ---
-**S﻿he/Her**
+**She/Her**
 
 **Director of Diversity & Inclusion, Ministry of Defence**
 

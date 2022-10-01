@@ -11,7 +11,7 @@ Representing our LGBT+ colleagues and networks from Wales, England, Scotland and
 
 You will also learn how they overcome geographical barriers to support our LGBT+ colleagues regardless of where they are. The panel will also share some best practices on how joint initiatives (e.g. Pride celebrations) and outcomes have been achieved.
 
-O﻿n the panel we are joined by: 
+On the panel we are joined by: 
 
 * Derek Bradford, HM Revenue and Customs PRISM Glasgow Lead and Civil Service LGBT+ Network Co-Lead for Scotland
 * Bethan Cable, Pride in Crown Commercial Service (LGBTQ+) Network Vice Chair and Civil Service LGBT+ Network Co-Lead for Wales

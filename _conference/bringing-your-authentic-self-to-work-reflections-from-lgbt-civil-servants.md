@@ -9,8 +9,8 @@ In this panel session, you will gain an insight into the work practices of diffe
 On the panel we are joined by: 
 
 * Emily Miles, Chief Executive, Foods Standards Agency 
-* J﻿onathon Duff, Regional Director, East of England, Department for Education
-* M﻿eera Patel, Senior Policy Advisor, Foreign Policy and National Security Secretariat,  Cabinet Office
-* S﻿arah Bee, Registration Officer, His Majesty's Land Registry
+* Jonathon Duff, Regional Director, East of England, Department for Education
+* Meera Patel, Senior Policy Advisor, Foreign Policy and National Security Secretariat,  Cabinet Office
+* Sarah Bee, Registration Officer, His Majesty's Land Registry
 
-N﻿igel Patrick, Head of Scotland Team, Union & Constitution Group, Department for Levelling Up, Housing & Communities is facilitating
+Nigel Patrick, Head of Scotland Team, Union & Constitution Group, Department for Levelling Up, Housing & Communities is facilitating

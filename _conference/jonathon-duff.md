@@ -4,7 +4,7 @@ title: Jonathon Duff
 event: conference-2022
 section: speaker
 ---
-**H﻿e/Him**
+**He/Him**
 
 **Regional Director, East of England, Department for Education**
 

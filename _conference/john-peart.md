@@ -4,7 +4,7 @@ title: John Peart
 event: conference-2022
 section: speaker
 ---
-**H﻿e/Him**
+**He/Him**
 
 **Chair of the Civil Service LGBT+ Network; Head of Digital Identity Trust and Governance at the Department for Digital, Culture, Media and Sport**
 

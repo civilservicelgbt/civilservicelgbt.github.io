@@ -4,11 +4,11 @@ title: Michelle Sher
 event: conference-2022
 section: speaker
 ---
-**S﻿he/Her**
+**She/Her**
 
 **Secondments Lead, Cabinet Office**
 
-**G﻿rade 7, Human Resources**
+**Grade 7, Human Resources**
 
 Michelle Sher is a CIPD qualified HR professional who has worked in a variety of HR policy and Learning and Development roles in her (almost) 20 years in the Civil Service. She most recently delivered HR priority reform projects and has just taken up the role of lead for the cross-Civil Service Secondments Unit.
 

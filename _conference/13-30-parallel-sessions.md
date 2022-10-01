@@ -1,6 +1,6 @@
 ---
 layout: news
-title: 13:30 – Workshop sessions
+title: "13:30 – Workshop sessions"
 event: conference-2022
 section: agenda
 sequence: "10"
@@ -10,7 +10,7 @@ Choose from 4 parallel sessions taking place in the plenary and breakout rooms a
 Sessions include:
 
 * Succeeding at Success Profiles
-* B﻿ringing your whole self to work
+* Bringing your whole self to work
 * Tackling bullying, harassment and discrimination
 * Implementing data-driven change
 

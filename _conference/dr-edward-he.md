@@ -4,11 +4,11 @@ title: Dr Edward He
 event: conference-2022
 section: speaker
 ---
-**H﻿e/Him**
+**He/Him**
 
 **Business Change Manager, Ministry of Defence**
 
-**S﻿EO, Science and Engineering**
+**SEO, Science and Engineering**
 
 Edward joined the Civil Service in January 2019. He finds it is a very inclusive and diverse place to work for. Edward has previously worked in R&D, Higher Education, the heavy industry, including the steelworks, oil & gas and aviation sectors.
 

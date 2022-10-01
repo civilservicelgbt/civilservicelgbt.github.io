@@ -4,9 +4,9 @@ title: Sandra Quale
 event: conference-2022
 section: speaker
 ---
-**H﻿M Revenue Customs**
+**HM Revenue Customs**
 
-**H﻿uman Resources** 
+**Human Resources** 
 
 Sandra has worked for HMRC for a lifetime alongside her time in the Army Reserve (Royal Signals and AGC). Sandra has played has and continues to be an active member of a:gender of which she was Chair and a lead in establishing the HMRC PRISM network. Sandra currently works in the Equality, Diversity and Inclusion team covering Gender-Identity. \
 

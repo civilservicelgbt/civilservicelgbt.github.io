@@ -1,6 +1,6 @@
 ---
 layout: news
-title: 14:15 – Speed mentoring
+title: "14:15 – Speed mentoring"
 event: conference-2022
 section: agenda
 sequence: "11"

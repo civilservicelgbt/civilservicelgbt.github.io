@@ -4,7 +4,7 @@ title: Emily Miles
 event: conference-2022
 section: speaker
 ---
-**S﻿he/Her**
+**She/Her**
 
 **Chief Executive, Food Standards Agency**
 

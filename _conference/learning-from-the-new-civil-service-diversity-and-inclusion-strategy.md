@@ -6,4 +6,4 @@ section: session
 ---
 A presentation on the new Civil Service Diversity and Inclusion Strategy, with tips on how to make the most of it and what you can do to support the implementation of it.
 
-L﻿ed by Laura Shaw, Head of Inclusive Practice, Civil Service HR, Cabinet Office
+Led by Laura Shaw, Head of Inclusive Practice, Civil Service HR, Cabinet Office
