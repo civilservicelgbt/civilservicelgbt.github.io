@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Demystifying Vetting
+title: Demystifying security vetting for LGBT+ civil servants
 event: conference-2022
 section: session
 ---
