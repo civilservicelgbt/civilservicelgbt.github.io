@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Tiger Stroud
+title: Tiger Strode
 event: conference-2022
 section: speaker
 ---
