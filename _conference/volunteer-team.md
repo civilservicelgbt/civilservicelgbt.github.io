@@ -5,8 +5,9 @@ section: thanks
 ---
 We would like to thank the volunteers who have organised this event, including:
 
-* James Jefferson, Vice-Chair, Civil Service LGBT+ Conference
-* Mark Harrop
+* James Jefferson, Vice-Chair, Conference, Civil Service LGBT+ Network
+* Mark Harrop, Conference Project team, Civil Service LGBT+ Network
+* J﻿ohn Peart, Chair, Civil Service LGBT+ Network
 
 Our on the day volunteer logistical team:
 
