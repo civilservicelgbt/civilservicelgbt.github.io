@@ -14,7 +14,7 @@ It has been a pleasure to organise this conference for you, with the support of 
 
 We have attendees from all over the UK, of all grades and from over 20 professions, so the opportunities to network are endless. I encourage you all to maximise the value of this in person conference, speak to someone new and share your learning with colleagues on the day, as well as back in your departments.
 
-I look forward to meeting you all throughout the day. For those that are unable to join in person, pleased be assured we will be running a similar event online later this year.
+I look forward to meeting you all throughout the day. For those that are unable to join in person, please be assured we will be running a similar event online later this year.
 
 **James Jefferson** \
 **Vice-Chair – Conference, Civil Service LGBT+ Network**
