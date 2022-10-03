@@ -1,6 +1,6 @@
 ---
 layout: news
-title: What else to bring
+title: What else you could bring
 event: conference-2022
 section: logistics
 sequence: "7"
