@@ -20,4 +20,4 @@ On the panel we are joined by:
 * Tiger Strode, a:gender Scotland Representative
 * Matthew Walker, Department for Work and Pensions Pride member and Civil Service LGBT+ Network Co-Lead for North West England
 
-Dr Edward He, Ministry of Defence shOUT Network Member and Civil Service LGBT+ Network Vice Chair is facilitating.
+Ed, Civil Service LGBT+ Network Vice Chair is facilitating.
