@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ social - Newcastle
+title: Civil Service LGBT+ social – Newcastle
 excerpt: Join other LGBT+ civil servants at our social in Newcastle.
 date: 2022-10-14T11:00:04.462Z
 event:
