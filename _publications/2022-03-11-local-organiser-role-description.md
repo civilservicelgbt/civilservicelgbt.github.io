@@ -1,29 +1,20 @@
 ---
-# Adding or removing a '#' in front of a line will toggle that information off and on from being processed. 
-
 layout: publication
-title: "Local Organiser role description"
-excerpt: "This document describes the role of our Local Organisers. It also provides some examples of the events and activities organised by them."
-date: 2022-03-11T00:00:00.00Z
-author: "Civil Service LGBT+ Network"
-# category: 
-# - 
-# image: ""
+title: Local Organiser role description
+excerpt: This document describes the role of our Local Organisers. It also
+  provides some examples of the events and activities organised by them.
+date: 2022-03-11T00:00:00.000Z
+author: Civil Service LGBT+ Network
 permalink: /publication/local-organiser-role-description
-# redirect_from: 
-# - 
-# redirect_to: 
-# - 
 ---
-
 * Table of contents will generate here
-{:toc}
+  {:toc}
 
 # **About the Role**
-        
+
 The [Civil Service LGBT+ Network](https://www.civilservice.lgbt/)’s Local Organisers (Regional Leads) are a vital part of the Network. They coordinate between departmental networks in their regions, help organise socials and deliver events close to you.
 
-Thanks to their hard work, our regional teams are growing from strength to strength. We now have dedicated teams of volunteers covering Scotland, Wales and large parts of England. We have an ambitious plan to grow our teams to cover all parts of the UK in 2022. We want to expand our local presence and enhance our national influence to help make the Civil Service the most inclusive and diverse employer in the UK. You can be a part of this exciting journey! 
+Thanks to their hard work, our regional teams are growing from strength to strength. We now have dedicated teams of volunteers covering all nations of the UK, including Scotland, Wales, Northern Ireland and large parts of England. We have an ambitious plan to grow our teams to cover all parts of the UK in 2022. We want to expand our local presence and enhance our national influence to help make the Civil Service the most inclusive and diverse employer in the UK. You can be a part of this exciting journey!
 
 You can read our Regional Plan at [Local presence. National influence](https://www.civilservice.lgbt/news/2021/11/24/local-presence-national-influence).
 
@@ -41,7 +32,7 @@ Some activities that our Local Organisers arrange include:
 •	Organising monthly (or regular) socials:
   o	Finding the venues.
   o	Setting up the time and date.
-  o	Informing the Network (by emailing <info@civilservice.lgbt>) about your events so that they can be published on our website and newsletters.
+  o	Informing the Network (by emailing [info@civilservice.lgbt](mailto:info@civilservice.lgbt)) about your events so that they can be published on our website and newsletters.
   o	These socials are reoccurring events and not hard to set up, for examples, socials in Birmingham are currently held on the first Thursday evening of each month. You can review a list of our current socials at Events.
 
 •	Supporting the delivery of annual Pride activities in your region:
@@ -85,8 +76,7 @@ Your work can also contribute to your departmental D&I objective.
 
 # **Where do I start?**
 
-If you are interested, please email us at <Ed@civilservice.lgbt> quoting “Local Organisers + Your Region”. We will then arrange an informal chat with you to talk you through the role.
+If you are interested, please email us at [Ed@civilservice.lgbt](mailto:Ed@civilservice.lgbt) quoting “Local Organisers + Your Region”. We will then arrange an informal chat with you to talk you through the role.
 You can also review a list of our current Local Organisers, read about their stories and find out about our current vacancies at [Our team](https://www.civilservice.lgbt/team/).
 
 **Come and join us for this exciting journey!**
-
