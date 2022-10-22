@@ -1,3 +1,12 @@
+- title: "It's Ace Awareness Week."
+  text: "If you're ace or aro, join us at AceSpace."
+  link-title: "Find out more"
+  url: "/topic/acespace"
+  dates:
+  - start: 2022-10-22
+    end: 2022-10-30
+  background: black
+
 - title: "Pride 2022."
   text: "Join us at Pride events across the country and online."
   link-title: "Find out more"
