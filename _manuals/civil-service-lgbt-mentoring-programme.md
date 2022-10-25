@@ -11,14 +11,10 @@ meta-info: false
 # redirect_to: 
 # - 
 published: true
----
+--- 
 
-<!-- Include the following to generate a Table of Contents -->
 * Table of contents will generate here
 {:toc}
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove code above -->
 
 ## About this publication
 
@@ -669,7 +665,3 @@ A GOV.UK Notify message template has been produced as a starting point for all m
 > GOV.UK Notify template
 > 
 > To gain access to template, please email <mentoring@civilservice.lgbt>
-
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->
