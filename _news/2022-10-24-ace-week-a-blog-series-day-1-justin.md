@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Ace Week - A Blog Series - Day 1, Justin
+title: "Ace Week: Day 1 – Justin"
 excerpt: "This week (23-30 October) is Ace  Week, formerly Ace Awareness
   Week.  We will be bringing you a number of blogs from Ace civil servants to
   celebrate and share their experiences. "
