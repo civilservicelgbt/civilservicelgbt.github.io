@@ -4,6 +4,8 @@ title: "Ace Week: Day 2 – The Barefoot Backpacker"
 excerpt: The second in our Ace Week blog series, a Gen X ace tells their story
 date: 2022-10-25T08:41:15.990Z
 author: '"The Barefoot Backpacker" from ONS'
+category:
+  - acespace
 ---
 *Asexuality and Age – by Ace icon “The Barefoot Backpacker” from The Office of National Statistics*
 
