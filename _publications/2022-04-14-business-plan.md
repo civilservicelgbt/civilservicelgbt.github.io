@@ -24,6 +24,7 @@ objectives:
   - name: "Jonathan Kerr"
   - name: "Dee"
   - name: "Tom Seddon"
+  - name: "Rachael Williams"
   milestones:
   - milestone: "Recruit a lead vice-chair for this work"
     date: 2021-12-31T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
@@ -33,13 +34,13 @@ objectives:
     complete: true
   - milestone: "Conclude the 2021 mentoring programme"
     date: 2022-05-01T00:00:00.00Z 		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    complete: true
   - milestone: "Survey participants in the 2021 mentoring programme"
     date: 2022-05-01T00:00:00.00Z 		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    complete: true
   - milestone: "Publish lessons learnt and changes to the 2022 mentoring programme"
     date: 2022-06-01T00:00:00.00Z 		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    complete: true
   - milestone: "Create a digital tool to improve the speed of the matching process"
     date: 2022-02-01T00:00:00.00Z     # YYYY-MM-DD – target date for achieving milestone
     complete: true
@@ -49,22 +50,19 @@ objectives:
     complete: false
   - milestone: "Open registrations the 2022 mentoring programme"
     date: 2022-05-01T00:00:00.00Z 		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    complete: true
   - milestone: "Close the registration window for the 2022 mentoring programme"
     date: 2022-06-01T00:00:00.00Z 		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    complete: true
   - milestone: "Run induction events for mentors and mentees"
     date: 2022-07-01T00:00:00.00Z 		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    complete: true
   - milestone: "Concluding speed matching and send information to participants"
     date: 2022-07-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
-  - milestone: "Survey participants after speed matching has taken place"
+    complete: true
+  - milestone: "Survey participants before speed matching has taken place"
     date: 2022-07-01T00:00:00.00Z 		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
-  - milestone: "Survey participants after speed mentoring has taken place"
-    date: 2022-08-01T00:00:00.00Z 		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    complete: true
   - milestone: "Conclude the 2022 mentoring programme"
     date: 2022-12-01T00:00:00.00Z 		# YYYY-MM-DD – target date for achieving milestone
     complete: false
@@ -94,32 +92,35 @@ objectives:
     complete: true
   - milestone: "Scope out content of conference"
     date: 2022-05-01T00:00:00.00Z
-    complete: false
+    complete: true
   - milestone: "Agree a venue (if in person) and finalise date"
     date: 2022-04-01T00:00:00.00Z
     complete: true
   - milestone: "Begin securing speaks and facilitators"
     date: 2022-05-01T00:00:00.00Z
-    complete: false
+    complete: true
   - milestone: "Agree an agenda and outcomes for the conference"
     date: 2022-07-01T00:00:00.00Z
-    complete: false
+    complete: true
   - milestone: "Design and produce conference materials and communications products"
     date: 2022-09-01T00:00:00.00Z
-    complete: false
+    complete: true
   - milestone: "Open registrations for the conference"
     date: 2022-06-01T00:00:00.00Z
-    complete: false
+    complete: true
   - milestone: "Publicise conference across the Civil Service"
     date: 2022-06-01T00:00:00.00Z
-    complete: false
+    complete: true
   - milestone: "Close registrations for the conference"
     date: 2022-09-01T00:00:00.00Z
-    complete: false
+    complete: true
   - milestone: "Finalise agenda, sessions and logistics"
     date: 2022-09-01T00:00:00.00Z
-    complete: false
-  - milestone: "Hold the 2022 conference"
+    complete: true
+  - milestone: "Hold the 2022 conference in person"
+    date: 2022-10-01T00:00:00.00Z
+    complete: true
+  - milestone: "Hold the a similar conference online for those who were not able to attend in person"
     date: 2022-10-01T00:00:00.00Z
     complete: false
 
@@ -254,10 +255,10 @@ objectives:
   milestones:
   - milestone: "Recruit a lead vice-chair for this work"
     date: 2022-07-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    complete: true
   - milestone: "Investigate the needs of LGBT+ women civil servants"
     date: 2022-07-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    complete: true
   - milestone: "Develop a new programme for LGBT+ women"
     date: 2022-09-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
     complete: false
@@ -353,13 +354,13 @@ objectives:
     complete: true
   - milestone: "Confirm registrations for Pride events with participation limits, for example Pride in London (if applicable)"
     date: 2022-06-01T00:00:00.00Z
-    complete: false
+    complete: true
   - milestone: "Publish online events programme"
     date: 2022-06-01T00:00:00.00Z
     complete: false
   - milestone: "Take part in Pride events across the UK (if applicable)"
     date: 2022-08-01T00:00:00.00Z
-    complete: false
+    complete: true
   - milestone: "Hold a set of online Pride events during Summer 2022"
     date: 2022-08-30T00:00:00.00Z
     complete: false
@@ -416,7 +417,7 @@ objectives:
     complete: false
   - milestone: "Improve how local events and activities are publicised across the Network"
     date: 2022-03-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    complete: true
   - milestone: "Expand the local organiser team, recruiting volunteers for Yorkshire and Humberside, East Midlands, West Midlands, East of England and Northern Ireland and increasing the number of organisers in each region"
     date: 2022-06-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
     complete: true
@@ -435,7 +436,7 @@ objectives:
     date: 2022-03-31T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
     complete: false
   - milestone: "Establish quarterly “all hands” meetings where the whole volunteer team can come together to share their work."
-    date: 2022-07-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
+    date: 2023-01-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
     complete: false
 
 - objective: "Networks"	# Name of objective
@@ -452,10 +453,10 @@ objectives:
     complete: true
   - milestone: "Hold April 2022 Leaders of Networks forum"
     date: 2022-04-18T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    complete: true
   - milestone: "Hold July 2022 Leaders of Networks forum"
     date: 2022-07-21T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    complete: true
   - milestone: "Hold October 2022 Leaders of Networks forum"
     date: 2022-10-28T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
     complete: false
@@ -512,7 +513,7 @@ This document explains our priorities and our programmes of work. It also record
 
 ## Latest updates
 
-This business plan was updated to reflect our latest plans and performance on 14 April 2022.
+This business plan was updated to reflect our latest plans and performance on 26 October 2022.
 
 ## How this will be delivered
 
