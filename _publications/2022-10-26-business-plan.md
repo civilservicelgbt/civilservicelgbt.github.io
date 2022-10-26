@@ -1,6 +1,6 @@
 ---
 layout: business-plan
-date: 2022-04-14T00:00:00.00Z # YYYY-MM-DD
+date: 2022-10-26T00:00:00.00Z # YYYY-MM-DD
 title: "Our work and programmes"
 excerpt: "This document explains the work and programmes that we have planned, and our progress in delivering them. It will be updated as our plans change and work develops."
 author: "Civil Service LGBT+ Network"
