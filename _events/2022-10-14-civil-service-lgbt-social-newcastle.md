@@ -8,11 +8,12 @@ event:
   start: 2022-11-03T17:00:00.000Z
   end: 2022-11-03T19:30:00.000Z
   deadline: 2022-11-02T16:00:00.000Z
-  location: Central Newcastle - TBC
+  location: Coffee Trader Newcastle, Queens Square, off Northumberland Street,
+    Newcastle Upon Tyne, NE1 8ED
   link: ""
   email: northeast@civilservice.lgbt
 category:
-  - North East
+  - North-East
 ---
 Join other LGBT+ civil servants at our social in Newcastle.
 
