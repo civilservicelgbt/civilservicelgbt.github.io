@@ -16,8 +16,6 @@ category:
 ---
 The Civil Service LGBT+ Network organises informal networking and social events so that LGBT+ civil servants can meet each other. Our [local organisers](/team) organise these events in various cities across the country.
 
-Our Manchester socials take place on the **second Tuesday of each month**. 
-
 If you have questions about this event, or you have an idea for a future event, you can contact our [North West local organisers](mailto:northwest@civilservice.lgbt).
 
 For all the latest updates from the North West region, check the [North West topic page](/topic/north-west)
