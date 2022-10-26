@@ -9,6 +9,8 @@ permalink: "/mentoring/registrations-closed"
 redirect_from:
 - /mentoring/register-as-a-mentee
 - /mentoring/register-as-a-mentor
+- /register-as-a-mentor
+- /register-as-a-mentee
 
 published: true
 
