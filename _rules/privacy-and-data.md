@@ -12,7 +12,7 @@ redirect_from:
   - /privacy-policy
 date: 2018-03-17T00:00:00.000Z
 title: Your privacy and data
-meta-info: "false"
+meta-info: "true"
 ---
 
 * Table of contents will generate here
