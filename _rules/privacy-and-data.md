@@ -1,19 +1,18 @@
 ---
 layout: publication
-title: Your privacy and data
-date: 2018-03-17T00:00:00.00Z
-excerpt: "This policy explains what we do with your data."
+excerpt: This policy explains what we do with your data.
 author: Civil Service LGBT+ Network
-
 permalink: /our-rules/privacy-and-data
-
 redirect_from:
-- /about/your-data
-- /about/your-data/
-- /privacy-and-data
-- /your-data
-- /your-privacy
-- /privacy-policy
+  - /about/your-data
+  - /about/your-data/
+  - /privacy-and-data
+  - /your-data
+  - /your-privacy
+  - /privacy-policy
+date: 2018-03-17T00:00:00.000Z
+title: Your privacy and data
+meta-info: "false"
 ---
 
 * Table of contents will generate here
@@ -29,7 +28,7 @@ We collect website usage information on our websites. Our analytics are non-inva
 
 When you register as a member of the Civil Service LGBT+ Network using our [registration form](/join-us) we collect some personal data about you. We also collect information from you when you register for our events or complete voluntary surveys.
 
-When registering for any of our services or to attend our  events, you may be asked to enter your name and e-mail address, and other information about you.
+When registering for any of our services or to attend our events, you may be asked to enter your name and e-mail address, and other information about you.
 
 ## How will we use the information about you?
 
@@ -48,11 +47,11 @@ So that we can provide you with services, we use your data when:
 
 In all cases, we use this data so that we can provide you with services or information that are relevant to you as an LGBT+ civil servant, ally or other person interested in our work, and inline with [our constitution](/about/constitution)[^lawful-basis].
 
-[^lawful-basis]: We process this data on the basis of Article 6(1)(a) and 6(1)(f) of the General Data Protection Regulation of the European Union.
+[^lawful-basis]: We process this data on the basis of Article 6(1)(a) and 6(1)(f) of the UK General Data Protection Regulation. 
 
 Where we collect sensitive personal data, like information about your sexual orientation, gender identity, ethnicity or whether you have a disability, this is processed on the same basis[^special-cat-data].
 
-[^special-cat-data]: We process this data on the basis of Article 9(2)(a) and 9(2)(d) of the General Data Protection Regulation of the European Union.
+[^special-cat-data]: We process this data on the basis of Article 9(2)(a) and 9(2)(d) of the UK General Data Protection Regulation. 
 
 We will not share your personal information with other organisations for marketing purposes.
 
