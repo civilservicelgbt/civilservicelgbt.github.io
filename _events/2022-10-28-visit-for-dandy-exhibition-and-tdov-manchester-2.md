@@ -1,7 +1,7 @@
 ---
 layout: event
-title: Visit for Dandy Exhibition and TDOV – Manchester
-excerpt: A visit for Dandy Exhibition and TDOV.
+title: Visit for Dandy Exhibition and TDOR – Manchester
+excerpt: A visit for Dandy Exhibition and Trans Day of Remembrance.
 date: 2022-10-28T11:39:24.705Z
 event:
   host: ""
