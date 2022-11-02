@@ -1,11 +1,13 @@
 ---
 layout: publication
-author: Civil Service LGBT+ Network
-date: '2021-07-19'
-category: ["mentoring"]
 title: "Civil Service LGBT+ mentoring programme: advice and resources for mentees"
+excerpt: This document includes advice, guidance and resources for mentees
+  taking part in the Civil Service LGBT+ Network mentoring programme.
+date: 2021-07-19
+author: Civil Service LGBT+ Network
+category:
+  - mentoring
 permalink: /publication/resources-for-mentees
-excerpt: "This document includes advice, guidance and resources for mentees taking part in the Civil Service LGBT+ Network mentoring programme."
 ---
 
 * Table of contents will generate here
@@ -185,6 +187,14 @@ The resources cited below require a Civil Service Learning account, which all Ci
 These are some resources that you might find helpful when thinking about your mentoring relationship.
 
 #### Resources
+
+
+{:.document-box}
+> How to Ask Someone to be Your Mentor
+>
+> Article by Novoresume
+>
+> [Read this article (external site)](https://novoresume.com/career-blog/how-to-ask-someone-to-be-your-mentor)
 
 {:.document-box}
 > How do you find the right mentor?
