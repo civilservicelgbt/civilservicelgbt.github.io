@@ -15,7 +15,7 @@ category:
   - non-binary
   - tdor
 ---
-A joint workshop between the HMRC PRISM LGBT+ network and a:gender for Trans Day of Remembrance.
+**A joint workshop between the HMRC PRISM LGBT+ network and a:gender for Trans Day of Remembrance.**
 
 The workshop covers the following topics:
 
