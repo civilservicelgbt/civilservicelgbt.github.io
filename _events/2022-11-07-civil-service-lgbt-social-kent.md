@@ -11,7 +11,7 @@ event:
   email: SouthEast@civilservice.lgbt
   location: The Drapers Arms, 1-2 Sun Street, Canterbury, Kent, CT1 2HX
 category:
-  - South East
+  - South-East
 ---
 Join other LGBT+ civil servants at our social in Kent.
 
