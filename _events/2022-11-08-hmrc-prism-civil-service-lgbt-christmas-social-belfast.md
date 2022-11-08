@@ -13,6 +13,8 @@ event:
 category:
   - Northern-Ireland
 ---
+Join other LGBT+ civil servants at our Christmas social in Belfast. 
+
 Time: 17:00 - 19:30
 
 Meet around the Lounge Area behind bar. 
@@ -21,4 +23,4 @@ Members are welcome to stay on after this time. This is an accessible area.
 
 Theme: Christmas
 
-As it's Christmas Jumper day the next day, you are encouraged to wear one (but it's optional).
+As it's Christmas Jumper day the next day, you are enouraged to wear one (but it's optional).
