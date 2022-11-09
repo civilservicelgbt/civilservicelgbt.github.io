@@ -9,7 +9,8 @@ event:
   end: 2022-11-22T12:30:00.000Z
   deadline: 2022-11-18T00:00:00.000Z
   link: https://www.eventbrite.co.uk/e/agender-workshop-tickets-440799742897
-  location: HMRC, 1 Atlantic Square, Glasgow, G2 8HS or online via MS Teams
+  location: Business Events Centre (BEC), 1 Atlantic Square, 21 York Street,
+    Glasgow, G2 8HS or online via MS Teams
 category:
   - Trans
 ---
