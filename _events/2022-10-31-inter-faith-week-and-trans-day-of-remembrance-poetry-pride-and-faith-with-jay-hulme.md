@@ -14,6 +14,8 @@ event:
   link: https://www.eventbrite.co.uk/e/inter-faith-week-and-tdor-poetry-pride-and-faith-with-jay-hulme-tickets-452020775307
   email: PrideInCCS@crowncommercial.gov.uk
   location: Online
+category:
+  - tdor
 ---
 J﻿oin the Crown Commercial Service's Pride and Faith & Belief Networks for a joint event to mark Inter-Faith Week, Trans Awareness Week and Trans Day of Remembrance.
 
