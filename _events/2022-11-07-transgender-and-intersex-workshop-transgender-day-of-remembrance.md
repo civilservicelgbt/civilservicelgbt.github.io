@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Transgender and Intersex workshop - Transgender day of Remembrance
+title: "Transgender and Intersex Inclusion workshop: Transgender day of Remembrance"
 excerpt: A joint workshop between the HMRC PRISM LGBT+ network and a:gender for TDOR
 date: 2022-11-07T09:24:23.078Z
 event:
