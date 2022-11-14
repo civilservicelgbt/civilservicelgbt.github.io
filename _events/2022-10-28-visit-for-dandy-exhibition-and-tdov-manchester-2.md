@@ -4,7 +4,7 @@ title: Visit for Dandy Exhibition and TDOR – Manchester
 excerpt: A visit for Dandy Exhibition and Trans Day of Remembrance.
 date: 2022-10-28T11:39:24.705Z
 event:
-  host: ""
+  host: external group – we're informally attending
   start: 2022-11-20T13:45:00.000Z
   end: ""
   deadline: 2022-11-19T16:00:00.000Z
@@ -12,6 +12,7 @@ event:
   location: Manchester Art Gallery, Mosley Street, Manchester, M2 3JL.
 category:
   - north-west
+  - tdor
 ---
 Meet Matt 13:45-14:00 outside the gallery.
 
