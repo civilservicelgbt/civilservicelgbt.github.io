@@ -214,22 +214,6 @@ collections:
       - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
       - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
       
-  - name: 'manuals'
-    label: 'Volunteer guidance'
-    folder: '_manuals/'
-    create: true
-    slug: "{{slug}}"
-    preview_path: 'manual/{{slug}}'
-    fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'publication' }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
-      - { label: 'Permalink', name: 'permalink', widget: 'string' }
-      - { label: 'Meta info', name: 'meta-info', widget: 'hidden', default: false }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Redirect from', name: 'redirect_from', widget: 'string', required: false }
-      - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false }
-      
   - name: 'agendas'
     label: 'Conference agenda items'
     folder: '_conference/'
