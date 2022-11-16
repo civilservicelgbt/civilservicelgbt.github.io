@@ -1,16 +1,20 @@
 ---
 layout: event
-title: "Civil Service LGBT+ social – London"
-excerpt: "Join our regular social and networking event for LGBT+ civil servants based in and around London."
-date: 2022-01-28T00:00:00.00Z
-category: 
-- london
+title: Civil Service LGBT+ social – London
+excerpt: Join our regular social and networking event for LGBT+ civil servants
+  based in and around London.
+date: 2022-01-28T00:00:00.000Z
 event:
-  host: "Civil Service LGBT+ Network"
-  link: "https://docs.google.com/forms/d/e/1FAIpQLSfQzGqq0eXgQOsMkvO-ZsrPRBO7rlITr2VnTR0Y1IaCN_ZRuA/viewform?usp=sf_link"
-  location: "Retro Bar, 2 George Court, London WC2N 6HH"
-  start: 2022-12-01T18:00:00.00Z
+  host: Civil Service LGBT+ Network
+  link: https://docs.google.com/forms/d/e/1FAIpQLSfQzGqq0eXgQOsMkvO-ZsrPRBO7rlITr2VnTR0Y1IaCN_ZRuA/viewform?usp=sf_link
+  location: Retro Bar, 2 George Court, London WC2N 6HH
+  start: 2022-12-01T18:00:00.000Z
+  end: ""
+  deadline: 2022-12-01T12:00:10.300Z
+category:
+  - London
 ---
+**Optional: Christmas jumper is encouraged for our December social.**
 
 The Civil Service LGBT+ Network organises informal networking and social events so that LGBT+ civil servants can meet each other. Our [local organisers](/team) organise these events in various cities across the country.
 
