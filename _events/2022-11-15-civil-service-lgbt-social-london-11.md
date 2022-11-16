@@ -14,6 +14,8 @@ event:
 category:
   - London
 ---
+**Optional: Christmas jumper is encouraged for our December social.**
+
 The Civil Service LGBT+ Network organises informal networking and social events so that LGBT+ civil servants can meet each other. Our [local organisers](/team) organise these events in various cities across the country.
 
 Our London socials usually take place on the **first Thursday of each month**.
