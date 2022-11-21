@@ -1,6 +1,6 @@
 ---
 layout: event
-title: HMRC PRISM & a:gender - Transgender Day of Remembrance Talk
+title: POSTPONED - HMRC PRISM & a:gender - Transgender Day of Remembrance Talk
 excerpt: Join us for Emma’s (Chair of a:gender) personal story about her
   discovery of being intersex and the experiences she has had.
 date: 2022-11-10T11:03:40.939Z
@@ -9,9 +9,17 @@ event:
   start: 2022-11-21T13:00:00.000Z
   end: 2022-11-21T15:00:00.000Z
   deadline: 2022-11-17T17:00:00.000Z
-  location: HMRC, 1 Sibbald Walk Edinburgh EH8 8FT or online via MS Teams
-  link: https://www.eventbrite.co.uk/e/agender-and-prism-workshop-tickets-463628193407
+  location: POSTPONED until further notice
+  link: ""
 ---
+**POSTPONED until further notice.**
+
+**PRISM have been instructed to postpone the upcoming events being held jointly with a:gender. We wish to reiterate that this is a postponement only and not a cancellation.** 
+
+**We are sorry that this announcement is short notice.**
+
+
+
 Time: 13:00 to 15:00
 
 Join us for Emma’s personal story, about her discovery of being intersex and the experiences she has had. Followed by a Q&A about PRISM and a:gender.
