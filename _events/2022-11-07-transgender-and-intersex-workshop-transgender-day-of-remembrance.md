@@ -1,6 +1,7 @@
 ---
 layout: event
-title: "Transgender and Intersex Inclusion workshop: Transgender day of Remembrance"
+title: "POSTPONED Transgender and Intersex Inclusion workshop: Transgender day
+  of Remembrance"
 excerpt: A joint workshop between the HMRC PRISM LGBT+ network and a:gender for TDOR
 date: 2022-11-07T09:24:23.078Z
 event:
@@ -8,14 +9,21 @@ event:
   start: 2022-11-22T10:00:23.147Z
   end: 2022-11-22T12:30:00.000Z
   deadline: 2022-11-18T17:00:00.000Z
-  location: Business Events Centre (BEC), 1 Atlantic Square, 21 York Street,
-    Glasgow, G2 8HS or online via MS Teams
+  location: POSTPONED until further notice
   link: https://www.eventbrite.co.uk/e/agender-workshop-tickets-440799742897
 category:
   - trans
   - non-binary
   - tdor
 ---
+**POSTPONED until further notice.**
+
+**PRISM have been instructed to postpone the upcoming events being held jointly with a:gender. We wish to reiterate that this is a postponement only and not a cancellation.** 
+
+**We are sorry that this announcement is short notice.**
+
+
+
 **A joint workshop between the HMRC PRISM LGBT+ network and a:gender for Trans Day of Remembrance.**
 
 The workshop covers the following topics:
