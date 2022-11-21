@@ -13,7 +13,7 @@ event:
 category:
   - North-West
 ---
-**As this is our Christmas event, why not dress festive! Christmas sweaters, Christmas Deeley boppers, reindeer antlers or fairy lights in beards etc.**
+**As this is our Christmas event, why not dress festive! Christmas sweaters, Christmas Deeley boppers, reindeer antlers or fairy lights in beards etc.** There is often a cabaret and always karaoke at this venue.
 
 The Civil Service LGBT+ Network organises informal networking and social events so that LGBT+ civil servants can meet each other. Our [local organisers](https://www.civilservice.lgbt/team) organise these events in various cities across the country.
 
