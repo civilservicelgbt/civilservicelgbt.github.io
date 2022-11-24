@@ -1,16 +1,18 @@
 ---
 layout: event
-title: "Civil Service LGBT+ social – Birmingham"
-excerpt: "Join other LGBT+ civil servants at our social in Birmingham"
-date: 2022-06-22T00:00:00.00Z
-category: 
-- west-midlands
+title: Civil Service LGBT+ social – Birmingham
+excerpt: Join other LGBT+ civil servants at our social in Birmingham
+date: 2022-06-22T00:00:00.000Z
 event:
-  host: "Civil Service LGBT+ Network"
-  link: "https://docs.google.com/forms/d/e/1FAIpQLSeMl7UIrDqDqH6mysmX6xG9Msb1NvXf5htaYwOCbKSN8cU5Kw/viewform?usp=sf_link"
-  email: "westmidlands@civilservice.lgbt"
-  location: "The Loft (Gay Village), 143 Bromsgrove St, Birmingham B5 6RG"
-  start: 2022-07-07T18:00:00.00Z
+  host: Civil Service LGBT+ Network
+  link: https://docs.google.com/forms/d/e/1FAIpQLSeMl7UIrDqDqH6mysmX6xG9Msb1NvXf5htaYwOCbKSN8cU5Kw/viewform?usp=sf_link
+  email: westmidlands@civilservice.lgbt
+  location: The Loft (Gay Village), 143 Bromsgrove St, Birmingham B5 6RG
+  start: 2022-07-07T18:00:00.000Z
+  end: ""
+  deadline: 2022-11-24T10:23:08.692Z
+category:
+  - west-midlands
 ---
 
 The Civil Service LGBT+ Network organises informal networking and social events so that LGBT+ civil servants can meet each other. Our local organisers organise these events in various cities across the country.
