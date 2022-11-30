@@ -5,9 +5,9 @@ excerpt: Join other LGBT+ civil servants at our social in Birmingham
 date: 2022-11-30T13:54:15.708Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2022-05-04T18:00:00.000Z
+  start: 2023-05-04T18:00:00.000Z
   end: ""
-  deadline: 2022-05-03T12:00:00.000Z
+  deadline: 2023-05-03T12:00:00.000Z
   location: The Loft (Gay Village), 143 Bromsgrove St, Birmingham B5 6RG
   email: westmidlands@civilservice.lgbt
 category:
