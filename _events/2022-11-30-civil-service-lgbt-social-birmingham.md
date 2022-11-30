@@ -10,7 +10,11 @@ event:
   deadline: 2023-01-11T12:00:00.000Z
   location: The Loft (Gay Village), 143 Bromsgrove St, Birmingham B5 6RG
   email: westmidlands@civilservice.lgbt
+category:
+  - west-midlands
 ---
+**Anyone attending can spot us by looking for ‘Liz the Unicorn’.**
+
 The Civil Service LGBT+ Network organises informal networking and social events so that LGBT+ civil servants can meet each other. Our local organisers organise these events in various cities across the country.
 
 If you have questions about this event, or you have an idea for a future event, you can contact [our local organisers](/team).
