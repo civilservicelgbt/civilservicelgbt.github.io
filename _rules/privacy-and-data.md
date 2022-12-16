@@ -45,6 +45,8 @@ We collect information about you so that we can run the network and offer servic
 
 We will only every use your personal data to provide you with services or information that are relevant to you as an LGBT+ civil servant, ally or other person interested in our work, and inline with [our constitution](/about/constitution)[^lawful-basis].
 
+[^lawful-basis]: We process this data on the basis of Article 6(1)(a) of the UK General Data Protection Regulation.
+
 We will ask for your consent when using your personal data. You are able to remove your consent at any time by emailing us at <info@civilservice.lgbt>. 
 
 Where we collect sensitive personal data, like information about your sexual orientation, gender identity, ethnicity or whether you have a disability, this is processed on the same basis[^special-cat-data].
