@@ -10,7 +10,8 @@ redirect_from:
   - /your-data
   - /your-privacy
   - /privacy-policy
-date: 2018-03-17T00:00:00.000Z
+date: 2018-03-17
+updated: 2022-12-16
 title: Your privacy and data
 meta-info: "true"
 ---
@@ -96,7 +97,7 @@ Our website contains links to other websites. This policy only applies to this w
 
 ## Changes to this policy
 
-We keep this policy under review. Any updates to this policy will be published on this website. This policy was last updated on 30 June 2022.
+We keep this policy under review. Any updates to this policy will be published on this website. This policy was last updated on {{ page.updated | date: "%d %b %y" }}.
 
 ## Informing you of changes or issues
 
