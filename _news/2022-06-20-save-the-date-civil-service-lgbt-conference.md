@@ -8,7 +8,7 @@ date: 2022-06-20T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - conference-2022
-image: "https://www.civilservice.lgbt/images/store/conference/conference-2022.png"
+image: "/assets/images/uploads/conference/conference-2022.png"
 # video: ""
 permalink: /news/2022/06/20/save-the-date-civil-service-lgbt-conference
 # redirect_from: 

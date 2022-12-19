@@ -8,7 +8,7 @@ category:
 - podcast
 title: "Episode 9 of PrideON Podcast for International Women's Day with Sam" 
 excerpt: "Listen to episode 9 now, with host Leah Cunnah and guest Samantha des Forges from MOD."
-image: "https://www.civilservice.lgbt/images/store/posts/pride-on-podcast-iwd.png"
+image: "/assets/images/uploads/posts/pride-on-podcast-iwd.png"
 permalink: /news/2021/03/19/prideon-podcast-episode-9
 redirect_from: 
 - /podcast/episode/9

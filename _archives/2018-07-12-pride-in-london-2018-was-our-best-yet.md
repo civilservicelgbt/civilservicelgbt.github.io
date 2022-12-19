@@ -15,7 +15,7 @@ On 7 July 2018, we took part in Pride in London's annual celebrations and parade
 
 This year, we had 120 civil servants join us in the parade. More than 2,000 people tried to get a place in the group this year: and we had hundreds on our waiting list for extra places. 
 
-![Our parade group at Pride in London](https://www.civilservice.lgbt/images/store/posts/whole-group-pride-in-london.jpg)
+![Our parade group at Pride in London](/assets/images/uploads/posts/whole-group-pride-in-london.jpg)
 
 We were joined by 4 Permanent Secretaries on the day: 
 

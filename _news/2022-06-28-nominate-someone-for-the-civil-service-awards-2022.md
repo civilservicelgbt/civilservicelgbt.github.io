@@ -8,7 +8,7 @@ date: 2022-06-28T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 # category: 
 # - 
-image: "https://www.civilservice.lgbt/images/store/posts/cs-awards-nominate-2022.png"
+image: "/assets/images/uploads/posts/cs-awards-nominate-2022.png"
 # video: ""
 permalink: /news/2022/06/28/nominate-someone-for-the-civil-service-awards-2022
 # redirect_from: 

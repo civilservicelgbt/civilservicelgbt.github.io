@@ -7,7 +7,7 @@ category: bispace
 background: white
 redirect_from: /bispace
 permalink: /topic/bispace
-image: "https://www.civilservice.lgbt/images/store/pages/bispace.png"
+image: "/assets/images/uploads/pages/bispace.png"
 
 #Social Media
 

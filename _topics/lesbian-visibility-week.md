@@ -5,7 +5,7 @@ title: "Lesbian Visibility Week"
 excerpt: "Lesbian Visibility Week takes place at the end of April each year."
 author: "Civil Service LGBT+ Network"
 category: lesbian-visibility-week
-image: "https://www.civilservice.lgbt/images/store/lesbian-visibility-week/website-topic-header--transparent-background.png"
+image: "/assets/images/uploads/lesbian-visibility-week/website-topic-header--transparent-background.png"
 permalink: "/topic/lesbian-visibility-week"
 ---
 

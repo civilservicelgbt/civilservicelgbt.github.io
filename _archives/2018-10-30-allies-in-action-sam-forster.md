@@ -7,7 +7,7 @@ published: true
 title: "Allies in Action: Sam Forster"
 excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people. Sam works in the Ministry of Justice. In this post, he talks about his role as an ally."
 redirect_from: /news/2018/10/30/allies-week-sam-forster
-image: "https://www.civilservice.lgbt/images/store/posts/allies-week-no-date.png"
+image: "/assets/images/uploads/posts/allies-week-no-date.png"
 image-alt: Civil Service allies Week
 category: allies-week
 ---

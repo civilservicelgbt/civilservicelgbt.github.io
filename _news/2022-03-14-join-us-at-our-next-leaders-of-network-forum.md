@@ -8,7 +8,7 @@ date: 2022-03-14T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - leaders-of-networks
-image: "https://www.civilservice.lgbt/images/store/leaders-of-networks-forum/leaders-of-networks-forum-logo.png"
+image: "/assets/images/uploads/leaders-of-networks-forum/leaders-of-networks-forum-logo.png"
 # video: ""
 permalink: /news/2022/03/14/join-us-at-our-next-leaders-of-network-forum
 # redirect_from: 

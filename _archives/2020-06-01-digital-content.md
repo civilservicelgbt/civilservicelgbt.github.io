@@ -8,7 +8,7 @@ title: "Share your story..."
 category: pride-2020
 excerpt: 'We need your help with our digital content during PrideON' 
 permalink: /news/2020/06/01/share-your-story
-image: "https://www.civilservice.lgbt/images/store/posts/pride-on-website.png"
+image: "/assets/images/uploads/posts/pride-on-website.png"
 ---
 
 A huge part of Pride is telling stories of the LGBT+ community and being visible. We want to know: 

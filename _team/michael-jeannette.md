@@ -8,7 +8,7 @@ role: "project team"
 project: "Bi+ inclusion"
 # region: ""
 # email: ""
-image: "https://www.civilservice.lgbt/images/store/team/michael-jeannette.jpg"
+image: "/assets/images/uploads/team/michael-jeannette.jpg"
 permalink: /team/michael-jeannette
 # redirect_from: 
 # - 

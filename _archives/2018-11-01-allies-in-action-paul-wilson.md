@@ -7,7 +7,7 @@ published: true
 title: "Allies in Action: Paul Wilson"
 excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people. Paul works for the Ministry of Defence. In this post, Paul shares his experiences as an LGBT+ ally."
 redirect_from: /news/2018/11/01/allies-week-paul-wilson
-image: "https://www.civilservice.lgbt/images/store/posts/allies-week-no-date.png"
+image: "/assets/images/uploads/posts/allies-week-no-date.png"
 image-alt: Civil Service allies Week
 category: allies-week
 ---

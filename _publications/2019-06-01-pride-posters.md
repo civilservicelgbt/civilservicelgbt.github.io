@@ -31,7 +31,7 @@ This publication is available as a series of PDF files.
 
 ## Preview of posters
 
-![](https://www.civilservice.lgbt/images/store/posts/preview-pride-posters-2019.png)
+![](/assets/images/uploads/posts/preview-pride-posters-2019.png)
 
-![](https://www.civilservice.lgbt/images/store/posts/preview-pride-posters-2019-2.png)
+![](/assets/images/uploads/posts/preview-pride-posters-2019-2.png)
 

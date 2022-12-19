@@ -5,7 +5,7 @@ title: "We’re keeping #PrideOn, again"
 excerpt: "The anniversary of the Stonewall riots, and the start of pride season, is right around the corner. That means it's almost time for our annual season of events to kick off inside the Civil Service."
 author: "Civil Service LGBT+ Network"
 category: ["pride", "pride-on", "pride-2021"]
-image: "https://www.civilservice.lgbt/images/store/pride-on/2021/twitter-timeline.png"
+image: "/assets/images/uploads/pride-on/2021/twitter-timeline.png"
 ---
 
 The anniversary of the Stonewall riots, and the start of pride season, is right around the corner. That means it's almost time for our annual season of events to kick off inside the Civil Service.

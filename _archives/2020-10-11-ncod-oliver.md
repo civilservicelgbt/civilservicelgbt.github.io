@@ -6,7 +6,7 @@ published: true
 title: "Taking #pride in who we are - National Coming Out Day 2020"
 permalink: 2020/10/11
 date: 2020-10-11T00:00:00.00Z
-image: "https://www.civilservice.lgbt/images/store/posts/Oliver_and_Rachel.jpg"
+image: "/assets/images/uploads/posts/Oliver_and_Rachel.jpg"
 excerpt: Oliver from DWP Digital shares their coming out at work story.
 ---
 

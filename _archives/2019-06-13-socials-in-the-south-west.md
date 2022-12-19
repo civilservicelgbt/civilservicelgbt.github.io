@@ -7,7 +7,7 @@ published: true
 title: "Some changes to our social events in the South West"
 redirect_from: /news/2019/06/13/socials-in-the-south-west
 regions: southwest
-image: "https://www.civilservice.lgbt/images/store/posts/november-2018-bristol-social.jpg"
+image: "/assets/images/uploads/posts/november-2018-bristol-social.jpg"
 excerpt: "We asked what you wanted; and here’s what you told us."
 ---
 

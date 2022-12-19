@@ -6,7 +6,7 @@ excerpt: >-
   Here's the information you need to register for Pride 2019 events with the
   Civil Service.
 category: pride-2019
-image: "https://www.civilservice.lgbt/images/store/posts/pride-2019.png"
+image: "/assets/images/uploads/posts/pride-2019.png"
 redirect_from: /news/2019/04/29/register-for-pride-2019/
 redirect_from: 
 - /register-pride-2019/

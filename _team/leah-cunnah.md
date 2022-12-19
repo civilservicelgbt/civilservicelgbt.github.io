@@ -5,7 +5,7 @@ role: "vice chair"
 project: "Allies"
 email: leah.cunnah@civilservice.lgbt
 archive: true
-image: "https://www.civilservice.lgbt/images/store/team/leah-cunnah.jpeg"
+image: "/assets/images/uploads/team/leah-cunnah.jpeg"
 ---
 
 As Vice-Chair of the Civil Service LGBT+ Network I lead on allyship. I am an LGBT+ ally who is passionate about equality and diversity which has been shown through my education, volunteering and career choices.

@@ -8,7 +8,7 @@ category: pride-2020
 title: Celebrating LGBT+ Pride month at Oxford Job Centre
 excerpt: Mark gives us an insight into the Oxford Job Centre pride celebrations. 
 slug: /2020/06/25/oxford-job-centre-pride-month-celebrations
-image: "https://www.civilservice.lgbt/images/store/posts/oxford-jcp-pride-1.jpg"
+image: "/assets/images/uploads/posts/oxford-jcp-pride-1.jpg"
 ---
 
 ### Mark is currently the Civil Service LGBT+ lead for South East England and a DWPride Committee Member and Lead for Southern England. 
@@ -19,7 +19,7 @@ I felt it was important to mark this event as normally LGBT + communities and th
 
 I decorated the ground floor of our job centre with 10 different flags from our some of our various communities (these flags included the standard Rainbow flag, the BAME Rainbow flag, as well as flags representing, Asexual, Bisexual, Pansexual, Trans, Gender Non Binary and Gender Fluid communities).
 
-![](https://www.civilservice.lgbt/images/store/posts/oxford-jcp-pride-4.jpg	)
+![](/assets/images/uploads/posts/oxford-jcp-pride-4.jpg	)
 
 Inviting our colleagues throughout the Oxfordshire Job Centre Cluster along with our Counter Fraud and Compliance Debt Colleagues, myself and my colleague Kate, co-presented 45 minutes of quizzes (a picture round featuring famous LGBT+ people, multiple choice round featuring famous LGBT+ people and events, and a music round with performers coming from LGBT+ communities and their allies).   
 

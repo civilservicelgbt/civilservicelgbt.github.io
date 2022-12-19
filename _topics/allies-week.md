@@ -7,7 +7,7 @@ category: allies-week
 background: white
 redirect_from: /allies-week/
 
-image: "https://www.civilservice.lgbt/images/store/pages/allies-week.png"
+image: "/assets/images/uploads/pages/allies-week.png"
 
 # Social Media
 # Set to 'true' to turn on the social links

@@ -8,7 +8,7 @@ role: "local organiser"
 # project: ""
 region: "London"
 email: "London@civilservice.lgbt"
-image: "https://www.civilservice.lgbt/images/store/team/Lyle-Pewsey.jpg"
+image: "/assets/images/uploads/team/Lyle-Pewsey.jpg"
 permalink: /team/lyle-pewsey
 # redirect_from: 
 # - 

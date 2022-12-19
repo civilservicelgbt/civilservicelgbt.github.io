@@ -8,7 +8,7 @@ category:
 - podcast
 title: "Episode 8 of PrideON Podcast for International Women's Day with Freya"
 excerpt: "Listen to episode 8 now, with host Leah Cunnah and guest Dr Freya Garry from the Met Office."
-image: "https://www.civilservice.lgbt/images/store/posts/pride-on-podcast-iwd.png"
+image: "/assets/images/uploads/posts/pride-on-podcast-iwd.png"
 permalink: /news/2021/03/08/prideon-podcast-episode-8
 redirect_from: 
 - /podcast/episode/7

@@ -7,7 +7,7 @@ published: true
 title: "Allies in Action: Elaine Radburn"
 excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people. Elaine works for the Ministry of Housing Communities and Local Government. Here's what Elaine is doing do be a brilliant ally."
 redirect_from: /news/2018/10/29/allies-week-elaine-radburn
-image: "https://www.civilservice.lgbt/images/store/posts/allies-week-no-date.png"
+image: "/assets/images/uploads/posts/allies-week-no-date.png"
 image-alt: Civil Service Allies Week
 category: allies-week
 ---

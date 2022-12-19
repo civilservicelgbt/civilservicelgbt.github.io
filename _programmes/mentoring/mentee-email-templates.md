@@ -5,7 +5,7 @@ title: "Email templates for mentees"
 excerpt: "These are email templates for use by mentees who feel less confident approaching their mentors as part of the Civil Service LGBT+ mentoring programme."
 author: "Civil Service LGBT+ Network"
 category: ["mentoring"]
-image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
+image: "/assets/images/uploads/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
 permalink: "/publication/mentoring-programme--mentee-email-templates"
 published: true
 ---

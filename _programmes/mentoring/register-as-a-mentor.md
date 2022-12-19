@@ -5,7 +5,7 @@ title: "Register as a mentor"
 excerpt: "Use this form to register as a mentor on the Civil Service LGBT+ mentoring programme."
 author: "Civil Service LGBT+ Network"
 category: ["mentoring"]
-image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
+image: "/assets/images/uploads/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
 permalink: "/mentoring/register-as-a-mentor"
 redirect_from:
 - /publication/register-as-a-mentor
@@ -20,7 +20,7 @@ published: false
 <div id="markdown-content" markdown="1">
 <!-- Don't remove code above -->
 
-![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--become-a-mentor.png)
+![](/assets/images/uploads/mentoring-scheme/twitter-timeline--become-a-mentor.png)
 
 Use this forms to register as a mentor on the Civil Service LGBT+ mentoring programme.
 

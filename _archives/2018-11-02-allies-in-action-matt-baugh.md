@@ -7,7 +7,7 @@ published: true
 title: "Allies in Action: Matt Baugh"
 excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people. Matt is a Director at the Department for Exiting the European Union, and an LGBT+ ally."
 redirect_from: /news/2018/11/02/allies-week-matt-baugh
-image: "https://www.civilservice.lgbt/images/store/posts/allies-week-no-date.png"
+image: "/assets/images/uploads/posts/allies-week-no-date.png"
 image-alt: Civil Service allies Week
 category: allies-week
 ---

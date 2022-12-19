@@ -7,7 +7,7 @@ published: true
 title: We held our first digital social...
 excerpt: 'Find out what happened at our first digital social and read the relections from the event organisers.'
 permalink: /news/2020/04/15/digital-social-blog
-image: "https://www.civilservice.lgbt/images/store/posts/mailchimp.PNG"
+image: "/assets/images/uploads/posts/mailchimp.PNG"
 ---
 
 Last Thursday we held our first ever digital social. Thank you to all our fantastic members who joined. We had lots of fun and we hope you did too! We also joined together at 20:00 to #ClapForOurCarers. 

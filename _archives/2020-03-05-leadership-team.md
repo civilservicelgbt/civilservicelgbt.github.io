@@ -7,7 +7,7 @@ published: true
 title: Your new leadership team...
 excerpt: 'The Civil Service LGBT+ Network now has a new team of seven Vice Chairs to support the Chair.'
 permalink: /news/2020/03/05/new-leadership-team
-image: "https://www.civilservice.lgbt/images/store/posts/EWrf2G8WAAAj8E2.jpg"
+image: "/assets/images/uploads/posts/EWrf2G8WAAAj8E2.jpg"
 ---
 
 ## The Civil Service LGBT+ Network now has a new team of seven Vice Chairs to support the Chair.

@@ -14,7 +14,7 @@ event:
   link: https://cslgbt2022.eventbrite.co.uk
 category:
   - conference-2022
-image: https://www.civilservice.lgbt/images/store/conference/conference-2022.png
+image: /assets/images/uploads/conference/conference-2022.png
 ---
 The Civil Service LGBT+ Conference is the career development and workplace inclusion event for LGBT+ civil servants. 
 

@@ -8,7 +8,7 @@ category: pride-2020
 title: "Launching PrideON"
 excerpt: While we can’t celebrate in our usual way, we are ensuring that Pride in 2020 is not forgotten about.
 permalink: /news/2020/06/01/launching-pride-on
-image: "https://www.civilservice.lgbt/images/store/posts/pride-on-website.png"
+image: "/assets/images/uploads/posts/pride-on-website.png"
 ---
 
 ### Pride is an important part of the LGBTI+ calendar. 

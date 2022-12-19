@@ -5,7 +5,7 @@ title: "Speed matching is complete"
 excerpt: "The process of matching mentees to mentors on the Civil Service LGBT+ mentoring programme is complete."
 author: "John Peart"
 category: ["mentoring"]
-image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline%201.png"
+image: "/assets/images/uploads/mentoring-scheme/twitter-timeline%201.png"
 permalink: "/news/2021/08/31/speed-matching-is-complete"
 published: false
 ---

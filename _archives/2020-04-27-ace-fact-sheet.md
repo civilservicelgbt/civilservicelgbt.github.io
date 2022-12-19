@@ -5,7 +5,7 @@ author: Civil Service LGBT+ Network, Bi+ Inclusion Team
 excerpt: >-
  What’s it like to be asexual (ace) in the Civil Service? We've produced a new fact sheet on asexuality
  to support ace inclusion in the Civil Service.
-image: "https://www.civilservice.lgbt/images/store/posts/ace-fact-sheet-front.PNG"
+image: "/assets/images/uploads/posts/ace-fact-sheet-front.PNG"
 image-alt: "The front cover of the new asexuality fact sheet"
 permalink: /news/2020/04/27/introducing-new-ace-fact-sheet/
 category: acespace

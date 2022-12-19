@@ -6,7 +6,7 @@ excerpt: "Joe Tetley from the Department for Work and Pensions shares their expe
 layout: news
 
 redirect_from: /news/2019/06/30/joe-tetley-pride-blog/
-image: "https://www.civilservice.lgbt/images/store/posts/pride-2019.png"
+image: "/assets/images/uploads/posts/pride-2019.png"
 ---
 
 This year is the 50th anniversary of the Stonewall riots; so for our [#CivilServicePride](https://twitter.com/search?q=%23civilservicepride) season, I thought I'd share my first Pride.

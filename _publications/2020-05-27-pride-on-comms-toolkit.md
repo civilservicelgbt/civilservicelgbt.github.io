@@ -27,7 +27,7 @@ Be sure to use this tool to create assets to advertise your own events and conte
 
 ## Previews
 
-![](https://www.civilservice.lgbt/images/store/posts/PrideON - image maker.png)
+![](/assets/images/uploads/posts/PrideON - image maker.png)
 
 ## Departmental communications
 

@@ -4,7 +4,7 @@ title: Nominate a person or team for the Civil Service Diversity and Inclusion A
 author: Civil Service LGBT+ Network
 excerpt: >-
   The awards are back for another year. The deadline for nominations is 3 May 2019.
-image: "https://www.civilservice.lgbt/images/store/posts/diversity-awards-2019.jpg"
+image: "/assets/images/uploads/posts/diversity-awards-2019.jpg"
 redirect_from: /news/2019/04/29/diversity-and-inclusion-awards-nominations/
 published: true
 preview: false

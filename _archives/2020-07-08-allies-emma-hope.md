@@ -7,7 +7,7 @@ published: true
 title: "Emma Hope: Speaking a more inclusive language avoids alienating someone from a conversation"
 excerpt: "This month we hear from Civil Servants about allyship and how to be a good ally."
 permalink: /news/2020/07/08/emma-hope-allyship
-image: "https://www.civilservice.lgbt/images/store/posts/emma-hope-allyship.jpg"
+image: "/assets/images/uploads/posts/emma-hope-allyship.jpg"
 ---
 
 #### Emma Hope is the Chair of the LGBT+ Allies Network at Public Health England

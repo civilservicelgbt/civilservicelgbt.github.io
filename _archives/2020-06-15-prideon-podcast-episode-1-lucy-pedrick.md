@@ -9,7 +9,7 @@ category:
 - podcast
 title: "Episode 1 of the PrideON podcast with Lucy Pedrick"
 excerpt: "You can listen to episode 1 now, with host John Peart and guest Lucy Pedrick, wherever you get podcasts."
-image: "https://www.civilservice.lgbt/images/store/posts/pride-on-podcast.png"
+image: "/assets/images/uploads/posts/pride-on-podcast.png"
 permalink: /news/2020/06/15/prideon-podcast-episode-1
 redirect_from: /podcast/episode/1
 ---

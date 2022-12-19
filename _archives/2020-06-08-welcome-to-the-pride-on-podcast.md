@@ -9,7 +9,7 @@ category:
 - podcast
 title: "Welcome to the PrideON podcast"
 excerpt: "A brand new podcast for the pride season from the Civil Service LGBT+ Network."
-image: "https://www.civilservice.lgbt/images/store/posts/pride-on-podcast.png"
+image: "/assets/images/uploads/posts/pride-on-podcast.png"
 permalink: /news/2020/06/08/welcome-to-the-pride-on-podcast
 ---
 

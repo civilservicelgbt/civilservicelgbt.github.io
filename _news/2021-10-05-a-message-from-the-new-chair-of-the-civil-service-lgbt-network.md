@@ -4,7 +4,7 @@ date: 2021-10-05T00:00:00.00Z # YYYY-MM-DD
 title: "A message from the new Chair of the Civil Service LGBT+ Network"
 excerpt: "A quick update about what to expect next from the Civil Service LGBT+ Network"
 author: "John Peart"
-image: "https://www.civilservice.lgbt/images/store/team/john-peart.jpg"
+image: "/assets/images/uploads/team/john-peart.jpg"
 permalink: "/news/2021/10/05/new-chair-statement"
 ---
 

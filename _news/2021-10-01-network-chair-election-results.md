@@ -6,7 +6,7 @@ excerpt: "John Peart has been elected as the new Chair of the Civil Service LGBT
 author: "Kate Hughes"
 category: ["election-2021"]
 permalink: "/news/2021/10/01/network-chair-election-results"
-image: "https://www.civilservice.lgbt/images/store/election-2021/banner.png"
+image: "/assets/images/uploads/election-2021/banner.png"
 ---
 
 I’m pleased to announce that [John Peart](https://twitter.com/johnpeart) is elected into the role of Chair of the Civil Service LGBT+ Network.

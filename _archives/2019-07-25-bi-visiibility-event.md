@@ -7,7 +7,7 @@ layout: news
 category: bisexuality
 
 redirect_from: /news/2019/07/25/bi-visibility-event/
-image: "https://www.civilservice.lgbt/images/store/posts/bi-visibility-event.jpg"
+image: "/assets/images/uploads/posts/bi-visibility-event.jpg"
 ---
 
 On 10th July we had the pleasure of hosting a Bi+ Visibility and Intersectionality event in London. The event was well attended, including by senior guest speakers Emily Miles and Jonathan Slater. 

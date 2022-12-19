@@ -8,7 +8,7 @@ date: 2022-01-06T00:00:00.00Z
 author: "John Peart"
 # category: 
 # - 
-image: "https://www.civilservice.lgbt/images/store/business-plan/2021-to-2023.png"
+image: "/assets/images/uploads/business-plan/2021-to-2023.png"
 # video: ""
 permalink: /news/2022/01/06/new-year-same-network
 # redirect_from: 

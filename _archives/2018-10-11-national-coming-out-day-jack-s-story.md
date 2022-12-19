@@ -9,7 +9,7 @@ excerpt: >-
   We asked some of our volunteers to share their coming out story for National
   Coming Out Day. This is Jack's story.
 redirect_from: /news/2018/10/11/national-coming-out-day-jacks-story
-image: "https://www.civilservice.lgbt/images/store/posts/prism-at-pride.jpg"
+image: "/assets/images/uploads/posts/prism-at-pride.jpg"
 image-alt: >-
   Jack with the PRISM network, and DCMS Permanent Secretary Sue Owen, at Pride
   in London 2018

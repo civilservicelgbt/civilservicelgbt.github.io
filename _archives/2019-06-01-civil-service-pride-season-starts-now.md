@@ -9,7 +9,7 @@ redirect_from: /news/2019/06/01/pride-starts-now
 excerpt: >-
   It's June; the anniversary of the Stonewall riots and the start of the Civil
   Service's Pride season.
-image: "https://www.civilservice.lgbt/images/store/posts/pride-2019.png"
+image: "/assets/images/uploads/posts/pride-2019.png"
 image-alt: Civil Service Pride
 category: pride-2019
 ---
@@ -62,7 +62,7 @@ Share your pictures from Pride events, and tell us why the Civil Service is an i
 
 ### Download our Pride posters
 
-![Image of the posters](https://www.civilservice.lgbt/images/store/posts/pride-posters.png)
+![Image of the posters](/assets/images/uploads/posts/pride-posters.png)
 
 We've created a series of posters for this year's Pride season. 
 

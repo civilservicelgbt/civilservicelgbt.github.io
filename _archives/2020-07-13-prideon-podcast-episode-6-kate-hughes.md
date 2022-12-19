@@ -9,7 +9,7 @@ category:
 - podcast
 title: "Episode 6 of the PrideON podcast with Kate Hughes"
 excerpt: "Listen to episode 6 now, with host John Peart and guest Kate Hughes from the Civil Service LGBT+ Network."
-image: "https://www.civilservice.lgbt/images/store/posts/pride-on-podcast.png"
+image: "/assets/images/uploads/posts/pride-on-podcast.png"
 permalink: /news/2020/07/13/prideon-podcast-episode-6
 redirect_from: 
 - /podcast/episode/6

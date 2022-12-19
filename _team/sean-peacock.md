@@ -8,7 +8,7 @@ role: "local organiser"
 # project: ""
 region: "North East"
 email: "northeast@civilservice.lgbt"
-image: "https://www.civilservice.lgbt/images/store/team/sean-peacock.jpg"
+image: "/assets/images/uploads/team/sean-peacock.jpg"
 permalink: /team/sean-peacock
 # redirect_from: 
 # - 

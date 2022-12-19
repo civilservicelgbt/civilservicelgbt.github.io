@@ -9,7 +9,7 @@ category:
 - podcast
 title: "Episode 3 of the PrideON podcast with Marc Fitchett and James Jefferson"
 excerpt: "Listen to episode 3 now, with host John Peart and guests Marc Fitchett and James Jefferson from the Civil Service LGBT+ Network."
-image: "https://www.civilservice.lgbt/images/store/posts/pride-on-podcast.png"
+image: "/assets/images/uploads/posts/pride-on-podcast.png"
 permalink: /news/2020/06/29/prideon-podcast-episode-3
 redirect_from: /podcast/episode/3
 ---

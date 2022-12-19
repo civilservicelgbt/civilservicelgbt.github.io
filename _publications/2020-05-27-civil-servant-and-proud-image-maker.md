@@ -26,6 +26,6 @@ We have created a package of digital assets for you to use and share around your
 
 ## Previews
 
-![](https://www.civilservice.lgbt/images/store/posts/PrideON - poster previews.png)
-![](https://www.civilservice.lgbt/images/store/posts/PrideON Ally - poster previews.png)
+![](/assets/images/uploads/posts/PrideON - poster previews.png)
+![](/assets/images/uploads/posts/PrideON Ally - poster previews.png)
 

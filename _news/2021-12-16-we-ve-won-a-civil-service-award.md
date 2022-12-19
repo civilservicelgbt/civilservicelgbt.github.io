@@ -8,7 +8,7 @@ date: 2021-12-16T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - mentoring
-image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/civil-service-awards-hero.png"
+image: "/assets/images/uploads/mentoring-scheme/civil-service-awards-hero.png"
 # video: ""
 permalink: /news/2021/12/16/weve-won-a-civil-service-award
 # redirect_from: 

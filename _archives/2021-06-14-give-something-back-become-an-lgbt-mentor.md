@@ -5,7 +5,7 @@ title: "Give something back: become an LGBT+ mentor"
 excerpt: "Read about why we’ve created our new mentoring programme from one of our vice-chairs, John Peart"
 author: "John Peart"
 category: ["mentoring"]
-image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/john-peart.png"
+image: "/assets/images/uploads/mentoring-scheme/john-peart.png"
 permalink: "/news/2021/06/14/give-something-back-become-an-lgbt-mentor"
 ---
 
@@ -39,7 +39,7 @@ If there was ever a moment we could all make this work, we think now is it!
 
 It’s still going to be a big logistics exercise to make this programme work – and we’re only at the start – but we’ve got a good plan and we think that our new ways of working are going to make this great for both mentors and mentees.
 
-![Give something back. Become an LGBT+ mentor.](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline-4--give-something-back.png)
+![Give something back. Become an LGBT+ mentor.](/assets/images/uploads/mentoring-scheme/twitter-timeline-4--give-something-back.png)
 
 ## Give something back
 

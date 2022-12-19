@@ -9,7 +9,7 @@ redirect_from:
 - /pride-on-podcast/
 - /podcast/
 
-image: "https://www.civilservice.lgbt/images/store/pages/prideon-podcast.png"
+image: "/assets/images/uploads/pages/prideon-podcast.png"
 
 # Social Media
 # Set to 'true' to turn on the social links

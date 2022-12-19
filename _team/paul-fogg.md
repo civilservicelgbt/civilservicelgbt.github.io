@@ -8,7 +8,7 @@ role: "project team"
 project: "bi+ inclusion"
 # region: ""
 # email: ""
-image: "https://www.civilservice.lgbt/images/store/team/paul-fogg.jpg"
+image: "/assets/images/uploads/team/paul-fogg.jpg"
 permalink: /team/paul-fogg
 # redirect_from: 
 # - 

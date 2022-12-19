@@ -8,7 +8,7 @@ category: pride-2020
 title: Alan De’Ath - "How meeting the love of my life made me an advocate for LGBT rights"
 excerpt: As part of our PrideON content, Alan sets out how he became involved in an LGBT charity, and why it is important we use Pride Month to be visible for those who can’t be.
 slug: /2020/06/16/alan-pride-on-blog
-image: "https://www.civilservice.lgbt/images/store/posts/alan-pride-on-blog.jpg"
+image: "/assets/images/uploads/posts/alan-pride-on-blog.jpg"
 ---
 
 I was 30 years old when I finally accepted who I was and came out as gay. The catalyst was finding the love of my life - my partner for four years now. 

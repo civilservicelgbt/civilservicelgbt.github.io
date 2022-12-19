@@ -5,7 +5,7 @@ title: "Kate Hughes to step down as Chair of the Civil Service LGBT+ Network"
 excerpt: "Kate Hughes, chair of the Civil Service LGBT+ Network, will step down from her role after 4 years."
 author: "Kate Hughes, Chair, Civil Service LGBT+ Network"
 category: ["election-2021"]
-image: "https://www.civilservice.lgbt/images/store/team/kate-hughes.jpg"
+image: "/assets/images/uploads/team/kate-hughes.jpg"
 permalink: "/news/2021/08/10/kate-hughes-to-step-down-as-chair-of-the-civil-service-lgbt-network"
 ---
 

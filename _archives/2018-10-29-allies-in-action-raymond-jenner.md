@@ -7,7 +7,7 @@ published: true
 title: "Allies in Action: Raymond Jenner"
 excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people. Raymond works for the Ministry of Defence. In this post, we asked Raymond to share some thoughts on why allies are important."
 redirect_from: /news/2018/10/29/allies-week-raymond-jenner
-image: "https://www.civilservice.lgbt/images/store/posts/allies-week-no-date.png"
+image: "/assets/images/uploads/posts/allies-week-no-date.png"
 image-alt: Civil Service Allies Week
 category: allies-week
 ---

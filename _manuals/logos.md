@@ -11,4 +11,4 @@ The **Civil Service LGBT+ Network** does not have a single logo. We have a wordm
 
 When integrating the name "**Civil Service LGBT+ Network**" into a wider design, the wordmark should always be displayed in the typeface Helvetica Neue in bold (font weight of 600). The wordmark can be shown in any colour that is part of our [colour palette](/manual/colour). For example:
 
-![](https://www.civilservice.lgbt/images/store/manuals/wordmark.jpg)
+![](/assets/images/uploads/manuals/wordmark.jpg)

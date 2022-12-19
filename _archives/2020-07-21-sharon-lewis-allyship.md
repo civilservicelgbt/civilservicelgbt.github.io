@@ -7,7 +7,7 @@ published: true
 title: "Sharon Lewis: So Sharon, what does it feel like to be the only heterosexual at the table? That was the question lobbed at me like a hand grenade during lunch about 5 years ago."
 excerpt: "This month we hear from Civil Servants about allyship and how to be a good ally."
 permalink: /news/2020/07/21/sharon-lewis-allyship
-image: "https://www.civilservice.lgbt/images/store/posts/sharon-lewis-allyship.jpg"
+image: "/assets/images/uploads/posts/sharon-lewis-allyship.jpg"
 ---
 
 #### Sharon Lewis is the Deputy Chief Operating Officer for the Insolvency Service

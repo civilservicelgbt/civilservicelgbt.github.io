@@ -7,7 +7,7 @@ published: true
 title: "Leah Cunnah: It is no longer enough to just say you are an ally. We need to challenge discriminative language and behaviour to speak up for LGBT+ people"
 excerpt: "This month we hear from Civil Servants about allyship and how to be a good ally."
 permalink: /news/2020/07/15/leah-cunnah-allyship
-image: "https://www.civilservice.lgbt/images/store/posts/leah-cunnah-allyship.jpg"
+image: "/assets/images/uploads/posts/leah-cunnah-allyship.jpg"
 ---
 
 #### Leah Cunnah is a Vice-Chair of the Civil Service LGBT+ Network and a Policy Officer in the Education & Skills Funding Agency within the Department for Education

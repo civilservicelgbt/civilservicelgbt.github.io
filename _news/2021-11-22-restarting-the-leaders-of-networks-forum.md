@@ -8,7 +8,7 @@ date: 2021-11-22T00:00:00.00Z
 author: "John Peart"
 category:
 - leaders-of-networks
-image: "https://www.civilservice.lgbt/images/store/leaders-of-networks-forum/leaders-of-networks-forum-logo.png"
+image: "/assets/images/uploads/leaders-of-networks-forum/leaders-of-networks-forum-logo.png"
 # video: ""
 permalink: /news/2021/11/22/restarting-the-leaders-of-networks-forum
 # redirect_from: 

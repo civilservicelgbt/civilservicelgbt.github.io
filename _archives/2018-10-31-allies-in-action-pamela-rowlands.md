@@ -7,7 +7,7 @@ published: true
 title: "Allies in Action: Pamela Rowlands"
 excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people. Pamela works for HM Courts and Tribunals Service. In this post, Pam shares some quick thoughts on her role as an ally."
 redirect_from: /news/2018/10/31/allies-week-pamela-rowlands
-image: "https://www.civilservice.lgbt/images/store/posts/allies-week-no-date.png"
+image: "/assets/images/uploads/posts/allies-week-no-date.png"
 image-alt: Civil Service allies Week
 category: allies-week
 ---

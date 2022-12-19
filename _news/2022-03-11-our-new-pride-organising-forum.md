@@ -8,7 +8,7 @@ date: 2022-03-11T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - pride-2022
-image: "https://www.civilservice.lgbt/images/store/pages/pride-2022.png"
+image: "/assets/images/uploads/pages/pride-2022.png"
 # video: ""
 permalink: /news/2022/03/11/our-new-pride-organising-forum
 # redirect_from: 

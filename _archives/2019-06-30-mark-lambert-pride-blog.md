@@ -6,7 +6,7 @@ excerpt: "Mark Lambert from the Department for Work and Pensions shares his expe
 layout: news
 
 redirect_from: /news/2019/06/30/mark-lambert-pride-blog/
-image: "https://www.civilservice.lgbt/images/store/posts/mark-lambert.jpg"
+image: "/assets/images/uploads/posts/mark-lambert.jpg"
 ---
 
 My name is Mark Lambert – I am  the local DWPride[^1] rep for Oxford Job Centre Plus and have being doing this role since January 2018.

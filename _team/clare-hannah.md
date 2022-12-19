@@ -8,7 +8,7 @@ role: "local organiser"
 # project: ""
 region: "West Midlands"
 email: "westmidlands@civilservice.lgbt"
-image: "https://www.civilservice.lgbt/images/store/team/clare-hannah.jpg"
+image: "/assets/images/uploads/team/clare-hannah.jpg"
 permalink: /team/clare-hannah
 # redirect_from: 
 # - 

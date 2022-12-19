@@ -5,7 +5,7 @@ title: "Episode 10 of PrideON Podcast for Lesbian Visibility Week with Kirsty"
 excerpt: "Listen to episode 10 now, with host Leah Cunnah and guest Kirsty Austin from the Department for Transport."
 author: "Civil Service LGBT+ Network"
 category: ["podcast", "lesbian-visibility-week"]
-image: "https://www.civilservice.lgbt/images/store/podcast/podcast-artwork-lesbian-visibility-week.png"
+image: "/assets/images/uploads/podcast/podcast-artwork-lesbian-visibility-week.png"
 permalink: "/news/2021/04/26/episode-10-of-prideon-podcast-for-lesbian-visibility-week-with-kirsty"
 redirect_from: 
 - /podcast/episode/10

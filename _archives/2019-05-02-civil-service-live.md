@@ -7,7 +7,7 @@ published: true
 title: Civil Service Live - we need your help
 excerpt: "Volunteers required for Civil Service Live LGBTI inclusion workshop."
 redirect_from: /news/2019/05/02/Civil-Service-Live
-image: "https://www.civilservice.lgbt/images/store/posts/Civil-Service-Live-no-date.png"
+image: "/assets/images/uploads/posts/Civil-Service-Live-no-date.png"
 image-alt: Civil Service Live
 ---
 

@@ -5,7 +5,7 @@ title: "Anyone can become a mentor"
 excerpt: "Helena Ross from DCMS talks about why signing up as a mentor is a great idea - and why you shouldn't worry about having the 'right' experience!"
 author: "Helena Ross"
 category: ["mentoring"]
-image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/helena-ross.png"
+image: "/assets/images/uploads/mentoring-scheme/helena-ross.png"
 permalink: "/news/2021/07/05/why-you-should-consider-mentoring"
 ---
 

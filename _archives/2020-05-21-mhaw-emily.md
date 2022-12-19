@@ -7,7 +7,7 @@ published: true
 title: "Your Mental Health First Aiders... Meet Emily"
 excerpt: 'To mark Mental Health Awareness Week, we’re celebrating the LGBT+ staff who support workplace wellbeing as Mental Health First Aiders.'
 permalink: /news/2020/05/20/mhaw-emily
-image: "https://www.civilservice.lgbt/images/store/posts/mhfa-emily.jpg"
+image: "/assets/images/uploads/posts/mhfa-emily.jpg"
 ---
 
 ## Emily is a Senior Policy Advisor on Future Prisons Policy at the Ministry of Justice.  

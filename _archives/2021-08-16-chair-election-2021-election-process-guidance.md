@@ -5,7 +5,7 @@ title: "Chair election 2021: election process guidance"
 excerpt: "This publication explains the process for the election of the Civil Service LGBT+ Network's new chair, following the resignation of the incumbent chair, Kate Hughes."
 author: "Civil Service LGBT+ Network"
 category: ["election-2021"]
-image: "https://www.civilservice.lgbt/images/store/election-2021/banner.png"
+image: "/assets/images/uploads/election-2021/banner.png"
 permalink: "/publication/2021/08/16/chair-election-2021-election-process-guidance"
 ---
 

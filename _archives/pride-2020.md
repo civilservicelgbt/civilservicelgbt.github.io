@@ -7,7 +7,7 @@ category: pride-2020
 redirect_from:
 - /pride-2020/
 
-image: "https://www.civilservice.lgbt/images/store/pages/pride-on.png"
+image: "/assets/images/uploads/pages/pride-on.png"
 
 # Social Media
 # Set to 'true' to turn on the social links

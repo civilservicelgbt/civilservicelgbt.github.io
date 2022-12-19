@@ -5,7 +5,7 @@ title: "Mentoring registrations are now closed"
 excerpt: "The Civil Service LGBT+ mentoring programme is now closed for new registrations. This is what happens next."
 author: "Civil Service LGBT+ Network"
 category: ["mentoring"]
-image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
+image: "/assets/images/uploads/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
 permalink: "/news/2021/08/02/mentoring-registrations-are-now-closed"
 published: false
 ---

@@ -9,7 +9,7 @@ permalink: "/topic/election-2021"
 redirect_from: 
 - /election-2021
 
-image: "https://www.civilservice.lgbt/images/store/election-2021/banner.png"
+image: "/assets/images/uploads/election-2021/banner.png"
 
 # Social Media
 # Set to 'true' to turn on the social links

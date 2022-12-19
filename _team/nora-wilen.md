@@ -8,7 +8,7 @@ role: "local organiser"
 # project: ""
 region: "West Midlands"
 email: "WestMidlands@civilservice.lgbt"
-image: "https://www.civilservice.lgbt/images/store/team/Nora-Wilen.jpeg.jpg"
+image: "/assets/images/uploads/team/Nora-Wilen.jpeg.jpg"
 permalink: /team/nora-wilen
 # redirect_from: 
 # - 

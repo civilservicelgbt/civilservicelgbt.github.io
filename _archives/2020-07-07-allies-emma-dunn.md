@@ -7,7 +7,7 @@ published: true
 title: "Emma Dunn: Don't buy the grapes"
 excerpt: "This month we hear from Civil Servants about allyship and how to be a good ally."
 permalink: /news/2020/07/07/emma-dunn-allyship
-image: "https://www.civilservice.lgbt/images/store/posts/emma-dunn-allyship.jpg"
+image: "/assets/images/uploads/posts/emma-dunn-allyship.jpg"
 ---
 
 #### Emma Dunn is the Chair of a:gender. 

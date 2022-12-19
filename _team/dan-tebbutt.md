@@ -8,7 +8,7 @@ role: "vice chair"
 project: "Governance"
 # region: ""
 email: "daniel.tebbutt@civilservice.lgbt"
-image: "https://www.civilservice.lgbt/images/store/team/daniel-tebbutt.jpg"
+image: "/assets/images/uploads/team/daniel-tebbutt.jpg"
 permalink: /team/dan-tebbutt
 archive: true
 # redirect_from: 

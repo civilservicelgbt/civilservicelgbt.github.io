@@ -98,7 +98,7 @@ You can contact us via email at <info@civilservice.lgbt>
 You can add images that have been uploaded to the [image store](/images) using `![ ]( )`, where the `alt` text description of the image goes in the `[ ]` and the URL for the image goes in the `( )`. For example:
 
 ```
-![The Civil Service LGBT+ Network wordmark](https://www.civilservice.lgbt/images/store/manuals/wordmark.jpg)
+![The Civil Service LGBT+ Network wordmark](/assets/images/uploads/manuals/wordmark.jpg)
 ```
 
 Images should appear on a new line, with a line break between the image link and other text.

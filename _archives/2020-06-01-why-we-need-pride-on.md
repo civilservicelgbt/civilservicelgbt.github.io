@@ -8,7 +8,7 @@ category: pride-2020
 title: "Why do we need Pride?"
 excerpt: Prides are empowering. They are events about human rights and empowering LGBT+ individuals to reclaim the rights and freedoms they are denied, and the public space they are often excluded from. 
 permalink: /news/2020/06/01/why-do-we-need-pride-on
-image: "https://www.civilservice.lgbt/images/store/posts/pride-on-website.png"
+image: "/assets/images/uploads/posts/pride-on-website.png"
 ---
 
 ## Why do we need Pride?

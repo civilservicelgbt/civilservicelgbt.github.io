@@ -7,7 +7,7 @@ published: true
 title: "Allies in Action: Caroline Hendrix"
 excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people. Caroline works for the Department for International Trade. In this post, we asked Caroline tells us what being an ally means to her."
 redirect_from: /news/2018/10/30/allies-week-caroline-hendrix
-image: "https://www.civilservice.lgbt/images/store/posts/allies-week-no-date.png"
+image: "/assets/images/uploads/posts/allies-week-no-date.png"
 image-alt: Civil Service Allies Week
 category: allies-week
 ---

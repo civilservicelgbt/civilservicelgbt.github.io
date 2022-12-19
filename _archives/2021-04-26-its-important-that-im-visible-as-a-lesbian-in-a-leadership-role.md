@@ -5,7 +5,7 @@ title: "“It's important that I'm visible as a lesbian in a leadership role”"
 excerpt: "Pippa Gibson from the Department for Education blogs for us about her experience as a lesbian, as we kick off Lesbian Visibility Week."
 author: "Pippa Gibson"
 category: ["lesbian-visibility-week"]
-image: "https://www.civilservice.lgbt/images/store/lesbian-visibility-week/20200426-pippa.png"
+image: "/assets/images/uploads/lesbian-visibility-week/20200426-pippa.png"
 permalink: "/news/2021/04/26/its-important-that-im-visible-as-a-lesbian-in-a-leadership-role"
 ---
 

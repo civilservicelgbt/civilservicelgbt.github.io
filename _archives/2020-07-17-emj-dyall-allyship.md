@@ -7,7 +7,7 @@ published: true
 title: "Emj Dyall: As I grew up, I noticed how wrong it was to hide the people I love and so I am now open and vocal, fighting for LGBT+ rights"
 excerpt: "This month we hear from Civil Servants about allyship and how to be a good ally."
 permalink: /news/2020/07/17/emj-dyall-allyship
-image: "https://www.civilservice.lgbt/images/store/posts/emj-dyall-allyship.jpg"
+image: "/assets/images/uploads/posts/emj-dyall-allyship.jpg"
 ---
 
 #### Emj Dyall is the Co-Friends Lead of Environment Agency’s LGBT+ Network

@@ -9,7 +9,7 @@ category:
 - podcast
 title: "Episode 2 of the PrideON podcast with Max Scantlebury"
 excerpt: "Listen to episode 2 now, with host Jordan Ledger and guest Max Scantlebury from the Home Office."
-image: "https://www.civilservice.lgbt/images/store/posts/pride-on-podcast.png"
+image: "/assets/images/uploads/posts/pride-on-podcast.png"
 permalink: /news/2020/06/22/prideon-podcast-episode-2
 redirect_from: /podcast/episode/2
 ---

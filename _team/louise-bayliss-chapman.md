@@ -8,7 +8,7 @@ role: "project team"
 project: "Bi+ inclusion"
 # region: ""
 # email: ""
-image: "https://www.civilservice.lgbt/images/store/team/louise-bayliss-chapman.jpg.JPG"
+image: "/assets/images/uploads/team/louise-bayliss-chapman.jpg.JPG"
 permalink: /team/louise-bayliss-chapman
 # redirect_from: 
 # - 

@@ -13,7 +13,7 @@ category:
 - scotland
 - south-west
 - south-east
-image: "https://www.civilservice.lgbt/images/store/events/map-pin.png"
+image: "/assets/images/uploads/events/map-pin.png"
 # video: ""
 permalink: /news/2022/02/08/our-socials-are-expanding
 # redirect_from: 

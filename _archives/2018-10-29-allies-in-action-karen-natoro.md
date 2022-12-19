@@ -7,7 +7,7 @@ published: true
 title: "Allies in Action: Karen Notaro"
 excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people. Karen works for the Ministry of Justice. Here's why being an ally is important to Karen."
 redirect_from: /news/2018/10/29/allies-week-karen-notaro
-image: "https://www.civilservice.lgbt/images/store/posts/allies-week-no-date.png"
+image: "/assets/images/uploads/posts/allies-week-no-date.png"
 image-alt: Civil Service Allies Week
 category: allies-week
 ---

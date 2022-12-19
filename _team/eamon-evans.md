@@ -8,7 +8,7 @@ role: "local organiser"
 # project: ""
 region: "London"
 email: "london@civilservice.lgbt"
-image: "https://www.civilservice.lgbt/images/store/team/eamon-evans.jpg"
+image: "/assets/images/uploads/team/eamon-evans.jpg"
 permalink: /team/eamon-evans
 # redirect_from: 
 # - 

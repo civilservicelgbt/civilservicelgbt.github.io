@@ -4,7 +4,7 @@ title: "[Update: Registrations now closed] Last chance to register for the Civil
 author: Civil Service LGBT+ Network
 excerpt: >-
   As there are limited places in the parade, we're holding a lottery to attend. The deadline to enter the lottery 14 May 2019.
-image: "https://www.civilservice.lgbt/images/store/posts/pride-2019.png"
+image: "/assets/images/uploads/posts/pride-2019.png"
 category: pride-2019
 redirect_from: /news/2019/04/29/register-for-pride-in-london-2019/
 redirect_from: /register-pride-in-london-2019/

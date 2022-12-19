@@ -7,7 +7,7 @@ published: true
 title: "Allies in Action: Tom Read"
 excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people. Tom works for the Ministry of Justice. In this post, he shares some of his work as an LGBT ally."
 redirect_from: /news/2018/10/31/allies-week-tom-read
-image: "https://www.civilservice.lgbt/images/store/posts/allies-week-no-date.png"
+image: "/assets/images/uploads/posts/allies-week-no-date.png"
 image-alt: Civil Service allies Week
 category: allies-week
 ---

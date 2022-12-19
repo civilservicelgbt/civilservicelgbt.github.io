@@ -8,7 +8,7 @@ role: "local organiser"
 # project: ""
 region: "South West"
 email: "SouthWest@civilservice.lgbt"
-image: "https://www.civilservice.lgbt/images/store/team/David-Raine.png"
+image: "/assets/images/uploads/team/David-Raine.png"
 permalink: /team/david-raine
 # redirect_from: 
 # - 

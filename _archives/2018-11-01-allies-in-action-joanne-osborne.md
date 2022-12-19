@@ -7,7 +7,7 @@ published: true
 title: "Allies in Action: Joanne Osborne"
 excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people. Joanne works for the Department of Work and Pensions. In this post, Joanne shares some of her work as an LGBT ally."
 redirect_from: /news/2018/11/01/allies-week-joanne-osborne
-image: "https://www.civilservice.lgbt/images/store/posts/allies-week-no-date.png"
+image: "/assets/images/uploads/posts/allies-week-no-date.png"
 image-alt: Civil Service allies Week
 category: allies-week
 ---

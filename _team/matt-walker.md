@@ -8,7 +8,7 @@ role: "local organiser"
 # project: ""
 region: "North West"
 email: "northwest@civilservice.lgbt"
-image: "https://www.civilservice.lgbt/images/store/team/matthew-walker.jpg"
+image: "/assets/images/uploads/team/matthew-walker.jpg"
 permalink: /team/matt-walker
 # redirect_from: 
 # - 

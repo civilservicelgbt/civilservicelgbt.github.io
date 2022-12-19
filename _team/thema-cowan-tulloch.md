@@ -8,7 +8,7 @@ role: "local organiser"
 # project: ""
 region: "East Midlands"
 email: "EastMidlands@civilservice.lgbt"
-image: "https://www.civilservice.lgbt/images/store/team/Th%C3%A9ma-Cowan-Tulloch.jpeg.jpg"
+image: "/assets/images/uploads/team/Th%C3%A9ma-Cowan-Tulloch.jpeg.jpg"
 permalink: /team/thema-cowan-tulloch
 # redirect_from: 
 # - 

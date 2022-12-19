@@ -5,7 +5,7 @@ title: "Alan Edwards (they/he) Election Statement"
 excerpt: "Alan's pitch for election as Chair of the Civil Service LGBT+ Network"
 author: "Civil Service LGBT+ Network"
 category: ["election-2021"]
-image: "https://www.civilservice.lgbt/images/store/election-2021/Alan Edwards headshot.jpeg"
+image: "/assets/images/uploads/election-2021/Alan Edwards headshot.jpeg"
 permalink: "/news/2021/09/09/alan-edwards-election-statement"
 ---
 

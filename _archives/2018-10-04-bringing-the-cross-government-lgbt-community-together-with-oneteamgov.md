@@ -5,7 +5,7 @@ date: '2018-10-04T00:00:00.000Z'
 preview: false
 published: true
 title: Bringing the cross-government LGBT+ community together with OneTeamGov
-image: "https://www.civilservice.lgbt/images/store/posts/rachel-poole.jpg"
+image: "/assets/images/uploads/posts/rachel-poole.jpg"
 image-alt: Rachel Poole
 excerpt: >-
   Rachel Poole from DWPride talks about the OneTeamGov LGBT+ conference she is

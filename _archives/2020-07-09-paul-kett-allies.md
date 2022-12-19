@@ -7,7 +7,7 @@ published: true
 title: "Paul Kett: It is more important than ever that we are supporting one another "
 excerpt: "This month we hear from Civil Servants about allyship and how to be a good ally."
 permalink: /news/2020/07/09/paul-kett-allyship
-image: "https://www.civilservice.lgbt/images/store/posts/paul-kett-allyship.jpg"
+image: "/assets/images/uploads/posts/paul-kett-allyship.jpg"
 ---
 
 #### Paul Kett is the Director General for the Higher Education and Further Education Group, at the Department for Education

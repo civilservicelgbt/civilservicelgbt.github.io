@@ -7,7 +7,7 @@ role: "local organiser"
 # project: ""
 region: "Wales"
 email: "wales@civilservice.lgbt"
-image: "https://www.civilservice.lgbt/images/store/team/bethan-cable.jpg"
+image: "/assets/images/uploads/team/bethan-cable.jpg"
 permalink: /team/bethan-cable
 # redirect_from: 
 # - 

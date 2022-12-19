@@ -8,7 +8,7 @@ date: 2022-02-01T00:00:00.00Z
 author: "Marc Fitchett"
 category: 
 - pride-2022
-image: "https://www.civilservice.lgbt/images/store/pages/pride-2022.png"
+image: "/assets/images/uploads/pages/pride-2022.png"
 # video: ""
 permalink: /news/2022/02/01/help-us-shape-our-plans-for-pride-2022
 # redirect_from: 

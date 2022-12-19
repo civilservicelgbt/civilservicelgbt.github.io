@@ -7,7 +7,7 @@ published: true
 title: "Bex Smith: As an ally it is my job to challenge those who do not accept it and help those people to understand"
 excerpt: "This month we hear from Civil Servants about allyship and how to be a good ally."
 permalink: /news/2020/07/14/bex-smith-allyship
-image: "https://www.civilservice.lgbt/images/store/posts/bex-smith-allyship.jpg"
+image: "/assets/images/uploads/posts/bex-smith-allyship.jpg"
 ---
 
 #### Bex Smith is an Executive Assistant at the Government Internal Audit Agency

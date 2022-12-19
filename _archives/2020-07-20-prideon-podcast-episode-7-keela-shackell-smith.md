@@ -9,7 +9,7 @@ category:
 - podcast
 title: "Episode 7 of the PrideON podcast with Keela Shackell-Smith"
 excerpt: "Listen to episode 7 now, with host John Peart and guest Keela Shackell-Smith from the Cabinet Office."
-image: "https://www.civilservice.lgbt/images/store/posts/pride-on-podcast.png"
+image: "/assets/images/uploads/posts/pride-on-podcast.png"
 permalink: /news/2020/07/20/prideon-podcast-episode-7
 redirect_from: 
 - /podcast/episode/7

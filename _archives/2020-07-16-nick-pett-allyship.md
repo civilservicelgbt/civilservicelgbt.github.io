@@ -7,7 +7,7 @@ published: true
 title: "Nick Pett: My allyship is a promise to LGBT+ people. It is an offer of love and friendship"
 excerpt: "This month we hear from Civil Servants about allyship and how to be a good ally."
 permalink: /news/2020/07/16/nick-pett-allyship
-image: "https://www.civilservice.lgbt/images/store/posts/nick-pett-allyship.jpg"
+image: "/assets/images/uploads/posts/nick-pett-allyship.jpg"
 ---
 
 #### Nick Pett is a Senior Civil Servant and a LGBT+ advocate 

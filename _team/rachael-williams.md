@@ -8,7 +8,7 @@ role: "project team"
 project: "mentoring"
 # region: ""
 # email: ""
-image: "https://www.civilservice.lgbt/images/store/team/rachael-williams.jpg"
+image: "/assets/images/uploads/team/rachael-williams.jpg"
 permalink: /team/rachael-williams
 # redirect_from: 
 # - 

@@ -7,7 +7,7 @@ published: true
 category: pride-2020
 title: "The PrideON playlist is here"
 excerpt: "You can listen to the PrideON playlist on Spotify."
-image: "https://www.civilservice.lgbt/images/store/posts/pride-on-website.png"
+image: "/assets/images/uploads/posts/pride-on-website.png"
 permalink: /news/2020/06/17/pride-on-playlist
 ---
 

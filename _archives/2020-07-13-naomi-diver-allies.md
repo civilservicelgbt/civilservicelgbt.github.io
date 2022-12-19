@@ -7,7 +7,7 @@ published: true
 title: "Naomi Diver: Whilst being an ally all my life, it was only once I got involved in the network did I start to see that I could be doing a whole lot more"
 excerpt: "This month we hear from Civil Servants about allyship and how to be a good ally."
 permalink: /news/2020/07/013/naomi-diver-allyship
-image: "https://www.civilservice.lgbt/images/store/posts/naomi-diver-allyship.jpg"
+image: "/assets/images/uploads/posts/naomi-diver-allyship.jpg"
 ---
 
 #### Naomi Diver is the Area Friends rep for the LGBT+ network at the Environment Agency

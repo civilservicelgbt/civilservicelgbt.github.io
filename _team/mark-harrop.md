@@ -8,7 +8,7 @@ role: "project team"
 project: "conference"
 # region: ""
 # email: ""
-image: "https://www.civilservice.lgbt/images/store/team/mark-harrop.jpg"
+image: "/assets/images/uploads/team/mark-harrop.jpg"
 permalink: /team/mark-harrop
 # redirect_from: 
 # - 

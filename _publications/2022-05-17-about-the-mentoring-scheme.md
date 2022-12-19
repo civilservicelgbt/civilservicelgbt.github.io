@@ -6,7 +6,7 @@ category: ["mentoring"]
 title: "Civil Service LGBT+ mentoring programme: about the programme"
 permalink: /mentoring/about-the-programme
 excerpt: "This publication provides general information about the Civil Service LGBT+ Network's mentoring programme, including eligibility, how to become a mentor and a mentee, and what resources and support are available."
-image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
+image: "/assets/images/uploads/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
 redirect_from:
 - /publication/about-the-mentoring-programme
 - /publication/about-our-mentoring-programme
@@ -24,7 +24,7 @@ redirect_from:
 
 {{ page.excerpt }}
 
-![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png)
+![](/assets/images/uploads/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png)
 
 ## About the programme
 
@@ -71,7 +71,7 @@ Whilst we can't guarantee that everyone will find a mentor they keep for the lon
 
 ### 1. Register your interest
 
-![](https://www.civilservice.lgbt/images/store/mentoring-scheme/website-explainer-1.png)
+![](/assets/images/uploads/mentoring-scheme/website-explainer-1.png)
 
 You can register as a mentor, a mentee, or both. You can register online using these forms:
 
@@ -90,7 +90,7 @@ We only accept new registrations for the programme at certain points of the year
 
 ### 2. Wait for your potential matches
 
-![](https://www.civilservice.lgbt/images/store/mentoring-scheme/website-explainer-2.png)
+![](/assets/images/uploads/mentoring-scheme/website-explainer-2.png)
 
 After you have registered and after the registration window has closed, we will:
 
@@ -103,7 +103,7 @@ It may take several weeks to find a suitable match for you. Please be patient. I
 
 ### 3. Set up a 'speed mentoring' session
 
-![](https://www.civilservice.lgbt/images/store/mentoring-scheme/website-explainer-3.png)
+![](/assets/images/uploads/mentoring-scheme/website-explainer-3.png)
 
 Once you have received your matches, if you are a:
 
@@ -117,7 +117,7 @@ You should use the speed mentoring session to:
 
 ### 4. Keep the conversation going
 
-![](https://www.civilservice.lgbt/images/store/mentoring-scheme/website-explainer-4.png)
+![](/assets/images/uploads/mentoring-scheme/website-explainer-4.png)
 
 If you agreed to meet your mentor or mentee again, it is your responsibility to keep the relationship going. It is up to you to decide how it progresses.
 
@@ -131,7 +131,7 @@ We will publish and send guidance to you about how to make the most of your ment
 
 ### Become a mentor
 
-![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--become-a-mentor.png)
+![](/assets/images/uploads/mentoring-scheme/twitter-timeline--become-a-mentor.png)
 
 **Give something back and become an LGBT+ mentor.** Acting as a mentor can help other, less experienced staff get on with their career. It can be a rewarding experience for you too; you can learn new skills and it makes a great corporate contribution.
 
@@ -151,7 +151,7 @@ As a mentor, you can expect to:
 
 ### Become a mentee
 
-![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--find-a-mentor.png)
+![](/assets/images/uploads/mentoring-scheme/twitter-timeline--find-a-mentor.png)
 
 **Give your career a boost and sign up as a mentee.** The right mentor can help you to refine your career goals, identify opportunities for development and build your networks.
 

@@ -7,7 +7,7 @@ published: true
 title: "Allies in Action: Naomi Diver"
 excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people. Naomi works for the Environment Agency, and in this post, tells us about why she took part in Pride as an ally."
 redirect_from: /news/2018/11/02/allies-week-naomni-diver
-image: "https://www.civilservice.lgbt/images/store/posts/allies-week-no-date.png"
+image: "/assets/images/uploads/posts/allies-week-no-date.png"
 image-alt: Civil Service allies Week
 category: allies-week
 ---
@@ -18,7 +18,7 @@ I am a Freshwater Ecologist based in East Midlands and I am lucky enough to have
 
 In the summer of 2018 I took part in Nottingham Pride. I had never attended a Pride event before and was very excited to be part of it but also a little nervous. The weather was beautifully sunny and clear as I walked into town. Meeting together beforehand was great to get to know people from other EA depots and offices who were attending Pride, soon there was a whole gaggle of us (*Troop? Gang? Shoal? What is the correct term? Pride seems too on the nose*). I was sporting a very fashionable Environment Agency black polo shirt and hat (*I sometimes feel like an ecologist ninja at work decked out in mostly black*) but something was missing – oh that’s right rainbows and glitter! Once the obligatory makeover had occurred I was ready. 
 
-![Naomi and EA colleagues at Pride](https://www.civilservice.lgbt/images/store/posts/allies-week-naomi-diver.png "Naomi and EA colleagues at Pride")
+![Naomi and EA colleagues at Pride](/assets/images/uploads/posts/allies-week-naomi-diver.png "Naomi and EA colleagues at Pride")
 
 The conglomeration of people at the start line was an amazing celebration; music was playing from a variety of sources mashing together, whistles blaring, flags waving, people dancing and chatting. There was a palpable energy in the air. The variety of organisations present impressed me, and I felt honoured to be representing the EA to so many people in my home town. Our group managed to join forces with the Civil Service representatives and we were off, marching with banners, rainbow umbrellas, and most importantly lots of sweets to hand out along the way. 
 

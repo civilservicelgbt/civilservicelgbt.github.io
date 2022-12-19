@@ -7,7 +7,7 @@ published: true
 title: "Allies in Action: Jacky Lawrence"
 excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people. Jacky works in the Asylum and Immigration Tribunal. In this post, Jacky shares what being an ally means to them."
 redirect_from: /news/2018/10/31/allies-week-jacky-lawrence
-image: "https://www.civilservice.lgbt/images/store/posts/allies-week-no-date.png"
+image: "/assets/images/uploads/posts/allies-week-no-date.png"
 image-alt: Civil Service allies Week
 category: allies-week
 ---

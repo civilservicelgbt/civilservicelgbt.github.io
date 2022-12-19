@@ -5,7 +5,7 @@ title: "John Peart (he/him) Election Statement"
 excerpt: "John's pitch for election as Chair of the Civil Service LGBT+ Network"
 author: "Civil Service LGBT+ Network"
 category: ["election-2021"]
-image: "https://www.civilservice.lgbt/images/store/election-2021/john-peart.jpeg"
+image: "/assets/images/uploads/election-2021/john-peart.jpeg"
 permalink: "/news/2021/09/09/john-peart-election-statement"
 ---
 

@@ -6,7 +6,7 @@ excerpt: Here's an update on our Pride activities for the rest of the season.
 category: pride-2018
 redirect_from:
   - /2018/03/26/civil-service-pride-2018/
-image: "https://www.civilservice.lgbt/images/store/posts/pride-2018.png"
+image: "/assets/images/uploads/posts/pride-2018.png"
 published: true
 date: '2018-07-12'
 preview: false

@@ -5,7 +5,7 @@ role: vice chair
 email: vice-chair-regions@civilservice.lgbt
 project: Regional Delivery
 region: null
-image: https://www.civilservice.lgbt/images/store/team/ross-starkie.jpg
+image: /assets/images/uploads/team/ross-starkie.jpg
 ---
 
 Hi there, I’m Ross (he/him) and I have been in the Civil Service since September 2014. In my day job I work in taxes as well as support my department's PRISM Network. I have been involved in my departmental network and the Civil Service LGBT+ Network for a few years now.

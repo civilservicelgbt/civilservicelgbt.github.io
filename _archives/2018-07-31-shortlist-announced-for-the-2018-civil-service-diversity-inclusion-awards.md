@@ -9,7 +9,7 @@ excerpt: >-
   The shortlist for this year's Diversity and Inclusion awards have been
   announced. See who's been nominated.
 redirect_from: /news/2018/07/26/civil-service-diversity-and-inclusion-awards-shortlist
-image: "https://www.civilservice.lgbt/images/store/posts/diversity-and-inclusion-awards.jpg"
+image: "/assets/images/uploads/posts/diversity-and-inclusion-awards.jpg"
 image-alt: Diversity and Inclusion awards logo
 ---
 Each year, the Civil Service recognises those who are making a significant contribution to diversity and inclusion through the Diversity and Inclusion Awards. This year's shortlist has now been announced, in a [blog post on GOV.UK](https://civilservice.blog.gov.uk/2018/07/26/shortlist-announced-for-the-2018-civil-service-diversity-inclusion-awards/).

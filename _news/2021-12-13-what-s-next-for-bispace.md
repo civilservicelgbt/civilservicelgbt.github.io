@@ -8,7 +8,7 @@ date: 2021-12-13T00:00:00.00Z
 author: "Sunny Thompson"
 category:
 - bispace
-image: "https://www.civilservice.lgbt/images/store/spaces/bispace.png"
+image: "/assets/images/uploads/spaces/bispace.png"
 # video: ""
 permalink: /news/2021/12/13/whats-next-for-bispace
 # redirect_from:

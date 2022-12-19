@@ -8,7 +8,7 @@ role: "vice chair"
 project: "Policy and Data"
 # region: ""
 email: "john.smith@civilservice.lgbt"
-image: "https://www.civilservice.lgbt/images/store/team/john-smith.jpg"
+image: "/assets/images/uploads/team/john-smith.jpg"
 permalink: /team/john-smith
 # redirect_from: 
 # - 

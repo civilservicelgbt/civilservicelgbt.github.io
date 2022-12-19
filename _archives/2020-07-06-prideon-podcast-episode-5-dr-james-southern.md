@@ -9,7 +9,7 @@ category:
 - podcast
 title: "Episode 5 of the PrideON podcast with Dr. James Southern"
 excerpt: "Listen to episode 5 now, with host Jordan Ledger and guest Dr James Southern, a Civil Service historian."
-image: "https://www.civilservice.lgbt/images/store/posts/pride-on-podcast.png"
+image: "/assets/images/uploads/posts/pride-on-podcast.png"
 permalink: /news/2020/07/06/prideon-podcast-episode-5
 redirect_from: /podcast/episode/5
 ---

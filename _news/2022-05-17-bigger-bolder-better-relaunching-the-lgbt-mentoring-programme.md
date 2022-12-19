@@ -8,7 +8,7 @@ date: 2022-05-17T00:00:00.00Z
 author: "Dee"
 category: 
 - mentoring
-image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
+image: "/assets/images/uploads/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
 # video: ""
 permalink: /news/2022/05/17/bigger-bolder-better-relaunching-the-lgbt-mentoring-programme
 # redirect_from: 
@@ -47,7 +47,7 @@ Like last year we will match mentees to more senior mentors. All participants in
 
 ### 1. Sign up as a mentor or mentee 
 
-![](https://www.civilservice.lgbt/images/store/mentoring-scheme/website-explainer-1.png)
+![](/assets/images/uploads/mentoring-scheme/website-explainer-1.png)
 
 You will be able to register as a mentor, a mentee, or both. We’ll ask you to provide us with some information about you, like your Civil Service profession and your grade. We’ll use this information to narrow down mentors and mentees we think might be a good match. This year we will give mentees the opportunity to be matched on the profession of their choice.
 
@@ -58,7 +58,7 @@ than you are.
 
 ### 2. Wait for your matches
 
-![](https://www.civilservice.lgbt/images/store/mentoring-scheme/website-explainer-2.png)
+![](/assets/images/uploads/mentoring-scheme/website-explainer-2.png)
 
 Once you’ve registered your interest, we’ll send mentees and mentors up to 3 matches. We will run
 separate induction sessions for mentors and mentees to give you the required support and training. 
@@ -67,7 +67,7 @@ You can register for induction now: the details are on our [mentoring topic page
 
 ### 3. Set up a ‘speed mentoring’ session
 
-![](https://www.civilservice.lgbt/images/store/mentoring-scheme/website-explainer-3.png)
+![](/assets/images/uploads/mentoring-scheme/website-explainer-3.png)
 
 Once we’ve sent out the matches, mentees are responsible for contacting their matched mentors to
 arrange a one-off, 30 minute mentoring session.
@@ -77,7 +77,7 @@ going and to meet again.
 
 ### 4. Keep the conversation going
 
-![](https://www.civilservice.lgbt/images/store/mentoring-scheme/website-explainer-4.png)
+![](/assets/images/uploads/mentoring-scheme/website-explainer-4.png)
 
 If you find a match, the rest is up to you! You can meet up with your mentor or mentee as often as you both agree to meet. We’ll send you regular reminders, tips and advice about how to get the most from your mentoring relationship over the following months.
 
@@ -95,7 +95,7 @@ the registration window has closed.
 
 ### Become a mentor
 
-![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--become-a-mentor.png)
+![](/assets/images/uploads/mentoring-scheme/twitter-timeline--become-a-mentor.png)
 
 Give something back and become an LGBT+ mentor. We strongly encourage people at all grades to
 sign up as mentors – whether you’re an SCS or an EO. Everyone can help someone! The more
@@ -105,7 +105,7 @@ mentors we have, the more mentees we can support through the programme.
 
 ### Sign up as a mentee
 
-![](https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--find-a-mentor.png)
+![](/assets/images/uploads/mentoring-scheme/twitter-timeline--find-a-mentor.png)
 
 Give your career a boost and sign up as a mentee. Whilst we can’t guarantee that everyone will find
 a mentor they keep for the long term, we will try to ensure everyone can access some speed

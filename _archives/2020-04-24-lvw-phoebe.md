@@ -8,7 +8,7 @@ category: ["lesbian-visibility-week"]
 title: Let's get visible... meet Phoebe
 excerpt: 'To mark Lesbian Visibility Week, we’re celebrating the lesbians who make the Civil Service a great place to work for all colleagues.'
 permalink: /news/2020/04/24/lesbian-vis-week-phoebe
-image: "https://www.civilservice.lgbt/images/store/posts/lvw-phoebe.jpg"
+image: "/assets/images/uploads/posts/lvw-phoebe.jpg"
 ---
 
 ## Phoebe works on a climate investment programme at the Department for Business, Engery and Industrial Strategy. 

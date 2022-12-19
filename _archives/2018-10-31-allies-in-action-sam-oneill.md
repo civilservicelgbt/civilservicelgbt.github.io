@@ -7,7 +7,7 @@ published: true
 title: "Allies in Action: Sam O’Neill"
 excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people. Sam works for the Department of Work and Pensions. Here, Sam shares their thoughts on being an ally."
 redirect_from: /news/2018/10/31/allies-week-sam-oneill
-image: "https://www.civilservice.lgbt/images/store/posts/allies-week-no-date.png"
+image: "/assets/images/uploads/posts/allies-week-no-date.png"
 image-alt: Civil Service allies Week
 category: allies-week
 ---

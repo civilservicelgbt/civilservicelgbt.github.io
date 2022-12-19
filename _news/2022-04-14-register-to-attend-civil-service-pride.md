@@ -8,7 +8,7 @@ date: 2022-04-14T00:00:00.00Z
 author: "Civil Service LGBT+ Network"
 category: 
 - pride-2022
-image: "https://www.civilservice.lgbt/images/store/pages/pride-2022.png"
+image: "/assets/images/uploads/pages/pride-2022.png"
 # video: ""
 permalink: /news/2022/04/14/register-to-attend-civil-service-pride
 # redirect_from: 

@@ -7,7 +7,7 @@ published: true
 title: "Allies in Action: Nick Pett"
 excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people. Nick works at the Ministry of Defence. In this blog post, he tells us why allies are important."
 redirect_from: /news/2018/10/31/allies-week-nick-pett
-image: "https://www.civilservice.lgbt/images/store/posts/allies-week-no-date.png"
+image: "/assets/images/uploads/posts/allies-week-no-date.png"
 image-alt: Civil Service allies Week
 category: allies-week
 ---

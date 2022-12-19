@@ -4,7 +4,7 @@ title: "Registrations have closed"
 excerpt: "Registrations for the Civil Service LGBT+ mentoring programme are now closed."
 author: "Civil Service LGBT+ Network"
 category: ["mentoring"]
-image: "https://www.civilservice.lgbt/images/store/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
+image: "/assets/images/uploads/mentoring-scheme/twitter-timeline--mentoring-for-lgbt-civil-servants.png"
 permalink: "/mentoring/registrations-closed"
 redirect_from:
 - /mentoring/register-as-a-mentee

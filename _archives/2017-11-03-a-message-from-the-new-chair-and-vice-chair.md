@@ -6,7 +6,7 @@ excerpt: "Kate Scott-Hughes and John Peart are the new Chair and Vice-Chair of C
 layout: news
 
 redirect_from: /news/2017/11/03/a-message-from-the-new-chair-and-vice-chair/
-image: "https://www.civilservice.lgbt/images/store/posts/kate-and-john.png"
+image: "/assets/images/uploads/posts/kate-and-john.png"
 ---
 This week, we've taken over responsibility for running CSRA as Chair and Vice-Chair. We've both played an important part of developing CSRA over the past few years, and now we're both really excited to start working on what comes next.
 

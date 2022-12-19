@@ -9,7 +9,7 @@ category:
 - podcast
 title: "Episode 4 of the PrideON podcast on loneliness and lockdown"
 excerpt: "Listen to episode 4 now, with host John Peart and guests Caroline Airs, Jordan Zaman, Kate Hughes, Edward He and Rikesh Nagamah."
-image: "https://www.civilservice.lgbt/images/store/posts/pride-on-podcast.png"
+image: "/assets/images/uploads/posts/pride-on-podcast.png"
 permalink: /news/2020/07/01/prideon-podcast-episode-4
 redirect_from: /podcast/episode/4
 ---

@@ -6,7 +6,7 @@ excerpt: "Help us to deliver our second Civil Service Allies Week, from 28 Octob
 layout: news
 
 redirect_from: /news/2019/10/08/civil-service-allies-week/
-image: "https://www.civilservice.lgbt/images/store/posts/allies-week-no-date.png"
+image: "/assets/images/uploads/posts/allies-week-no-date.png"
 ---
 
 The second Civil Service Allies Week will be taking place from 28th October to 1st November.

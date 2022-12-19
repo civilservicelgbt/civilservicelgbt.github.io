@@ -8,7 +8,7 @@ date: 2021-11-22T00:00:00.00Z
 author: "Alan Edwards"
 # category: 
 # - 
-image: "https://www.civilservice.lgbt/images/store/trans-and-non-binary-inclusion/trans-and-non-binary.png"
+image: "/assets/images/uploads/trans-and-non-binary-inclusion/trans-and-non-binary.png"
 # video: ""
 permalink: /news/2021/11/22/trans-and-non-binary-inclusion-listening-sessions
 # redirect_from: 

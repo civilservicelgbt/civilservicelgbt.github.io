@@ -8,7 +8,7 @@ role: "chair"
 # project: ""
 # region: ""
 email: "john.peart@civilservice.lgbt"
-image: "https://www.civilservice.lgbt/images/store/team/john-peart.jpg"
+image: "/assets/images/uploads/team/john-peart.jpg"
 permalink: /team/john-peart
 # redirect_from: 
 # - 
