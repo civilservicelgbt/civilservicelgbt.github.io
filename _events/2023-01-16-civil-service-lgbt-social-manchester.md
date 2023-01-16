@@ -10,7 +10,8 @@ event:
   end: ""
   deadline: 2023-02-14T12:00:00.000Z
   location: VIA, 28-30 Canal Street, Manchester, M1 3EZ
-  link: northwest@civilservice.lgbt
+  link: ""
+  email: northwest@civilservice.lgbt
 category:
   - north-west
 ---
