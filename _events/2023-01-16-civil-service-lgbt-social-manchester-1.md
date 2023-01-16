@@ -11,6 +11,8 @@ event:
   deadline: 2023-03-14T12:00:00.000Z
   location: VIA, 28-30 Canal Street, Manchester, M1 3EZ
   email: northwest@civilservice.lgbt
+category:
+  - north-west
 ---
 The Civil Service LGBT+ Network organises informal networking and social events so that LGBT+ civil servants can meet each other. Our [local organisers](/team) organise these events in various cities across the country.
 
