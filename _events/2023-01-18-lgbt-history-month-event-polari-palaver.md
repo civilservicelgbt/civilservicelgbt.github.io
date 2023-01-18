@@ -7,7 +7,7 @@ date: 2023-01-18T08:06:21.115Z
 event:
   host: DWP Pride
   start: 2023-02-06T13:00:00.000Z
-  end: ""
+  end: 2023-02-06T14:00:00.000Z
   deadline: 2023-02-03T17:00:00.000Z
   location: MS Teams
   link: https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fregistration%2F6fbxllcQF0GsKIDN_ob4ww%2Cr-JSDalAS0695HeqkxFCGA%2CuHW0JEcvJUq6mEvYcGwiuw%2CaO8v3kpDRUC66E0C5WEPdQ%2C8mJ-2f8J7E-FuoBdD8THTA%2CBjgh1Jljnk-RV_hU197Zqg%3Fmode%3Dread%26tenantId%3D96f1f6e9-1057-4117-ac28-80cdfe86f8c3&data=05%7C01%7Cross.starkie%40hmrc.gov.uk%7C44289ad2e2cd4385612e08daf8b39e20%7Cac52f73cfd1a4a9a8e7a4a248f3139e1%7C0%7C0%7C638095747579639102%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=APKzgDqDtPVb4RWEGFrxPFt9srjhIcwSY0AeSTOKaW8%3D&reserved=0
