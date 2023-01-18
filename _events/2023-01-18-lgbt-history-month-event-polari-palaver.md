@@ -17,3 +17,5 @@ Monday 6 February 1300-1400
 Bona to vada your dolly old eeks! Derived in part from theatre slang (along with sailor slang, Cockney rhyming slang and several other languages), Polari was a cant (secret language) spoken predominately by camp gay men in the UK during a time when homosexuality was illegal.
 
 We'll be looking at examples of Polari in the media, decoding the origins and meanings behind common Polari terms and looking at the reasons why Polari existed. If you've ever put on some slap, considered a pair of strides to be naff or found yourself on your tod then you've been speaking Polari without knowing it!
+
+Please register with your .gov email addresses. If the registration link does not work in your department then please email us at - [vice-chair-regions@civilservice.lgbt](vice-chair-regions@civilservice.lgbt)
