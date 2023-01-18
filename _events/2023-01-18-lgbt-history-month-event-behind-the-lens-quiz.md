@@ -8,7 +8,7 @@ event:
   host: DWP Pride
   start: 2023-02-22T12:30:00.000Z
   end: 2023-02-22T13:30:00.000Z
-  deadline: 2022-02-21T17:00:00.000Z
+  deadline: 2023-02-21T17:00:00.000Z
   location: MS Teams
   link: https://teams.microsoft.com/registration/6fbxllcQF0GsKIDN_ob4ww,r-JSDalAS0695HeqkxFCGA,uHW0JEcvJUq6mEvYcGwiuw,OBPEtcA-Kk6Eo9bIo8q8RQ,owNGaHAfsUm82Ed6OfSNiQ,dUKhoWTmEkeuONqB5UwV8Q?mode=read&tenantId=96f1f6e9-1057-4117-ac28-80cdfe86f8c3
 ---
