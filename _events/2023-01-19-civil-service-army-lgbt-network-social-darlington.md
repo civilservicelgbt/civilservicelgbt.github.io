@@ -15,6 +15,6 @@ event:
 category:
   - north-east
 ---
-Join others at a Spring social in Darlington on 'Mon-Gay' night, starting at the Woollen Mill (look out for Martin) and moving on to Number One bar from 1900 hours onwards for 'Mongay' night with the fantastic Miss Tess Tickle and friends (small entry fee payable)
+Join others at our Spring social in Darlington on 'Mon-Gay' night, starting at the Woollen Mill at 1730 (look out for Martin) and moving on to Number One bar from 1900 hours onwards for 'Mongay' night with the fantastic Miss Tess Tickle and friends (small entry fee payable)
 
 F﻿or more information or if you have any questions please email [northeast@civilservice.lgbt](northeast@civilservice.lgbt)
