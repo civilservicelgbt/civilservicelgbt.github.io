@@ -5,10 +5,10 @@ excerpt: Join other LGBT+ civil servants at our social in Kent.
 date: 2022-11-07T17:21:48.584Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2023-02-09T18:30:00.000Z
-  end: 2023-02-09T20:30:00.000Z
-  deadline: 2023-02-08T17:00:00.000Z
-  location: The Drapers Arms, 1-2 Sun Street, Canterbury, Kent, CT1 2HX
+  start: 2023-02-16T18:30:00.000Z
+  end: ""
+  deadline: 2023-02-15T17:00:00.000Z
+  location: The Prince Albert, 83 Biggin Street, Dover, CT16 1BB
   email: SouthEast@civilservice.lgbt
   no-register: ""
 category:
