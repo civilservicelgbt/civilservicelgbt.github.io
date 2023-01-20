@@ -2,7 +2,7 @@
 layout: team
 person-name: Steve Bowler
 role: vice chair
-email: SouthEast@civilservice.lgbt
+email: vice-chair-regions@civilservice.lgbt
 project: Regions and Nations
 region: South East
 image: /assets/images/uploads/steve-bowler.jpg
