@@ -9,6 +9,7 @@ event:
   end: ""
   deadline: 2023-02-02T12:00:00.000Z
   location: Yard Bar, 2 Scotswood Rd, Newcastle upon Tyne, NE4 7JB
+  email: northeast@civilservice.lgbt
 category:
   - north-east
 ---
