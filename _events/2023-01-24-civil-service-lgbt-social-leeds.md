@@ -16,6 +16,8 @@ category:
 ---
 The Civil Service LGBT+ Network organises informal networking and social events so that LGBT+ civil servants can meet each other. Our [local organisers](/team) organise these events in various cities across the country.
 
+Come along to meet, network and help build rapport with of members of the Civil Service LGBT+ Network. Queens Court is an LBGT+ friendly space and all are welcome.
+
 If you have questions about this event, or you have an idea for a future event, you can contact our Yorkshire and Humberside team at the below email address. 
 
 [yorkshireandhumber@civilservice.lgbt](yorkshireandhumber@civilservice.lgbt)[](mailto:northwest@civilservice.lgbt)
