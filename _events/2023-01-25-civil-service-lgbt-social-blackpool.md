@@ -21,6 +21,8 @@ T﻿o make Blackpool socials more inclusive on event days, these will now altern
 
 C﻿ome along for an evening of social chatter and networking with like minded civil servants. Who knows you may even get treated to some karaoke!
 
+K﻿eep an eye out for our unicorn mascot on the night.
+
 If you have questions about this event, or you have an idea for a future event, you can contact our [North West local organisers](mailto:northwest@civilservice.lgbt).
 
 For all the latest updates from the North West region, check the [North West topic page](/topic/north-west)
