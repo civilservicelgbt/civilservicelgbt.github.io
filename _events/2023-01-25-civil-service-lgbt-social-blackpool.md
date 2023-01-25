@@ -19,7 +19,7 @@ The Civil Service LGBT+ Network organises informal networking and social events 
 
 T﻿o make Blackpool socials more inclusive on event days, these will now alternate between the first Thursday and first Thursday of the month, check our events page to make sure you know which day the event is.
 
-C﻿ome along for an evening of social chatter and networking with like minded civil servants. 
+C﻿ome along for an evening of social chatter and networking with like minded civil servants. Who knows you may even get treated to some karaoke!
 
 If you have questions about this event, or you have an idea for a future event, you can contact our [North West local organisers](mailto:northwest@civilservice.lgbt).
 
