@@ -13,6 +13,8 @@ event:
   location: Velvet, 2 Canal Street, Manchester, M1 3HE
   email: anna-josie.linighan@civilservice.gov.uk
   no-register: Registration is not mandatory
+category:
+  - north-west
 ---
 This is a new to 2023 monthly pre-meet before the main Manchester Civil Service LGBT+ Social.
 
