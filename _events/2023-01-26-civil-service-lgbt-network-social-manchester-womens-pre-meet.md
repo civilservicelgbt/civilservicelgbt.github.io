@@ -11,7 +11,7 @@ event:
   end: ""
   deadline: 2023-02-14T12:00:00.000Z
   location: Velvet, 2 Canal Street, Manchester, M1 3HE
-  email: anna-josie.linighan@civilservice.gov.uk
+  email: anna-josie.linighan@civilservice.lgbt
   no-register: Registration is not mandatory
 category:
   - north-west
@@ -26,4 +26,4 @@ I’m sure you’ll have noticed that a lot of our Manchester socials, while rea
 
 If you’d like to meet more women to connect and network with, please join me at 5pm in Velvet on Canal St. We can have a drink and a chat then head over to Via, our normal social venue, at around 6pm where we can meet up with other colleagues. There is no pressure to drink alcohol, as Velvet has a good selection of alcohol-free options. You also don’t have to go to the larger social. If you’d rather not attend the large social and just come to the women’s pre-meet, that is absolutely fine too!
 
-As always, drop me an email on anna-josie.linighan@civilservice.gov.uk if you fancy a chat or have any questions.
+As always, drop me an email on anna-josie.linighan@civilservice.lgbt if you fancy a chat or have any questions.
