@@ -1,4 +1,11 @@
 - type: "Region"
+  name: "North East"
+  category: "north-east"
+  description: "The North East group is for members who live in the North East region of England. It is run by our local organisers in the North East region."
+  email: "northeast@groups.civilservice.lgbt"
+  url: "https://groups.google.com/a/groups.civilservice.lgbt/g/northeast"
+
+- type: "Region"
   name: "North West"
   category: "north-west"
   description: "The North West group is for members who live in the North West region of England. It is run by our local organisers in the North West region."
