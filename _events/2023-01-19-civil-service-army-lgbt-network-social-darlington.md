@@ -11,7 +11,8 @@ event:
   deadline: 2023-03-05T12:00:00.000Z
   location: "Woollen Mill, 3 Feethams, Darlington, DL1 5RD followed by Number One
     Bar 1 Skinnergate Darlington DL3 7NB "
-  link: northeast@civilservice.lgbt
+  link: ""
+  email: northeast@civilservice.lgbt
 category:
   - north-east
 ---
