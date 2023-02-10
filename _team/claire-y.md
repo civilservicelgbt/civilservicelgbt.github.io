@@ -5,7 +5,6 @@ role: vice chair
 email: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
 project: Ethnic minority inclusion
 region: null
-image: ""
 ---
 Hello!
  
