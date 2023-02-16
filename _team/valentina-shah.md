@@ -5,7 +5,7 @@ role: local organiser
 email: london@civilservice.lgbt
 project: Local Organiser
 region: London
-archive: "false"
+archive: "true"
 image: /assets/images/uploads/valentina.jpg
 ---
 I joined the Civil Service in September 2020 working within HM Revenue & Customs in the Debt Enforcement Team.
