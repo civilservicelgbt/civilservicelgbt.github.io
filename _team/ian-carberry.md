@@ -5,7 +5,6 @@ role: local organiser
 email: northwest@civilservice.lgbt
 project: Local Organiser
 region: North West
-archive: "false"
 image: /assets/images/uploads/ian-carberry.jpg
 ---
 Hi my name is Ian. I’m originally from Hartlepool but been a proud resident of Salford for the last 12 years. I currently work in DTS as part of the DDaT Capability and Engagement team. The job is all about developing our people, not just in terms of technical skill but also raising awareness to make sure we have an inclusive workforce and people feel they have a voice, which provides me with a lot of job satisfaction.
