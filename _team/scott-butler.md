@@ -5,7 +5,6 @@ role: local organiser
 email: northwest@civilservice.lgbt
 project: Local Organiser
 region: North West
-archive: "false"
 image: /assets/images/uploads/scott-cspridemcr22.jpg
 ---
 Hello, I’m Scott (he/him) and started with the Civil Service in February 2020. I currently work part of a 24/7 IT Operations Team for the Department for Work and Pensions as a Senior Analyst and Shift Lead. Whilst being based in Manchester half of the team I manage also work in Newcastle.
