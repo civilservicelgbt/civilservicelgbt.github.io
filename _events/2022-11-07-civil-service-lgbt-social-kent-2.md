@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ social – Kent
+title: "Civil Service LGBT+ social – Kent - CANCELED "
 excerpt: Join other LGBT+ civil servants at our social in Kent.
 date: 2022-11-07T17:21:48.584Z
 event:
@@ -14,6 +14,8 @@ event:
 category:
   - South-East
 ---
+Unfortunately due to unforeseen circumstances no local reps can make this social anymore. We apologise for the late notice of this cancelation.
+
 Join other LGBT+ civil servants at our social in Kent.
 
 The Civil Service LGBT+ Network organises informal networking and social events so that LGBT+ civil servants can meet each other. Our local organisers organise these events in various cities across the country.
