@@ -2,12 +2,12 @@
 layout: event
 title: Monthly women's coffee mornings
 excerpt: Monthly informal coffee mornings for LGBT+ women
-date: 2023-02-19T12:18:41.770Z
+date: 2023-02-19T09:00:41.770Z
 event:
   host: Civil Service LGBT+ Network
   start: 2023-02-23T10:00:41.812Z
   end: 2023-02-23T11:00:41.858Z
-  deadline: 2023-02-17T12:18:41.903Z
+  deadline: 2023-02-23T09:00:41.903Z
   location: "Virtual: Microsoft Teams"
   email: anna-josie.linighan@education.gov.uk
   no-register: "Please email me to register for this event. "
