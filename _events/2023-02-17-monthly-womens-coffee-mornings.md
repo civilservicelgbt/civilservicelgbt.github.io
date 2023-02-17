@@ -2,7 +2,7 @@
 layout: event
 title: Monthly women's coffee mornings
 excerpt: Monthly informal coffee mornings for LGBT+ women
-date: 2023-02-19T09:00:41.770Z
+date: 2023-02-17T12:31:41.770Z
 event:
   host: Civil Service LGBT+ Network
   start: 2023-02-23T10:00:41.812Z
