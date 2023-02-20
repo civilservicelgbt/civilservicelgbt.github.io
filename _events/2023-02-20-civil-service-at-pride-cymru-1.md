@@ -1,7 +1,7 @@
 ---
 layout: event
-title: Civil Service at Pride Cymru
-excerpt: Join the Civil Service as we take part in the Pride Cymru parade.
+title: Civil Service at Edinburgh Pride
+excerpt: Join the Civil Service as we take part in the Edinburgh Pride parade.
 date: 2023-02-20T16:40:58.392Z
 event:
   host: Civil Service LGBT+ Network
