@@ -11,7 +11,7 @@ event:
   deadline: 2023-02-27T12:00:00.000Z
   link: https://forms.gle/CzWj4JpA3sQEv1RH6
   email: lgbt@cabinetoffice.gov.uk
-  location: Online – Google Meet
+  location: Online
 category:
   - lgbt-history-month
 ---
