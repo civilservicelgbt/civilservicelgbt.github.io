@@ -8,7 +8,7 @@ event:
   start: 2023-03-09T18:30:00.000Z
   end: 2023-03-09T20:30:00.000Z
   deadline: 2023-03-08T17:00:00.000Z
-  location: The Drapers Arms, 1-2 Sun Street, Canterbury, Kent, CT1 2HX
+  location: "The Prince Albert, 83 Biggin Street, Dover, CT16 "
   email: SouthEast@civilservice.lgbt
 category:
   - South-East
