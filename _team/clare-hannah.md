@@ -6,9 +6,9 @@ email: westmidlands@civilservice.lgbt
 project: Local Organiser
 region: West Midlands
 archive: "false"
-permalink: /team/clare-hannah
-title: Clare Hannah
-image: /assets/images/uploads/team/clare-hannah.jpg
+permalink: /team/kit-hannah
+title: kit Hannah
+image: /assets/images/uploads/team/kit-hannah.jpg
 ---
 
 I’m Kit Hannah (he/they) and I’ve been in the Civil Service since 2014. I am currently the Area Lead for Stoke-on-Trent and Staffordshire, in the Cities and Local Growth Unit, which is a joint DBT/DLUHC unit (yes, it’s a mouthful!). I am involved with the LGBT+ network in DBT and previously in DCMS and MOD.
