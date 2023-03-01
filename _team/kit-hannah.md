@@ -7,7 +7,7 @@ project: Local Organiser
 region: West Midlands
 archive: "false"
 permalink: /team/kit-hannah
-title: kit Hannah
+title: Kit Hannah
 image: /assets/images/uploads/kit-hannah.jpg
 ---
 
