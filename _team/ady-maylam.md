@@ -6,6 +6,8 @@ email: southeast@civilservice.lgbt
 project: Local Organiser
 region: South East
 archive: "false"
+permalink: /team/ady-maylam
+title: Ady Maylam
 image: /assets/images/uploads/ady-maylam.jpg
 ---
 Hi my name is Ady and I joined the Civil Service in April 2016. I first started in Work and Health, at Haywards Heath JCP as a Work Coach, following this I moved to Tonbridge JCP, where I was the LGBT+ SPOC. I now work for CMS in Hastings, on the Service Centre Support Team.
