@@ -5,12 +5,7 @@ excerpt: A new, more informal way of connecting with the work of the Civil
   Service LGBT+ Network and our teams
 date: 2023-03-03T09:43:43.367Z
 author: Vice Chairs for Regions & Nations
-category:
-  - london
-  - north-east
-  - north-west
-  - scotland
-  - south-east
+category: []
 ---
 ### G﻿oogle Groups
 
