@@ -6,9 +6,9 @@ excerpt: If you are LGBT+ and have a minority ethnicity, join us for an
 date: 2023-03-07T18:01:58.869Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2023-04-05T18:01:58.925Z
-  end: 2023-04-05T18:01:58.955Z
-  deadline: 2023-03-07T18:01:58.977Z
+  start: 2023-04-05T16:30:00.000Z
+  end: ""
+  deadline: 2023-04-04T16:30:00.000Z
   email: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
   location: Online
 category:
