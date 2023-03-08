@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Google Groups Expansion
+title: Join our new, expanded Groups
 excerpt: A new, more informal way of connecting with the work of the Civil
   Service LGBT+ Network and our teams
 date: 2023-03-03T09:43:43.367Z
