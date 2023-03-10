@@ -13,7 +13,7 @@ event:
   link: https://www.eventbrite.co.uk/e/where-do-i-belong-civil-service-lgbt-network-x-qtipoc-collab-tickets-575865949557
   no-register: Please register using a Civil Service email address.
 category:
-  - ethnic-minority
+  - ethnic-minority-inclusion
 ---
 This event will focus on the importance of allyship, why spaces for people of colour are important, and supporting marginalised communities within LGBT spaces. 
 
