@@ -260,21 +260,18 @@ objectives:
     date: 2022-07-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
     complete: true
   - milestone: "Develop a new programme for LGBT+ women"
-    date: 2022-09-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    date: 2023-01-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
+    complete: true
 
 - objective: "Minority ethnicity inclusion"	# Name of objective
   description: "Investigate the needs of LGBT+ people with minority ethnicities in the Civil Service, and create a bespoke programme of work similar to 'BiSpace' for LGBT+ people with minority ethnicities."
   complete: false
   milestones:
   - milestone: "Recruit a lead vice-chair for this work"
-    date: 2022-07-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
-  - milestone: "Investigate the needs of staff who are LGBT+ and who have a minority ethnicity"
-    date: 2022-07-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    date: 2023-02-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
+    complete: true
   - milestone: "Develop a new programme for staff who are LGBT+ and who have a minority ethnicity"
-    date: 2022-09-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
+    date: 2023-06-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
     complete: false
 
 - objective: "Trans and non-binary inclusion"	# Name of objective
@@ -294,7 +291,7 @@ objectives:
     complete: true
   - milestone: "Publish a trans and non-binary inclusion plan"
     date: 2022-06-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    complete: true
   - milestone: "Recruit a team of volunteers to deliver the plan"
     date: 2022-06-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
     complete: false
