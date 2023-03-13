@@ -6,5 +6,5 @@ excerpt: Our work to ensure trans and non-binary people feel included in the
   Civil Service
 category: trans
 background: white
-redirect_from: trans
+redirect_from: trans-inclusion
 ---
