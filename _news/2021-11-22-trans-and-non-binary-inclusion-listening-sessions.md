@@ -1,20 +1,16 @@
 ---
-# Adding or removing a '#' in front of a line will toggle that information off and on from being processed. 
-
 layout: news
-title: "Trans and non-binary inclusion listening sessions"
-excerpt: "We're holding listening sessions to help us make our Network more inclusive for trans and non-binary civil servants."
-date: 2021-11-22T00:00:00.00Z
-author: "Alan Edwards"
-# category: 
-# - 
-image: "/assets/images/uploads/trans-and-non-binary-inclusion/trans-and-non-binary.png"
-# video: ""
+title: Trans and non-binary inclusion listening sessions
+excerpt: We're holding listening sessions to help us make our Network more
+  inclusive for trans and non-binary civil servants.
+date: 2021-11-22T00:00:00.000Z
+author: Alan Edwards
 permalink: /news/2021/11/22/trans-and-non-binary-inclusion-listening-sessions
-# redirect_from: 
-# - 
-# redirect_to: 
-# - 
+category:
+  - trans
+  - non-binary
+  - trans-inclusion
+image: /assets/images/uploads/trans-and-non-binary-inclusion/trans-and-non-binary.png
 ---
 
 Hi, I’m [Alan Edwards](/team/alan-edwards), my pronouns are they/he, and I’m the **Civil Service LGBT+ Network’s** new Vice Chair for trans and non-binary inclusion.
