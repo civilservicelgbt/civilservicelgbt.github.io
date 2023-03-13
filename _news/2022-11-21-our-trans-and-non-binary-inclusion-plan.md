@@ -8,6 +8,7 @@ author: Alan Edwards
 category:
   - trans
   - non-binary
+  - trans-inclusion
 ---
 This plan has been written following a number of listening sessions in 2022 to understand the issues that matter to trans and non-binary civil servants. We will carry it out in coordination with the other programmes and activities of the Civil Service LGBT+ Network, and the cross-government network for trans and intersex staff, a:gender.
 
