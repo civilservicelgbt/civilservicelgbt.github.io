@@ -15,6 +15,7 @@ event:
   no-register: Registration is not mandatory
 category:
   - north-west
+  - womens-inclusion
 ---
 This is a new to 2023 monthly pre-meet before the main Manchester Civil Service LGBT+ Social.
 
