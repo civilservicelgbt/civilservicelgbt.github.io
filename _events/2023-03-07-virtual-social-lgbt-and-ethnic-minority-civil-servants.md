@@ -12,7 +12,7 @@ event:
   email: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
   location: Online
 category:
-  - ethnic-minority
+  - ethnic-minority-inclusion
 ---
 
 Hello! We’re running a virtual social for Civil Service staff who identify both as LGBT+ and an ethnic minority to meet others like themselves, and to provide opportunities to network. This is the first of many that we have planned, with the intention of running both online and in-person socials in various locations.
