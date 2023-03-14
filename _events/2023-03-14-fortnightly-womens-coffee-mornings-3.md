@@ -7,7 +7,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2023-03-23T10:30:58.521Z
   end: 2023-03-23T11:00:58.541Z
-  deadline: 2023-03-14T11:57:58.567Z
+  deadline: 2023-03-23T09:00:58.567Z
   location: Virtual - Microsoft Teams
   email: anna-josie.linighan@civilservice.lgbt
 ---
