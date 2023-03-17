@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ Social – Nottingham
+title: Civil Service LGBT+ Social – Nottingham - August 2023
 excerpt: "Join Civil Service LGBT+ Network colleagues in Nottingham at the
   monthly social. "
 date: 2023-01-24T17:51:39.601Z
