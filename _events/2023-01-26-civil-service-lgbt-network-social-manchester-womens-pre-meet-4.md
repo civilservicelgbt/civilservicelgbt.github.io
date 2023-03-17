@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ Network Social - Manchester Women's Pre-Meet
+title: Civil Service LGBT+ Network Social - Manchester Women's Pre-Meet - June 2023
 excerpt: "Following feedback we are introducing a women's pre-meet to our main
   Manchester social. Another great place to socialise and network with other
   civil servants. "
