@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ social – Liverpool
+title: Civil Service LGBT+ social – July 2023 – Liverpool
 excerpt: Join our regular social and networking event for LGBT+ civil servants
   based in and around Liverpool.
 date: 2022-12-19T14:58:16.146Z
@@ -8,7 +8,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2023-07-06T17:00:00.000Z
   end: ""
-  deadline: 2023-06-05T12:00:00.000Z
+  deadline: 2023-07-05T12:00:00.000Z
   email: northwest@civilservice.lgbt
   location: Tempest on Tithebarn, 12 Tithebarn St, Liverpool, L2 2DT
 category:
