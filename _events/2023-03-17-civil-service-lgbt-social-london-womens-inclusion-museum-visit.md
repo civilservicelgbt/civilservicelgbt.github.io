@@ -6,7 +6,7 @@ excerpt: Join our London Women's inclusion leads for a visit to the the Science
 date: 2023-03-17T09:45:47.376Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2023-03-29T18:45:00.000Z
+  start: 2023-03-29T18:30:00.000Z
   end: ""
   deadline: 2023-03-29T12:00:00.000Z
   location: Energy Café, Science Museum, Cameo House, 11 Bear St, London WC2H
