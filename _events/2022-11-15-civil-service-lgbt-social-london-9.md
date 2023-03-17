@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ social – October 2023 – London
+title: Civil Service LGBT+ social – London – October 2023
 excerpt: Join our regular social and networking event for LGBT+ civil servants
   based in and around London.
 date: 2022-11-15T11:09:14.510Z
