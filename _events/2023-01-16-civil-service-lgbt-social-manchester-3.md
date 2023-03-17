@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ social – Manchester
+title: Civil Service LGBT+ social – May 2023 – Manchester
 excerpt: Join our regular social and networking event for LGBT+ civil servants
   based in and around Manchester.
 date: 2023-01-16T09:50:45.039Z
