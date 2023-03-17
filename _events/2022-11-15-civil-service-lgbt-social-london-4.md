@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ social – London
+title: Civil Service LGBT+ social – May 2023 – London
 excerpt: Join our regular social and networking event for LGBT+ civil servants
   based in and around London.
 date: 2022-11-15T10:27:38.218Z
