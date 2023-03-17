@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ social – Birmingham
+title: Civil Service LGBT+ social – Birmingham - April 2023
 excerpt: Join other LGBT+ civil servants at our social in Birmingham
 date: 2022-11-30T13:51:31.516Z
 event:
