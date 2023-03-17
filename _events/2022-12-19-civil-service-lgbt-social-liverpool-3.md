@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ social – Liverpool
+title: Civil Service LGBT+ social – May 2023 – Liverpool
 excerpt: Join our regular social and networking event for LGBT+ civil servants
   based in and around Liverpool.
 date: 2022-12-19T14:52:35.343Z
