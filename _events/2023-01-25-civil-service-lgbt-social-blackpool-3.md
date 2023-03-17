@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ social – Blackpool
+title: Civil Service LGBT+ social – Blackpool - May 2023
 excerpt: Join our regular social and networking event for LGBT+ civil servants
   based in and around Blackpool.
 date: 2023-01-25T16:40:22.594Z
