@@ -10,8 +10,11 @@ event:
   end: ""
   deadline: 2023-03-29T12:00:00.000Z
   location: Energy Café, Science Museum, Cameo House, 11 Bear St, London WC2H
+  no-register: Book a free ticket on the Science Museum website, and then email
+    Maria and Oriana to let them know you're joining.
 category:
   - london
+  - womens-inclusion
 ---
 Our London Women’s Inclusion team would love to invite you to join them at the Science Museum Lates. This event is open to everyone who identifies as a woman and/or feels like this space would be suitable for them.  
 
