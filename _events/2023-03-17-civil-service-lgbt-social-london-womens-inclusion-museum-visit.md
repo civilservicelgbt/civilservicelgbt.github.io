@@ -14,6 +14,7 @@ event:
     Maria and Oriana to let them know you're joining.
 category:
   - london
+  - womens-inclusion
 ---
 Our London Women’s Inclusion team would love to invite you to join them at the Science Museum Lates. This event is open to everyone who identifies as a woman and/or feels like this space would be suitable for them.  
 
