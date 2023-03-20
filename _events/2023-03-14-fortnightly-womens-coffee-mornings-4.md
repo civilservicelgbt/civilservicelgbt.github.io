@@ -10,6 +10,9 @@ event:
   deadline: 2023-06-01T09:00:58.205Z
   location: Virtual - Microsoft Teams
   email: anna-josie.linighan@civilservice.lgbt
+category:
+  - women
+  - womens-inclusion
 ---
 These fortnightly informal coffee mornings are a chance to meet LGBT+ women cross government and chat to new people. There won’t be an agenda or plan for these sessions. Bring a brew and take some time out of your day to unwind. These sessions are open to anyone who identifies as a woman and feels this would be a safe space for them. 
 
