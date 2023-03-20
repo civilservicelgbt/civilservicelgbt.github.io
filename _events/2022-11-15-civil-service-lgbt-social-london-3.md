@@ -28,3 +28,5 @@ Retro Bar provides us their private venue upstairs and an area downstairs for mo
 Our London events are incredibly popular – we regularly see around 50 to 100 people attend. Finding venues that are available and as inclusive as possible at no cost to accommodate everyone's needs and tastes is incredibly difficult.
 
 If you have any questions, an idea for a venue, or you're willing to help organise a social yourself, please contact our [London local organisers](/team).
+
+We have a new Women’s Pre-meet event that you can attend before coming to the social. This is open to anyone who identifies as a woman and/or feels like that space would be suitable for them, providing them with the opportunity to meet each other and chat in a smaller group before coming to the bar. If this is of interest to you, please see more details [here](https://www.civilservice.lgbt/event/2023-03-20-civil-service-lgbt-social-womens-pre-meet-london-april-2023). This new pre-meet will be a regular occurrence, the website will be updated in due course.
