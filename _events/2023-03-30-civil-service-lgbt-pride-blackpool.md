@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Civil Service LGBT+ Pride - Blackpool
-excerpt: Join the Civil Service LGBT+ Netowrk at Blackpool Pride
+excerpt: Join the Civil Service LGBT+ Network at Blackpool Pride
 date: 2023-03-30T12:05:03.392Z
 event:
   host: Civil Service LGBT+ Network
