@@ -6,7 +6,7 @@ excerpt: "Join Civil Service LGBT+ Network colleagues in Nottingham at the
 date: 2023-01-24T17:35:56.994Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2023-04-17T16:15:00.000Z
+  start: 2023-04-14T16:15:00.000Z
   end: ""
   deadline: 2023-04-17T12:00:00.000Z
   no-register: Registration is not mandatory
