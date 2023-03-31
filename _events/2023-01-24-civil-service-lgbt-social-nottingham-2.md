@@ -8,7 +8,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2023-04-14T16:15:00.000Z
   end: ""
-  deadline: 2023-04-17T12:00:00.000Z
+  deadline: 2023-04-14T12:00:00.000Z
   no-register: Registration is not mandatory
   email: eastmidlands@civilservice.lgbt
   location: Cured, 97 Carrington Street, Nottingham, NG1 7FE
