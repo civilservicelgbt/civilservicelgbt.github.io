@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Newcastle-upon-Tyne Social
+title: Newcastle-upon-Tyne Social - April 2023
 excerpt: "Come join us at The Yard Bar for our monthly social from 5pm on
   Thursday April 20th. "
 date: 2023-04-04T12:52:10.011Z
