@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ Pride Canterbury
+title: Civil Service LGBT+ Network Pride Canterbury
 excerpt: Please note -numbers for the Parade are limited - if over subscribed it
   will go to a ballot
 date: 2023-04-06T07:45:04.659Z
