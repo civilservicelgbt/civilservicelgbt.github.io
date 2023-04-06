@@ -7,7 +7,7 @@ excerpt: >-
   parade to the Town Moor Festival Arena main event from 13:00 hrs to 21:00 hrs
   Saturday.
     
-  Could it please be mentioned that access to the community village is free but tickets will be needed for the main festival arena, costing from £6 and this will be at the members own expense.  It is not intended to attend the Sunday event and candlelight vigil as a group, members are to make their own arrangements. 
+  Access to the community village is free but tickets will be needed for the main festival arena, costing from £6 and this will be at the members own expense.  It is not intended to attend the Sunday event and candlelight vigil as a group, members are to make their own arrangements. 
 date: 2023-04-06T11:40:28.935Z
 event:
   host: Civil Service LGBT+ Network
