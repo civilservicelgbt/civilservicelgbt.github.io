@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Canterbury PRIDE! "
+title: "Civil Service at Canterbury PRIDE! "
 excerpt: Please note -numbers for the Parade are limited - if over subscribed it
   will go to a ballot
 date: 2023-04-06T07:45:04.659Z
@@ -26,7 +26,7 @@ Performances during the day include:
 •	Jimbo (Drag Race UK)
 •	And many many more!
 
-Parade Muster           Westgate Gardens between 09:30 and 10:00 (please note instructions below)
+Parade Muster Westgate Gardens between 09:30 and 10:00 (please note instructions below)
 
 Colleagues attending are to meet Local Organiser, James Reid, at The Westgate Inn (Weatherspoon Pub) on North Lane, between 09:00 & 09:30.  Here we will issue wristbands, along with T-shirts, banners, and other parade items.  We will then make our way to the muster point as one group.  (note that you will not be able to enter the muster point without a wristband pre-attached)
 
