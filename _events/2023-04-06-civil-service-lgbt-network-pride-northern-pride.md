@@ -14,7 +14,7 @@ event:
   start: 2023-07-22T11:30:28.951Z
   end: 2023-07-22T21:00:28.960Z
   deadline: 2023-07-14T12:00:28.969Z
-  location: The Town Moor, Grandstand Road, Newcastle-upon-Tyne
+  location: Newcastle-upon-Tyne Civic Centre, Barras Bridge.
   email: north east
 category:
   - north east
