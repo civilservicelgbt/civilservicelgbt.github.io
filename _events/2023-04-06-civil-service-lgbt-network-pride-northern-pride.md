@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ Network Pride - Northern Pride
+title: Civil Service LGBT+ Network Pride Northern Pride
 excerpt: >-
   Northern Pride - dates Saturday 22nd and Sunday 23rd July, meet outside
   Newcastle-upon-Tyne Civic Centre on Saturday 22nd at 12:00 hours for the
