@@ -21,4 +21,4 @@ category:
 ---
 Northern Pride - dates Saturday 22nd and Sunday 23rd July, meet outside Newcastle-upon-Tyne, Civic Centre on Saturday 22nd at 12:00 hours for the parade to the Town Moor Festival Arena main event from 13:00 hrs to 21:00 hrs Saturday.
 
-Could it please be mentioned that access to the community village is free but tickets will be needed for the main festival arena, costing from £6 and this will be at the members own expense.  It is not intended to attend the Sunday event and candlelight vigil as a group, members are to make their own arrangements.
+Access to the community village is free but tickets will be needed for the main festival arena, costing from £6 and this will be at the members own expense.  It is not intended to attend the Sunday event and candlelight vigil as a group, members are to make their own arrangements.
