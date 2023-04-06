@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ Network Pride Darlington
+title: Civil Service LGBT+ Network Pride - Darlington - August 2023
 excerpt: >-
   Saturday 12 August – Pride Festival and Parade in the Market Square. The
   Parade likely to be from 12:00pm, meet up outside the Darlington Economic
@@ -16,9 +16,9 @@ excerpt: >-
 date: 2023-04-06T13:47:42.427Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2023-04-06T13:47:42.443Z
-  end: 2023-04-06T13:47:42.456Z
-  deadline: 2023-04-06T13:47:42.467Z
+  start: 2023-08-12T11:00:42.443Z
+  end: 2023-08-12T21:00:42.456Z
+  deadline: 2023-08-04T12:00:42.467Z
   email: north east
   location: Market Square, West Row, Darlington DL1 5PX
 category:
