@@ -15,15 +15,15 @@ event:
 category:
   - election-2023
 ---
-W﻿e are electing a new chair of the Civil Service LGBT+ Network.
+We are electing a new chair of the Civil Service LGBT+ Network.
 
-T﻿his election operates on a 'one department, one vote' system. Departmental LGBT+ staff networks must hold an internal vote of either:
+This election operates on a 'one department, one vote' system. Departmental LGBT+ staff networks must hold an internal vote of either:
 
 * their full membership
-* t﻿heir committee members
+* their committee members
 
-T﻿he most popular candidate in the departmental vote will be the candidate that network votes for. The candidate that wins the most departmental votes will be elected.
+The most popular candidate in the departmental vote will be the candidate that network votes for. The candidate that wins the most departmental votes will be elected.
 
-D﻿epartments must submit their vote during this voting window. 
+Departments must submit their vote during this voting window. 
 
-D﻿epartments should read the [full election guidance](/election/2023/rules) for details on how to run their vote, and submit the results.
+Departments should read the [full election guidance](/election/2023/rules) for details on how to run their vote, and submit the results.
