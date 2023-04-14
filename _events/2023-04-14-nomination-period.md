@@ -2,7 +2,6 @@
 layout: event
 title: "Election 2023: Nomination period"
 excerpt: If you would like to nominate yourself to be the next chair of the Civil Service LGBT+ Network, you can do so during this period.
-date: 2023-04-14T08:00:22.218Z
 event:
   host: Civil Service LGBT+ Network
   start: 2023-04-14T09:00:00.000Z
