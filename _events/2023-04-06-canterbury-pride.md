@@ -1,8 +1,8 @@
 ---
 layout: event
 title: Civil Service LGBT+ Network Pride - Canterbury - June 2023
-excerpt: Please note -numbers for the Parade are limited - if over subscribed it
-  will go to a ballot
+excerpt: Please note - numbers for the Parade are limited - if over subscribed
+  it will go to a ballot
 date: 2023-04-06T07:45:04.659Z
 event:
   host: Civil Service LGBT+ Network
@@ -10,9 +10,11 @@ event:
   end: 2023-06-10T17:30:04.687Z
   deadline: 2023-06-02T12:00:04.695Z
   location: Westgate Gardens, Saint Peter's Street, Canterbury, CT1 2BQ
-  email: SouthEast@civilservice.lgbt
+  email: ""
+  link: https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSf3hijFFwyj7oE1EZTYWSC6sbMRHl213Yb8fWrogZWabICGLA%2Fviewform%3Fvc%3D0%26c%3D0%26w%3D1%26flr%3D0%26usp%3Dmail_form_link&data=05%7C01%7CRoss.starkie%40hmrc.gov.uk%7C35a5d411c4a246ffad2308db3f12ae75%7Cac52f73cfd1a4a9a8e7a4a248f3139e1%7C0%7C0%7C638173121696328349%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=fX%2B5Rf%2F3yue8%2B58Cqr9fX72cjqsey7f0gHY5R6wtKkk%3D&reserved=0
 category:
   - South-East
+  - pride-2023
 ---
 Canterbury Pride 2023 
 
