@@ -92,6 +92,12 @@
   parent: 'Ministry of Defence'
   
 - type: 'agency'
+  department: 'Equality and Human Rights Commission'
+  network: 'LGBTQ+ Staff Network'
+  email: 'LGBTQNetwork@equalityhumanrights.com'
+  parent: 'Cabinet Office'
+  
+- type: 'agency'
   department: 'Environment Agency'
   network: 'LGBT+ Network'
   email: 'lgbt.network@environment-agency.gov.uk'
