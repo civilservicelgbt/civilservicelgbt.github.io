@@ -64,6 +64,11 @@
   department: 'Department for the Environment, Food and Rural Affairs'
   network: 'Defra Lesbian, Gay, Bisexual, Asexual and Transgender Staff Network'
   email: 'defra.lgbtn@defra.gsi.gov.uk'
+
+- type: 'ministerial department'
+  department: 'Department for Levelling Up, Housing and Communities'
+  network: 'DLUHC LGBT+ Network'
+  email: 'DLUHCLGBTInbox@levellingup.gov.uk'
   
 - type: 'ministerial department'
   department: 'Department for Transport'
