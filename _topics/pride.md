@@ -1,9 +1,13 @@
 ---
 layout: topic
 title: Pride 2023
-excerpt: Everything you need to know about Civil Service Pride 2023. Our focus
-  this year was looking at the Nations Capitals and Manchester. For ease though
-  all prides the Civil Service will be attending are listed below.
+excerpt: >-
+  Everything you need to know about Civil Service Pride 2023. Our focus this
+  year was looking at the Nations Capitals and Manchester. For ease though all
+  prides the Civil Service will be attending are listed below.
+
+
+  Registration is now open.
 permalink: /topic/pride
 date: 2022-02-01T00:00:00.000Z
 category: pride-2023
