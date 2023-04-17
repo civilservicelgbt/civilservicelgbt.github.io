@@ -14,10 +14,16 @@ category:
   - pride-2023
   - south-west
 ---
-The Civil Service LGBT+ Network is coordinating the Civil Service's presence at Pride events across the UK in 2023. We are also organising an online programme of events to keep Pride On wherever you live.
+Katharine and David will meet our walking group in Castle park, Bristol (precise location tbc) on 08/07/2023 for the Pride Parade. 
 
-We will be taking part in pride marches and parades in every UK capital city this year, as well as a number of other towns and cities across the country.
+Following the parade, you are free to enjoy Pride Day as you wish! You’ll likely meet people en route who you can enjoy the day with, or spend it with your friends and family.
 
-Find out more on our [Pride topic page](/pride-2023).
+Pride Day will take place on The Downs, with shuttle busses taking people from the parade finish to the festival location. You may wish to purchase a wristband for the day which is gain you free bus travel - https://bristolpride.co.uk/wristbands/
 
-M﻿ore specific details and plans will be made available for this pride in due course.
+We will wear our Civil Service LGBT+ Network t-shirts and everything rainbow you can get your hands on! Please remember to have a change of top to change into after the parade. 
+
+Please see the information about the accessibility of Bristol pride on their [website](https://bristolpride.co.uk/parade/)
+
+If you have any over accessibility needs that you’d like us to be aware of, plesae contact Katharine and David at southwest@civilservice.lgbt
+
+The exact route for Bristol Pride parade 2023 has not yet been released, but please check back here for updates.
