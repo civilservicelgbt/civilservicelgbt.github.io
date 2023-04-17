@@ -19,3 +19,7 @@ Muster with Martin outside of the Darlington Economic Campus (Feethams House) DL
 Any latecomers should head to the entrance of the Dolphin Centre and search for us in our pink T Shirts.  After the parade we would love to hold people together to take a large group photo provided everyone gives consent. We will inform people of where on the day. 
 
 After the parade and photo, you are free to enjoy your time as you wish either at the festival or around Darlington itself.
+
+T-shirts may be provided as per the registration form which the organiser(s) will bring with them.  Wear comfy clothes including shoes, as it can be long day.  Soft drinks will be permitted in and around the festival area but please avoid taking alcohol outside the event area or bringing it in.  You can of course drink in the many pubs surrounding the Market Square. 
+
+Feel free to bring your own paints and flags, bubble gun blasters are also welcome. If you are wearing fancy-dress, please respect the CS code of conduct.
