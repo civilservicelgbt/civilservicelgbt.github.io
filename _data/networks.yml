@@ -61,6 +61,10 @@
   email: 'dfe.lgbt@education.gov.uk'
   
 - type: 'ministerial department'
+  department: 'Department for Energy Security and Net Zero'
+  network: ''
+  
+- type: 'ministerial department'
   department: 'Department for the Environment, Food and Rural Affairs'
   network: 'Defra Lesbian, Gay, Bisexual, Asexual and Transgender Staff Network'
   email: 'defra.lgbtn@defra.gsi.gov.uk'
@@ -69,6 +73,10 @@
   department: 'Department for Levelling Up, Housing and Communities'
   network: 'DLUHC LGBT+ Network'
   email: 'DLUHCLGBTInbox@levellingup.gov.uk'
+  
+- type: 'ministerial department'
+  department: 'Department for Science, Innovation and Technology'
+  network: ''
   
 - type: 'ministerial department'
   department: 'Department for Transport'
