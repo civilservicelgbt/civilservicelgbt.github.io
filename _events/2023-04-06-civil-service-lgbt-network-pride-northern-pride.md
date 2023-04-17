@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ Network Pride - Northern Pride - July 2023
+title: Civil Service LGBT+ Pride - Northern Pride
 excerpt: Join Civil Servants for Northern Pride in Newcastle
 date: 2023-04-06T11:40:28.935Z
 event:
