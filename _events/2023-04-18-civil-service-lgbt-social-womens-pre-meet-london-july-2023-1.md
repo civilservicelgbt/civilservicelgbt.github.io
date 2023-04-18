@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ Social Women's Pre-Meet - London - July 2023
+title: Civil Service LGBT+ Social Women's Pre-Meet - London - October 2023
 excerpt: "Join our London Women's inclusion reps for a pre-meet to the regular
   London social. "
 date: 2023-04-18T15:10:51.090Z
