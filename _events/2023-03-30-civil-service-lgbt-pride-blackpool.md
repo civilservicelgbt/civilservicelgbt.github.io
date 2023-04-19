@@ -5,7 +5,7 @@ excerpt: Join the Civil Service LGBT+ Network at Blackpool Pride
 date: 2023-03-30T12:05:03.392Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2023-06-10T11:00:03.446Z
+  start: 2023-06-10T10:00:03.446Z
   end: ""
   deadline: 2023-06-05T12:00:03.557Z
   location: Blackpool
@@ -20,4 +20,4 @@ We will be taking part in pride marches and parades in every UK capital city thi
 
 Find out more on our [Pride topic page](/pride-2023).
 
-M﻿ore specific details and plans will be made available for this pride in due course.
+M﻿ore specific details and plans will be made available for this pride in due course. -- The parade will start at 1030 so please make sure you arrive in time at the muster point to collect your t-shirt and meet the group.
