@@ -193,7 +193,7 @@
   email: 'Spectrum@homeoffice.gov.uk'
   
 - type: 'agency'
-  department: 'Information Commissioner's Office'
+  department: 'Information Commissioner’s Office'
   network: 'ICO Pride Network'
   email: 'pride@ico.org.uk'
   parent: 'Department for Science, Innovation and Technology'
