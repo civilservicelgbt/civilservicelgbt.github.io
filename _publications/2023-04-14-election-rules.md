@@ -1,11 +1,13 @@
 ---
 layout: publication
 title: "Election 2023: Election rules and guidance"
-excerpt: Rules and procedures relating to the 2023 election for a new chair of the Civil Service LGBT+ Network.
+excerpt: Rules and procedures relating to the 2023 election for a new chair of
+  the Civil Service LGBT+ Network.
 author: Civil Service LGBT+ Network
 category:
   - election-2023
 permalink: /election/2023/rules
+date: 2023-04-24T16:23:09.403Z
 ---
 
 {:toc}
@@ -32,7 +34,7 @@ This document explains:
 | Announcement of candidates | 16 May 2023 | 09:00 |
 | Deadline for networks to confirm their voting process | 16 May 2023 | 09:00 |
 | Voting opens | 16 May 2023 | 09:00 |
-| Candidate Q&A (hustings) #1 | 29 May 2023 | 11:00 |
+| Candidate Q&A (hustings) #1 | 30 May 2023 | 10:00 |
 | Candidate Q&A (hustings) #2 | 1 June 2023 | 16:00 |
 | Voting closes | 9 June 2023 | 17:00 |
 | Announcement of results to candidates | 12 June 2023 | |
