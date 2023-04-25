@@ -14,6 +14,7 @@ event:
   location: Natural History Museum
 category:
   - london
+  - womens-inclusion
 ---
 Our London Women’s Inclusion team invite you to join them at Natural History Museum Lates. This event is open to everyone who identifies as a woman and/or feels like this space would be suitable for them.  
 
