@@ -15,6 +15,7 @@ event:
 category:
   - london
   - womens-inclusion
+  - women
 ---
 Our London Women’s Inclusion team would love to invite you to join them at the Science Museum Lates. This event is open to everyone who identifies as a woman and/or feels like this space would be suitable for them.  
 
