@@ -280,6 +280,12 @@
   department: 'Ofsted'
   network: 'LGBT Network'
   email: 'EDI@ofsted.gov.uk'
+
+- type: 'agency'
+  department: 'Rural Payments Agency'
+  network: 'RPA LGBT Network'
+  email: 'RPA.LGBTN@rpa.gov.uk'
+  parent: 'Department for the Environment, Food and Rural Affairs'
   
 - type: 'non ministerial department'
   department: 'Serious Fraud Office'
