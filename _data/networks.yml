@@ -181,6 +181,7 @@
 - type: 'non ministerial department'
   department: 'HM Revenue & Customs'
   network: 'HMRC PRISM LGBT Network'
+  email: ''
   
 - type: 'ministerial department'
   department: 'HM Treasury'
