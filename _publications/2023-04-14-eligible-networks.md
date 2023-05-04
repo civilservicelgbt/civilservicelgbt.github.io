@@ -47,7 +47,11 @@ If you believe the contact details for your network are incorrect, please email 
   <li class="networks--network-list--item">
     <h3 class="networks--network-list--item--network">{{ network.department }}</h3>
     <p>{{ network.network }}</p>
+    {% if network.email == '' %}
+    <p>The email address we currently hold is for a member of this network's committee, and has been redacted.</p>
+    {% else %}
     <p>The email address we currently hold for this network is:<br> <code>{{ network.email }}</code></p>
+    {% endif %}
   </li>
   {% endunless %}
   
