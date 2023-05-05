@@ -17,7 +17,7 @@ category:
 ---
 The Civil Service LGBT+ Network is coordinating the Civil Service's presence at Pride events across the UK in 2023. We are also organising an online programme of events to keep Pride On wherever you live.
 
-We will be taking part in pride marches and parades in every UK capital city this year, as well as a number of other towns and cities across the country.
+We will be taking part in pride marches and parades in every UK capital city this year, as well as a number of other towns and cities across the country. **\- This event will be balloted**
 
 Find out more on our [Pride topic page](/pride-2023).
 
