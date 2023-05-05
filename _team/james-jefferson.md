@@ -5,7 +5,7 @@ role: vice chair
 email: ""
 project: conference
 region: London
-archive: "true"
+archive: true
 image: /assets/images/uploads/team/james-jefferson-new.jpg
 ---
 
