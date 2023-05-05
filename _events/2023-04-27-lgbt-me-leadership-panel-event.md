@@ -1,6 +1,6 @@
 ---
 layout: event
-title: LGBT+ & ME Leadership Panel Event
+title: "LGBT+ & ME Leadership Panel Event: CALL FOR VOLUNTEERS"
 excerpt: We are running our first panel event for Civil Service staff who
   identify as LGBT+ and an ethnic minority on Monday 5th June 12.30-1.30pm. This
   panel event will discuss LGBT+ and Minority Ethnic leadership.
