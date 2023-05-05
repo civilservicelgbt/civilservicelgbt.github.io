@@ -3,7 +3,7 @@ layout: news
 title: Cross-government LGBT+ social events survey
 excerpt: Have your say in social events run by the network.
 date: 2023-04-26T15:00:12.332Z
-author: LGBT+ network
+author: LGBT+ Network
 ---
 T﻿he network hosts regular social, networking, and learning and development events for all members, in-person and virtually.
 
