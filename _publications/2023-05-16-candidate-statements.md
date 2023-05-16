@@ -15,7 +15,7 @@ permalink: /election/2023/candidate-statements
 
 An election for the chair of the Civil Service LGBT+ Network has been called, following the [resignation of the incumbent chair](/news/2023/04/14/chair-stepping-down-john-peart/). 
 
-4 nominations were received before the close of nominations. The are therefore 5 candidates for this election, including 're-open nominations'.
+4 nominations were received before the close of nominations. There are therefore 5 candidates for this election, including 're-open nominations'.
 
 - Eamon Evans
 - Ross Starkie
