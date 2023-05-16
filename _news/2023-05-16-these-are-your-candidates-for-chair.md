@@ -14,16 +14,16 @@ The deadline for nominations was last Friday, 12 May 2023. Four nominations were
 
 T﻿he candidates are:
 
--﻿ Eamon Evans (Ministry of Defence)
--﻿ Ross Starkie (HM Revenue & Customs)
--﻿ Nic Turner (HM Prison & Probation Service)
--﻿ Saorsa-Amatheia Tweedale and Jefferson Welsby (Department for Work and Pensions)
+* Eamon Evans (Ministry of Defence)
+* Ross Starkie (HM Revenue & Customs)
+* Nic Turner (HM Prison & Probation Service)
+* Saorsa-Amatheia Tweedale and Jefferson Welsby (Department for Work and Pensions)
 
 R﻿e-open Nominations is also a candidate; if they win, we will start a new election process.
 
 W﻿e've now published [statements from each candidate online](/election/2023/candidate-statements), so you can find out more about them and what they want to do in the role if they are elected.
 
-#﻿# Voting is now open
+## Voting is now open
 
 E﻿ach department and agency is now able to hold its internal vote to determine who it will support for Chair. Whoever gets the support of most departments and agencies will win.
 
