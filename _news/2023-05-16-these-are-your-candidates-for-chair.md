@@ -2,7 +2,7 @@
 layout: news
 title: These are your candidates for Chair
 excerpt: Nominations are closed for the new Chair of the Civil Service LGBT+
-  Network. These are the caandidates.
+  Network. These are the candidates.
 date: 2023-05-16T13:37:49.436Z
 author: Civil Service LGBT+ Network
 category:
