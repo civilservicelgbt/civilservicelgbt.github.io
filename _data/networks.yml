@@ -295,6 +295,7 @@
 - type: 'non ministerial department'
   department: 'UK Export Finance'
   network: 'UKEF LGBT Network'
+  email: ''
   
 - type: 'agency'
   department: 'UK Health Security Agency'
