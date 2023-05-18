@@ -8,9 +8,9 @@ excerpt: We are running our first panel event for Civil Service staff who
 date: 2023-04-27T15:12:00.470Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2023-06-05T12:30:00.505Z
-  end: 2023-06-05T13:30:00.540Z
-  deadline: 2023-06-21T17:00:00.566Z
+  start: 2023-06-21T12:30:00.505Z
+  end: 2023-06-21T13:30:00.540Z
+  deadline: 2023-06-21T13:30:00.566Z
   location: MS Teams
   email: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
 ---
