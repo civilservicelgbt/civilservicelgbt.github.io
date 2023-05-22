@@ -23,6 +23,12 @@ R﻿e-open Nominations is also a candidate; if they win, we will start a new ele
 
 W﻿e've now published [statements from each candidate online](/election/2023/candidate-statements), so you can find out more about them and what they want to do in the role if they are elected.
 
+## Ask the candidates a question
+
+W﻿e are holding an online 'hustings' event for all of the candidates on 5 June 2023. To attend the hustings, please [register to attend](https://www.civilservice.lgbt/election/2023/candidate-q-and-a). 
+
+I﻿f you have a question you would like to ask the candidates, please email <election@civilservice.lgbt> before the event.
+
 ## Voting is now open
 
 E﻿ach department and agency is now able to hold its internal vote to determine who it will support for Chair. Whoever gets the support of most departments and agencies will win.
