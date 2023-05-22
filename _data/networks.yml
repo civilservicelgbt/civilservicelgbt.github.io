@@ -165,6 +165,12 @@
   network: 'GLP LGBT Network'
   email: 'barry.dooley@dcms.gov.uk'
   parent: 'Government Legal Department'
+
+- type: 'other'
+  department: 'Government Office for Science'
+  network: 'LGBT+ Network'
+  email: ''
+  parent: 'Department for Science, Innovation and Technology'
   
 - type: 'agency'
   department: 'Health and Safety Executive'
