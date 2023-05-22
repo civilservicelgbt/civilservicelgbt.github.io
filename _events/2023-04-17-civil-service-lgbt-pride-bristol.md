@@ -4,7 +4,7 @@ title: Civil Service LGBT+ Pride - Bristol
 excerpt: Join Civil Servants for the Bristol pride parade
 date: 2023-04-17T10:50:27.257Z
 event:
-  host: Civil Service LGBT+ Network & BEIS
+  host: Civil Service LGBT+ Network, BEIS & Planning Inspectorate
   start: 2023-07-08T10:30:27.270Z
   end: ""
   deadline: 2023-07-01T11:00:27.296Z
@@ -14,9 +14,11 @@ category:
   - pride-2023
   - south-west
 ---
-Katharine and David will meet our walking group in Castle park, Bristol (precise location tbc) on 08/07/2023 for the Pride Parade. 
+B﻿EIS and The Planning Inspectorate (PINS) are sponsoring the CS Network pride entry in Bristol.
 
-Following the parade, you are free to enjoy Pride Day as you wish! You’ll likely meet people en route who you can enjoy the day with, or spend it with your friends and family.
+Katharine, David & PINS will meet our walking group in Castle park, Bristol (precise location tbc) on 08/07/2023 for the Pride Parade.
+
+Following the parade, you are free to enjoy Pride Day as you wish! You’ll likely meet people en route who you can enjoy the day with, or spend it with your friends and family. As well as the parade PINS will have a stall at Pride too, go say and hi to the PINS Rainbow Network volunteers.
 
 Pride Day will take place on The Downs, with shuttle busses taking people from the parade finish to the festival location. You may wish to purchase a wristband for the day which is gain you free bus travel - https://bristolpride.co.uk/wristbands/
 
@@ -24,6 +26,6 @@ We will wear our Civil Service LGBT+ Network t-shirts and everything rainbow you
 
 Please see the information about the accessibility of Bristol pride on their [website](https://bristolpride.co.uk/parade/)
 
-If you have any over accessibility needs that you’d like us to be aware of, plesae contact Katharine and David at southwest@civilservice.lgbt
+If you have any over accessibility needs that you’d like us to be aware of, please contact Katharine and David at southwest@civilservice.lgbt
 
 The exact route for Bristol Pride parade 2023 has not yet been released, but please check back here for updates.
