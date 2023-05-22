@@ -14,7 +14,7 @@ event:
   deadline: 2023-06-05T09:00:00.000Z
 category:
   - election-2023
-permalink: /election/2023/candidate-q-and-a-1
+permalink: /election/2023/candidate-q-and-a
 ---
 
 We are electing a new chair of the Civil Service LGBT+ Network.
