@@ -17,8 +17,6 @@ category:
 permalink: /election/2023/candidate-q-and-a-1
 ---
 
->﻿ This event has been rescheduled to 5 June 2023.
-
 We are electing a new chair of the Civil Service LGBT+ Network.
 
 This event is an opportunity to ask the candidates that are running for chair questions about their plans and proposals.
