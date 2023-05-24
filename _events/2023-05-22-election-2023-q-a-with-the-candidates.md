@@ -6,7 +6,7 @@ excerpt: Ask questions of the candidates who are standing to be the chair of the
 date: 2023-05-22T11:42:45.460Z
 event:
   link: ""
-  email: election@civilservice.lgbt?subject=Register%20for%20election%20Q%26A%20%E2%80%93%C2%A05%20June%202023&body=Please%20register%20me%20for%20the%2030%20May%20Q%26A%20event.
+  email: election@civilservice.lgbt?subject=Register%20for%20election%20Q%26A%20%E2%80%93%C2%A05%20June%202023&body=Please%20register%20me%20for%20the%205%20June%20Q%26A%20event.
   host: Civil Service LGBT+ Network
   location: Google Meet
   start: 2023-06-05T16:00:45.489Z
