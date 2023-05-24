@@ -5,7 +5,7 @@ excerpt: Join other LGBT+ civil servants at a Birmingham Pride social
 date: 2022-11-30T14:00:16.401Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2023-05-27T10:00:00.000Z
+  start: 2023-05-27T14:00:00.000Z
   end: ""
   deadline: 2023-05-20T12:00:00.000Z
   location: The Victoria, 48 John Bright Street, Birmingham, B1 1BN
