@@ -6,7 +6,7 @@ excerpt: Join this discussion event hosted our Queer Trans Intersex People of
   CSRF's new series of career journey events.
 date: 2023-05-31T14:33:41.802Z
 event:
-  host: Civil Service LGBT+ Network
+  host: Civil Service Race Forum QTIPOC
   start: 2023-05-31T14:33:41.817Z
   end: 2023-05-31T14:33:41.829Z
   deadline: 2023-05-31T14:33:41.841Z
