@@ -7,9 +7,9 @@ excerpt: Join this discussion event hosted our Queer Trans Intersex People of
 date: 2023-05-31T14:33:41.802Z
 event:
   host: Civil Service Race Forum QTIPOC
-  start: 2023-05-31T14:33:41.817Z
-  end: 2023-05-31T14:33:41.829Z
-  deadline: 2023-05-31T14:33:41.841Z
+  start: 2023-06-06T13:00:41.817Z
+  end: 2023-06-06T14:00:41.829Z
+  deadline: 2023-06-06T13:00:41.841Z
   location: MS Teams
   link: https://www.eventbrite.co.uk/e/csrf-qtipoc-pride-month-career-journey-series-ep-1-with-naseef-huda-tickets-640854632457?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb
 ---
