@@ -15,10 +15,39 @@ category:
   - pride-2023
   - london
 ---
-The Civil Service LGBT+ Network is coordinating the Civil Service's presence at Pride events across the UK in 2023. We are also organising an online programme of events to keep Pride On wherever you live.
+T﻿he ballot for this pride has been done. You should have received an calendar invite confirming your place at this pride. For unsuccessful balloted people we are holding a reserve/wait list and people may be informed of their space even on the day. 
 
-We will be taking part in pride marches and parades in every UK capital city this year, as well as a number of other towns and cities across the country. **\- This event will be balloted**
+Details for the day for our civil service presence are below.
 
-Find out more on our [Pride topic page](/pride-2023).
+**Initial Meeting Point**
 
-M﻿ore specific details and plans will be made available for this pride in due course.
+Our initial meeting point will be Grosvenor Square, on the south side of the square, opposite The Baltimore. Arriving here on time is essential to collect t-shirts, banners and flags. A distribution time will be reconfirmed on this calendar invite closer to the time.
+
+**Joining the Parade**
+
+In 2022 there were specific entrances for joining the parade, arriving together is key. 
+
+**Wristbands**
+
+All members of the group are required to wear their pride in London wristbands, even in the parade waiting area.
+Any spare wristbands will be allocated out to other members of the CS LGBT+ Network that have not been successful in the ballot 30 minutes before we are set to leave Grosvenor Park.
+
+**If you can no longer attend**
+
+If you can no longer attend, please do let us know and we will reallocate your space in the parade.
+
+**During the Parade**
+
+Remember you are representing the Civil Service and at all times you:
+
+* must adhere to the Civil Service Code at all times
+* must not promote any political material during the parade, or do anything that might be perceived as jeopardising your impartiality 
+* must not drink alcohol on the parade route or bring glass bottles to the parade form up area, or parade route
+  Additionally Pride in London ask that you:
+* do not hand out stickers during the parade
+* do not use confetti cannons, coloured smoke, or throw things into the crowd
+* you do not bring pets (except guide dogs) on the parade route
+
+**After the Parade**
+
+We will be hosting a post-parade social at the Civil Service Club in Westminster. This is a guest list entry admission, if you are in the parade and arrive with us then you will be on the guest list.
