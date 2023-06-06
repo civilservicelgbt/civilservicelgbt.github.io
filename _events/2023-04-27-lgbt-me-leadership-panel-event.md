@@ -28,7 +28,9 @@ It is with great excitement that we can announce we have an ambassador who will 
 
 *Omar Daair was appointed as the British High Commissioner to Rwanda and non-resident Ambassador to Burundi in January 2021, and started the role in July of the same year. Omar joined the Foreign, Commonwealth & Development Office in 2002.*
 
-*His career has largely focused on Africa, including roles as Private Secretary to the Minister for Africa and Deputy Head of Africa Department (East & West), as well as overseas postings to Sudan (2005 to 2008) and South Sudan (2010 to 2011). He has also worked on NATO policy and national security issues, and was posted to Washington, DC (2011 to 2014). Omar’s most recent role before moving to Kigali was as Head of Europe Department, leading EU Exit related development work in London. Omar is a graduate of the London School of Economics and the School of Oriental and African Studies. He also holds a Masters of Public Administration from the Wagner School of Public Service at New York University.*
+*His career has largely focused on Africa, including roles as Private Secretary to the Minister for Africa and Deputy Head of Africa Department (East & West), as well as overseas postings to Sudan (2005 to 2008) and South Sudan (2010 to 2011). He has also worked on NATO policy and national security issues, and was posted to Washington, DC (2011 to 2014). Omar’s most recent role before moving to Kigali was as Head of Europe Department, leading EU Exit related development work in London. Omar is a graduate of the London School of Economics and the School of Oriental and African Studies. He also holds a Masters of Public Administration from the Wagner School of Public Service at New York University.*\
+\
+Follow [Omar Daair on Twitter](https://twitter.com/omardaair)
 
 The event will be held on MS Teams. The ambassador will talk for approx. 10-15 minutes each and then a general discussion will be held afterwards. 
 
