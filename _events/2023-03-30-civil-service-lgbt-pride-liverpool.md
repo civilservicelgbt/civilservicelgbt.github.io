@@ -14,10 +14,28 @@ category:
   - north-west
   - pride-2023
 ---
-The Civil Service LGBT+ Network is coordinating the Civil Service's presence at Pride events across the UK in 2023. We are also organising an online programme of events to keep Pride On wherever you live.
+Liverpool Pride is a wonderful pride, with no restrictions on numbers, so please come along and celebrate with us all in Liverpool.
 
-We will be taking part in pride marches and parades in every UK capital city this year, as well as a number of other towns and cities across the country.
+**J﻿oining the Parade**
 
-Find out more on our [Pride topic page](/pride-2023).
+Please join us at St Georges Plateau, opposite Liverpool Lime Street, at 1030. As usual there will be speeches at approx. 1115 with the parade starting at 1200. The parade will be approx. 45 mins long.
 
-M﻿ore specific details and plans will be made available for this pride in due course.
+W﻿hen we are told what muster point number to head to we will update this event.
+
+**Parade Rules**
+
+P﻿lease remember; 
+
+* We must follow the CS Code at all times. 
+* N﻿o alcohol is to be consumed on the parade route
+* Must not promote any political material during the parade, or do anything that might be perceived as jeopardising your impartiality 
+
+**A﻿fter The Parade**
+
+It would be great to gather for a group photo at the end of the parade route, photo location TBC. It would be recommended then that you change out of your CS LGBT+ Network t-shirts. 
+
+A﻿fter the parade you are free to do as you please, for those that may be on their own, dont panic, we are a friendly bunch and people are more than welcome to join us as we go and enjoy what Liverpool Pride has to offer. 
+
+**A﻿ccessibility** 
+
+L﻿iveprool pride parade is a step free parade and they aim to be accessible for all at the festival site too. For specific concerns, please get in touch with LCR Pride
