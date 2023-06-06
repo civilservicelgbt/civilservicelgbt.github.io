@@ -1,10 +1,10 @@
 ---
 layout: event
-title: "LGBT+ & ME Leadership Panel Event with an Ambassador: CALL FOR VOLUNTEERS"
+title: LGBT+ & ME Leadership Panel Event with an Ambassador
 excerpt: We are running our first panel event for Civil Service staff who
-  identify as LGBT+ and an ethnic minority on Monday 5th June 12.30-1.30pm. This
-  panel event will discuss LGBT+ and Minority Ethnic leadership and we are
-  looking for 2 more volunteers to join the panel.
+  identify as LGBT+ and an ethnic minority on Wednesday 21st June 12.30-1.30pm
+  (GMT). Please come and join us for an exciting and insightful conversation
+  with an Ambassador!
 date: 2023-04-27T15:12:00.470Z
 event:
   host: Civil Service LGBT+ Network
@@ -24,11 +24,13 @@ We are running our first panel event for Civil Service staff who identify as LGB
 * What are the most important qualities of a good LGBT+ minority ethnic leader in the CS and why?
 * How to support colleagues and teams as leaders, particularly with those working at a targeted intersectional level?
 
-It is with great excitement that we can announce we have an ambassador who will be sharing their lived experiences covering the above questions! You will have the opportunity to speak to a senior civil servant on LGBT+ and Minority Ethnic leadership. We are still seeking **2 more panellist members (1 LGBT+ and ME and 1 ally leader, G7 and above)** to join this exciting and unique event. If you'd like to volunteer as a panellist, please do get in touch by **Friday 9th June 2023**.
+It is with great excitement that we can announce we have an ambassador who will be sharing their lived experiences covering the above questions! You will have the opportunity to speak to a senior civil servant on LGBT+ and Minority Ethnic leadership. 
 
-The event will be held on MS Teams. Panellists will talk for approx. 10-15 minutes each and then a general discussion will be held afterwards. 
+*Omar Daair was appointed as the British High Commissioner to Rwanda and non-resident Ambassador to Burundi in January 2021, and started the role in July of the same year. Omar joined the Foreign, Commonwealth & Development Office in 2002.*
 
-A﻿n MS Teams invite will be sent out after the call for volunteers has taken place.
+*His career has largely focused on Africa, including roles as Private Secretary to the Minister for Africa and Deputy Head of Africa Department (East & West), as well as overseas postings to Sudan (2005 to 2008) and South Sudan (2010 to 2011). He has also worked on NATO policy and national security issues, and was posted to Washington, DC (2011 to 2014). Omar’s most recent role before moving to Kigali was as Head of Europe Department, leading EU Exit related development work in London. Omar is a graduate of the London School of Economics and the School of Oriental and African Studies. He also holds a Masters of Public Administration from the Wagner School of Public Service at New York University.*
+
+The event will be held on MS Teams. The ambassador will talk for approx. 10-15 minutes each and then a general discussion will be held afterwards. 
 
 This will be our first panel event and we intend to host more in the future. If you have questions about this event, or you have an idea for a future event, you can contact us at [vice-chair-ethnic-minority-inclusion@civilservice.lgbt](mailto:vice-chair-ethnic-minority-inclusion@civilservice.lgbt).
 
