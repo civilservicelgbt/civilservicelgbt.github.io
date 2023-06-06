@@ -32,7 +32,7 @@ It is with great excitement that we can announce we have an ambassador who will 
 \
 Follow [Omar Daair on Twitter](https://twitter.com/omardaair)
 
-The event will be held on MS Teams. The ambassador will talk for approx. 10-15 minutes each and then a general discussion will be held afterwards. 
+The event will be held on MS Teams. The ambassador will talk for approx. 45 minutes and then a general discussion will be held afterwards. 
 
 This will be our first panel event and we intend to host more in the future. If you have questions about this event, or you have an idea for a future event, you can contact us at [vice-chair-ethnic-minority-inclusion@civilservice.lgbt](mailto:vice-chair-ethnic-minority-inclusion@civilservice.lgbt).
 
