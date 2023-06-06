@@ -14,10 +14,21 @@ category:
   - north-west
   - pride-2023
 ---
-The Civil Service LGBT+ Network is coordinating the Civil Service's presence at Pride events across the UK in 2023. We are also organising an online programme of events to keep Pride On wherever you live.
+Please arrive around the South Pier by 1000 so that t-shirts, flags and banners can be passed out. The meeting point will be opposite the Velvet Coaster pub, near where the parade registration is. Bryan, your parade contact will register the group and meet you there. 
 
-We will be taking part in pride marches and parades in every UK capital city this year, as well as a number of other towns and cities across the country.
+The tram and bus stop right by the meeting point for this event.
 
-Find out more on our [Pride topic page](/pride-2023).
+Bryan and others will be there in their bright pink CS LGBT+ Network t-shirts.
 
-M﻿ore specific details and plans will be made available for this pride in due course. -- The parade will start at 1030 so please make sure you arrive in time at the muster point to collect your t-shirt and meet the group.
+There are strict health and safety rules around the parade;
+
+* No alcohol,
+* No political statements 
+* No leaflets to be handed out
+* Beware of the trams
+
+The parade will end outside the Wintergardens. 
+
+If you have any additional questions please contact Bryan and the other NW reps at northwest@civilservice.lgbt
+
+Have a great time in Blackpool!
