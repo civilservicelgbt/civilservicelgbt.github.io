@@ -289,6 +289,12 @@
   email: 'EDI@ofsted.gov.uk'
 
 - type: 'agency'
+  department: 'Planning Inspectorate'
+  network: 'Rainbow Network'
+  email: ''
+  parent: 'Department for Levelling Up, Housing and Communities'
+
+- type: 'agency'
   department: 'Rural Payments Agency'
   network: 'RPA LGBT Network'
   email: 'RPA.LGBTN@rpa.gov.uk'
