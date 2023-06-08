@@ -7,18 +7,19 @@ event:
   host: Civil Service LGBT+ Network
   start: 2023-06-17T12:00:24.501Z
   end: 2023-06-17T16:00:24.527Z
-  no-register: ""
+  no-register: Official registration has closed, you can still join the parade
+    though, please see how below
   location: Cardiff
   deadline: 2023-06-10T12:00:26.968Z
-  link: https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSf3hijFFwyj7oE1EZTYWSC6sbMRHl213Yb8fWrogZWabICGLA%2Fviewform%3Fvc%3D0%26c%3D0%26w%3D1%26flr%3D0%26usp%3Dmail_form_link&data=05%7C01%7CRoss.starkie%40hmrc.gov.uk%7C35a5d411c4a246ffad2308db3f12ae75%7Cac52f73cfd1a4a9a8e7a4a248f3139e1%7C0%7C0%7C638173121696328349%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=fX%2B5Rf%2F3yue8%2B58Cqr9fX72cjqsey7f0gHY5R6wtKkk%3D&reserved=0
+  link: ""
 category:
   - pride-2023
   - wales
 ---
-The Civil Service LGBT+ Network is coordinating the Civil Service's presence at Pride events across the UK in 2023. We are also organising an online programme of events to keep Pride On wherever you live.
+Pride Day: We are running a joint pre-Pride breakfast with the Welsh Government from 9am at the City United Reform Church in Windsor Place, to raise funds for LGBT+ charity Hoops and Loops, based at the church and supporting LGBT+ refugees and asylum seekers in Cardiff. (The breakfast itself is free but there will be opportunities to donate to H&L while there.) This will also be where marchers can pick up their t-shirts should they wish to.
 
-We will be taking part in pride marches and parades in every UK capital city this year, as well as a number of other towns and cities across the country.
+(Welsh Gov ministers have been invited to join the breakfast – last year the First Minister and Deputy Minister for Social Partnership both attended. Don’t know if you want to mention that at all?)
 
-Find out more on our [Pride topic page](/pride-2023).
+We will then be walking together to join the parade from the church. Rest of the joining instructions are below – we may move ‘colours’ in order to march near Welsh Government (this is currently being confirmed by WG).
 
-M﻿ore specific details and plans will be made available for this pride in due course.
+If anyone wants to join the march after the cut-off date on the website, please invite them to contact me directly at Bethan.Cable@gov.wales. This also applies to the pre-Pride social on Wednesday 14th, as there is a limited amount of space at the Queer Emporium and we may go on elsewhere afterwards!
