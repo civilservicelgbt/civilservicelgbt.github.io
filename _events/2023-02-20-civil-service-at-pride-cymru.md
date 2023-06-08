@@ -18,7 +18,7 @@ category:
 ---
 Pride Day: We are running a joint pre-Pride breakfast with the Welsh Government from 9am at the City United Reform Church in Windsor Place, to raise funds for LGBT+ charity Hoops and Loops, based at the church and supporting LGBT+ refugees and asylum seekers in Cardiff. (The breakfast itself is free but there will be opportunities to donate to H&L while there.) This will also be where marchers can pick up their t-shirts should they wish to.
 
-(Welsh Gov ministers have been invited to join the breakfast – last year the First Minister and Deputy Minister for Social Partnership both attended. Don’t know if you want to mention that at all?)
+Welsh Gov ministers have been invited to join the breakfast – last year the First Minister and Deputy Minister for Social Partnership both attended.
 
 We will then be walking together to join the parade from the church. Rest of the joining instructions are below – we may move ‘colours’ in order to march near Welsh Government (this is currently being confirmed by WG).
 
