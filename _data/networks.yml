@@ -200,6 +200,11 @@
   network: 'Spectrum'
   email: 'Spectrum@homeoffice.gov.uk'
   
+- type: 'other'
+  department: 'Independent Parliamentary Standards Ombudsman'
+  network: 'IPSA Pride'
+  email: ''
+  
 - type: 'agency'
   department: 'Information Commissioner’s Office'
   network: 'ICO Pride Network'
