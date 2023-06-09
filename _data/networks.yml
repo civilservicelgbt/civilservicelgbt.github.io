@@ -277,6 +277,12 @@
   network: 'ONS LGBTQ+ and Allies Network'
   email: 'lgbtq.network@ons.gov.uk'
   parent: 'Cabinet Office'
+
+- type: 'agency'
+  department: 'Office of the Public Guardian'
+  network: 'OPG Spirit'
+  email: 'OPGSpiritnetwork@publicguardian.gov.uk'
+  parent: 'Ministry of Justice'
   
 - type: 'non ministerial department'
   department: 'Ofgem'
