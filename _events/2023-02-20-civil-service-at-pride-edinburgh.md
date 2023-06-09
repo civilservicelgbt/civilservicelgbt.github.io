@@ -15,10 +15,23 @@ category:
   - pride-2023
   - scotland
 ---
-The Civil Service LGBT+ Network is coordinating the Civil Service's presence at Pride events across the UK in 2023. We are also organising an online programme of events to keep Pride On wherever you live.
+Derek and Marc will be outside Queen Elizabeth House, 1 Sibbald Walk, Edinburgh, EH8 8FT from 11:45am. We will move to the Scottish Parliament at 12:20pm and the march will set off at 1:00pm. Please join us before moving onto the Scottish Parliament. You need to be at Queen Elizabeth House no later than 12:00pm
+After the parade we would love to hold people together to take a large group photo. We will inform people of where on the day. 
 
-We will be taking part in pride marches and parades in every UK capital city this year, as well as a number of other towns and cities across the country.
+After the parade and photo, you are free to enjoy your time at Edinburgh pride as you please. Derek and Marc will happily share details of their plans, but they will not be offended if people just want to do their own thing.
+T-shirts will be provided as per the registration form which Marc will bring with him.  Wear comfy clothes including shoes, as can be long day. 
 
-Find out more on our [Pride topic page](/pride-2023).
+Feel free to bring face paints and hand waving flags. 
 
-M﻿ore specific details and plans will be made available for this pride in due course.
+If you are wearing fancy-dress, please respect the CS code of conduct. 
+
+Please remember that we are marching under the CS LGBT+ Network Banner, so again, please respect the CS code of conduct. – Whilst you may wish to attend wearing your CS T-shirt, please consider whether you will need a change of top for post parade. 
+
+Note re Alcohol – please do not consume alcohol for the duration of the parade. 
+
+If you are late to the initial meeting point, please make your way to the Scottish Parliament noted on page 1.
+If you are late to the Scottish parliament as well, and after 12:30 please call Derek or Marc and let them know, they will share details of where they are or the best place to meet them, if you are still able to join. Phone numbers will be provided in you welcome email sent the week leading up to pride.
+
+No wristbands are needed for the march or the event at the EUSA Complex afterwards. 
+
+You will not need your CS ID. Depending on your age though you may need ID for purchasing drinks.
