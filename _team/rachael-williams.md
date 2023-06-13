@@ -3,7 +3,7 @@ layout: team
 person-name: Rachael Williams
 role: project team
 project: mentoring
-archive: "true"
+archive: true
 permalink: /team/rachael-williams
 title: Rachael Williams
 image: /assets/images/uploads/team/rachael-williams.jpg
