@@ -1,11 +1,12 @@
 ---
 layout: team
-title: Tom Seddon
 person-name: Tom Seddon
 role: project team
 project: mentoring
-image: /assets/images/uploads/team/tom-seddon.jpg
+archive: "true"
 permalink: /team/tom-seddon
+title: Tom Seddon
+image: /assets/images/uploads/team/tom-seddon.jpg
 ---
 Hi, I’m Tom (He/Him) and I’m delighted to be part of the Civil Service LGBT+ Network!
 
