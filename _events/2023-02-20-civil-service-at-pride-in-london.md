@@ -15,19 +15,16 @@ category:
   - london
 ---
 
+> ## Places in the Civil Service group
+> ### Confirmed places
+> If we have confirmed your place, you will have been sent a calendar invite to your work email address.
+> ### Last minute places
+> If you have not been sent a calendar invite, you can still take part in the parade. We will not allocate last minute places in advance; simply turn up at the meeting point at 10:45AM. Spare wrist bands will be allocated on a first-come, first-served basis.
+
+
 ## Joining instructions 
 
 This guidance is for civil servants who are joining the cross-government Pride in London parade group on 2 July 2022.
-
-## Places in the Civil Service Group
-
-### Confirmed places
-
-If we have confirmed your place, you will have been sent a calendar invite to your work email address.
-
-### Last minute places
-
-If you have not been sent a calendar invite, you can still take part in the parade. We will not allocate last minute places in advance; simply turn up at the meeting point at 10:45AM. Spare wrist bands will be allocated on a first-come, first-served basis.
 
 ### Meeting points, arrival times, and parade times
 
