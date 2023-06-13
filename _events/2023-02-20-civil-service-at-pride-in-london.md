@@ -7,47 +7,108 @@ event:
   host: Civil Service LGBT+ Network
   start: 2023-07-01T12:00:06.604Z
   end: 2023-07-01T17:00:06.649Z
-  no-register: ""
+  no-register: "Places have now been allocated. If you have not been allocated a place, and would still like to attend, please read the guidance on 'last minute places' below."
   location: London
   deadline: 2023-06-24T12:00:57.715Z
-  link: https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSf3hijFFwyj7oE1EZTYWSC6sbMRHl213Yb8fWrogZWabICGLA%2Fviewform%3Fvc%3D0%26c%3D0%26w%3D1%26flr%3D0%26usp%3Dmail_form_link&data=05%7C01%7CRoss.starkie%40hmrc.gov.uk%7C35a5d411c4a246ffad2308db3f12ae75%7Cac52f73cfd1a4a9a8e7a4a248f3139e1%7C0%7C0%7C638173121696328349%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=fX%2B5Rf%2F3yue8%2B58Cqr9fX72cjqsey7f0gHY5R6wtKkk%3D&reserved=0
 category:
   - pride-2023
   - london
 ---
-T﻿he ballot for this pride has been done. You should have received an calendar invite confirming your place at this pride. For unsuccessful balloted people we are holding a reserve/wait list and people may be informed of their space even on the day. 
 
-Details for the day for our civil service presence are below.
+## Joining instructions 
 
-**Initial Meeting Point**
+This guidance is for civil servants who are joining the cross-government Pride in London parade group on 2 July 2022.
 
-Our initial meeting point will be Grosvenor Square, on the south side of the square, opposite The Baltimore. Arriving here on time is essential to collect t-shirts, banners and flags. A distribution time will be reconfirmed on this calendar invite closer to the time.
+## Places in the Civil Service Group
 
-**Joining the Parade**
+### Confirmed places
 
-In 2022 there were specific entrances for joining the parade, arriving together is key. 
+If we have confirmed your place, you will have been sent a calendar invite to your work email address.
 
-**Wristbands**
+### Last minute places
 
-All members of the group are required to wear their pride in London wristbands, even in the parade waiting area.
-Any spare wristbands will be allocated out to other members of the CS LGBT+ Network that have not been successful in the ballot 30 minutes before we are set to leave Grosvenor Park.
+If you have not been sent a calendar invite, you can still take part in the parade. We will not allocate last minute places in advance; simply turn up at the meeting point at 10:45AM. Spare wrist bands will be allocated on a first-come, first-served basis.
 
-**If you can no longer attend**
+### Meeting points, arrival times, and parade times
 
-If you can no longer attend, please do let us know and we will reallocate your space in the parade.
+#### Initial meeting point
 
-**During the Parade**
+Our initial meeting point will be Grosvenor Square, on the south side, opposite The Biltmore.
 
-Remember you are representing the Civil Service and at all times you:
+You should aim to arrive at 10:30AM. Wristbands, t-shirts, banners and placards will be distributed at the meeting point.
 
-* must adhere to the Civil Service Code at all times
-* must not promote any political material during the parade, or do anything that might be perceived as jeopardising your impartiality 
-* must not drink alcohol on the parade route or bring glass bottles to the parade form up area, or parade route
-  Additionally Pride in London ask that you:
-* do not hand out stickers during the parade
-* do not use confetti cannons, coloured smoke, or throw things into the crowd
-* you do not bring pets (except guide dogs) on the parade route
+We will leave the meeting point and move into the parade form-up area near Hyde Park at around 11:00AM.
 
-**After the Parade**
+#### Lining up in the parade
 
-We will be hosting a post-parade social at the Civil Service Club in Westminster. This is a guest list entry admission, if you are in the parade and arrive with us then you will be on the guest list.
+Our group needs to arrive at the Parade form up area at 11:20AM.
+
+We expect our parade group to start in the parade between 11:30AM and 12:00 noon. The parade route takes around 60 to 90 minutes to complete.
+
+Please note we can join from the North and East of the park only due to road closures. We suggest travelling to either Marble Arch or Bond Street and walking down towards Grosvenor Square. 
+
+There will be no late admittance to the parade group, if you are running late on the day please let one of the organisers know.
+
+### Wristbands
+
+All members of our parade group are required to wear a wristband, provided by Pride in London. You will need a wristband to access the parade waiting area, and may be refused entry if you are not wearing one.
+
+**We will only be handing out wristbands on the day**. You can collect your wristband at our initial meeting point at Grosvenor Square.
+
+Wristbands will be given to those who registered in advance first.
+
+Any wristbands that are uncollected by 10:45AM will be handed out to others so that all those that want to participate can do so. **If you were unsuccessful in securing a place online** and want one of our spare wristbands to join the group, please arrive at 10:45AM at the meeting point.
+
+### If you can no longer attend
+
+If you can no longer attend please let us know as soon as possible by emailing [pride@civilservice.lgbt](mailto:pride@civilservice.lgbt) so that it can be offered to someone else. We have people on our waiting list – please don’t let them miss out!
+
+### The Parade
+
+#### The route
+
+[The route](https://prideinlondon.org/parade/map) is the same as last year; it will run from the top of Hyde Park near Marble Arch down to Whitehall. 
+
+#### During the parade
+
+Remember, you are representing the Civil Service and government at this event, so you:
+
+- **must** adhere to the Civil Service Code at all times
+- **must not** promote any political messaging during the parade, or do anything that might be perceived as jeopardising your impartiality
+- **must not** drink alcohol on the parade route or bring glass bottles to the parade form up area or parade route
+
+Additionally, Pride in London have asked that:
+
+- you **do not** hand out stickers during the Parade
+- you **do not** use confetti cannons, coloured smoke or throw things into the crowd
+- you **do not** bring pets (except guide dogs) on the Parade route
+
+### Dress code and t-shirts
+
+You should wear suitable clothing for the event, but there is no set dress code. Remember that you are representing the government at the event — so please don't wear anything that might cause embarrassment to you, the group or the Civil Service. 
+
+#### T-shirt collection
+
+T-shirts are being provided with Civil Service Pride branding to all attendees. These t-shirts are free of charge. 
+
+You can re-use the same t-shirt as last year.
+
+Your t-shirt will be brought to the initial meeting point; you cannot collect the t-shirt in advance.
+
+### Weather
+
+It is likely to be warm and sunny on the day. Please bring water in **plastic** bottles and ensure that you are wearing suncream.  
+
+### After the parade: social
+
+We are aiming to hold a post-parade social at the Civil Service Club in Westminster. **This will be confirmed to group members on the day**. We are operating a guest list to access the social: if you are not on the guest list, or if you are not already a member of the Civil Service Club, you will not be able to enter the venue.
+
+If you attend the parade as part of our parade group, you are already on the list.
+
+Please note that the venue is limited in size, and so you may be refused entry if the venue is full. If the venue is full, we'll overflow into St James's Park.
+
+### Questions?
+
+If you have questions or comments, please [contact us](/about/contact-us).
+
+
