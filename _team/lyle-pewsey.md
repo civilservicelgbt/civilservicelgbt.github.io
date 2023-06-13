@@ -1,19 +1,14 @@
 ---
-# Adding or removing a '#' in front of a line will toggle that information off and on from being processed. 
-
 layout: team
-title: "Lyle Pewsey"
-person-name: "Lyle Pewsey"
-role: "local organiser"
-# project: ""
-region: "London"
-email: "London@civilservice.lgbt"
-image: "/assets/images/uploads/team/Lyle-Pewsey.jpg"
+person-name: Lyle Pewsey
+role: local organiser
+email: London@civilservice.lgbt
+project: Regions and nations
+region: London
+archive: "true"
 permalink: /team/lyle-pewsey
-# redirect_from: 
-# - 
-# redirect_to: 
-# - 
+title: Lyle Pewsey
+image: /assets/images/uploads/team/Lyle-Pewsey.jpg
 ---
 
 I joined the Civil Service in March 2021 and am part of the East London DEA (Disability Employment Advisor) team focusing on getting disadvantaged people into work and I am also involved in the London & Essex recruitment events. My career background is architecture, design, and construction.
