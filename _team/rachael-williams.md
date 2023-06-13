@@ -1,19 +1,12 @@
 ---
-# Adding or removing a '#' in front of a line will toggle that information off and on from being processed. 
-
 layout: team
-title: "Rachael Williams"
-person-name: "Rachael Williams"
-role: "project team"
-project: "mentoring"
-# region: ""
-# email: ""
-image: "/assets/images/uploads/team/rachael-williams.jpg"
+person-name: Rachael Williams
+role: project team
+project: mentoring
+archive: "true"
 permalink: /team/rachael-williams
-# redirect_from: 
-# - 
-# redirect_to: 
-# - 
+title: Rachael Williams
+image: /assets/images/uploads/team/rachael-williams.jpg
 ---
 
 Hi there – I’m Rachael (she/her). 
