@@ -3,7 +3,7 @@ layout: team
 person-name: Tom Seddon
 role: project team
 project: mentoring
-archive: "true"
+archive: true
 permalink: /team/tom-seddon
 title: Tom Seddon
 image: /assets/images/uploads/team/tom-seddon.jpg
