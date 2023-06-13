@@ -5,7 +5,7 @@ role: local organiser
 email: London@civilservice.lgbt
 project: Regions and nations
 region: London
-archive: "true"
+archive: true
 permalink: /team/lyle-pewsey
 title: Lyle Pewsey
 image: /assets/images/uploads/team/Lyle-Pewsey.jpg
