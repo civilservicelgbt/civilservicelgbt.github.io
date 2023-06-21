@@ -14,16 +14,12 @@ event:
 category:
   - London
 ---
-The Civil Service LGBT+ Network organises informal networking and social events so that LGBT+ civil servants can meet each other. Our [local organisers](/team) organise these events in various cities across the country.
+Our London socials usually take place on the first Thursday of each month. Previous participants will know that these are usually in Westminster at the Retro Bar, but this is changed over the summer months (July, August and likely September).
 
-Our London socials usually take place on the **first Thursday of each month**.
+Our event will be in St James's Park. We will initially meet at St James's Cafe and weather permitting will head outside to have an outdoor picnic, or otherwise stay in the cafe. For those who use what3words, here is a link to help us, though please note there may be slight differences in our location on the day: https://w3w.co/logo.jazz.upset. We will also have a pride flag to help identify us.
 
-We usually organise our London events in Westminster at the Retro Bar. The venue may change especially over summer months, where it is likely to be outdoor at the St James’s Park (weather permitting). **Please check back on this website a few days before the event to find out the exact venue.**
+The cafe is accessible, as well as the toilet facilities. The closest accessible tube station is Westminster. The location is likely to be the same for all three months, but please check on this website a few days before each event to make sure. Please also note that we will not have a pre-meet event for park socials.
 
-Retro Bar provides us their private venue upstairs and an area downstairs for mobility accessibility and is the preferred venue for most members. Five Guys up the road have disable facilities which our members are welcome to use. 
+Feel free to bring whatever food you would like to have. Please let us know in advance if you have any food allergies, especially if they are severe enough to require other members not to bring specific food.
 
-**If you have any mobility or accessibility queries, please contact your London team ([London@civilservice.lgbt](London@civilservice.lgbt)) in advance, so that they can make the necessary arrangement for you.**
-
-Our London events are incredibly popular – we regularly see around 50 to 100 people attend. Finding venues that are available and as inclusive as possible at no cost to accommodate everyone's needs and tastes is incredibly difficult.
-
-If you have any questions, an idea for a venue, or you're willing to help organise a social yourself, please contact our [London local organisers](/team).
+If you have any questions, an idea for a venue, or you’re willing to help organise a social yourself, please contact our [London local organisers](https://www.civilservice.lgbt/topic/london).
