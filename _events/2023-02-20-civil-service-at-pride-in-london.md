@@ -5,26 +5,30 @@ excerpt: Join the Civil Service as we take part in the Pride in London parade.
 date: 2023-02-20T16:36:06.569Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2023-07-01T12:00:06.604Z
+  start: 2023-07-01T10:30:06.604Z
   end: 2023-07-01T17:00:06.649Z
-  no-register: "Places have now been allocated. If you have not been allocated a place, and would still like to attend, please read the guidance on 'last minute places' below."
+  no-register: Places have now been allocated. If you have not been allocated a
+    place, and would still like to attend, please read the guidance on 'last
+    minute places' below.
   location: London
   deadline: 2023-06-24T12:00:57.715Z
 category:
   - pride-2023
   - london
 ---
-
 > ## Places in the Civil Service group
+>
 > ### Confirmed places
+>
 > If we have confirmed your place, you will have been sent a calendar invite to your work email address.
+>
 > ### Last minute places
+>
 > If you have not been sent a calendar invite, you can still take part in the parade. We will not allocate last minute places in advance; simply turn up at the meeting point at 10:45AM. Spare wrist bands will be allocated on a first-come, first-served basis.
 
+## Joining instructions
 
-## Joining instructions 
-
-This guidance is for civil servants who are joining the cross-government Pride in London parade group on 2 July 2022.
+This guidance is for civil servants who are joining the cross-government Pride in London parade group on 1 July 2023.
 
 ### Meeting points, arrival times, and parade times
 
@@ -70,15 +74,15 @@ If you can no longer attend please let us know as soon as possible by emailing [
 
 Remember, you are representing the Civil Service and government at this event, so you:
 
-- **must** adhere to the Civil Service Code at all times
-- **must not** promote any political messaging during the parade, or do anything that might be perceived as jeopardising your impartiality
-- **must not** drink alcohol on the parade route or bring glass bottles to the parade form up area or parade route
+* **must** adhere to the Civil Service Code at all times
+* **must not** promote any political messaging during the parade, or do anything that might be perceived as jeopardising your impartiality
+* **must not** drink alcohol on the parade route or bring glass bottles to the parade form up area or parade route
 
 Additionally, Pride in London have asked that:
 
-- you **do not** hand out stickers during the Parade
-- you **do not** use confetti cannons, coloured smoke or throw things into the crowd
-- you **do not** bring pets (except guide dogs) on the Parade route
+* you **do not** hand out stickers during the Parade
+* you **do not** use confetti cannons, coloured smoke or throw things into the crowd
+* you **do not** bring pets (except guide dogs) on the Parade route
 
 ### Dress code and t-shirts
 
@@ -107,5 +111,3 @@ Please note that the venue is limited in size, and so you may be refused entry i
 ### Questions?
 
 If you have questions or comments, please [contact us](/about/contact-us).
-
-
