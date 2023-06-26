@@ -12,6 +12,7 @@ event:
   location: Leeds
 category:
   - pride-2023
+  - yorkshire-and-humber
 ---
 J﻿oin the CS LGBT+ Network at Leeds Pride - This is a new event added to our website on 26 June 2023, if you have already signed up to other prides just resubmit the form above for Leeds. 
 
