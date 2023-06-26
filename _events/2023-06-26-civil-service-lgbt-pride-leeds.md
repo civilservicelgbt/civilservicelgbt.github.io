@@ -5,7 +5,7 @@ excerpt: Join like minded Civil Servants at Leeds Pride 2023
 date: 2023-06-26T13:52:23.274Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2023-08-05T10:30:23.319Z
+  start: 2023-08-06T10:30:23.319Z
   end: ""
   deadline: 2023-07-29T12:00:23.376Z
   link: https://docs.google.com/forms/d/e/1FAIpQLSf3hijFFwyj7oE1EZTYWSC6sbMRHl213Yb8fWrogZWabICGLA/viewform?vc=0&c=0&w=1&flr=0
