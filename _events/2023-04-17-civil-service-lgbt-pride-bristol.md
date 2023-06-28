@@ -5,7 +5,7 @@ excerpt: Join Civil Servants for the Bristol pride parade
 date: 2023-04-17T10:50:27.257Z
 event:
   host: Civil Service LGBT+ Network, BEIS & Planning Inspectorate
-  start: 2023-07-08T10:30:27.270Z
+  start: 2023-07-08T10:00:27.270Z
   end: ""
   deadline: 2023-07-01T11:00:27.296Z
   location: Bristol
@@ -16,7 +16,7 @@ category:
 ---
 B﻿EIS and The Planning Inspectorate (PINS) are sponsoring the CS Network pride entry in Bristol.
 
-Katharine, David & PINS will meet our walking group in Castle park, Bristol (precise location tbc) on 08/07/2023 for the Pride Parade.
+Katharine, David & PINS will meet our walking group in Castle park, Bristol close to the bandstand. We will aim to meet close to the what.3.words location of “steer.cheer.being” on 08/07/2023 from 10am for the Pride Parade.
 
 Following the parade, you are free to enjoy Pride Day as you wish! You’ll likely meet people en route who you can enjoy the day with, or spend it with your friends and family. As well as the parade PINS will have a stall at Pride too, go say and hi to the PINS Rainbow Network volunteers.
 
@@ -28,4 +28,4 @@ Please see the information about the accessibility of Bristol pride on their [we
 
 If you have any over accessibility needs that you’d like us to be aware of, please contact Katharine and David at southwest@civilservice.lgbt
 
-The exact route for Bristol Pride parade 2023 has not yet been released, but please check back here for updates.
+The parade route can be found [here](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbristolpride.co.uk%2Fparade%2F&data=05%7C01%7Cross.starkie%40hmrc.gov.uk%7C521b0a4bfc594afe00c208db77d0313f%7Cac52f73cfd1a4a9a8e7a4a248f3139e1%7C0%7C0%7C638235508282089076%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=S4OrWIypfdCMisdMMa2OkVkaNm8rbIJBunTJmW8SgPU%3D&reserved=0). Bristol Pride is a walking parade with no vehicles or floats allowed. The route is 2 miles long and will take about 1 hour to complete.
