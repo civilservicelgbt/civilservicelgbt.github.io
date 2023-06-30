@@ -1,10 +1,18 @@
+- title: "Pride 2023."
+  text: "Join us at Pride events across the country and online."
+  link-title: "Find out more"
+  url: "/topic/pride"
+  dates:
+  - start: 2023-06-30
+    end: 2023-09-01
+    
 - title: "Election 2023."
   text: "We're electing a new chair."
   link-title: "Find out more and take part"
   url: "/election/2023"
   dates:
   - start: 2023-04-14
-    end: 2023-07-01
+    end: 2023-06-29
   background: yellow
 
 - title: "It's Ace Awareness Week."
