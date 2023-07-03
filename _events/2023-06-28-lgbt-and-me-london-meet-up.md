@@ -10,6 +10,7 @@ event:
   end: 2023-07-31T20:00:58.829Z
   deadline: 2023-07-31T21:00:58.839Z
   location: Central London - Location TBC
+  email: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
 ---
 <!--StartFragment-->
 
