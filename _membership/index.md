@@ -1,7 +1,8 @@
 ---
 layout: membership/sign-up
-title: Become a Civil Service LGBT+ Network member
+title: Register for email alerts
 excerpt: "The Civil Service LGBT+ Network helps to create a more diverse, inclusive and equal place to work for lesbian, gay, bisexual and trans civil servants."
-permalink: /join-us/
+permalink: /email-alerts/
+redirect_from: /join-us/
 breacrumbs: false
 ---
