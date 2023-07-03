@@ -196,7 +196,7 @@ collections:
       - { label: 'Team email', name: 'email', widget: 'string', required: false }
       - { label: 'Team member project', name: 'project', widget: 'string' }
       - { label: 'Team member region', name: 'region', widget: 'select', options: ['East Midlands', 'London', 'North East', 'North West', 'Northern Ireland', 'Scotland', 'South East', 'South West', 'Wales', 'West Midlands', 'Yorkshire and Humber'], required: false }
-      - { label: 'Archive this team member?', name: 'archive', widget: 'select', options: ['true', 'false'], default: 'false', required: true }
+      - { label: 'Archive this team member?', name: 'archive', widget: 'select', options: [true, false], default: false, required: true }
       - { label: 'Biography', name: 'body', widget: 'markdown', required: true }
       - { label: 'Profile picture', name: 'image', widget: 'image', choose_url: true, required: false }
 
