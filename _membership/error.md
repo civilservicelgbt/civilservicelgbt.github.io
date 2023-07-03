@@ -3,7 +3,9 @@ layout: membership/confirmation
 type: "error"
 title: An error has occurred
 excerpt: "This might be a problem with our system or it might be something on your end."
+permalink: /email-alerts/error/
 redirect_from:
+- /membership/error/
 - /join-us/error
 ---
 
