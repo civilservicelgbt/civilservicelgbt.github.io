@@ -11,7 +11,7 @@ image: /assets/images/uploads/team/john-peart.jpg
 
 Hello there 👋
 
-I’m John, and I’m the Chair of the Civil Service LGBT+ Network. I took up the role in late 2021, and will be stepping away from the role in late 2023, making way for a new chair.
+I’m John, and I’m the Chair of the Civil Service LGBT+ Network from October 2021 to 2023.
 
 In my day job, I am the Head of Digital Identity Governance, Policy and Delivery in the Department for Science, Innovation and Technology.
 
