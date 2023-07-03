@@ -3,7 +3,9 @@ layout: membership/confirmation
 type: "success"
 title: You're signed up for email alerts
 excerpt: "Thank you for registering. You are now subscribed for email alerts."
+permalink: /email-alerts/success/
 redirect_from:
+- /membership/success
 - /join-us/success
 ---
 
