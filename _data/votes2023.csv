@@ -10,13 +10,13 @@ Crown Prosecution Service,false,,,,,,
 Department for Business and Trade,false,,,,,,
 "Department for Culture, Media and Sport",false,,,,,,
 Department for Education,true,2,4,3,1,5,Saorsa-Amatheia Tweedale and Jefferson Welsby
-"Department for the Environment, Food and Rural Affairs",true,2,3,4,1,,Saorsa-Amatheia Tweedale and Jefferson Welsby
-"Department for Levelling Up, Housing and Communities",true,2,4,3,1,5,Saorsa-Amatheia Tweedale and Jefferson Welsby
+"Department for the Environment, Food and Rural Affairs",false,,,,,,Saorsa-Amatheia Tweedale and Jefferson Welsby
+"Department for Levelling Up, Housing and Communities",true,2,3,4,1,,Saorsa-Amatheia Tweedale and Jefferson Welsby
 Department for Transport,false,,,,,,
 Department of Health and Social Care,false,,,,,,
 Department of Work and Pensions,true,2,2,4,1,5,Saorsa-Amatheia Tweedale and Jefferson Welsby
 Driver & Vehicle Standards Agency,true,3,1,2,4,5,Ross Starkie
-Equality and Human Rights Commission,false,,,,,,
+Equality and Human Rights Commission,true,2,2,2,1,2,
 Environment Agency,false,,,,,,
 Fast Stream,false,,,,,,
 Financial Reporting Council,false,,,,,,
@@ -34,8 +34,8 @@ HM Treasury,true,2,4,2,1,4,Saorsa-Amatheia Tweedale and Jefferson Welsby
 Home Office,true,2,2,4,1,5,Saorsa-Amatheia Tweedale and Jefferson Welsby
 Information Commissioner’s Office,false,,,,,,
 Insolvency Service,true,4,3,2,1,4,Saorsa-Amatheia Tweedale and Jefferson Welsby
-Intellectual Property Office,true,1,4,2,2,4,Eamon Evans
-Independent Parliamentary Standards Authority,true,1,3,2,2,3,Eamon Evans
+Intellectual Property Office,false,,,,,,Eamon Evans
+Independent Parliamentary Standards Authority,true,1,4,2,2,4,Saorsa-Amatheia Tweedale and Jefferson Welsby
 Land Registry,true,2,2,1,2,2,Nic Turner
 Maritime and Coastguard Agency,false,,,,,,
 Medicines and Healthcare products Regulatory Agency,true,2,2,2,1,2,Saorsa-Amatheia Tweedale and Jefferson Welsby
