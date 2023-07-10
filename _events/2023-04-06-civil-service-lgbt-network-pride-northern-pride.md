@@ -15,6 +15,12 @@ category:
   - north-east
   - pride-2023
 ---
-Northern Pride - dates Saturday 22nd and Sunday 23rd July, meet outside Newcastle-upon-Tyne, Civic Centre on Saturday 22nd at 12:00 hours for the parade to the Town Moor Festival Arena main event from 13:00 hrs to 21:00 hrs Saturday.
+Northern Pride - Saturday 22nd and Sunday 23rd July
+
+J﻿oin the Civil Service LGBT+ Network in the parade. If registration has closed but you would still like to join the group then please email [northeast@civilservice.lgbt](<mailto: northeast@civilservice.lgbt>)
+
+We are asking those parading to meet at 1100 outside Newcastle-upon-Tyne Civic Centre to ensure t-shirts can be distributed and we are all ready to go for 1200. The parade start at 1200 and will work its way through the city to ending at the festival ground. 
 
 Access to the community village is free but tickets will be needed for the main festival arena, costing from £6 and this will be at the members own expense.  It is not intended to attend the Sunday event and candlelight vigil as a group, members are to make their own arrangements.
+
+F﻿or those that dont know what our local reps look like in Newcastle they will be identifiable in their bright pink Civil Service Pride t-shirts. An email will be issued to those who are registered with any additional details closer to the date.
