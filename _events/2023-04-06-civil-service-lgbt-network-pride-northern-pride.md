@@ -5,8 +5,8 @@ excerpt: Join Civil Servants for Northern Pride in Newcastle
 date: 2023-04-06T11:40:28.935Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2023-07-22T11:30:28.951Z
-  end: 2023-07-22T21:00:28.960Z
+  start: 2023-07-22T11:00:28.951Z
+  end: 2023-07-22T14:00:28.960Z
   deadline: 2023-07-14T12:00:28.969Z
   location: Newcastle-upon-Tyne Civic Centre, Barras Bridge.
   email: ""
@@ -24,3 +24,5 @@ We are asking those parading to meet at 1100 outside Newcastle-upon-Tyne Civic C
 Access to the community village is free but tickets will be needed for the main festival arena, costing from £6 and this will be at the members own expense.  It is not intended to attend the Sunday event and candlelight vigil as a group, members are to make their own arrangements.
 
 F﻿or those that dont know what our local reps look like in Newcastle they will be identifiable in their bright pink Civil Service Pride t-shirts. An email will be issued to those who are registered with any additional details closer to the date.
+
+In additon to pride, there is a CS pre-pride social in Newcastle a few days before the main event. For more details on this, please see that event page - [Pre-Pride Social](https://www.civilservice.lgbt/event/2023-07-04-civil-service-lgbt-pre-northern-pride-social/)
