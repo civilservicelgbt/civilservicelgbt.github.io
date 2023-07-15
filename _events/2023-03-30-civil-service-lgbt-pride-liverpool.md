@@ -5,7 +5,7 @@ excerpt: "Join the Civil Service LGBT+ Network at Liverpool Pride "
 date: 2023-03-30T12:00:25.541Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2023-07-29T11:30:25.699Z
+  start: 2023-07-29T10:30:25.699Z
   end: ""
   deadline: 2023-07-27T12:00:25.844Z
   location: Liverpool City Centre
@@ -20,7 +20,7 @@ Liverpool Pride is a wonderful pride, with no restrictions on numbers, so please
 
 Please join us at St Georges Plateau, opposite Liverpool Lime Street, at 1030. As usual there will be speeches at approx. 1115 with the parade starting at 1200. The parade will be approx. 45 mins long.
 
-W﻿hen we are told what muster point number to head to we will update this event.
+We are going to be mustering at **Block 11**
 
 **Parade Rules**
 
