@@ -5,7 +5,7 @@ excerpt: "Join the Civil Service LGBT+ Network at Liverpool Pride "
 date: 2023-03-30T12:00:25.541Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2023-07-29T11:30:25.699Z
+  start: 2023-07-29T10:30:25.699Z
   end: ""
   deadline: 2023-07-27T12:00:25.844Z
   location: Liverpool City Centre
