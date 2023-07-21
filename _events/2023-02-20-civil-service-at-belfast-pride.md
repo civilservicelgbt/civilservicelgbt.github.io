@@ -23,6 +23,6 @@ F﻿ollowing the breakfast the group will make their way to Donegal Quay, if you
 
 T﻿he pride parade wristbands will hand out the parade wristbands at Donegal Quay.
 
-A﻿s well as pride the Civil Service are hosting a pre-Pride Social in Belfast on 20 July 2023.
+A﻿s well as pride the Civil Service are hosting a [Pre-Pride Social](https://www.civilservice.lgbt/event/2023-07-03-civil-service-lgbt-pre-pride-social-belfast/) in Belfast on 28 July 2023.
 
 C﻿ivil Service t-shirts will be available for those that have signed up to parade with the group by 1200 on 21 July 2023. You are still able to sign up for this, but t-shirts may be limited in size.
