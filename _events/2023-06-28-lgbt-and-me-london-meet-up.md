@@ -16,7 +16,7 @@ event:
 
 Hi everyone!
 
-We would like to invite you to join us at a meet up in central London on Monday 31st July, likely in Soho. We will be around from 6pm onwards, and we would love the opportunity to meet you in person. If you are free and would like to swing by after work and say hi - please do! We will pick a relaxed environment conducive to getting to know each other with an option to grab a bite to eat and/or have a drink.
+We would like to invite you to join us at a meet up in central London on Monday 31st July. We will be around from 6pm onwards, and we would love the opportunity to meet you in person. If you are free and would like to swing by after work and say hi - please do! We will pick a relaxed environment conducive to getting to know each other with an option to grab a bite to eat and/or have a drink.
 
 Location: **Curzon in Soho**.
 
