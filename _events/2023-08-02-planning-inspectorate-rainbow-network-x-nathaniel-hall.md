@@ -12,6 +12,8 @@ event:
   location: MS Teams
   email: jean.russell.6g@planninginspectorate.gov.uk
 ---
-A very special speaker, the Rainbow Network is delighted to introduce Nathaniel Hall, an award-winning theatre-maker, writer and performer. Perhaps best known for starring in Channel 4’s “Its a Sin”, Nathaniel has also written and performed in his play “First Time” and worked as co-creative Director for the Manchester Pride Candlelit Vigil. Nathaniel often appears in the media talking about his experiences of HIV stigma and shame. He specialises in creating and telling stories with and for people who often go heard.
+A very special speaker, the Rainbow Network is delighted to introduce Nathaniel Hall, an award-winning theatre-maker, writer and performer. Perhaps best known for starring in Channel 4’s “Its a Sin”, Nathaniel has also written and performed in his play “First Time” and worked as co-creative Director for the Manchester Pride Candlelit Vigil.
 
-[Nathaniel Hall | Nathaniel J Hall – Theatre Maker | Manchester](https://www.nathanieljhall.co.uk/)
+Nathaniel often appears in the media talking about his experiences of HIV stigma and shame. He specialises in creating and telling stories with and for people who often go heard.
+
+[Nathaniel Hall | Nathaniel J Hall – Theatre Maker | Manchester](www.nathanieljhall.co.uk)
