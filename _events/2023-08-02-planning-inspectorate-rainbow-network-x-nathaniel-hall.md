@@ -16,4 +16,4 @@ A very special speaker, the Rainbow Network is delighted to introduce Nathaniel 
 
 Nathaniel often appears in the media talking about his experiences of HIV stigma and shame. He specialises in creating and telling stories with and for people who often go heard.
 
-[Nathaniel Hall | Nathaniel J Hall – Theatre Maker | Manchester](www.nathanieljhall.co.uk)
+[N﻿athaniel J Hall theatre - Manchester](https://www.nathanieljhall.co.uk/)
