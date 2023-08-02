@@ -15,4 +15,4 @@ Turley is one of the largest and longest-established planning and development co
 
 The PINS’ Rainbow Network is delighted to hold a joint meeting with Neil Woodhouse and Ben Wood, Pride at Turley leads, to discuss diversity and LGBT+ inclusion in the planning and development industry, plus staff networks in the public and private sectors.[](www.turley.co.uk/news/turley-re-launches-internal-lgbtq-network-pride-month)
 
-[Turley re-launches internal LGBTQ+ Network this Pride month | Turley](www.turley.co.uk/news/turley-re-launches-internal-lgbtq-network-pride-month)
+[T﻿urely re-launches internal LGBTQ+ Network this pride month.](www.turley.co.uk/news/turley-re-launches-internal-lgbtq-network-pride-month)
