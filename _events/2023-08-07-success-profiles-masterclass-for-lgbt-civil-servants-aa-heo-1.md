@@ -16,4 +16,8 @@ event:
     the event
   email: info@civilservice.lgbt
 ---
-M﻿arian Wright Edelman said "you can't be what you can't see" - we believe that there still aren't many out role models in higher grades, and the success profiles process can be daunting for LGBT+ colleagues in junior grades to grapple with.  Your hosts at this event are  an SEO and a G7, both  bisexual, who will share experiences of their journeys through promotion and create a safe space for attendees to share some of their own challenges. We will  spend the majority of the session working through some of the "theory" to put into practice a fictionalised application using the success profiles approach.
+M﻿arian Wright Edelman said "you can't be what you can't see".
+
+We believe that there still aren't many out role models in higher grades, and the success profiles process can be daunting for LGBT+ colleagues in junior grades to grapple with. 
+
+Your hosts at this event are an SEO and a G7, both  bisexual, who will share experiences of their journeys through promotion and create a safe space for attendees to share some of their own challenges. We will  spend the majority of the session working through some of the "theory" to put into practice a fictionalised application using the success profiles approach.
