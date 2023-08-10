@@ -3,6 +3,7 @@ layout: team
 person-name: John Peart
 role: chair
 email: john.peart@civilservice.lgbt
+project: Outgoing-Chair
 archive: false
 permalink: /team/john-peart
 title: John Peart
