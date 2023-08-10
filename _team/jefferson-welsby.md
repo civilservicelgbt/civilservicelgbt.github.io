@@ -1,7 +1,7 @@
 ---
 layout: team
 person-name: Jefferson Welsby
-role: Co-Chair
+role: chair
 project: Co-Chair
 archive: "false"
 ---
