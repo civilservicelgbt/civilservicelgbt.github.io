@@ -1,7 +1,7 @@
 ---
 layout: team
 person-name: Jefferson Welsby
-role: chair
+role: Co-Chair
 project: Civil Service LGBT+ Network Co-Chair
 archive: "false"
 ---
