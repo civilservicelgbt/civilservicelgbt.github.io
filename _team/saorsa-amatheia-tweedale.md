@@ -2,7 +2,8 @@
 layout: team
 person-name: Saorsa-Amatheia Tweedale
 role: chair
-project: Civil Service LGBT+ Network Co-Chair
+email: chairs@civilservice.lgbt
+project: Co-Chair
 archive: "false"
 image: /assets/images/uploads/saorsa.jpg
 ---
