@@ -2,6 +2,7 @@
 layout: team
 person-name: Jefferson Welsby
 role: chair
+email: chairs@civilservice.lgbt
 project: Co-Chair
 archive: "false"
 ---
