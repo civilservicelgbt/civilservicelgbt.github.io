@@ -1,19 +1,13 @@
 ---
-# Adding or removing a '#' in front of a line will toggle that information off and on from being processed. 
-
 layout: team
-title: "John Smith"
-person-name: "John Smith"
-role: "vice chair"
-project: "Policy and Data"
-# region: ""
-email: "john.smith@civilservice.lgbt"
-image: "/assets/images/uploads/team/john-smith.jpg"
+person-name: John Smith
+role: vice chair
+email: john.smith@civilservice.lgbt
+project: Policy and Data
+archive: "true"
 permalink: /team/john-smith
-# redirect_from: 
-# - 
-# redirect_to: 
-# - 
+title: John Smith
+image: /assets/images/uploads/team/john-smith.jpg
 ---
 
 Hello there!
