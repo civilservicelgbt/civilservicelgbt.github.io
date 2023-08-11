@@ -3,7 +3,7 @@ layout: news
 title: Launching our new LGBT+ Bullying, Harassment and Discrimination Reporting Tool
 excerpt: Use our new online tool and help us to build the evidence base about
   bullying, harassment and discrimination towards LGBT+ staff
-date: 2023-08-07T18:55:19.900Z
+date: 2023-08-11T14:44:24.538Z
 author: Civil Service LGBT+ Network and a:gender
 category:
   - Trans
