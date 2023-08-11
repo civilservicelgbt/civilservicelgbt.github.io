@@ -9,7 +9,7 @@ category:
   - Trans
   - nonbinary
 ---
-The Civil Service LGBT+ Network and a:gender have developed a [tool](https://www.surveymonkey.com/create/preview/?sm=jzxMHwm7PLM4AbQOPmvvN_2F2Bx25cfzOVN1UT5uHuwfM_3D) to record instances of [bullying, harassment](https://www.gov.uk/workplace-bullying-and-harassment) and [discrimination](https://www.gov.uk/discrimination-your-rights) (BHD) experienced or witnessed by lesbian, gay, bisexual, asexual, pansexual, queer, trans, non-binary and intersex colleagues. We would also like to hear from friends, relatives, and allies who work for the Civil Service. We have created this in response to anecdotal evidence of a recent increase in BHD towards LGBT+ staff, particularly for trans, non-binary and intersex colleagues.
+The Civil Service LGBT+ Network and a:gender have developed a [tool](https://www.surveymonkey.co.uk/r/86JYBPL) to record instances of [bullying, harassment](https://www.gov.uk/workplace-bullying-and-harassment) and [discrimination](https://www.gov.uk/discrimination-your-rights) (BHD) experienced or witnessed by lesbian, gay, bisexual, asexual, pansexual, queer, trans, non-binary and intersex colleagues. We would also like to hear from friends, relatives, and allies who work for the Civil Service. We have created this in response to anecdotal evidence of a recent increase in BHD towards LGBT+ staff, particularly for trans, non-binary and intersex colleagues.
 
 ## **What is bullying and harassment?**
 
@@ -28,7 +28,7 @@ It's possible someone might not know their behaviour is bullying or harassing. I
 
 You can report an incident of bullying, harassment or discrimination online using our tool.
 
-> [Report an incident online](https://www.surveymonkey.com/create/preview/?sm=jzxMHwm7PLM4AbQOPmvvN_2F2Bx25cfzOVN1UT5uHuwfM_3D)
+> [Report an incident online](https://www.surveymonkey.co.uk/r/86JYBPL)
 
 This reporting tool does not have a closing date and provides an ongoing way for colleagues to record instances of bullying, harassment or discrimination.
 
