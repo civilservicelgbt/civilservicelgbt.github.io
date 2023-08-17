@@ -5,5 +5,6 @@ role: chair
 email: chairs@civilservice.lgbt
 project: Co-Chair
 archive: "false"
+image: /assets/images/uploads/profile-jeff.jpg
 ---
-*P﻿hoto and Bio to be updated shortly*
+*Bio to be updated shortly*
