@@ -42,13 +42,13 @@ Please remember to bring a spare t-shirt / change of clothes post parade if plan
 
 **Meeting Point**
 
-We will be meeting at Castlefield Bowl (off Rice Street, M3 4JR) from 1000, please arrive before 1100. Everyone will need to collect a Parade Wristband so please find Ian, Laura, Scott, or Ross on arrival to collect.
+We will be meeting at **Castlefield Bowl** (off Rice Street, M3 4JR) **from 1030, please arrive before 1100**. Everyone will need to collect a Parade Wristband so please find Ian, Laura, Scott, or Ross on arrival to collect.
 
 We will have our Civil Service Banner up and provide the wristbands needed along with any t-shirts that are being collected on the day. Scott and Ross are the nominated responsible persons for the parade. Look for the sea of pink, all our merchandise matches our t-shirts!
 
 **Rules for the day**
 
-All participants must have a Parade Wristband, as above these can be collected from Ian, Laura, Scott, or Ross on the day. Scott and Ross are the nominated responsible persons for the parade. We must all always adhere to the Civil Service Code.
+All participants must have a Parade Wristband, as above these can be collected from Ian, Laura, Scott, or Ross on the day. Scott and Ross are the nominated responsible persons for the parade. **We must all always adhere to the Civil Service Code**.
 
 Rules from Manchester Pride:
 
