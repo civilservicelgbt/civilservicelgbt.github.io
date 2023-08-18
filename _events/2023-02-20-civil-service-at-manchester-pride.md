@@ -22,6 +22,8 @@ All of our plans for the day can be seen below. Please note that the parade posi
 
 We are aware that there are transport strikes on the day of the parade, due to this we are aware that there might be some spaces available at short notice on the day. If you wish to join us parading please get in touch with us at the email above or just turn up at the meeting point on the day at 1100.
 
+A﻿s always we cannot control the weather, the time at the muster point and on the parade can be a while, please be prepared for whatever the weather decides to throw at us - suncream, poncho, coat, water, refreshments. Most importantly we are representing the Civil Service so please remember this when in your pink t-shirt at the muster point or on the parade route. 
+
 **General Plan for the day**
 
 Meet at Castlefield Bowl, take part in the parade and post-parade take a group photo on the lawn areas where the parade ends. If you do not wish to be in the organised group photos or on any random photos taken during the day please let one of the organisers know.
@@ -32,7 +34,9 @@ Following photos, we plan to grab a drink in a bar outside of the Village area b
 
 T-shirts will have already been provided or available on the day if you haven’t collected. If you are wearing drag, fancy dress or alternate clothing please respect the Civil Service Code.
 
-Wear comfy shoes as it can be a long day, parade accessories will be provided including hand waving flags, whistles, and face paints etc. We will also have Civil Service branded banners, flags, and a wide selection of pride flags (all of which should be returned please).
+Wear comfy shoes as it can be a long day, parade accessories will be provided including hand waving flags, whistles, and face paints etc. We will also have Civil Service branded banners, flags, and a wide selection of pride flags 
+
+*F﻿ollowing the parade people are free to keep their t-shirts. If you do not wish to keep this the local team will collect these at the end of the parade. All Civil Service branded flags and banners and all large pride flags borrowed should be returned at the end of the parade.*
 
 Please remember to bring a spare t-shirt / change of clothes post parade if planning to drink!
 
