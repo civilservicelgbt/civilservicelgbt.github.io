@@ -20,7 +20,7 @@ category:
 
 All of our plans for the day can be seen below. Please note that the parade position and timings at this stage may change, as Manchester Pride have not confirmed our positioning yet. Please check back here on 24 August 2023 where it will show the confirmed details. If you have any further questions please get in touch with you local North West Reps at [northwest@civilservice.lgbt](<mailto: northwest@civilservice.lgbt>).
 
-We are aware that there are transport strikes on the day of the parade, due to this we are aware that there might be some spaces available at short notice on the day. If you wish to join us parading please get in touch with us at the email above or just turn up at the meeting point on the day at 1100.
+We are aware that there are transport strikes on the day of the parade, due to this we are aware that there might be some spaces available at short notice on the day. If you wish to join us parading please get in touch with us at the email above or just turn up at the meeting point on the day by 1045.
 
 A﻿s always we cannot control the weather, the time at the muster point and on the parade can be a while, please be prepared for whatever the weather decides to throw at us - suncream, poncho, coat, water, refreshments. Most importantly we are representing the Civil Service so please remember this when in your pink t-shirt at the muster point or on the parade route. 
 
@@ -42,7 +42,7 @@ Please remember to bring a spare t-shirt / change of clothes post parade if plan
 
 **Meeting Point**
 
-We will be meeting at **Castlefield Bowl** (off Rice Street, M3 4JR) **from 1030, please arrive before 1100**. Everyone will need to collect a Parade Wristband so please find Ian, Laura, Scott, or Ross on arrival to collect.
+We will be meeting at **Castlefield Bowl** (off Rice Street, M3 4JR) **by 1030 (if you can), if you are going to be late, please drop us a quick message.** Everyone will need to collect a Parade Wristband so please find Ian, Laura, Scott, or Ross on arrival to collect.
 
 We will have our Civil Service Banner up and provide the wristbands needed along with any t-shirts that are being collected on the day. Scott and Ross are the nominated responsible persons for the parade. Look for the sea of pink, all our merchandise matches our t-shirts!
 
