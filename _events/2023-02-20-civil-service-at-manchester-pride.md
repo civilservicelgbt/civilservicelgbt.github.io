@@ -18,7 +18,7 @@ category:
 ---
 **It is almost time for the Civil Service LGBT+ Networks presence at Manchester Pride.** 
 
-All of our plans for the day can be seen below. Please note that the parade position and timings at this stage may change, as Manchester Pride have not confirmed our positioning yet. Please check back here on 23 August 2023 where it will show the confirmed details. If you have any further questions please get in touch with you local North West Reps at [northwest@civilservice.lgbt](<mailto: northwest@civilservice.lgbt>).
+All of our plans for the day can be seen below. Please note that the parade position and timings at this stage may change, as Manchester Pride have not confirmed our positioning yet. Please check back here on 24 August 2023 where it will show the confirmed details. If you have any further questions please get in touch with you local North West Reps at [northwest@civilservice.lgbt](<mailto: northwest@civilservice.lgbt>).
 
 We are aware that there are transport strikes on the day of the parade, due to this we are aware that there might be some spaces available at short notice on the day. If you wish to join us parading please get in touch with us at the email above or just turn up at the meeting point on the day at 1100.
 
