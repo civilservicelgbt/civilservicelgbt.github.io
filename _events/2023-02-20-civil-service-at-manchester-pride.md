@@ -20,7 +20,7 @@ category:
 
 All of our plans for the day can be seen below. Please note that the parade position and timings at this stage may change, as Manchester Pride have not confirmed our positioning yet. Please check back here on 24 August 2023 where it will show the confirmed details. If you have any further questions please get in touch with you local North West Reps at [northwest@civilservice.lgbt](<mailto: northwest@civilservice.lgbt>).
 
-We are aware that there are transport strikes on the day of the parade, due to this we are aware that there might be some spaces available at short notice on the day. If you wish to join us parading please get in touch with us at the email above or just turn up at the meeting point on the day at 1045.
+We are aware that there are transport strikes on the day of the parade, due to this we are aware that there might be some spaces available at short notice on the day. If you wish to join us parading please get in touch with us at the email above or just turn up at the meeting point on the day by 1045.
 
 A﻿s always we cannot control the weather, the time at the muster point and on the parade can be a while, please be prepared for whatever the weather decides to throw at us - suncream, poncho, coat, water, refreshments. Most importantly we are representing the Civil Service so please remember this when in your pink t-shirt at the muster point or on the parade route. 
 
