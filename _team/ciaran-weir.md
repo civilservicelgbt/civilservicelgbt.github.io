@@ -1,6 +1,6 @@
 ---
 layout: team
-person-name: Ciarán
+person-name: C
 role: local organiser
 email: NorthernIreland@civilservice.lgbt
 project: Northern Ireland
