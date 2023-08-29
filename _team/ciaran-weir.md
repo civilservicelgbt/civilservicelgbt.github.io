@@ -1,11 +1,11 @@
 ---
 layout: team
-person-name: Ciarán
+person-name: C
 role: local organiser
 email: NorthernIreland@civilservice.lgbt
 project: Northern Ireland
 region: Northern Ireland
-archive: "false"
+archive: "true"
 image: /assets/images/uploads/ciaran.jpg
 ---
 Hi there - I’m Ciarán (He/Him/They) and I work on food policy. 
