@@ -14,7 +14,7 @@ event:
 category:
   - London
 ---
-Our London socials usually take place on the first Thursday of each month. Previous participants will know that these are usually in Westminster at the Retro Bar, but this is changed over the summer months (July, August and likely September).
+Our London socials usually take place on the first Thursday of each month. Previous participants will know that these are usually in Westminster at the Retro Bar, but this is changed over the summer months (July, August and likely September). -- **Please note that due to expected adverse weather the September social will be held at Retro Bar.**
 
 Our event will be in St James's Park. We will initially meet at St James's Cafe and weather permitting will head outside to have an outdoor picnic, or otherwise stay in the cafe. For those who use what3words, here is a link to help us, though please note there may be slight differences in our location on the day: https://w3w.co/logo.jazz.upset. We will also have a pride flag to help identify us.
 
