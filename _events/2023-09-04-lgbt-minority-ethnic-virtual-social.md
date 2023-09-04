@@ -1,6 +1,6 @@
 ---
 layout: event
-title: LGBT+ Minority Ethnic Virtual Social
+title: LGBT+ Minority Ethnic Virtual Social - September 2023
 excerpt: LGBT+ and ME Virtual Social September
 date: 2023-09-04T15:38:47.104Z
 event:
