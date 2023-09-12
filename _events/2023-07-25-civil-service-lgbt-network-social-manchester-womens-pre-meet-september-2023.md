@@ -8,7 +8,7 @@ excerpt: "Following feedback we have introduced a women's pre-meet to our main
 date: 2023-07-25T07:11:23.010Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2023-09-12T12:00:23.037Z
+  start: 2023-09-12T17:00:23.037Z
   end: ""
   deadline: 2023-09-12T12:00:23.084Z
   location: Velvet, 2 Canal Street, Manchester, M1 3HE
