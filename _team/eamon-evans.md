@@ -1,19 +1,14 @@
 ---
-# Adding or removing a '#' in front of a line will toggle that information off and on from being processed. 
-
 layout: team
-title: "Eamon Evans"
-person-name: "Eamon Evans"
-role: "local organiser"
-# project: ""
-region: "London"
-email: "london@civilservice.lgbt"
-image: "/assets/images/uploads/team/eamon-evans.jpg"
+person-name: Eamon Evans
+role: local organiser
+email: london@civilservice.lgbt
+project: Local Organiser
+region: London
+archive: "true"
 permalink: /team/eamon-evans
-# redirect_from: 
-# - 
-# redirect_to: 
-# - 
+title: Eamon Evans
+image: /assets/images/uploads/team/eamon-evans.jpg
 ---
 
 In my day job I work in the Ministry of Defence within in the Finance and Military Capability Strategy team. I joined the Civil Service as an Apprentice in 2016 first working in the DfE on the Academies programme prior to joining the MOD in 2019. 
