@@ -2,7 +2,7 @@
 layout: team
 person-name: "James Reid  "
 role: local organiser
-email: SouthEast@civilservice.lgbt
+email: yorkshireandhumber@civilservice.lgbt
 project: Regional Delivery
 region: Yorkshire and Humber
 archive: "false"
