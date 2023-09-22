@@ -32,7 +32,21 @@
   description: "The South East group is for members who live in the South East region of England. It is run by our local organisers in the South East region."
   email: "southeast@groups.civilservice.lgbt"
   url: "https://groups.google.com/a/groups.civilservice.lgbt/g/southeast"
+  
+- type: "Region"
+  name: "Wales"
+  category: "wales"
+  description: "The Wales group is for members who live in Wales. It is run by our local organisers in the Wales."
+  email: "wales@groups.civilservice.lgbt"
+  url: "https://groups.google.com/a/groups.civilservice.lgbt/g/wales"
 
+- type: "Region"
+  name: "Yorkshire and Humber"
+  category: "yorkshire-and-humber"
+  description: "The Yorkshire and Humber group is for members who live in the Yorkshire and Humber region of England. It is run by our local organisers in the Yorkshire and Humber region."
+  email: "yorkshireandhumber@groups.civilservice.lgbt"
+  url: "https://groups.google.com/a/groups.civilservice.lgbt/g/yorkshireandhumber"
+  
 - type: "Project"
   name: "AceSpace"
   category: "acespace"
