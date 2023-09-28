@@ -1,8 +1,8 @@
 ---
 layout: news
-title: Join up, Our Groups have expanded
-excerpt: A new, more informal way of connecting with the work of the Civil
-  Service LGBT+ Network and our teams
+title: Join up, Our Groups have expanded, again
+excerpt: A more informal way of connecting with the work of the Civil Service
+  LGBT+ Network and our teams
 date: 2023-09-28T10:01:51.522Z
 author: Vice Chair for Regions & Nations
 category:
