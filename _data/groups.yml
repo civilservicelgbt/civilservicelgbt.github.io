@@ -60,4 +60,11 @@
   description: "The BiSpace group is for members who identify as Bi+. It is run by our volunteer team."
   email: "bispace@groups.civilservice.lgbt"
   url: "https://groups.google.com/a/groups.civilservice.lgbt/g/bispace"
+
+  - type: "Project"
+  name: "Ethnic minority inclusion"
+  category: "ethnic-minority-inclusion"
+  description: "The Ethnic Minority Inclusion group is for members who are of an ethnic minority. It is run by our Vice Chirs for Ethnic Minority Inclusion."
+  email: "ethnicminorityinclusion@groups.civilservice.lgbt"
+  url: "https://groups.google.com/a/groups.civilservice.lgbt/g/ethnicminorityinclusion"
   
