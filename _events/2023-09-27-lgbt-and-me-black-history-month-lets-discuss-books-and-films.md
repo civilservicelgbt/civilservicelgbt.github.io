@@ -9,8 +9,10 @@ event:
   end: 2023-10-31T18:00:09.176Z
   deadline: 2023-10-31T17:25:09.191Z
   location: MS Teams
+  email: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
+category: []
 ---
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +52,9 @@ event:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -631,9 +633,9 @@ event:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -649,7 +651,7 @@ event:
 	font-size:10.0pt;
 	font-family:"Times New Roman",serif;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -659,5 +661,17 @@ Join us for the October virtual social event on <!--StartFragment-->Tuesday 31st
 Save the date and stay tuned for an evening of discovery and connection.\
 \
 S﻿teve and Claire 
+
+
+
+<!--StartFragment-->
+
+D﻿id you know the Minority Ethnicity strand also has a Google Groups. This is an informal way for the Local Organisers to keep in touch with you and to keep you informed of upcoming things in your area.
+
+F﻿or more information on what's happening in our network, check out the ‘[Ethnic Minority inclusion](https://groups.google.com/a/groups.civilservice.lgbt/g/ethnicminorityinclusion)’ page on the website.
+
+F﻿or more information on Google Groups and how to sign up, check out the ‘[Groups](https://www.civilservice.lgbt/groups/)’ page on the website.
+
+<!--EndFragment-->
 
 <!--EndFragment-->
