@@ -9,6 +9,7 @@ event:
   end: 2023-10-31T18:00:09.176Z
   deadline: 2023-10-31T17:25:09.191Z
   location: MS Teams
+  email: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
 ---
 <!--\\[if gte mso 9]><xml>
  <w:WordDocument>
