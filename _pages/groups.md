@@ -29,7 +29,9 @@ This page lists the groups that are available, and explains how to subscribe and
   
   <a href="mailto:{{ group.email | replace: "@", "+subscribe@" }}?subject=SUBSCRIBE&body=Send%20this%20email%20to%20subscribe%20to%20the%20{{ group.name}}%20group.%0D%0A%0D%0AYou%20will%20receive%20a%20reply%20asking%20you%20to%20confirm%20your%20subscription.%0D%0A%0D%0AReply%20with%20a%20blank%20email%20to%20confirm%20your%20subscription.%0D%0A%0D%0AIf%20you%20change%20your%20mind%2C%20you%20can%20unsubscribe%20at%20any%20time%20by%20emailing%20{{ group.email | replace: "@", "+unsubscribe@"}}" class="button" title="Subscribe to the {{ group.name }} Group (Opens a new email in a new window)" target="_blank">Subscribe to the {{ group.name }} group</a>
 
-You should receive an email asking you to confirm your subscription. Please click 'Reply' and send a blank email back. You should then get confirmation that you have subscribed to this Google Group. There are complete generic instructions at the bottom of this page.
+
+  <You should receive an email asking you to confirm your subscription. Please click 'Reply' and send a blank email back. You should then get confirmation that you have subscribed to this Google Group. There are complete generic instructions at the bottom of this page.>
+
   
   <h4>Unsubscribe from the {{ group.name }} group</h4>
   <p>If you want to stop receiving emails from this group send an email from the same email as you registered with to:
@@ -56,7 +58,9 @@ You should receive an email asking you to confirm your subscription. Please clic
   
   <a href="mailto:{{ group.email | replace: "@", "+subscribe@" }}?subject=SUBSCRIBE&body=Send%20this%20email%20to%20subscribe%20to%20the%20selected%20group.%0D%0A%0D%0AYou%20will%20receive%20a%20reply%20asking%20you%20to%20confirm%20your%20subscription.%0D%0A%0D%0AReply%20with%20a%20blank%20email%20to%20confirm%20your%20subscription.%0D%0A%0D%0AIf%20you%20change%20your%20mind%2C%20you%20can%20unsubscribe%20at%20any%20time%20by%20emailing%20{{ group.name }}%2Bunsubscribe%40groups.civilservice.lgbt" class="button" title="Subscribe to the {{ group.name }} Group (Opens a new email in a new window)" target="_blank">Subscribe to the {{ group.name }} group</a>
 
-You should receive an email asking you to confirm your subscription. Please click 'Reply' and send a blank email back. You should then get confirmation that you have subscribed to this Google Group. There are complete generic instructions at the bottom of this page.
+
+  <You should receive an email asking you to confirm your subscription. Please click 'Reply' and send a blank email back. You should then get confirmation that you have subscribed to this Google Group. There are complete generic instructions at the bottom of this page.>
+
   
   <h4>Unsubscribe from the {{ group.name }} group</h4>
   <p>If you want to stop receiving emails from this group send an email from the same email as you registered with to:
