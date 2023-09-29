@@ -10,7 +10,7 @@ event:
   deadline: 2023-10-31T17:25:09.191Z
   location: MS Teams
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +50,9 @@ event:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -631,9 +631,9 @@ event:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -649,11 +649,14 @@ event:
 	font-size:10.0pt;
 	font-family:"Times New Roman",serif;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-Join us for the October virtual social event (via Teams) celebrating Black History Month with a twist! Get ready for an engaging discussion on Black LGBT literature, films, and podcasts. We're not just sharing recommendations; we want YOU, our amazing attendees, to join in and share your favorite books and films that have touched your heart. Let's celebrate the richness and variety of Black history and culture together. Save the date and stay tuned for an evening of discovery and connection.\
+\
+Join us for the October virtual social event on <!--StartFragment-->Tuesday 31st October 5-6pm <!--EndFragment--> (via Teams) celebrating Black History Month with a twist! Get ready for an engaging discussion on Black LGBT literature, films, and podcasts. We're not just sharing recommendations; we want YOU, our amazing attendees, to join in and share your favorite books and films that have touched your heart. Let's celebrate the richness and variety of Black history and culture together. \
+\
+Save the date and stay tuned for an evening of discovery and connection.\
 \
 S﻿teve and Claire 
 
