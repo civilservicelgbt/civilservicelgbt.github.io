@@ -22,4 +22,4 @@ There is no need to book to go on the tour and further details about it can be f
 
 Please note, access to the V&A and the tour is also open to all members of the public. In this regard, if you have friends or partners who also want to visit the V&A, they are also welcome to join.  
 
-Please do get in contact with the event host should you have any questions or feedback / running late on the day – [Oriana.moschovakis@hmrc.gov.uk](mailto:Oriana.moschovakis@hmrc.gov.uk).
+Please do get in contact with the event host should you have any questions or feedback / running late on the day – [Maria Ionescu](mailto:Maria.Ionescu@levellingup.gov.uk)
