@@ -10,13 +10,15 @@ event:
   deadline: 2023-12-07T12:00:00.000Z
   no-register: Registration is not mandatory
   email: westmidlands@civilservice.lgbt
-  location: The Loft (Gay Village), 143 Bromsgrove St, Birmingham B5 6RG
+  location: Cathedral Square (Pigeon Park), The Pigeon in the Park Bar
 category:
   - west-midlands
 ---
 **Anyone attending can spot us by looking for ‘Liz the Unicorn’.**
 
 The Civil Service LGBT+ Network organises informal networking and social events so that LGBT+ civil servants can meet each other. Our local organisers organise these events in various cities across the country.
+
+T﻿his social will be one around the Christmas Markets, meeting at The Pigeon in the Park Bar. Options from here may include staying in the square or exploring the market stalls for food and music. 
 
 If you have questions about this event, or you have an idea for a future event, you can contact [our local organisers](/team).
 
