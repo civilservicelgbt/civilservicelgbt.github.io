@@ -5,6 +5,7 @@ role: local organiser
 email: SouthEast@civilservice.lgbt
 project: Regional Delivery
 region: South East
+archive: "true"
 image: /assets/images/uploads/steve-bowler.jpg
 ---
 Hello, my name is Steve (he/him), I joined the Civil Service in February 2017 as an AO Telephony Agent for UC Ops in Basildon. I was promoted to an EO in February 2020 and then secured a HEO Capability Role in North London District Office in September 2020. I now work in CFCD Ramsgate Interventions Centre as the Business Support Operations Leader and Capability Lead.
