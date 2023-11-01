@@ -1,6 +1,7 @@
 ---
 layout: event
-title: Civil Service LGBT+ Social Women's Pre-Meet - London - November 2023
+title: CANCELLED - Civil Service LGBT+ Social Women's Pre-Meet - London -
+  November 2023
 excerpt: "Join our London Women's inclusion reps for a pre-meet to the regular
   London social. "
 date: 2023-04-18T15:13:38.033Z
@@ -14,6 +15,8 @@ event:
 category:
   - london
 ---
+C﻿ANCELLED - Due to unforseen circumstances this has had to be cancelled. The main social is still going ahead as planned.
+
 Our London Women’s Inclusion team would love to invite you to join them at the new monthly pre-meet before the main London Civil Service LGBT+ Social. This event is open to everyone who identifies as a woman and/or feels like this space would be suitable for them.
 
 We are setting up these pre-meets for our members so we can meet and chat in a quieter environment, before joining the larger social. 
