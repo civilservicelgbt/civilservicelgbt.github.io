@@ -1,6 +1,6 @@
 ---
 layout: event
-title: LGBTQ+ Security Clearance Event
+title: LGBTQ+ Security Clearance & Vetting Event
 excerpt: Join a panel discussion with LGBTQ+ staff on Security Clearance and Vetting
 date: 2023-11-06T14:58:21.506Z
 event:
