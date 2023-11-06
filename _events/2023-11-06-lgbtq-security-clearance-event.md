@@ -17,6 +17,6 @@ event:
 
 Over the winter, as part of the National Security Community Culture, Diversity & Inclusion initiative, we are holding a series of online panel discussions on topics of particular interest to LGBTQ+ colleagues and allies – including working overseas, why effective policy-making needs diversity, and LGBTQ+ in law enforcement.
 
-The first, on Security Clearance and Vetting, is an opportunity to hear about efforts to make the cross-Government vetting process more inclusive, consider what change is still needed, and answer questions on issues of particular relevance to LGBTQ+ individuals.  NS Community LGBTQ+ Champion Angus McKee (he) will host a panel composed of Sarah Brookes (Assistant Head of Culture, UK Security Vetting / she), Alan Edwards (Vice Chair, Civil Service LGBT+ Network / they/he) and Bex H (Lead for CPA, Vetting Transformation / she).  
+The first, on Security Clearance and Vetting, is an opportunity to hear about efforts to make the cross-Government vetting process more inclusive, consider what change is still needed, and answer questions on issues of particular relevance to LGBTQ+ individuals. 
 
 The panel discussion will be 13.00-14.00 gmt Thursday 16 November on Microsoft Teams.  After initial presentations by the panellists, there will be time for questions/comments (including an option for questions to be asked anonymously).  The discussion will be **unclassified**.
