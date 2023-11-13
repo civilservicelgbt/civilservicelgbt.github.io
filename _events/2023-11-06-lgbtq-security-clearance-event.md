@@ -20,3 +20,5 @@ Over the winter, as part of the National Security Community Culture, Diversity &
 The first, on Security Clearance and Vetting, is an opportunity to hear about efforts to make the cross-Government vetting process more inclusive, consider what change is still needed, and answer questions on issues of particular relevance to LGBTQ+ individuals. 
 
 The panel discussion will be 13.00-14.00 gmt Thursday 16 November on Microsoft Teams.  After initial presentations by the panellists, there will be time for questions/comments (including an option for questions to be asked anonymously).  The discussion will be **unclassified**.
+
+T﻿o register for this event please register by emailing [alan.edwards@civilservice.lgbt](mailto:alan.edwards@civilservice.lgbt).
