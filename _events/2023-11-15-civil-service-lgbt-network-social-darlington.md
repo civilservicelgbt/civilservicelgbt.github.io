@@ -20,7 +20,7 @@ Join like minded Civil Servants from in and around Darlington for this December 
 
 North East local organisers will be there to welcome you and chat the evening away. If you have any questions before the event please drop the email a little line.
 
-Registration for this event is not mandatory but helps the organisers to understand who will be coming.
+Registration for this event is not mandatory but helps the organisers to understand who will be coming. If the registration link is not working please email your local organisers at northeast@civilservice.lgbt
 
 Did you know the North East also has a Google Groups? This is an informal way for the Local Organisers to keep in touch with you and to keep you informed of upcoming things in your area.
 
