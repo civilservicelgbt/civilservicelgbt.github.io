@@ -10,6 +10,8 @@ event:
   end: 2023-11-20T13:30:02.187Z
   deadline: 2023-11-20T12:00:02.203Z
   location: MS Teams
+  no-register: Registration in not mandatory, please use the link information in
+    the event description
 ---
 On Monday 20th November, 12:30 to 13:30 a:gender will be holding an on-line vigil in recognition of Trans Day of Remembrance.  We hope that you will be able to join us.
 
