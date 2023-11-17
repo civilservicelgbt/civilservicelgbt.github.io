@@ -34,3 +34,5 @@ Registration Message: So that we can keep track of numbers, please let us know i
 Meeting Location: South African War Memorial, near City Hall. Google Maps link: <https://maps.app.goo.gl/4m61cP8z9hn3Syqe8>
 
 Event Location: Cardiff Winter Wonderland, outside City Hall, 17:00 – 19:00 (approx.). Moving on to Mary’s bar on St Mary Street from 19:00 if there’s interest.
+
+F﻿or more details or if you have any problems registering for this evening please email Bethan.Cable@gov.wales
