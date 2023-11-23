@@ -13,4 +13,4 @@ I﻿ have worked in the Civil Service for over 10 years. I started my career in 
 
 Saorsa-Amatheia and myself have already had the pleasure of working together as previous Co-Chairs of DWP's LGBT+ Staff Network, DWP Pride for 2.5 years. We both have a strong desire to make a difference to the lives of LGBT+ people.
 
-W﻿e're really keen to encourage members to branch out from their Departments. Whilst the CS LGBT+ Network is already a vibrant and exciting network, we just want to increase that! Please get in touch to share your thoughts, idea's and innovative ideas for the network, ultimately, this is your network!
+We're really keen to encourage members to branch out from their Departments. Whilst the CS LGBT+ Network is already a vibrant and exciting network, we want to increase that! Please get in touch to share your thoughts, idea's and innovative ideas for the network, ultimately, this is your network!
