@@ -24,3 +24,5 @@ Are you alone this Christmastime, or perhaps want to do something different from
 I﻿f the registration link does not work please email yorkshireandhumber@civilservice.lgbt
 
 Festive wear is optional (although highly  encouraged)
+
+*P﻿lease note that registration for this event is mandatory, due to limited spaces, it is also important to register because the time of this event is being monitored to ensure that suitable public transport following the event is available, and is therefore subject to change.*
