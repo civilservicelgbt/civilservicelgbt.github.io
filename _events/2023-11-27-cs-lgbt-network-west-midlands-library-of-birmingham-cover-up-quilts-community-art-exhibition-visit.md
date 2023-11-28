@@ -7,9 +7,9 @@ excerpt: "Join fellow Civil Servants for a trip to the Library of Birmingham
 date: 2023-11-27T17:01:39.994Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-01-15T11:00:00.000Z
+  start: 2024-01-13T11:00:00.000Z
   end: ""
-  deadline: 2024-01-15T09:00:00.000Z
+  deadline: 2024-01-12T12:00:00.000Z
   location: Meeting in front of the Library of Birmingham, Centenary Square, Broad
     Street, Birmingham, B1 2ND, where the exhibition is held.
   no-register: Registration is not mandatory
