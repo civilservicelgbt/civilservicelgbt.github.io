@@ -3,7 +3,7 @@ layout: event
 title: Civil Service LGBT+ Leeds –  Festive Meal
 excerpt: Are you alone this Christmastime, or perhaps want to do something
   different from the normal routine?   Join fellow Civil Servants for a Festive
-  meal on 24th December.
+  meal on 23rd December.
 date: 2023-11-15T18:58:05.918Z
 event:
   host: Civil Service LGBT+ Network
