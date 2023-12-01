@@ -7,7 +7,7 @@ excerpt: Are you alone this Christmastime, or perhaps want to do something
 date: 2023-11-15T18:58:05.918Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2023-12-24T19:00:05.981Z
+  start: 2023-12-24T17:00:02.867Z
   end: 2023-12-24T20:00:06.018Z
   deadline: 2023-12-11T23:59:06.047Z
   location: Bill’s Restaurant, Leeds  ( 1 Albion Pl, Leeds LS1 6JL )
