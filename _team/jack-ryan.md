@@ -6,6 +6,7 @@ email: northwest@civilservice.lgbt
 project: Local Organiser
 region: North West
 archive: "false"
+image: /assets/images/uploads/jr.jpg
 ---
 Hello! I’m Jack and work in HMRC in Liverpool. Ive been in the Civil Service since 2017 doing all kinds of different roles, most recently working in the Strategy directorate working on coordinating the tax compliance priorities which manages to keep me quite busy!
 
