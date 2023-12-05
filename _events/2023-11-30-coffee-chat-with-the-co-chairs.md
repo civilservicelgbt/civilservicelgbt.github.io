@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Coffee & Chat  with the Co-Chairs
+title: Festive Coffee & Chat  with the Co-Chairs
 excerpt: |+
   Join the Co-Chairs for an informal Coffee & Chat before the Festive Break
 
@@ -16,9 +16,11 @@ event:
   no-register: If you're struggling to register, please email chairs@civilservice.lgbt
 category: []
 ---
-Join the Co-Chairs (Saorsa-Amatheia and Jeff) for an informal "Coffee & Chat" before the festive break.
+Join Co-Chairs Saorsa-Amatheia and Jeff for an informal "Coffee & Chat" before the festive break.
 
 T﻿his is a drop in session, feel free to join us at anytime between 12:30 - 13:30, even if you can only make it for 10 minutes. 
+
+W﻿e'll be sharing updates on Pride 2024, Hub Lunchtime Socials, and more.
 
 P﻿lease register using your GOV.UK email address. 
 
