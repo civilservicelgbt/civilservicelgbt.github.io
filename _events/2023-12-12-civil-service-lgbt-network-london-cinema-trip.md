@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ Network - London - Cinema Trip
+title: Civil Service LGBT+ Network - London - Film Club
 excerpt: "We're attending \"Funeral Parade Presents\", an LGBT film society that
   screens rare and significant LGBT films. The screenings are in Prince Charles
   Cinema, just by Leicester Square "
