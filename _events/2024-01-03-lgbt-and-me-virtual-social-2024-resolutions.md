@@ -7,9 +7,9 @@ excerpt: You are invited to kick off 2024 with friends and colleagues for a
 date: 2024-01-03T16:14:04.631Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-01-03T16:14:04.650Z
-  end: 2024-01-03T16:14:04.666Z
-  deadline: 2024-01-03T16:14:04.677Z
+  start: 2024-01-25T16:30:04.650Z
+  end: 2024-01-25T17:30:04.666Z
+  deadline: 2024-01-25T16:30:04.677Z
   location: MS Teams
   link: To register for this event, please email and we will send an MS Teams link.
 ---
