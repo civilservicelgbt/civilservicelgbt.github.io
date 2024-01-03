@@ -10,6 +10,6 @@ A﻿s we enter into a new year the Civil Service LGBT+ Network has had a stockta
 
 O﻿ur local organisers do a great job at connecting like minded Civil Servants across the whole of the UK. Some of our local organisers step back from time to time to focus on other work and opportunities. For those stepping away from the role, thank you for all of your help and support during your time in the role. 
 
-A﻿ local organiser is an important part of our community, they organise socials, pride entries, act as a point of contact for the Network and more. 
+A﻿ local organiser is an important part of our community, they organise socials, pride entries, act as a point of contact for the Network and more. Are you someone that is energised to make a difference in the community in your local region and beyond, do you want to bring people together to build a sense of community and belonging, then being a local organiser may be for you.
 
 W﻿e are looking for extra support in the following regions; Northern Ireland, North East, Scotland, Wales. If you would like to be involved as a local organiser please do get in touch with the Vice Chair for Regions and Nations at [vice-chair-regions@civilservice.lgbt](mailto:vice-chair-regions@civilservice.lgbt)
