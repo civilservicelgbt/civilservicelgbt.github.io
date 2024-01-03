@@ -12,4 +12,4 @@ O﻿ur local organisers do a great job at connecting like minded Civil Servants 
 
 A﻿ local organiser is an important part of our community, they organise socials, pride entries, act as a point of contact for the Network and more. 
 
-W﻿e are looking for extra support in the following regions; Northern Ireland, North East, Scotland, Wales. If you would like to be involved as a local organiser please do get in touch
+W﻿e are looking for extra support in the following regions; Northern Ireland, North East, Scotland, Wales. If you would like to be involved as a local organiser please do get in touch with the Vice Chair for Regions and Nations at [vice-chair-regions@civilservice.lgbt](mailto:vice-chair-regions@civilservice.lgbt)
