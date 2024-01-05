@@ -11,9 +11,10 @@ event:
   end: 2024-01-25T17:30:04.666Z
   deadline: 2024-01-25T16:30:04.677Z
   location: MS Teams
-  link: To register for this event, please email and we will send an MS Teams link.
+  link: Click the button to register for this event and we will send an MS Teams
+    link.
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -53,9 +54,9 @@ event:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -634,9 +635,9 @@ event:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -652,17 +653,13 @@ event:
 	font-size:10.0pt;
 	font-family:"Times New Roman",serif;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 Dear All
 
- 
-
 You are invited to kick off 2024 with friends and colleagues for a virtual New Year's social meetup where we'll celebrate our unique journeys and share future goals.
-
- 
 
 Date: 25 January 2024
 
@@ -670,33 +667,17 @@ Time: 16:30
 
 Location: Microsoft Teams
 
- 
-
 Whether you're aiming for a professional breakthrough, a career milestone, or a personal achievement, this is the perfect time to mingle, inspire, and uplift one another.
-
- 
 
 We’ll also give you a peek behind the curtain as to what we have provisionally planned for our growing group over the next 12 months with the hope of getting some of your ideas to get the plan in good shape.
 
- 
-
 Here's to a year filled with professional growth and personal victories!
-
- 
 
 Onwards!
 
 Steve and Claire
 
 Vice Chairs CS LGBT Network - Ethnic Minority Inclusion Strand.
-
- 
-
- 
-
-* *To join the CS LGBT + Network (Ethnic Minority Inclusion) WhatsApp group, simply click on the following link on your **personal** mobile device: [https://chat.whatsapp.com/D64kThEX72C9yktn6OQFxL](https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fchat.whatsapp.com%2FD64kThEX72C9yktn6OQFxL&data=05%7C02%7CClaire.Yau%40counteringextremism.gov.uk%7C5395d3aff52e44ae189d08dc013f5654%7Cf24d93ecb2914192a08af182245945c2%7C0%7C0%7C638386618748167774%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=exoCohmA4fN25LTJrPsWfdhPReQDUafjl7c%2BfVBObFs%3D&reserved=0)*
-
-
 
 * *If you would like to be involved in shaping the work of our strand, then why not volunteer with us? Just drop myself or Claire an email at [vice-chair-ethnic-minority-inclusion@civilservice.lgbt](mailto:vice-chair-ethnic-minority-inclusion@civilservice.lgbt) for more information.*
 
