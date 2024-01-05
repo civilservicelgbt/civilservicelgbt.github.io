@@ -1,19 +1,20 @@
 ---
-# Adding or removing a '#' in front of a line will toggle that information off and on from being processed. 
+# Adding or removing a '#' in front of a line will toggle that information off and on from being processed.
 
 layout: team
 title: "Jack Victor"
 person-name: "Jack Victor"
 role: "project team"
 project: "conference"
+archive: true
 # region: ""
 # email: ""
 image: "/assets/images/uploads/team/jackvictor.jpg"
 permalink: /team/jack-victor
-# redirect_from: 
-# - 
-# redirect_to: 
-# - 
+# redirect_from:
+# -
+# redirect_to:
+# -
 ---
 
 I have been in the Civil Service for six years and am currently a consultant with the Government Consulting Hub.
