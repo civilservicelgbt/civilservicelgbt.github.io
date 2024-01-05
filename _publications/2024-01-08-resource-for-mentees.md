@@ -3,7 +3,7 @@ layout: publication
 title: "Civil Service LGBT+ mentoring programme: advice and resources for mentees"
 excerpt: This document includes advice, guidance and resources for mentees
   taking part in the Civil Service LGBT+ Network mentoring programme.
-date: 2021-07-19
+date: 2024-01-08
 author: Civil Service LGBT+ Network
 category:
   - mentoring

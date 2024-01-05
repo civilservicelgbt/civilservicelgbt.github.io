@@ -1,7 +1,7 @@
 ---
 layout: publication
 author: Civil Service LGBT+ Network
-date: '2022-05-17'
+date: '2024-01-08'
 category: ["mentoring"]
 title: "Civil Service LGBT+ mentoring programme: about the programme"
 permalink: /mentoring/about-the-programme
@@ -11,14 +11,26 @@ redirect_from:
 - /publication/about-the-mentoring-programme
 - /publication/about-our-mentoring-programme
 ---
+{% assign now = site.time | date: "%s" %}
+{% assign mentoring = site.data.mentoring %}
+{% for registration in mentoring %}
+  {% assign registration-open = registration.registration-open | date: "%s" %}
+  {% assign registration-close = registration.registration-close | date: "%s" %}
+{% endfor %}
+{% if now >= registration-open and now <= registration-close %}
+  {% assign registration = "open" %}
+{% else %}
+  {% assign registration = "closed" %}
+{% endif %}
 
 * Table of contents will generate here
 {:toc}
 
-{:.warning-text}
-> ### Registrations for the mentoring programme are currently closed. 
-> 
-> The programme will re-open in early 2023.
+{% if registration == "closed" %}
+> ## Registrations are currently closed
+>
+> Registrations for 2024 mentoring programme are currently closed. Our [mentoring topic page](/mentoring) contains the lastest information about the programme and when it will next be available.
+{% endif %}
 
 ## Publication description
 
@@ -52,7 +64,13 @@ We will give all mentors access to induction and guidance on how to be effective
 
 We strongly encourage people at all grades to sign up as mentors – whether you're an SCS or an AO. Everyone can help someone! The more mentors we have, the more mentees we can support through the programme.
 
-<a href="/publication/register-as-a-mentor" title="Visit the mentee registration page" class="button button--action">Register as a mentor</a>
+{% if registration == "open" %}
+<a href="/mentoring/register" title="Visit the mentor registration page" class="button button--action">Register as a mentor</a>
+{% else %}
+> ### You can't register as a mentor right now
+>
+> Registrations for 2024 mentoring programme are currently closed. Our [mentoring topic page](/mentoring) contains the lastest information about the programme and when it will next be available.
+{% endif %}
 
 ### Who can be a mentee
 
@@ -65,7 +83,14 @@ If you're a mentee, we'll aim to match you to mentors that are one or two grades
 
 Whilst we can't guarantee that everyone will find a mentor they keep for the long term, we will try to ensure everyone can access a speed mentoring session as part of the programme.
 
-<a href="/publication/register-as-a-mentee" title="Visit the mentee registration page" class="button button--action">Register as a mentee</a>
+{% if registration == "open" %}
+<a href="/register-as-a-mentee" title="Visit the mentee registration page" class="button button--action">Register as a mentee</a>
+{% else %}
+> ### You can't register as a mentee right now
+>
+> Registrations for 2024 mentoring programme are currently closed. Our [mentoring topic page](/mentoring) contains the lastest information about the programme and when it will next be available.
+{% endif %}
+
 
 ## How it works
 
@@ -73,10 +98,7 @@ Whilst we can't guarantee that everyone will find a mentor they keep for the lon
 
 ![](/assets/images/uploads/mentoring-scheme/website-explainer-1.png)
 
-You can register as a mentor, a mentee, or both. You can register online using these forms:
-
-- [register as a mentor](/publication/register-as-a-mentor)
-- [register as a mentee](/publication/register-as-a-mentee)
+You can register as a mentor, a mentee, or both.
 
 As part of the registration process you will be asked to provide information including:
 
@@ -147,7 +169,13 @@ As a mentor, you can expect to:
 3. receive published guidance on how to maximise your role as a mentor
 4. have the chance to join a network of other mentors who you can speak to for advice too
 
-<a href="/publication/register-as-a-mentor" title="Visit the mentee registration page" class="button button--action">Register as a mentor</a>
+{% if registration == "open" %}
+<a href="/mentoring/register" title="Visit the mentor registration page" class="button button--action">Register as a mentor</a>
+{% else %}
+> ### You can't register as a mentor right now
+>
+> Registrations for 2024 mentoring programme are currently closed. Our [mentoring topic page](/mentoring) contains the lastest information about the programme and when it will next be available.
+{% endif %}
 
 ### Become a mentee
 
@@ -166,7 +194,13 @@ As a mentee, you can expect to:
 1. be offered a short induction session for new mentees
 2. receive published guidance on how to maximise your role as a mentee
 
-<a href="/publication/register-as-a-mentee" title="Visit the mentee registration page" class="button button--action">Register as a mentee</a>
+{% if registration == "open" %}
+<a href="/register-as-a-mentee" title="Visit the mentee registration page" class="button button--action">Register as a mentee</a>
+{% else %}
+> ### You can't register as a mentee right now
+>
+> Registrations for 2024 mentoring programme are currently closed. Our [mentoring topic page](/mentoring) contains the lastest information about the programme and when it will next be available.
+{% endif %}
 
 ## Resources and support
 

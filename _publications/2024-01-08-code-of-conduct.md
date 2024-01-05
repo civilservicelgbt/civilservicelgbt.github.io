@@ -1,7 +1,7 @@
 ---
 layout: publication
 author: Civil Service LGBT+ Network
-date: '2021-07-19'
+date: '2024-01-08'
 category: ["mentoring"]
 title: "Civil Service LGBT+ mentoring programme: Code of Conduct"
 permalink: /publication/mentoring-code-of-conduct
