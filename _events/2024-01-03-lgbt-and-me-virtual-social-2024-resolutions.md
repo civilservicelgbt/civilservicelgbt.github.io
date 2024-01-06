@@ -11,8 +11,9 @@ event:
   end: 2024-01-25T17:30:04.666Z
   deadline: 2024-01-25T16:30:04.677Z
   location: MS Teams
-  link: Click the button to register for this event and we will send an MS Teams
-    link.
+  link: ""
+  email: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
+  no-register: Please register via the email link above to be sent the meeting invite
 ---
 <!--\\[if gte mso 9]><xml>
  <w:WordDocument>
