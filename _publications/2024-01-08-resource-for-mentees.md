@@ -8,6 +8,12 @@ author: Civil Service LGBT+ Network
 category:
   - mentoring
 permalink: /publication/resources-for-mentees
+breadcrumbs-override: true
+breadcrumbs:
+- title: "Topics"
+  url: /topics
+- title: "Mentoring"
+  url: /mentoring
 ---
 
 * Table of contents will generate here
