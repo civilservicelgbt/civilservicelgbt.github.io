@@ -10,6 +10,12 @@ image: "/assets/images/uploads/mentoring-scheme/twitter-timeline--mentoring-for-
 redirect_from:
 - /publication/about-the-mentoring-programme
 - /publication/about-our-mentoring-programme
+breadcrumbs-override: true
+breadcrumbs:
+- title: "Topics"
+  url: /topics
+- title: "Mentoring"
+  url: /mentoring
 ---
 {% assign now = site.time | date: "%s" %}
 {% assign mentoring = site.data.mentoring %}
