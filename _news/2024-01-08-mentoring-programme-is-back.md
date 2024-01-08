@@ -2,7 +2,7 @@
 layout: news
 title: "New year. Future you: Our mentoring programme returns for 2024"
 excerpt: "The award-winning Civil Service LGBT+ mentoring programme is back! Registrations open 1 March 2024."
-date: 2024-01-08T08:00:00Z
+date: 2024-01-08
 author: John Peart
 image: /assets/images/uploads/mentoring-scheme/2024-promo.png
 image-alt: "New year. Future you. Mentoring by and for LGBT+ civil servants."
