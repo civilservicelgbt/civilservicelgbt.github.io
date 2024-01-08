@@ -63,5 +63,3 @@ The registration window will be open for 4 weeks. If you don't register during t
 All our matching happens once using a software package. It's fast. So fast, that we'll be able to send out matches a couple of days after the registration window closes.
 
 So there are no second chances or last minute registrations. If you miss it, you miss out!
-
-Make sure you check you register during February, and that you are ready to act on your matches in March.
