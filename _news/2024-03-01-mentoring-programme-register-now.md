@@ -2,7 +2,7 @@
 layout: news
 title: "Register now for the 2024 LGBT+ mentoring programme."
 excerpt: "Registrations will close on 31 March 2024. Miss it, and miss out until next year."
-date: 2024-03-01T08:00:00Z
+date: 2024-03-01
 author: John Peart
 image: /assets/images/uploads/mentoring-scheme/give-a-boost-get-a-boost.png
 image-alt: "Give them a boost. Become an LGBT+ mentor. Get a boost back. Become an LGBT+ mentee."
