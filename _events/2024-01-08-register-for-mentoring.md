@@ -12,6 +12,12 @@ event:
   no-register: Register online during the registration window
 category:
   - mentoring
+breadcrumbs-override: true
+breadcrumbs:
+- title: "Topics"
+  url: /topics
+- title: "Mentoring"
+  url: /mentoring
 ---
 {% assign now = site.time | date: "%s" %}
 {% assign mentoring = site.data.mentoring %}
