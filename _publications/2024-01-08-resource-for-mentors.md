@@ -6,6 +6,12 @@ category: ["mentoring"]
 title: "Civil Service LGBT+ mentoring programme: advice and resources for mentors"
 permalink: /publication/resources-for-mentors
 excerpt: "This document includes advice, guidance and resources for mentors taking part in the Civil Service LGBT+ Network mentoring programme."
+breadcrumbs-override: true
+breadcrumbs:
+- title: "Topics"
+  url: /topics
+- title: "Mentoring"
+  url: /mentoring
 ---
 
 * Table of contents will generate here
