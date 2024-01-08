@@ -32,10 +32,29 @@
   - start: 2022-06-17
     end: 2022-08-01
 
+- title: "Coming soon."
+  text: "Our award-winning programme is back."
+  link-title: "Find out more."
+  url: "/mentoring/"
+  dates:
+  - start: 2024-01-08
+    end: 2024-02-29
+  background: yellow
+
 - title: "Become a mentor or mentee."
   text: "Our award-winning programme is back."
   link-title: "Sign up now."
   url: "/mentoring/"
   dates:
-  - start: 2022-05-17
-    end: 2022-06-17
+  - start: 2024-03-01
+    end: 2024-03-30
+  background: yellow
+
+- title: "Deadline extended."
+  text: "One final chance to join our mentoring programme."
+  link-title: "Sign up now."
+  url: "/mentoring/"
+  dates:
+  - start: 2024-03-31
+    end: 2024-04-07
+  background: yellow
