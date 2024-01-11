@@ -8,8 +8,8 @@ excerpt: >+
 date: 2024-01-11T17:16:57.607Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-02-28T12:30:57.620Z
-  end: 2024-02-28T13:30:57.630Z
+  start: 2024-01-29T12:30:57.620Z
+  end: 2024-01-29T13:30:57.630Z
   deadline: 2024-01-29T12:00:57.638Z
   location: MS Teams
   email: chairs@civilservice.lgbt
