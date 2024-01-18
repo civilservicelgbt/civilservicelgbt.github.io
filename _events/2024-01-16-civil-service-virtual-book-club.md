@@ -9,7 +9,7 @@ event:
   start: 2024-02-28T18:00:00.000Z
   end: ""
   deadline: 2024-01-31T16:30:00.000Z
-  email: northwest@civilservice.lgb
+  email: northwest@civilservice.lgbt
   location: MS Teams
   no-register: Registration is needed for this event
 ---
@@ -19,6 +19,8 @@ Each month you will be given the choice of 5 books and you can vote for your fav
 
 Every month, we delve into thought-provoking works that explore the nuances of identity, love, and resilience. Whether you're an avid reader or just starting your literary journey, our virtual gatherings provide a safe space to engage, learn, and connect. Expand your reading horizons, challenge perspectives, and amplify LGBTQ+ voices together. Embrace the joy of reading in a supportive digital environment. Join us on this enlightening journey of literary exploration and community building!
 
-P﻿lease make sure you register to 
+P﻿lease make sure you register for this event to be sent the MS Teams link, please register through the email linked in the registration bar - [northwest@civilservice.lgbt](mailto:northwest@civilservice.lgbt)
+
+T﻿o vote on which book for reading please use this '[MS Form](https://forms.office.com/e/cJekcpxuDR)'. If you aren't going to join the actual book club you may still wish to vote if there is a personal favourite of yours.
 
 F﻿or any questions on this please email [northwest@civilservice.lgbt](mailto:northwest@civilservice.lgbt)
