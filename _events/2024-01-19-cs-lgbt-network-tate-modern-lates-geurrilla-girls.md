@@ -1,6 +1,6 @@
 ---
 layout: event
-title: CS LGBT+ Network - Tate Modern LAtes - Geurrilla Girls
+title: CS LGBT+ Network - Tate Modern Lates - Geurrilla Girls
 excerpt: Join like minded Civil Servants with a visit to Tate Modern Lates.
 date: 2024-01-19T07:25:14.219Z
 event:
