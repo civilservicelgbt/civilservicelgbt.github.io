@@ -36,7 +36,7 @@ Accessibility: Regrettably the Prince Charles Cinema is not a fully accessible v
 
 There are 20 steps down from the foyer to the bar, where the bathrooms are. From the bar, the men’s is step-free while the women’s has one step and a sharp corner that a wheelchair could not access. Regrettably, there are not single occupancy toilets on the premises.
 
-If you have questions about this event, or you have an idea for a future event, you can contact our [London Organisers](<mailto: london@civilservice.lgbt>).[North West local organisers](mailto:northwest@civilservice.lgbt).
+If you have questions about this event, or you have an idea for a future event, you can contact our [London Organisers](<mailto: london@civilservice.lgbt>).[](mailto:northwest@civilservice.lgbt)
 
 For all the latest updates from the North West region, check the [London page](https://www.civilservice.lgbt/topic/london)
 
