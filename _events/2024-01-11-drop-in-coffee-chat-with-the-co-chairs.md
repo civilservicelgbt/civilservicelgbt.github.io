@@ -13,7 +13,7 @@ event:
   deadline: 2024-01-29T12:00:57.638Z
   location: MS Teams
   email: chairs@civilservice.lgbt
-  link: https://events.teams.microsoft.com/event/a42d334e-754d-45a1-a92b-58c936123531@96f1f6e9-1057-4117-ac28-80cdfe86f8c3
+  link: https://events.teams.microsoft.com/event/0d399e8c-653e-4162-a8d2-0d684cecf3ed@96f1f6e9-1057-4117-ac28-80cdfe86f8c3
   no-register: If you're struggling to register, please email chairs@civilservice.lgbt
 category: []
 ---
