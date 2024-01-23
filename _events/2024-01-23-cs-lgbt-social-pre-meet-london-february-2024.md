@@ -6,8 +6,8 @@ date: 2024-01-23T07:33:22.226Z
 event:
   host: Civil Service LGBT+ Network
   start: 2024-03-07T18:00:00.000Z
-  end: 2024-03-07T12:00:00.000Z
-  deadline: 2024-03-07T19:00:00.000Z
+  end: 2024-03-07T19:00:00.000Z
+  deadline: 2024-03-07T12:00:00.000Z
   no-register: Please register for this pre-meet
   email: london@civilservice.lgbt
   location: Coffee by Real Eating Co, 442 Strand, WC2R 0QU
