@@ -9,7 +9,7 @@ event:
   start: 2024-02-07T12:00:29.043Z
   end: 2024-02-07T13:00:29.061Z
   deadline: 2023-12-04T12:00:29.075Z
-  location: 33 Horseferry Road
+  location: MS Teams or 33 Horseferry Road
   link: https://www.tickettailor.com/events/dftjewishnetwork/1120548
   no-register: Registration is required for this event
 ---
