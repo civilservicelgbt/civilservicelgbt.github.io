@@ -1,13 +1,14 @@
 ---
 layout: event
 title: CS LGBT+ Network Social - Darlington - February 2024
-excerpt: "Join like minded Civil Servants for a social with the CS LGBT+ Network
-  in Darlington. "
+excerpt: Join like minded Civil Servants for a social with the CS LGBT+ Network
+  in Darlington for a Valentines Special Mondgay night. This event is open to
+  all Civil Servants in the LGBT+ Network and supportive family and friends.
 date: 2024-01-23T08:33:46.141Z
 event:
   host: Civil Service LGBT+ Network
   start: 2024-02-12T17:30:46.159Z
-  end: ""
+  end: 2024-02-12T18:30:00.000Z
   deadline: 2024-02-12T12:00:00.000Z
   location: Jupiter Tree, 25 Grange Road, Darlington, DL1 5NA
   email: northeast@civilservice.lgbt
@@ -15,7 +16,7 @@ event:
 category:
   - north-east
 ---
-Meet up with fellow civil servants for a Valentines Special Mongay night at various venues across the town, look out for Martin and/or an inflatable Unicorn.
+Meet up with fellow civil servants for a Valentines Special Mongay night at various venues across the town, look out for Martin and/or an inflatable Unicorn. Timings shown here are just for the first location. 
 
 Starting at the Juniper Tree, 25 Grange road Darlington DL1 5NA, a short walk from the market Square and One Bar, then moving on from there.
 
