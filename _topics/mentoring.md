@@ -32,13 +32,17 @@ show-archive: false
 {% endif %}
 
 {% if registration == "open" %}
-The next cohort of the Civil Service LGBT+ mentoring programme will open for registrations from {{ registration-open | date: "%-d %B %Y" }} until {{ registration-close | date: "%-d %B %Y" }}. If you miss the registration deadline, you won't be able to take part and you'll have to wait until the next round of the programme in 2025.
+The next cohort of the Civil Service LGBT+ mentoring programme is open for registrations from {{ registration-open | date: "%-d %B %Y" }} until {{ registration-close | date: "%-d %B %Y" }}. 
 
-Registration is currently open.
+If you miss the registration deadline, you won't be able to take part and you'll have to wait until the next round of the programme in 2025.
+
+**Registration is currently open.**
 
 <a href="/mentoring/register" title="Visit the mentee registration page" class="button button--action">Register for the programme</a>
 {% else %}
-The next cohort of the Civil Service LGBT+ mentoring programme will open for registrations from {{ registration-open | date: "%-d %B %Y" }} until {{ registration-close | date: "%-d %B %Y" }}. If you miss the registration deadline, you won't be able to take part and you'll have to wait until the next round of the programme in 2025.
+The next cohort of the Civil Service LGBT+ mentoring programme is open for registrations from {{ registration-open | date: "%-d %B %Y" }} until {{ registration-close | date: "%-d %B %Y" }}. 
+
+If you miss the registration deadline, you won't be able to take part and you'll have to wait until the next round of the programme in 2025.
 
 **Registration is currently closed.**
 {% endif %}
