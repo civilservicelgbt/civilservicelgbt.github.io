@@ -1,6 +1,6 @@
 ---
 layout: event
-title: CS LGBT+ Social Pre-Meet - London - February 2024
+title: CS LGBT+ Social Pre-Meet - London - March 2024
 excerpt: Join like minded civil servants for this London social pre-meet.
 date: 2024-01-23T07:33:22.226Z
 event:
