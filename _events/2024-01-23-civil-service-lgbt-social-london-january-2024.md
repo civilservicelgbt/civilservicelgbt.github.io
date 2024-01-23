@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ Social – London – January 2024
+title: Civil Service LGBT+ Social – London – February 2024
 excerpt: Join our regular social and networking event for LGBT+ civil servants
   based in and around London.
 date: 2024-01-23T07:37:59.655Z
