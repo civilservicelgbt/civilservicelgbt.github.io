@@ -14,7 +14,7 @@ event:
 category:
   - south-west
 ---
-P﻿lease join like minded Civil Servants at the Phoenix on the second Thursday of the month. T﻿his is now being advertised for the rest of 2023 with the hope of running this successfully into 2024 too. 
+P﻿lease join like minded Civil Servants on the second Thursday of the month for our social. Dates are starting to be advertised for 2024. We have changed venues to start the year off, please check where we are hosting this event each month.
 
 B﻿ristol Pride 2023 was a great success for our Networks and this will give us a lovely opportunity to keep in touch and create a safe and inclusive social environment.
 
