@@ -18,4 +18,4 @@ The London LGBT+ team would love to invite you to join them at the pre-meet befo
 
 At least one of the team will be there from 6pm at Coffee by Real Eating Co (442 Strand, WC2R 0QU). This is a small coffee shop opposite the Charing Cross rail station. We will have a coffee/tea and a chat before heading over to Retro Bar, the larger social venue, at 7pm to meet up with other colleagues. 
 
-As the café is small, there may not always be a table free when we arrive. As such, please send us an email to let us know you intend to join us (by 6pm on the day) so we can move to an alternative venue if needed nearby – [london@civilservice.lgbt](mailto:london@civilservice.lgbt) .
+As the café is small, there may not always be a table free when we arrive. As such, please send us an email to let us know you intend to join us (by 6pm on the day) so we can move to an alternative venue if needed nearby – [london@civilservice.lgbt](mailto:london@civilservice.lgbt)
