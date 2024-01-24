@@ -6,9 +6,9 @@ excerpt: Join like minded Civil Servants for a coffee social at the cafe at
 date: 2024-01-23T16:07:15.401Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-03-13T13:30:00.000Z
-  end: 2024-03-13T14:30:00.000Z
-  deadline: 2024-03-13T12:30:00.000Z
+  start: 2024-03-20T13:30:00.000Z
+  end: 2024-03-20T14:30:00.000Z
+  deadline: 2024-03-20T12:30:00.000Z
   location: Cutler’s Café  7-8 Wellington Place
   email: yorkshireandhumber@civilservice.lgbt
   no-register: Registration is not mandatory
