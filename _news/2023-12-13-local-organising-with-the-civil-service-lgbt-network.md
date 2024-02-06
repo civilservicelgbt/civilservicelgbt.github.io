@@ -6,6 +6,13 @@ excerpt: >
   organisers?
 date: 2023-12-13T11:14:54.173Z
 author: Vice Chair for Regions and Nations
+category:
+  - north-east
+  - north-west
+  - scotland
+  - south-east
+  - south-west
+  - wales
 ---
 Are you looking for an exciting opportunity to help the Civil Service LGBT+ Network? Do you want to help organise local events, socials, sports, activities, trips with likeminded Civil Servants?
 
@@ -17,7 +24,7 @@ A﻿ local organiser is an important part of our community, they organise social
 
 W﻿e are looking for additional support with our Local Organising in some specific regions, if your region is not listed though and you would like to get involved please do get in touch. 
 
-S﻿pecific locations include; Northern Ireland, North East, Scotland, Wales
+S﻿pecific locations include; North East, Blackpool/Preston, Scotland, South East, South West and Wales.
 
 Certain regions also have channels of informal communications, Local Organisers have the ability to reach out to members and advertise events/items directly to them. Some regions don’t have this yet, but you might like to set this up and run with monthly comms. For more information on Google Groups, check out the [Groups Page](https://www.civilservice.lgbt/groups/).
 
