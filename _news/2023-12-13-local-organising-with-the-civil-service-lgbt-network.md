@@ -4,7 +4,7 @@ title: "Local Organising with the Civil Service LGBT+ Network "
 excerpt: >
   Do you want to be part of the Civil Service LGBT+ Network team of local
   organisers?
-date: 2023-12-13T11:14:54.173Z
+date: 2024-02-06T09:19:57.110Z
 author: Vice Chair for Regions and Nations
 category:
   - north-east
