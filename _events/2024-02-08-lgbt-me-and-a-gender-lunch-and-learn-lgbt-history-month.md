@@ -16,6 +16,10 @@ event:
   end: 2024-02-08T12:00:11.265Z
   deadline: 2024-02-29T12:00:11.274Z
   location: MS Teams
+  no-register: "Please register by sending an email to
+    vice-chair-ethnic-minority-inclusion@civilservice.lgbt "
+  email: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
+  link: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
 ---
 <!--\[if gte mso 9]><xml>
  <w:WordDocument>
