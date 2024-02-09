@@ -12,8 +12,8 @@ excerpt: >-
 date: 2024-02-08T10:23:11.235Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-02-29T12:00:11.253Z
-  end: 2024-02-08T12:00:11.265Z
+  start: 2024-02-29T13:00:11.253Z
+  end: 2024-02-08T14:00:11.265Z
   deadline: 2024-02-29T12:00:11.274Z
   location: MS Teams
   no-register: "Please register by sending an email to
