@@ -208,4 +208,4 @@ If you didn’t, that’s OK. You can try again next time.
 
 And you’ll still have had between 30 and 90 minutes of speed mentoring to learn from!
 
-That’s the end of the mentoring programme process, and this video. More information if available on our website.
+That’s the end of the mentoring programme process, and this video. More information is available on our website.
