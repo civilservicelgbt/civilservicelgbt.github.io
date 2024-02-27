@@ -15,8 +15,6 @@ breadcrumbs:
   url: /topics
 - title: "Mentoring"
   url: /mentoring
-redirect_from:
-- /news/2024/03/01/mentoring-programme-register-deadline-extended/
 ---
 {% assign now = site.time | date: "%s" %}
 {% assign mentoring = site.data.mentoring %}
