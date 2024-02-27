@@ -11,7 +11,7 @@ event:
   start: 2024-03-28T16:30:00.000Z
   end: ""
   deadline: 2024-03-28T12:00:00.000Z
-  email: mailto:Bethan.Cable@gov.wales
+  email: Bethan.Cable@gov.wales
   no-register: "So that we can keep track of numbers, please let us know if you
     plan to attend. "
   location: Mrs Potts Chocolate House, St Mary Street. Moving on to Mary’s bar
