@@ -37,7 +37,9 @@ Registrations for the third round of the Civil Service LGBT+ Network's [award-wi
 
 > ## Registrations are currently open
 >
-> You can now register to take part in the 2024 Civil Service LGBT+ mentoring programme. Check [our mentoring topic page](/mentoring) for more information.
+> Registrations are open from {{ registration-open | date: "%-d %B %Y" }} until {{ registration-close | date: "%-d %B %Y" }}. If you miss the registration deadline, you won't be able to take part and you'll have to wait until the next round of the programme in 2025.
+>
+> <a href="/mentoring/register" title="Visit the mentee registration page" class="button button--action">Register for the programme</a>
 
 {% else %}
 
