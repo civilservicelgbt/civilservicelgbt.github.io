@@ -3,7 +3,7 @@ layout: publication
 author: Civil Service LGBT+ Network
 date: '2024-02-27'
 category: ["mentoring"]
-title: "Civil Service LGBT+ mentoring programme: Induction"
+title: "Civil Service LGBT+ mentoring programme: induction"
 permalink: /publication/mentoring-induction
 excerpt: "This document includes videos and transcripts of induction materials for the Civil Service LGBT+ mentoring programme."
 breadcrumbs-override: true
@@ -19,10 +19,9 @@ breadcrumbs:
 
 ## Publication description
 
-This document includes videos and transcripts of induction materials for the Civil Service LGBT+ mentoring programme.
+This document includes videos and transcripts of induction materials for the Civil Service LGBT+ mentoring programme. Watch these videos or read the transcripts if you are considering participating in the mentoring programme to learn how it works and how to make the most of it.
 
-More detailed information is available on our website:
-
+More detailed, written information is available on our website:
 
 - [About the programme](/mentoring/about-the-programme)
 - [Advice and resources for mentees](/publication/resources-for-mentees)
