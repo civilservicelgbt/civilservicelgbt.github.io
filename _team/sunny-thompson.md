@@ -4,7 +4,7 @@ person-name: Sunny Thompson
 role: vice chair
 email: sunny.thompson@civilservice.lgbt
 project: Bi+ inclusion
-archive: "false"
+archive: "true"
 image: /assets/images/uploads/team/sunny-thompson.jpeg
 ---
 
