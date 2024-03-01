@@ -44,8 +44,9 @@ As a mentee, you'll be asked to:
 
 As a mentee, you can expect to:
 
-1. be offered a short induction session for new mentees
-2. receive published guidance on how to maximise your role as a mentee
+1. receive up to 90 minutes of speed mentoring
+2. work with a long-term mentor after your speed mentoring for up to a year
+3. receive guidance on how to maximise your role as a mentee
 
 ### Taking part as a mentor
 
@@ -59,20 +60,21 @@ As a mentor, you'll be asked to:
 As a mentor, you can expect to:
 
 1. be matched with someone one or two grades more junior to you
-2. be offered a short induction session for new mentors
-3. receive published guidance on how to maximise your role as a mentor
-4. have the chance to join a network of other mentors who you can speak to for advice too
+2. receive guidance on how to maximise your role as a mentor
+3. have the chance to join a network of other mentors who you can speak to for advice too
 
 ### Check you're eligible to take part
 
 In order to join the programme – either as a mentee or mentor – you must:
 
 1. **be a LGBT+**: you must have a minority sexual orientation, gender identity or expression, or variation in sex characteristics
-2. **be a civil servant**: you must be an employee of the UK Civil Service, Civil Service in Northern Ireland, Scotland or Wales – a contractor and interim staff **cannot** take part in this programme
+2. **be a civil servant**: you must be an employee of the UK Civil Service, Civil Service in Northern Ireland, Scotland or Wales – contractors and interim staff **cannot** take part in this programme
 
 ### Need more information?
 
 We've published detailed information about what's involved in our ['about the programme' guide](/mentoring/about-the-programme), and in our guides for [mentors](/publication/resources-for-mentors) and [mentees](/publication/resources-for-mentees).
+
+We've also created some [short videos to induct you to the programme](/publication/mentoring-induction/).
 
 ## Register to take part
 
