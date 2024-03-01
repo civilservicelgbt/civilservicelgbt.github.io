@@ -74,7 +74,7 @@ In order to join the programme – either as a mentee or mentor – you must:
 
 We've published detailed information about what's involved in our ['about the programme' guide](/mentoring/about-the-programme), and in our guides for [mentors](/publication/resources-for-mentors) and [mentees](/publication/resources-for-mentees).
 
-We've also created some [short videos to induct you to the programme](/publication/mentoring-induction/).
+We've also created some [short videos to induct you to the programme](/publication/mentoring-induction).
 
 ## Register to take part
 
