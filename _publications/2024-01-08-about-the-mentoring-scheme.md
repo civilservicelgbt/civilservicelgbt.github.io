@@ -215,5 +215,6 @@ We have produced the following resources for those participating in the programm
 - [Advice, guidance and resources for mentees](/publication/resources-for-mentees)
 - [Advice, guidance and resources for mentors](/publication/resources-for-mentors)
 - [Code of Conduct for mentees and mentors](/publication/mentoring-code-of-conduct)
+- [Induction videos](/publication/mentoring-induction)
 
 These resources will be updated regularly throughout the programme.
