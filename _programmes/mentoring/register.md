@@ -40,7 +40,7 @@ Use this form to register to take part in the Civil Service LGBT+ mentoring prog
 
 ## Before you register
 
-Before you register, you should read [our guidance documents](https://www.civilservice.lgbt/publication/about-our-mentoring-programme) so you know what to expect on the programme.
+Before you register, you should read [our guidance documents](https://www.civilservice.lgbt/publication/about-our-mentoring-programme) so you know what to expect on the programme. We've also created a series of short [induction videos](/publication/mentoring-induction) to explain how the programme works.
 
 If the guidance doesn't answer your question, you can also email us at [mentoring@civilservice.lgbt](mailto:mentoring@civilservice.lgbt).
 
