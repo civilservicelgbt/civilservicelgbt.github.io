@@ -6,9 +6,9 @@ excerpt: Join the Civil Service LGBT+ Network for this social event. Open to
 date: 2024-03-04T15:55:48.515Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-03-04T15:55:48.532Z
+  start: 2024-04-05T19:00:48.532Z
   end: ""
-  deadline: 2024-03-04T15:55:48.553Z
+  deadline: 2024-03-27T18:00:48.553Z
   location: Rudy’s Pizza – Leeds (2 New Station St, Leeds LS1 5DL)
   no-register: Registration is mandatory
   email: yorkshireandhumber@civilservice.lgbt
