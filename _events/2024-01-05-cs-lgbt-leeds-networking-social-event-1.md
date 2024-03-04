@@ -1,12 +1,12 @@
 ---
 layout: event
-title: CS LGBT+ Leeds –  Networking Social Event
+title: CS LGBT+ Leeds –  Pre-Social Event
 excerpt: Join like minded Civil Servants for this networking social event in Leeds.
 date: 2024-01-05T16:20:39.539Z
 event:
   host: Civil Service LGBT+ Network
   start: 2024-04-05T17:00:00.000Z
-  end: ""
+  end: 2024-04-05T18:30:00.000Z
   deadline: 2024-04-05T15:00:00.000Z
   location: Queen’s Court, Leeds LS1 6LY  (subject to change, please check for
     regular updates)
@@ -18,6 +18,8 @@ category:
 The Civil Service LGBT+ Network host a number of events throughout the year. 
 
 Our Leeds Social takes place on every first Friday bi-monthly (Feb, April, June, August, October, & December) so why not join us!  Starting from 5pm - Late, stop by for a drink, bite to eat or even just a chat with likeminded colleagues
+
+J﻿oin us for this pre-social event for a drink and a chat, before heading off to our [Pizza and Social Event](https://www.civilservice.lgbt/event/2024-03-04-cs-lgbt-leeds-pizza-and-social) (Please note that you will need to register for this event)
 
 If you are new to the network or it’s your first event by all means reach out to the Local Organisers via email: [Yorkshireandhumber@civilservice.lgbt](mailto:Yorkshireandhumber@civilservice.lgbt)
 
