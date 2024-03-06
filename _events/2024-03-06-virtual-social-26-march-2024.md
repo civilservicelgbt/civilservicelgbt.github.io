@@ -9,6 +9,7 @@ event:
   end: 2024-03-26T18:00:17.496Z
   deadline: 2024-03-26T16:00:17.534Z
   location: Online (MS Teams)
+  email: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
 ---
 You are cordially invited to join us for our virtual social in March 2024
 
