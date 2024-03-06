@@ -2,7 +2,7 @@
 layout: event
 title: Virtual Social - 26 March 2024
 excerpt: You are cordially invited to join us for our virtual social in March 2024
-date: 2024-03-26T17:00:17.410Z
+date: 2024-03-06T10:14:03.329Z
 event:
   host: Civil Service LGBT+ (ME) Network
   start: 2024-03-26T17:00:17.457Z
