@@ -12,10 +12,8 @@ event:
   location: "TBC "
   email: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
 ---
-You're cordially invited to join us for a delightful Spring social gathering on 30th May 2024. After what feels like an eternity, it's time to come together and celebrate in person! Join us for a heart-warming gathering.
+You're cordially invited to join us for a delightful Spring social gathering on 30th May 2024. After what feels like an eternity, it's time to come together and celebrate in person for a heart-warming gathering. 
 
-W﻿e'll confirm the venue closer to the time - we're keen to meet somewhere than a pub/bar, so we'll keep you posted!
-
-Connect face to face with fellow members of the CS LGBT+ Network ethnic minority community and allies. 
+W﻿e'll confirm the venue closer to the time - we're keen to meet somewhere other than a pub / bar. Come along and connect face to face with fellow members of the CS LGBT+ Network ethnic minority community and allies. 
 
 S﻿ee you there!
