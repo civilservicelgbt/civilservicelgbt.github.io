@@ -19,7 +19,7 @@ event:
 category:
   - wales
 ---
-The Civil Service LGBT+ Network host a number of events throughout the year. This event is being held in partnership with the Welsh Government LGBTI+ Network, PRISM. So why don’t you join fellow Civil Servants on Thursday 29 February for one of our regular monthly socials?
+The Civil Service LGBT+ Network host a number of events throughout the year. This event is being held in partnership with the Welsh Government LGBTI+ Network, PRISM. So why don’t you join your fellow Civil Servants on Thursday 28 March for one of our regular monthly socials?
 
 LGBTQ+ civil servants from both the Welsh and UK Governments are all welcome to join us (as well as our Scottish and Irish colleagues, should you happen to be visiting.) Please also feel free to bring along your supportive partners, family and friends!
 
