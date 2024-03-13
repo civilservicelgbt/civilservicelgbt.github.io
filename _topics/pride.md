@@ -1,16 +1,17 @@
 ---
 layout: topic
-title: Pride 2023
+title: Pride 2024
 excerpt: >-
-  Everything you need to know about Civil Service Pride 2023. Our focus this
-  year was looking at the Nations Capitals and Manchester. For ease though all
-  prides the Civil Service will be attending are listed below.
+  Everything you need to know about Civil Service Pride 2024. 
 
 
-  Registration is now open.
+  We are hopeful that we will be able to support attendance at pride events in 2024 this year, we are hoping that we will be able to support some of the most popular larger prides as well as a strong selection of free grassroots prides. 
+
+
+  More details will be published on the events by the middle of April 2024. At this point registration to parade with us will also open. 
 permalink: /topic/pride
 date: 2022-02-01T00:00:00.000Z
-category: pride-2023
+category: pride-2024
 image: /assets/images/uploads/pages/pride.png
 background: magenta
 redirect_from:
