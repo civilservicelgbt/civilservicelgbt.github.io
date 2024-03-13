@@ -6,4 +6,5 @@ excerpt: Everything you need to know about Civil Service Pride 2024.
 category: pride-2024
 image: /assets/images/uploads/cs-pride-t-shirt.png
 background: magenta
+redirect_from: topics
 ---
