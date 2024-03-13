@@ -5,8 +5,7 @@ excerpt: "Apply to march with the Civil Service at pride in 2023. Applications
   are open. "
 date: 2023-04-19T07:43:16.486Z
 author: Vice Chairs for Regions & Nations
-category:
-  - pride-2023
+category: []
 ---
 This year’s pride applications are now live. The one form can be used to apply to join us at all of the pride parades, all pride events are listed on the '[Pride 2023](https://www.civilservice.lgbt/topic/pride)' page. Find the form in any of the pride events on our website. 
 
