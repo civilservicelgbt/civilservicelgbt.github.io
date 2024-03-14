@@ -7,4 +7,8 @@ excerpt: For all Pride 2024 news please check back here soon. Publicised events
 category: pride-2024
 image: /assets/images/uploads/pride-1-.png
 background: magenta
+redirect_from: List [ "/pride/", "/prideon/", "/pride-on/", "/pride-2021/",
+  "/pride-2022/", "/pride-2023/", "/topic/pride/", "/topic/prideon/",
+  "/topic/pride-on/", "/topic/pride-2021/", "/topic/pride-2022/",
+  "/topic/pride-2023/", "/topic/pride-2024/" ]
 ---
