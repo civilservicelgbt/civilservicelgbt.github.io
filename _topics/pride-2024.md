@@ -7,5 +7,5 @@ excerpt: "Everything you need to know about Civil Service Pride 2024. -- More
 category: pride-2024
 image: /assets/images/uploads/pride-1-.png
 background: magenta
-redirect_from: topics
+redirect_from: ""
 ---
