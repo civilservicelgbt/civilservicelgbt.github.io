@@ -6,9 +6,9 @@ excerpt: Join fellow Civil Servants for our regular monthly weekday social in
 date: 2024-03-04T09:20:36.757Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-04-02T17:00:36.768Z
+  start: 2024-04-04T17:00:36.768Z
   end: ""
-  deadline: 2024-04-02T12:00:00.000Z
+  deadline: 2024-04-04T12:00:00.000Z
   no-register: Registration is not mandatory
   email: northwest@civilservice.lgbt
   location: Tempest On Tithebarn, 12 Tithebarn St, Liverpool, L2 2DT
