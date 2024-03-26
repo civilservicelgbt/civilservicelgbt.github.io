@@ -1,8 +1,8 @@
 ---
 layout: news
 title: "2024 LGBT+ mentoring programme: deadline extended"
-excerpt: "Registrations will close on 5 April 2024. Don't miss out."
-date: 2024-03-01
+excerpt: "Registrations will now close on 5 April 2024. Don't miss out."
+date: 2024-03-26
 author: John Peart
 image: /assets/images/uploads/mentoring-scheme/give-a-boost-get-a-boost.png
 image-alt: "Give them a boost. Become an LGBT+ mentor. Get a boost back. Become an LGBT+ mentee."
@@ -29,6 +29,8 @@ breadcrumbs:
 {% endif %}
 
 **We have extended the registration deadline for the 2024 Civil Service LGBT+ mentoring programme for one more week.** This is your last chance to register, or you will not be able to take part in this year's programme. Registrations will close on {{ registration-close | date: "%-d %B %Y" }}, and matching will happen shortly after that.
+
+Join the 300 mentors and 500 mentees that have already registered to take part in the programme, and sign up before it's too late!
 
 ### Need more information?
 
