@@ -47,7 +47,7 @@
   url: "/mentoring/"
   dates:
   - start: 2024-03-01
-    end: 2024-03-30
+    end: 2024-03-25
   background: yellow
 
 - title: "Deadline extended."
@@ -55,6 +55,6 @@
   link-title: "Sign up now."
   url: "/mentoring/"
   dates:
-  - start: 2024-03-31
+  - start: 2024-03-26
     end: 2024-04-05
   background: yellow
