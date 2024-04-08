@@ -8,7 +8,7 @@ event:
   host: Civil Service LGBT+ (ME) Network
   start: 2024-04-24T17:00:17.638Z
   end: 2024-04-25T18:00:17.647Z
-  deadline: 2024-05-30T15:59:17.655Z
+  deadline: 2024-04-25T16:59:17.655Z
   location: MS Teams
   email: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
 ---
