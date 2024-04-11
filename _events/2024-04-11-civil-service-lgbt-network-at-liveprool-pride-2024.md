@@ -11,7 +11,7 @@ event:
   deadline: 2024-07-17T12:00:07.841Z
   link: https://forms.gle/Jo594SFMEYfwdKSK7
   no-register: Please register through the Google form
-  location: Liveprool
+  location: Liverpool
 category:
   - pride-2024
   - north-west
