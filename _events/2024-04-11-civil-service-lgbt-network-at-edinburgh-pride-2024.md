@@ -14,7 +14,7 @@ event:
   location: "Edinburgh "
 category:
   - pride-2024
-  - yorkshire-and-humber
+  - scotland
 ---
 The Civil Service LGBT+ Network are planning on attending and parading at this location.
 
