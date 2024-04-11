@@ -1,9 +1,9 @@
 ---
 layout: topic
 title: Pride 2024
-date: 2024-03-14T09:17:42.762Z
-excerpt: For all Pride 2024 news please check back here soon. Publicised events
-  will be shown from mid-April.
+date: 2024-04-11T07:34:13.790Z
+excerpt: "Pride 2024 activity is now live. Please apply using the form in the
+  events with your appropriate email address. "
 category: pride-2024
 image: /assets/images/uploads/pride-1-.png
 background: magenta
