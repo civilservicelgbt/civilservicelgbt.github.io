@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ Network at Durham Pride
+title: Civil Service LGBT+ Network at Durham Pride 2024
 excerpt: Join the Civil Service LGBT+ Network at Durham Pride. Please sign up
   with the form in the body of the event.
 date: 2024-04-11T08:26:02.203Z
