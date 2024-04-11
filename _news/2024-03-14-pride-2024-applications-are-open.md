@@ -3,7 +3,7 @@ layout: news
 title: Pride 2024 Applications are Open
 excerpt: "Apply to march with the Civil Service at pride in 2024. Applications
   are open. "
-date: 2024-03-14T09:53:48.898Z
+date: 2024-04-11T07:55:45.621Z
 author: Vice Chair for Regions & Nations
 category:
   - pride-2024
