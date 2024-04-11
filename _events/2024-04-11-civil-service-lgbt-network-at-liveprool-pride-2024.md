@@ -1,7 +1,7 @@
 ---
 layout: event
-title: Civil Service LGBT+ Network at Liveprool Pride 2024
-excerpt: Join the Civil Service LGBT+ Network at Liveprool Pride. Please sign up
+title: Civil Service LGBT+ Network at Liverpool Pride 2024
+excerpt: Join the Civil Service LGBT+ Network at Liverpool Pride. Please sign up
   with the form in the body of the event.
 date: 2024-04-11T10:34:07.799Z
 event:
