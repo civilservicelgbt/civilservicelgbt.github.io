@@ -3,7 +3,7 @@ layout: news
 title: Pride 2024 - Where will we see you?
 excerpt: Please see the list of pride events being supported by Civil Service
   LGBT+ Network this year.
-date: 2024-03-14T10:01:30.656Z
+date: 2024-04-11T07:56:30.577Z
 author: Vice Chairs for Regions & Nations
 category:
   - pride-2024
