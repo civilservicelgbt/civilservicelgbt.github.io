@@ -16,4 +16,4 @@ F﻿or all balloted Prides notification will be given 6 weeks from the event if 
 
 F﻿or any of the pride events you register for, please ensure you let your local organiser know if you are no longer going to attend, this helps us all plan for the day.
 
-Full details will be added to all pride event pages in due course. If you have any questions, please do get in touch with your '[Local Organisers](https://www.civilservice.lgbt/team/)'. If you or your local Civil Service Department Networks are organising something for pride and would like it advertised wider, then please do get in touch with [vice-chair-regions@civilservice.lgbt](mailto:vice-chair-regions@civilservice.lgbt).
+Full details will be added to all pride event pages in due course. If you have any questions, please do get in touch with your '[Local Organisers](https://www.civilservice.lgbt/team/)'. If you or your local Civil Service Department Networks are organising something for pride and would like it advertised wider, then please do get in touch with [pride2024@civilservice.lgbt](pride2024@civilservice.lgbt).
