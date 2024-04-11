@@ -15,7 +15,7 @@ event:
   location: "Leeds "
 category:
   - pride-2024
-  - north-east
+  - yorkshire-and-humber
 ---
 The Civil Service LGBT+ Network are planning on attending and parading at this location.
 
