@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: Pride 2024
-date: 2024-04-11T12:00:42.762Z
+date: 2024-04-11T07:34:13.790Z
 excerpt: "Pride 2024 activity is now live. Please apply using the form in the
   events with your appropriate email address. "
 category: pride-2024
