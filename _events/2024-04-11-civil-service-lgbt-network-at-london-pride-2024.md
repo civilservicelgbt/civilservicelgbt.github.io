@@ -13,7 +13,7 @@ event:
   link: https://forms.gle/Jo594SFMEYfwdKSK7
   location: "London "
 category:
-  - prdie-2024
+  - pride-2024
   - london
 ---
 The Civil Service LGBT+ Network are planning on attending and parading at this location.
