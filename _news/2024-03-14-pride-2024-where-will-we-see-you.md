@@ -38,6 +38,8 @@ W﻿here will we see you this year? Staying local to your area or travelling it 
 
 10/08/2024 -- Darlington
 
+1﻿0/08/2024 -- Doncaster
+
 24/08/2024 -- Manchester
 
 28/09/2024 -- Middlesbrough
