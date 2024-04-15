@@ -1,9 +1,9 @@
 ---
 layout: event
 title: Civil Service LGBT+ Network at Newcastle Pride 2024
-excerpt: >
-  Join the Civil Service LGBT+ Network at Newcastle Pride. Please sign up with
-  the form in the body of the event.
+excerpt: Join the CS LGBT+ Network alongside other like-minded Civil Servants at
+  Northern Pride Newcastle.  At this event we will be taking part in the
+  Saturday Parade Only
 date: 2024-04-11T10:22:52.110Z
 event:
   host: Civil Service LGBT+ Network
@@ -12,19 +12,19 @@ event:
   deadline: 2024-07-10T12:00:52.136Z
   link: https://forms.gle/Jo594SFMEYfwdKSK7
   no-register: Please register through the Google form
-  location: Newcastle
+  location: Newcastle Council Civic Centre/Five Swans
 category:
   - pride-2024
   - north-east
 ---
-The Civil Service LGBT+ Network are planning on attending and parading at this location.
+The CS LGBT+ Network are running a number of events for pride this year, all events can be found at this [topic page](https://www.civilservice.lgbt/pride-2024/). You can sign up to this and all other events by the form on this page.
 
-As I am sure you can appreciate organising such participation takes time and our final plans for the day are not yet finalised. Please check back here closer to the date for details. Start time for this event have all been put at 1100, this is only a holding time and is highly likely to change. 
+About Northern Pride           
 
-Please sign up to join us at this event through the link above, the same form is being used to sign up to all parades and events, so only needs to be filled in once. If you are having trouble accessing this form please email - [pride2024@civilservice.lgbt](mailto:pride2024@civilservice.lgbt). Please also email this address or your local organisers if you are no longer able to attend an event, but have signed up.
+**Theme is unapologetically visible**
 
-As with previous years we will be able to supply a wonderfully charming pink Civil Service LGBT+ Network t-shirt, we are, this year more than ever, asking you to reuse a t-shirt you might have from the previous year, this both helps with financially and by helping the network be more sustainable. 
+Saturday 20 July - Parade commences 1200 hrs at the Civic Centre meanders round the town and returns to the Civic Centre, Main Event 2pm to 11pm Central Park Times Square NE1 4EP with Whigfield, Kelly Llorenna, Queerdo, Little Fix etc
 
-Closer to the event please remember to keep an eye out in your emails with regards to more localised communications from your local organisers or the central team. This may include instructions on where to collect t-shirts from, asking you to reconfirm your place if this is a balloted parade or something else.
+If you have any direct questions about this event, please email northeast@civilservice.lgbt.
 
-Please remember that you will be representing the Civil Service LGBT+ Network and therefore the Civil Service at these events and must adhere to the Civil Service Code.
+Further details can be obtained from – [www.northern-pride.com](http://www.northern-pride.com/)
