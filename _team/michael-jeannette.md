@@ -6,9 +6,12 @@ project: Bi+ inclusion
 archive: "false"
 permalink: /team/michael-jeannette
 title: Michael Jeannette
-image: /assets/images/uploads/team/michael-jeannette.jpg
+image: /assets/images/uploads/mj.jpeg
 ---
+Hello! I’m Michael, Vice chair of the BiSpace.
 
-In my day to day I am a Senior Policy Advisor, leading on Northern Ireland Governance within DEFRA. I am responsible for ensuring DEFRA’s interests are represented in EU working groups and committees along with meeting reporting requirements. I have worked in the Civil Service for 10 years, starting my career as an Assistant Officer then promoted to Compliance Officer within HMRC and later as a Case Manager within DWP. I have always been passionate on creating a more welcoming and inclusive working environment. This led me to becoming actively involved as a PCS Trade Union Representative across the Civil Service.
+Currently, I am a Senior Delivery Advisor within Defra leading on movements of plants, seeds potatoes and used agricultural machinery as part of the Windsor Framework. I have been a Civil Servant since 2012, working across various roles and professions within HMRC, Insolvency Service, DWP, and now Defra.
 
-As a bi man, I have always been aware of the preconceptions and stereotypes of the Bi community. I feel it’s important to work together on making changes both inside and outside the Civil Service.  I look forward to working with other like-minded individuals and making that difference. 
+As a Bi man, I am aware of the misconceptions, stereotypes, uncomfortable conversations, and erasure regarding Bisexuality. I am dedicated to making change within the Civil Service to create a positive and safe working environment for LGBT+ staff, especially for those that are Bisexual, Pansexual, Asexual and Aromantic 
+
+In my spare time, you will find me powerlifting, watching anime, playing video games, and attempting (poorly) to do graphic design and drawing.
