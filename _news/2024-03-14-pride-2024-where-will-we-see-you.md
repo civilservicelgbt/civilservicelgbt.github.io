@@ -36,6 +36,8 @@ W﻿here will we see you this year? Staying local to your area or travelling it 
 
 27/07/2024 -- Liverpool
 
+2﻿7/07/2024 -- Nottingham
+
 10/08/2024 -- Darlington
 
 1﻿0/08/2024 -- Doncaster
