@@ -38,6 +38,8 @@ W﻿here will we see you this year? Staying local to your area or travelling it 
 
 2﻿7/07/2024 -- Nottingham
 
+2﻿7/07/2024 -- Stockton-on-Tees
+
 10/08/2024 -- Darlington
 
 1﻿0/08/2024 -- Doncaster
