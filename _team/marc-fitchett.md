@@ -2,7 +2,7 @@
 layout: team
 person-name: Marc Fitchett
 role: local organiser
-email: marc.fitchett@civilservice.lgbt
+email: scotland@civilservice.lgbt
 project: Local organiser
 region: Scotland
 archive: "false"
