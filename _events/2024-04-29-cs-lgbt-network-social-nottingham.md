@@ -1,7 +1,7 @@
 ---
 layout: event
-title: "CS LGBT+ Network Social – Nottingham "
-excerpt: Join fellow Civil Servants for a social this May. This is open to all
+title: CS LGBT+ Network Social – Nottingham - History Walk
+excerpt: Join fellow Civil Servants for a social this June. This is open to all
   Civil Servants in the LGBT+ Network and their supportive family & friends
 date: 2024-04-29T12:11:01.150Z
 event:
