@@ -12,6 +12,8 @@ W﻿here will we see you this year? Staying local to your area or travelling it 
 
 26/05/2024 -- Durham
 
+01/06/2024 -- Sheffield
+
 01/06/2024 -- York
 
 08/06/2024 -- Canterbury
@@ -19,8 +21,6 @@ W﻿here will we see you this year? Staying local to your area or travelling it 
 22/06/2024 -- Cardiff
 
 22/06/2024 -- Edinburgh
-
-22/06/2024 -- Sheffield
 
 29/06/2024 -- London
 
