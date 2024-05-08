@@ -6,7 +6,7 @@ excerpt: Join the Civil Service LGBT+ Network at Doncaster Pride. Please sign up
 date: 2024-04-12T07:01:28.650Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-08-10T11:00:00.000Z
+  start: 2024-08-10T10:30:00.000Z
   end: ""
   deadline: 2024-07-31T12:00:00.000Z
   location: Doncaster
@@ -18,7 +18,7 @@ category:
 ---
 The Civil Service LGBT+ Network are planning on attending and parading at this location.
 
-As I am sure you can appreciate organising such participation takes time and our final plans for the day are not yet finalised. Please check back here closer to the date for details. Start time for this event have all been put at 1100, this is only a holding time and is highly likely to change. 
+As I am sure you can appreciate organising such participation takes time and our final plans for the day are not yet finalised. Please check back here closer to the date for details. Start time for this event have all been put at 1030, this is the start time of the parade and this event page will be updated with meeting time and location in due course.
 
 Please sign up to join us at this event through the link above, the same form is being used to sign up to all parades and events, so only needs to be filled in once. If you are having trouble accessing this form please email - [pride2024@civilservice.lgbt](mailto:pride2024@civilservice.lgbt). Please also email this address or your local organisers if you are no longer able to attend an event, but have signed up.
 
