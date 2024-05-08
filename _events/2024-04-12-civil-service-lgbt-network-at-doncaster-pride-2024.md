@@ -6,7 +6,7 @@ excerpt: Join the Civil Service LGBT+ Network at Doncaster Pride. Please sign up
 date: 2024-04-12T07:01:28.650Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-08-10T11:00:00.000Z
+  start: 2024-08-10T10:30:00.000Z
   end: ""
   deadline: 2024-07-31T12:00:00.000Z
   location: Doncaster
