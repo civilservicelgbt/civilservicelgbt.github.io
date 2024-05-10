@@ -24,6 +24,8 @@ W﻿here will we see you this year? Staying local to your area or travelling it 
 
 29/06/2024 -- London
 
+2﻿9/06/2024 -- Sunderland
+
 13/07/2024 -- Bristol
 
 20/07/2024 -- Glasgow
