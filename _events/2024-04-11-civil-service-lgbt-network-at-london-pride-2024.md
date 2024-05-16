@@ -16,6 +16,8 @@ category:
   - pride-2024
   - london
 ---
+**The ballot for Pride in London has now taken place. You are still able to register to join the waitlist, this will be on a first come first served basis. The ballot was drawn on 16 May 2024 at 0900.**
+
 The Civil Service LGBT+ Network are planning on attending and parading at this location.
 
 As I am sure you can appreciate organising such participation takes time and our final plans for the day are not yet finalised. Please check back here closer to the date for details. Start time for this event have all been put at 1100, this is only a holding time and is highly likely to change. 
