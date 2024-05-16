@@ -11,19 +11,25 @@ event:
   deadline: 2024-07-17T12:00:07.841Z
   link: https://forms.gle/Jo594SFMEYfwdKSK7
   no-register: Please register through the Google form
-  location: Liverpool
+  location: St Georges Plateau, Liverpool
 category:
   - pride-2024
   - north-west
 ---
-The Civil Service LGBT+ Network are planning on attending and parading at this location.
+T﻿he Civil Service LGBT+ Network will be parading at Liverpool Pride again this summer. 
 
-As I am sure you can appreciate organising such participation takes time and our final plans for the day are not yet finalised. Please check back here closer to the date for details. Start time for this event have all been put at 1100, this is only a holding time and is highly likely to change. 
+A﻿s usual we will muster at St Georges Plateau, we will be recognisable with our pink Civil Service LGBT+ Network t-shirts and banners. We will be given a parade block number, when we know this we will let our entrants know.
+
+T﻿he parade route will take us from the plateau through the centre of town, zig zag-ing through the queer quarter and ending on the Pier Head. 
+
+P﻿lease arrive at the muster point around 1100 o'clock, there will be someone at the plateau from 1030. Please arrive no later than 1130. The parade will start at 1200. If you are late, please keep in touch with your organisers and you will be able to join us late or on the route. 
+
+F﻿ollowing the parade we will gather for a group photo before we then disperse to enjoy the rest of the day at Liverpool Pride. You are more than welcome to stay with the group or do your own thing. 
+
+S﻿ome people that will be parading with us will be going to the Pride Classical event on the waterfront on the Friday - If you would like to meet up with fellow Civil Servants for this event, please get in touch at [pride2024@civilservice.lgbt](mailto:pride2024@civilservice.lgbt)
+
+\-﻿--
 
 Please sign up to join us at this event through the link above, the same form is being used to sign up to all parades and events, so only needs to be filled in once. If you are having trouble accessing this form please email - [pride2024@civilservice.lgbt](mailto:pride2024@civilservice.lgbt). Please also email this address or your local organisers if you are no longer able to attend an event, but have signed up.
-
-As with previous years we will be able to supply a wonderfully charming pink Civil Service LGBT+ Network t-shirt, we are, this year more than ever, asking you to reuse a t-shirt you might have from the previous year, this both helps with financially and by helping the network be more sustainable. 
-
-Closer to the event please remember to keep an eye out in your emails with regards to more localised communications from your local organisers or the central team. This may include instructions on where to collect t-shirts from, asking you to reconfirm your place if this is a balloted parade or something else.
 
 Please remember that you will be representing the Civil Service LGBT+ Network and therefore the Civil Service at these events and must adhere to the Civil Service Code.
