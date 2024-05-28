@@ -23,9 +23,11 @@ Cineworld Cardiff is showing a number of classic queer movies this Pride season 
 
 LGBTQ+ civil servants from both the Welsh and UK Governments are all welcome to join us (as well as our Scottish and Irish colleagues, if you’re in town). Please also feel free to bring along your supportive partners, family and friends!
 
-S﻿creenings that they Network are attending are;
+Pride screening details are below;
 
 * 2024-06-04 19:30 (Death Becomes Her)
 * 2024-06-12 19:30 (PRIDE – Tenth Anniversary Screening)
 * 2024-06-19 19:30 (Priscilla Queen of the Desert – 30th Anniversary Screening)
 * 2024-06-26 19:30 (Carol)
+
+*P﻿lease note that the Network Local Organiser may not be attending, but will be collating names and putting people in touch with each other.*
