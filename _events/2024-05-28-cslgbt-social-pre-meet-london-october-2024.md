@@ -12,7 +12,7 @@ event:
   deadline: 2024-10-03T12:00:00.000Z
   no-register: ""
   email: london@civilservice.lgbt
-  location: Notes Coffee Roasters & Bar, 31 St Martins Lane
+  location: Café in the Crypt, Trafalgar Sq
 category:
   - london
 ---
