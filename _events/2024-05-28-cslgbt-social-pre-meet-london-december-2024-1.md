@@ -1,6 +1,6 @@
 ---
 layout: event
-title: CSLGBT+ Social Pre-Meet - London - December 2024
+title: CSLGBT+ Social Pre-Meet - London - November 2024
 excerpt: The London LGBT+ team would love to invite you to join them at the
   pre-meet before the monthly LGBT+ social at Retro Bar. This event is open to
   everyone who identifies themselves as part of the LGBT+ network.
