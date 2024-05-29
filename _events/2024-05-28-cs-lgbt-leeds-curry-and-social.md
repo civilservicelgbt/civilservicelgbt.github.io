@@ -8,7 +8,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2024-06-14T19:00:04.680Z
   end: ""
-  deadline: 2024-06-03T18:00:00.000Z
+  deadline: 2024-06-07T18:00:00.000Z
   location: Venue tbc (will confirm venue once numbers are known)
   email: yorkshireandhumber@civilservice.lgbt
   no-register: Registration is mandatory
