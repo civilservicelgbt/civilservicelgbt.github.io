@@ -6,7 +6,7 @@ excerpt: Join the Civil Service LGBT+ Network at Sheffield Pride. Please sign up
 date: 2024-04-11T08:50:51.235Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-06-01T12:00:51.244Z
+  start: 2024-06-01T11:45:51.244Z
   end: ""
   deadline: 2024-05-22T12:00:51.259Z
   no-register: Please register through the Google form
