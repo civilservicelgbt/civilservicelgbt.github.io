@@ -7,7 +7,7 @@ excerpt: Join fellow Civil Servants for a brainy way to celebrate Pride with
   family & friends.
 date: 2024-06-11T06:55:04.009Z
 event:
-  host: Civil Service LGBT+ Network
+  host: ""
   start: 2024-06-28T19:30:00.000Z
   end: 2024-06-28T21:30:00.000Z
   deadline: 2024-06-28T19:00:00.000Z
