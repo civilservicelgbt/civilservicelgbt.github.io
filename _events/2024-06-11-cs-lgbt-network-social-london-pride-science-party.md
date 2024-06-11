@@ -14,6 +14,7 @@ event:
   location: 21 Albemarle Street London W1S 4BS
   no-register: Registration is not mandatory
   link: ""
+  email: london@civilservice.lgbt
 category:
   - london
 ---
