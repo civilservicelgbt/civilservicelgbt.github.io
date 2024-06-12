@@ -5,7 +5,7 @@ excerpt: Join fellow Civil Servants for a social this July - This is open to all
   Civil Servants
 date: 2024-06-12T13:00:06.585Z
 event:
-  host: Civil Service LGBT+ Network & Scottish Government LGBT+ Network
+  host: Civil Service LGBT+ Network
   start: 2024-07-11T18:00:06.609Z
   end: ""
   deadline: 2024-07-11T16:00:00.000Z
