@@ -1,8 +1,8 @@
 ---
 layout: event
-title: North Wales Pride Virtual Pre-Social
+title: North Wales Pride Virtual Social
 excerpt: Join colleagues from across the Civil Service as we warm up for North
-  Wales Pride!
+  Wales Pride with a virtual Pre-Pride Social!
 date: 2024-06-18T13:56:44.277Z
 event:
   host: Civil Service LGBT+ Network
