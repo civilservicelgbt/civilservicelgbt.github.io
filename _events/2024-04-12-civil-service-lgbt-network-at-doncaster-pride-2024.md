@@ -16,7 +16,7 @@ category:
   - pride-2024
   - yorkshire-and-humber
 ---
-The Civil Service LGBT+ Network are planning on attending and parading at this location.
+The Civil Service LGBT+ Network are planning on attending and parading at this location,. which is also hosting UK Pride 2024.
 
 As I am sure you can appreciate organising such participation takes time and our final plans for the day are not yet finalised. Please check back here closer to the date for details. Start time for this event have all been put at 1030, this is the start time of the parade and this event page will be updated with meeting time and location in due course.
 
