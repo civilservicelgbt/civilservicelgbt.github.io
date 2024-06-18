@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ Network at Doncaster Pride 2024
+title: Civil Service LGBT+ Network at Doncaster UK Pride 2024
 excerpt: Join the Civil Service LGBT+ Network at Doncaster Pride. Please sign up
   with the form in the body of the event.
 date: 2024-04-12T07:01:28.650Z
