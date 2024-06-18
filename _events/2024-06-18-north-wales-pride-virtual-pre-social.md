@@ -11,7 +11,8 @@ event:
   deadline: 2024-07-18T12:00:44.311Z
   location: MS Teams
   link: https://forms.gle/jVo2ggMt3fRt7GMDA
-  no-register: "chairs@civilservice.lgbt "
+  no-register: ""
+  email: chairs@civilservice.lgbt
 ---
 J﻿oin LGBT+ colleagues and allies from across the Civil Service for our North Wales virtual Pre-Pride social. 
 
