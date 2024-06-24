@@ -23,7 +23,11 @@ About Northern Pride           
 
 **Theme is unapologetically visible**
 
-Saturday 20 July - Parade commences 1200 hrs at the Civic Centre meanders round the town and returns to the Civic Centre, Main Event 2pm to 11pm Central Park Times Square NE1 4EP with Whigfield, Kelly Llorenna, Queerdo, Little Fix etc
+Saturday 20 July - Parade commences 1200 hrs at the Civic Centre meanders round the town and returns to the Civic Centre, Main Event 2pm to 11pm Central Park Times Square NE1 4EP with Whigfield, Kelly Llorenna, Queerdo, Little Fix etc.
+
+**M﻿eeting Point & T-shirt Collection**
+
+P﻿lease note that Martin will be at Five Swans at 1100 to distribute t-shirts. Please arrive before 1130 as the group will need to move to the form up area for 1130. 
 
 If you have any direct questions about this event, please email northeast@civilservice.lgbt.
 
