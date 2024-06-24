@@ -7,19 +7,27 @@ excerpt: >
 date: 2024-04-11T10:09:17.067Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-07-20T11:00:17.076Z
+  start: 2024-07-20T10:30:17.076Z
   end: ""
   deadline: 2024-07-10T12:00:17.096Z
   link: https://forms.gle/Jo594SFMEYfwdKSK7
   no-register: Please register through the Google form
-  location: Glasgow
+  location: St Enoch Subway Station
 category:
   - pride-2024
   - stocland
 ---
 The Civil Service LGBT+ Network are planning on attending and parading at this location.
 
-As I am sure you can appreciate organising such participation takes time and our final plans for the day are not yet finalised. Please check back here closer to the date for details. Start time for this event have all been put at 1100, this is only a holding time and is highly likely to change. 
+Please note there have been changes to the march this year which will be setting off from Festival Park at 12:00, with speeches due to start at 11:30. 
+
+Due to this we will have 2 meeting spots. We will meet outside St Enoch Subway station at 10:30 for those travelling via city centre, we will then take the subway to Cessnock and meet outside the exit to Cessnock station from 11:00 – 11:20 before making our way into Festival Park for 11:30.  
+
+Please note Cessnock subway station is not wheelchair accessible, anyone who this may affect please get in touch with organisers to arrange alternative arrangements. 
+
+Please remember to have a change of top for post parade if you are planning to socialise and drink. We should only be wearing our CS t-shirt for the march/parade only. \
+ \
+Please ensure you wear comfy clothes including shoes given the distance you will be walking. Although it’s the middle of July, please remember this is Scotland and our summer weather isn’t guaranteed, please plan your outfits accordingly.
 
 Please sign up to join us at this event through the link above, the same form is being used to sign up to all parades and events, so only needs to be filled in once. If you are having trouble accessing this form please email - [pride2024@civilservice.lgbt](mailto:pride2024@civilservice.lgbt). Please also email this address or your local organisers if you are no longer able to attend an event, but have signed up.
 
