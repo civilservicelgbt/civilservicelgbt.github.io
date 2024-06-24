@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "CS LGBT+ Network Newcastle Social – Pre-Pride Social "
-excerpt: Meet up with fellow civil servants for April Social night in Newcastle
+excerpt: Meet up with fellow civil servants for June Social night in Newcastle
   on Thursday 27 June. This is open to all Civil Servants in the LGBT+ Network,
   a:gender and their supportive family & friends.
 date: 2024-06-11T07:14:23.897Z
