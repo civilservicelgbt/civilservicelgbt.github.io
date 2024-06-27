@@ -19,7 +19,11 @@ category:
 ---
 The Civil Service LGBT+ Network are planning on attending and parading at this location.
 
-As I am sure you can appreciate organising such participation takes time and our final plans for the day are not yet finalised. Please check back here closer to the date for details. Start time for this event have all been put at 1100, this is only a holding time and is highly likely to change. 
+Stockton Pop up Pride takes place in the town centre, the main stage will be situated in Wellington Square, events will also be held in the Globe Theatre and the Link attached to the Globe, the ARC Arts centre and town centre pubs.  It is hosted in conjunction with Curious Arts the Newcastle based charity championing and developing LGBT+ artists and communities across the North East.
+
+The events are expected to commence from 11.00, details of the timings and activities during the day will be published later these will include arts and crafts, creative workshops, an outdoor stage in Wellington square and an indoor stage in The Link music venue featuring live music, drag and lots more.  There will also be time to talk a safe place for trans members to chat over tea and cake, a pride market and pop-up performances.
+
+Meet up with Martin in the town centre Wellington Square from 11.00.  There's is no parade but a pride walk will be held from the Globe Theatre to Wellington Square, timings TBC.
 
 Please sign up to join us at this event through the link above, the same form is being used to sign up to all parades and events, so only needs to be filled in once. If you are having trouble accessing this form please email - [pride2024@civilservice.lgbt](mailto:pride2024@civilservice.lgbt). Please also email this address or your local organisers if you are no longer able to attend an event, but have signed up.
 
