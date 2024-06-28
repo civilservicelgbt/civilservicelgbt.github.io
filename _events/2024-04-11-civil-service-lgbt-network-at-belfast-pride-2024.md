@@ -7,7 +7,7 @@ excerpt: >
 date: 2024-04-11T10:27:27.237Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-07-27T11:30:27.245Z
+  start: 2024-07-27T10:30:27.245Z
   end: ""
   deadline: 2024-07-17T12:00:27.265Z
   link: https://forms.gle/Jo594SFMEYfwdKSK7
