@@ -9,7 +9,7 @@ event:
   start: 2024-07-27T11:00:18.836Z
   end: ""
   deadline: 2024-07-17T12:00:18.861Z
-  location: Stockton-on-Tees
+  location: Wellington Square, Stockton-on-Tees
   link: https://forms.gle/Jo594SFMEYfwdKSK7
   no-register: Please register through the Google form
 category:
