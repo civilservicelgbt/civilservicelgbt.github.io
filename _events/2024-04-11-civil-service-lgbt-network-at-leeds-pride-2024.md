@@ -12,14 +12,14 @@ event:
   deadline: 2024-07-10T12:00:04.001Z
   link: https://forms.gle/Jo594SFMEYfwdKSK7
   no-register: Please register through the Google form
-  location: "Leeds "
+  location: "The Hedley Verity, Leeds "
 category:
   - pride-2024
   - yorkshire-and-humber
 ---
 The Civil Service LGBT+ Network are planning on attending and parading at this location.
 
-T﻿he parade will set off from Leeds Town Hall at 1200, we must have registered and be in position by 1130 latest. With this in mind we will be gathering at **The Hedly Verity** between 1000 and 1045. Please arrive at the meeting point in a timely manner so that t-shirts can be distributed and a pre-pride briefing can be conducted. If you have restricted mobility please contact the CS LGBT+ Network organisers. 
+T﻿he parade will set off from Leeds Town Hall at 1200, we must have registered and be in position by 1130 latest. With this in mind we will be gathering at **The Hedley Verity** between 1000 and 1045. Please arrive at the meeting point in a timely manner so that t-shirts can be distributed and a pre-pride briefing can be conducted. If you have restricted mobility please contact the CS LGBT+ Network organisers. 
 
 T﻿here is a pre pride t-shirt collection social, details of this can be found here -
 
