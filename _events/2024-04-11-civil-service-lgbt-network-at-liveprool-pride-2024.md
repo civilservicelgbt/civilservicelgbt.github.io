@@ -6,7 +6,7 @@ excerpt: Join the Civil Service LGBT+ Network at Liverpool Pride. Please sign up
 date: 2024-04-11T10:34:07.799Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-07-27T11:00:07.816Z
+  start: 2024-07-27T10:30:07.816Z
   end: ""
   deadline: 2024-07-17T12:00:07.841Z
   link: https://forms.gle/Jo594SFMEYfwdKSK7
@@ -22,7 +22,7 @@ A﻿s usual we will muster at St Georges Plateau, we will be recognisable with o
 
 T﻿he parade route will take us from the plateau through the centre of town, zig zag-ing through the queer quarter and ending on the Pier Head. 
 
-P﻿lease arrive at the muster point around 1100 o'clock, there will be someone at the plateau from 1030. Please arrive no later than 1130. The parade will start at 1200. If you are late, please keep in touch with your organisers and you will be able to join us late or on the route. 
+P﻿lease arrive at the muster point from 1030. Please try to arrive by 1115 but no later than 1130. The parade will start at 1200. If you are late, please keep in touch with your organisers and you will be able to join us late or on the route. 
 
 F﻿ollowing the parade we will gather for a group photo before we then disperse to enjoy the rest of the day at Liverpool Pride. You are more than welcome to stay with the group or do your own thing. 
 
