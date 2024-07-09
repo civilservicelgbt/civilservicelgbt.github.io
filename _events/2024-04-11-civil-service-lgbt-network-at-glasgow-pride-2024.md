@@ -7,7 +7,7 @@ excerpt: >
 date: 2024-04-11T10:09:17.067Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-07-20T10:30:17.076Z
+  start: 2024-07-20T10:00:17.076Z
   end: ""
   deadline: 2024-07-10T12:00:17.096Z
   link: https://forms.gle/Jo594SFMEYfwdKSK7
@@ -19,9 +19,11 @@ category:
 ---
 The Civil Service LGBT+ Network are planning on attending and parading at this location.
 
-Please note there have been changes to the march this year which will be setting off from Festival Park at 12:00, with speeches due to start at 11:30. 
+P﻿lease note the change in meeting times, these are slightly earlier than previously noted due to parade positioning. 
 
-Due to this we will have 2 meeting spots. We will meet outside St Enoch Subway station at 10:30 for those travelling via city centre, we will then take the subway to Cessnock and meet outside the exit to Cessnock station from 11:00 – 11:20 before making our way into Festival Park for 11:30.  
+Please note there have been changes to the march this year which will be setting off from Festival Park at 12:00, with speeches due to start at 11:30. We need to be in the form up area by 11:00
+
+Due to this we will have 2 meeting spots. We will meet outside St Enoch Subway station at 10:00 for those travelling via city centre, we will then take the subway to Cessnock and meet outside the exit to Cessnock station from 10:30 – 10:50 before making our way into Festival Park for 11:00.  
 
 Please note Cessnock subway station is not wheelchair accessible, anyone who this may affect please get in touch with organisers to arrange alternative arrangements. 
 
