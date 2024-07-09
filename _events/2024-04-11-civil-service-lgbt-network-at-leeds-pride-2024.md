@@ -7,7 +7,7 @@ excerpt: >
 date: 2024-04-11T10:25:03.975Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-07-21T10:00:03.983Z
+  start: 2024-07-21T09:45:03.983Z
   end: ""
   deadline: 2024-07-10T12:00:04.001Z
   link: https://forms.gle/Jo594SFMEYfwdKSK7
@@ -19,7 +19,9 @@ category:
 ---
 The Civil Service LGBT+ Network are planning on attending and parading at this location.
 
-T﻿he parade will set off from Leeds Town Hall at 1200, we must have registered and be in position by 1130 latest. With this in mind we will be gathering at **The Hedley Verity** between 1000 and 1045. Please arrive at the meeting point in a timely manner so that t-shirts can be distributed and a pre-pride briefing can be conducted. If you have restricted mobility please contact the CS LGBT+ Network organisers. 
+The Civil Service LGBT+ Network has had their space in the parade confirmed, this is in first section and the group need to be registered by 1100, previously we thought this was going to be 1130. This means that the group will be meeting earlier than planned. The times below are now correct and confirmed.
+
+T﻿he parade will set off from Leeds Town Hall at 1200, we must have registered and be in position by 1100 latest. With this in mind we will be gathering at **The Hedley Verity** between 0945 and 1030. Please arrive at the meeting point in a timely manner so that t-shirts can be distributed and a pre-pride briefing can be conducted. If you have restricted mobility please contact the CS LGBT+ Network organisers. 
 
 T﻿here is a pre pride t-shirt collection social, details of this can be found here -
 
