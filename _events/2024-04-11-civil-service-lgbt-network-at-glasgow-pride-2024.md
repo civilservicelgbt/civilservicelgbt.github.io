@@ -21,7 +21,7 @@ The Civil Service LGBT+ Network are planning on attending and parading at this l
 
 P﻿lease note the change in meeting times, these are slightly earlier than previously noted due to parade positioning. 
 
-Please note there have been changes to the march this year which will be setting off from Festival Park at 12:00, with speeches due to start at 11:30. We need to be in the form up area by 1100
+Please note there have been changes to the march this year which will be setting off from Festival Park at 12:00, with speeches due to start at 11:30. We need to be in the form up area by 11:00
 
 Due to this we will have 2 meeting spots. We will meet outside St Enoch Subway station at 10:00 for those travelling via city centre, we will then take the subway to Cessnock and meet outside the exit to Cessnock station from 10:30 – 10:50 before making our way into Festival Park for 11:00.  
 
