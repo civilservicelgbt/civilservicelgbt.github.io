@@ -19,7 +19,9 @@ category:
 ---
 The Civil Service LGBT+ Network are planning on attending and parading at this location.
 
-As I am sure you can appreciate organising such participation takes time and our final plans for the day are not yet finalised. Please check back here closer to the date for details. Start time for this event have all been put at 1100, this is only a holding time and is highly likely to change. 
+Darlington Pride takes place over a number of days, our main focus as a Network is on the Saturday. For the Saturday parade meet up with Martin outside the muster point outside the Darlington Economic Campus by 11.30 at the latest to move on to the Market Square ready for the parade at 12.00 or alternately if you are would like to start early with a Pride breakfast Martin will be in Spoons HQ (the William Stead, 8 Crown Street, DL1 1LB)
+
+Or make your own way to the Market Square which is the official muster point before12.00 hrs and try and find our group resplendent in our pink Civil Service T Shirts and/or possibly carrying a banner along with hundreds of others.
 
 Please sign up to join us at this event through the link above, the same form is being used to sign up to all parades and events, so only needs to be filled in once. If you are having trouble accessing this form please email - [pride2024@civilservice.lgbt](mailto:pride2024@civilservice.lgbt). Please also email this address or your local organisers if you are no longer able to attend an event, but have signed up.
 
