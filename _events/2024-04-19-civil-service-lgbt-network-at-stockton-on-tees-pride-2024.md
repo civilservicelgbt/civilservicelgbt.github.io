@@ -23,7 +23,7 @@ Stockton Pop up Pride takes place in the town centre, the main stage will be sit
 
 The events are expected to commence from 11.00, details of the timings and activities during the day will be published later these will include arts and crafts, creative workshops, an outdoor stage in Wellington square and an indoor stage in The Link music venue featuring live music, drag and lots more.  There will also be time to talk a safe place for trans members to chat over tea and cake, a pride market and pop-up performances.
 
-Meet up with Martin in the town centre Wellington Square from 11.00.  There's is no parade but a pride walk will be held from the Globe Theatre to Wellington Square, timings TBC.
+Meet up with Martin in the town centre Wellington Square from 11.00.  There's is no parade but a pride walk will be held from the Globe Theatre to Wellington Square at approx. 1200.
 
 Please sign up to join us at this event through the link above, the same form is being used to sign up to all parades and events, so only needs to be filled in once. If you are having trouble accessing this form please email - [pride2024@civilservice.lgbt](mailto:pride2024@civilservice.lgbt). Please also email this address or your local organisers if you are no longer able to attend an event, but have signed up.
 
