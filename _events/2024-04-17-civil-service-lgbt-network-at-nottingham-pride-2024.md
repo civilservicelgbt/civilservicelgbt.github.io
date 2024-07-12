@@ -6,7 +6,7 @@ excerpt: Join the Civil Service LGBT+ Network at Nottingham Pride. Please sign
 date: 2024-04-17T13:33:21.581Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-07-27T11:00:21.597Z
+  start: 2024-07-27T10:00:21.597Z
   end: ""
   deadline: 2024-07-17T12:00:21.618Z
   no-register: Please register through the Google form
@@ -18,7 +18,7 @@ category:
 ---
 The Civil Service LGBT+ Network are planning on attending and parading at this location.
 
-As I am sure you can appreciate organising such participation takes time and our final plans for the day are not yet finalised. Please check back here closer to the date for details. Start time for this event have all been put at 1100, this is only a holding time and is highly likely to change.
+P﻿lease meet the group at the Robin Hood statue at 1000, ahead of the parade starting at 1100. Post parade members are free to enjoy the rest of the celebrations. The start of the parade is relatively small, so please keep an eye out for the pink Civil Service LGBT+ Network banner.
 
 Please sign up to join us at this event through the link above, the same form is being used to sign up to all parades and events, so only needs to be filled in once. If you are having trouble accessing this form please email - [pride2024@civilservice.lgbt](mailto:pride2024@civilservice.lgbt). Please also email this address or your local organisers if you are no longer able to attend an event, but have signed up.
 
