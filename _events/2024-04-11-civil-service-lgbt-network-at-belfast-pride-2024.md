@@ -23,7 +23,7 @@ We will be meeting at Lanyon Plaza from 10:30 on the day of the parade, breakfas
 
 Lanyon Plaza is a short distance from Lanyon Place train station. The building can be accessed from the front entrance, and we will be on the ground floor. This building is accessible.
 
-We ask that you do make every effort to arrive at the muster point before we leave for the parade, however we know this can sometimes be out of an individuals control so once we get full information on our parade starting position we will update this section to reflect that.
+We ask that you do make every effort to arrive at the muster point before we leave for the parade. If you are running late please make your way to the Green Zone, we are positioned behind the bPerfect Cosmetics Float.
 
 Please sign up to join us at this event through the link above, the same form is being used to sign up to all parades and events, so only needs to be filled in once. If you are having trouble accessing this form please email - [pride2024@civilservice.lgbt](mailto:pride2024@civilservice.lgbt). Please also email this address or your local organisers if you are no longer able to attend an event, but have signed up.
 
