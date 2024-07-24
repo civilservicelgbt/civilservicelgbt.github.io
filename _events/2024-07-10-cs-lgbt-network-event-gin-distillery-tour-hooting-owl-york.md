@@ -8,9 +8,9 @@ excerpt: "Join fellow Civil Servants for an afternoon of Gin Tasting and
 date: 2024-07-10T14:19:03.388Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-08-17T13:45:00.000Z
-  end: 2024-08-17T15:30:00.000Z
-  deadline: 2024-07-26T18:00:00.000Z
+  start: 2024-08-17T17:00:00.000Z
+  end: 2024-08-17T20:00:00.000Z
+  deadline: 2024-07-29T21:00:00.000Z
   email: yorkshireandhumber@civilservice.lgbt
   no-register: Registration is Mandatory
   location: Hooting Owl Distillery & Lounge, 1 Rougier St, York, YO1 6HZ
