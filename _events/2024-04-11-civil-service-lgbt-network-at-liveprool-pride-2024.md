@@ -8,7 +8,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2024-07-27T10:30:07.816Z
   end: ""
-  deadline: 2024-07-24T12:00:07.841Z
+  deadline: 2024-07-25T12:00:07.841Z
   link: https://forms.gle/Jo594SFMEYfwdKSK7
   no-register: Please register through the Google form
   location: St Georges Plateau, Liverpool
