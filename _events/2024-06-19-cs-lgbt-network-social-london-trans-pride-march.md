@@ -12,9 +12,7 @@ event:
   deadline: 2024-07-26T16:00:00.000Z
   location: Langham Place
   email: london@civilservice.lgbt
-  no-register: "Registration is not mandatory; however it helps us know who to
-    wait for before heading to Trafalgar Square as a group. This is a free
-    event.  "
+  no-register: Registration is not mandatory; however it helps us know who to wait for.
 category:
   - london
 ---
