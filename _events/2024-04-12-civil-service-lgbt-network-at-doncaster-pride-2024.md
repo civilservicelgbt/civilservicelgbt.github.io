@@ -1,8 +1,8 @@
 ---
 layout: event
-title: Civil Service LGBT+ Network at Doncaster UK Pride 2024
-excerpt: Join the Civil Service LGBT+ Network at Doncaster Pride. Please sign up
-  with the form in the body of the event.
+title: CANCELLED - Civil Service LGBT+ Network at Doncaster UK Pride 2024
+excerpt: CANCELLED - Join the Civil Service LGBT+ Network at Doncaster Pride.
+  Please sign up with the form in the body of the event.
 date: 2024-04-12T07:01:28.650Z
 event:
   host: Civil Service LGBT+ Network
@@ -16,6 +16,10 @@ category:
   - pride-2024
   - yorkshire-and-humber
 ---
+C﻿ANCELLED - After careful consideration CS LGBT+ will regrettably no longer parade at Doncaster Pride.
+
+\-﻿--
+
 The Civil Service LGBT+ Network are planning on attending and parading at this location, which is also hosting UK Pride 2024.
 
 P﻿lease meet James, your local organiser at Forecourt of Doncaster Railway Station. James will be recognisable in his pink Civil Service t-shirt. Please arrive between 0900 and 0930 so that you can be in position by 0945.
