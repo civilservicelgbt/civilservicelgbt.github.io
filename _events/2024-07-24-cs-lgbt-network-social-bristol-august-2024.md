@@ -1,9 +1,9 @@
 ---
 layout: event
-title: CS LGBT+ Network Social – Bristol – August 2024
-excerpt: Join fellow Civil Servants for our monthly Bristol social on the 2nd
-  Thursday of the month. This is open to all Civil Servants in the LGBT+
-  Network, allies and supportive colleagues.
+title: CANCELLED - CS LGBT+ Network Social – Bristol – August 2024
+excerpt: CANCELLED - Join fellow Civil Servants for our monthly Bristol social
+  on the 2nd Thursday of the month. This is open to all Civil Servants in the
+  LGBT+ Network, allies and supportive colleagues.
 date: 2024-07-24T11:34:09.913Z
 event:
   host: Civil Service LGBT+ Network
@@ -16,6 +16,10 @@ event:
 category:
   - south-west
 ---
+C﻿ANCELLED - This event has been cancelled due to ongoing unrest, planned activity in the vicinity of the venue and following some departmental guidance to work at home for the rest of the week.
+
+\-﻿--
+
 The Civil Service LGBT+ Network host a number of events throughout the year. So why don’t you join like minded Civil Servants for our monthly social on the 2nd Thursday of the month.
 
 Our monthly socials can change location month on month, so make sure you have checked the location for this event.
