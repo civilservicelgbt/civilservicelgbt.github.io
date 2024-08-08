@@ -14,4 +14,4 @@ event:
 ---
 T﻿his is a supportive and wellbeing call for the Civil Service LGBT+ Network. 
 
-P﻿lease sign up via the link to receive the MS Teams link, which will be sent shortly after 1130.
+P﻿lease sign up via the link to receive the MS Teams link, which will be sent shortly after 1130. Ensure that you sign up with you .gov (or equivalent) email address. The link will not be sent to personal email addresses.
