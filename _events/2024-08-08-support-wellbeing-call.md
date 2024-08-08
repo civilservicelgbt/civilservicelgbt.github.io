@@ -5,7 +5,7 @@ excerpt: Join other Civil Servants for this supportive & wellbeing call.
 date: 2024-08-08T14:39:12.006Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-08-09T12:30:12.045Z
+  start: 2024-08-09T12:00:12.045Z
   end: 2024-08-09T13:00:00.000Z
   deadline: 2024-08-09T11:00:00.000Z
   location: MS Teams
