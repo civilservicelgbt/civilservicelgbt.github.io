@@ -6,19 +6,29 @@ excerpt: Join the Civil Service LGBT+ Network at Manchester Pride. Please sign
 date: 2024-04-11T10:39:04.519Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-08-24T11:00:04.529Z
+  start: 2024-08-24T10:30:04.529Z
   end: ""
-  deadline: 2024-08-24T12:00:04.545Z
+  deadline: 2024-08-21T12:00:04.545Z
   link: https://forms.gle/Jo594SFMEYfwdKSK7
   no-register: Please register through the Google form
-  location: "Manchester "
+  location: Castlefield Bowel, Rice Street, Manchester M3 4JR
 category:
   - pride-2024
   - north-west
 ---
-The Civil Service LGBT+ Network are planning on attending and parading at this location.
+The Civil Service LGBT+ Network are attending and parading at this location.
 
-As I am sure you can appreciate organising such participation takes time and our final plans for the day are not yet finalised. Please check back here closer to the date for details. Start time for this event have all been put at 1100, this is only a holding time and is highly likely to change. 
+\-﻿--
+
+*S﻿hort update on 16/08/2024*
+
+We are still waiting for confirmation from Manchester Pride on our positioning for the day - we are advising members who have been successful in the ballot to be at Castlefield Bowl (On the tiered seated area) for 1030 on Saturday 24 August. We will likely be moving into the parade form up (Heritage Gardens) area shortly after this. 
+
+Following the parade we will head to Refuge Bar, which is outside the village and hopefully offers a calmer space for members to chat and decompress from the parade. 
+
+W﻿hen timings and parade entries are confirmed participants will be emailed and this webpage will be updated. 
+
+\-﻿--
 
 Please sign up to join us at this event through the link above, the same form is being used to sign up to all parades and events, so only needs to be filled in once. If you are having trouble accessing this form please email - [pride2024@civilservice.lgbt](mailto:pride2024@civilservice.lgbt). Please also email this address or your local organisers if you are no longer able to attend an event, but have signed up.
 
