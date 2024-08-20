@@ -19,4 +19,6 @@ Join fellow civil servants for a Friday Social in York.  It’s an opportunity 
 
 We’ll be meeting at Hooting Owl, York’s newest LGBT+ safe space (and where we held our recent gin tasting event) before heading into the city for an evening of delight.
 
-New to our York social?  Look out for our group mascot (the Rainbow Unicorn).  Email [YorkshireandHumber@civilservice.lgbt](mailto:YorkshireandHumber@civilservice.lgbt) for more info
+New to our York social?  Look out for our group mascot (the Rainbow Unicorn).  Email [YorkshireandHumber@civilservice.lgbt](mailto:YorkshireandHumber@civilservice.lgbt) for more info.
+
+T﻿he Hooting Owl Gin Distillery -- W3W -- [https://w3w.co/bumps.second.bounty](https://what3words.com/bumps.second.bounty)
