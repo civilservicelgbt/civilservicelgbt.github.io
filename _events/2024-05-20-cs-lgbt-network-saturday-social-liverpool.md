@@ -10,7 +10,7 @@ event:
   start: 2024-09-14T14:00:00.000Z
   end: ""
   deadline: 2024-09-14T13:00:00.000Z
-  location: TBC - See below
+  location: Gravity Max, Liverpool ONE, 11 Kenyon's Steps, Liverpool, North West, L1 3DF
   email: northwest@civilservice.lgbt
   no-register: Registration is not mandatory
 category:
@@ -20,7 +20,7 @@ The Civil Service LGBT+ Network host a number of events throughout the year. So 
 
 Registration is not mandatory, but by all means get in touch! If turning up on the day just look out for one of our inflatable unicorn mascots or our bright pink Civil Service Pride flag!
 
-We will firm up plans for the day nearer the time, weather dependent we are thinking of heading to the beach for a picnic, else we will plan an indoor activity like retro arcade games at NQ64! Watch this space!
+**We've decided to hit Gravity Max for a change which is a huge indoor arcade with easy access inside Liverpool ONE! Join us to play a variety of games and catch-up over a bite and drink.**
 
 If you have questions about this event, or you have an idea for a future event, you can contact our North West local organisers.
 
