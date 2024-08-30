@@ -1,6 +1,7 @@
 ---
 layout: event
-title: CS LGBT+ Network Cardiff – Cinema Trip
+title: CS LGBT+ Network Cardiff – Cinema Trip - The Terminator’s 4k Restoration
+  Screening
 excerpt: >-
   Join your fellow Civil Servants in Cardiff to see The Terminator’s 4k
   Restoration Screening at Cardiff’s Vue Cinema!
