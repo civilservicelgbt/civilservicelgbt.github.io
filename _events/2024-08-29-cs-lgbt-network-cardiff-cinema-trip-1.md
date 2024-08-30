@@ -1,6 +1,6 @@
 ---
 layout: event
-title: CS LGBT+ Network Cardiff – Cinema Trip
+title: CS LGBT+ Network Cardiff – Cinema Trip - Starship Troopers
 excerpt: >-
   Join your fellow Civil Servants in Cardiff to see Starship Troopers (part of
   Slime Mother Cinema Season) at Chapter Arts in Canton!
@@ -12,7 +12,7 @@ event:
   start: 2024-09-28T14:00:00.000Z
   end: ""
   deadline: 2024-09-27T16:00:00.000Z
-  location: "Vue Cinema, Wood Street, Cardiff "
+  location: Chapter Arts, Canton, Cardiff
   email: owen.blacker@education.gov.uk
   no-register: "If you plan to attend, contact Owen Blacker, above, or just rock
     up on the day! "
