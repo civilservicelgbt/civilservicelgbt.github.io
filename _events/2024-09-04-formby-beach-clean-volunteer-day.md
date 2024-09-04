@@ -6,7 +6,7 @@ excerpt: "🌊🌿 Help Keep Formby Beach Beautiful 🌿🌊 Join us for a speci
   coastline. "
 date: 2024-09-04T11:52:19.206Z
 event:
-  host: Civil Service LGBT+ Network
+  host: DTS working with CGI, Civil Service LGBT+ Network & CTSC
   start: 2024-10-07T10:00:00.000Z
   end: ""
   deadline: 2024-10-04T16:30:00.000Z
