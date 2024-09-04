@@ -32,6 +32,8 @@ For the day please remember
    - If you can bring litter pickers or tongs to pick up trash. Avoid handling sharp objects, broken glass, or hazardous materials directly.\
    - Do not pick up heavy or large items by yourself; seek assistance. 
 
-On the day we will meeting at Formby train station east side car park
+On the day we will meeting at Formby train station east side car park.
+
+T﻿here will be a volunteer contingent from Government Departments and the CS LGBT+ Network, this beach clean will not only be exclusively with members of our Network.
 
 If weather changes where we feel it will be unsuitable to do the beach clean we will rearrange the event so please provide us a contact number to notify you ASAP.
