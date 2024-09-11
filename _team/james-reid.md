@@ -6,10 +6,10 @@ email: yorkshireandhumber@civilservice.lgbt
 project: Regional Delivery
 region: Yorkshire and Humber
 archive: "false"
-image: /assets/images/uploads/james-reid.jpg
+image: /assets/images/uploads/jwr.webp
 ---
-I joined the Department for Work and Pensions in March 2021, after retiring from a life working at sea to 'settle down' and find a slower pace in life.  Having joined during the pandemic of the century (covid-19) I quickly moved through several job roles to become a people engagement, inclusion, and communications lead within Work and Health Services. 
+I joined the Civil Service, in 2021, after leaving behind over a decade of hard graft working at sea.   The pandemic was still very-much a thing when I joined Department for Work and Pensions, and quickly navigated my way through multiple roles to become the People Engagement, Inclusion, and Communications lead within South East Work and Health Services Directorate.    Fast-forward a few years and I’m now working at Department for Business and Trade, within Export Controls and Sanctions.
 
-I am passionate about our diverse workforce and play an active role in both DWP Pride and the National D&I Stakeholder Group for DWP.  I want to champion and promote an inclusive environment for all colleagues, across the civil service, and as a proud openly gay cis-man, with both non-visible and visible disabilities, I am an ally-to-all.
+I am extremely passionate about our diverse workforce;  I’ve always been driven to ensure that the workplace is one that is safe, free from discrimination, and where all colleagues regardless of their background can succeed.   This work requires strong dedication from both the LGBT+ community and our allies; and I’m extremely proud of the work by the regional delivery team and our network vice-chairs across multiple strands.    
 
-Yorkshire & Humber is a large area, and I want to bring us closer together to celebrate, to share, and to support each other across our respective departments, via events and socials.
+As an openly gay man, veteran, and person with both visible and non-visible disabilities, I strongly believe in intersectionality.  We must and can do more to promote and champion and inclusive workplace for all peoples across the entire Civil Service;  Yorkshire and Humber is a large area, but I am committed to bringing us closer together to celebrate, to share, and to support each other though our continued engagement plan and networking opportunities.    I welcome all and any ideas, feedback, or suggestions to our inbox, and I look forward to meeting colleagues cross the region throughout the year.
