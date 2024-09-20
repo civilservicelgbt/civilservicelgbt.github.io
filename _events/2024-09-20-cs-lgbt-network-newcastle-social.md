@@ -1,6 +1,6 @@
 ---
 layout: event
-title: CS LGBT+ Network Newcastle Social
+title: CS LGBT+ Network Newcastle Social - October 2024
 excerpt: Meet up with fellow civil servants for October Social night in
   Newcastle on Thursday 24 October. This is open to all Civil Servants in the
   LGBT+ Network, and a:gender.
