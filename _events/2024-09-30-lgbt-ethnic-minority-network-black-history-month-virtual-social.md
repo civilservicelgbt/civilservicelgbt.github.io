@@ -10,8 +10,8 @@ event:
   end: 2024-10-30T17:30:19.067Z
   deadline: 2024-10-30T17:30:19.076Z
   location: MS Teams
-  link: Please email for MS Teams link!
-  email: Please email for MS Teams link!
+  link: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
+  email: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
 ---
 <!--StartFragment-->
 
