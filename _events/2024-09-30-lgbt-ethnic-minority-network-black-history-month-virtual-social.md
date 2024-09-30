@@ -8,7 +8,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2024-10-30T16:45:19.055Z
   end: 2024-10-30T17:30:19.067Z
-  deadline: 2024-09-30T14:08:19.076Z
+  deadline: 2024-10-30T17:30:19.076Z
   location: MS Teams
   link: Please email for MS Teams link!
 ---
