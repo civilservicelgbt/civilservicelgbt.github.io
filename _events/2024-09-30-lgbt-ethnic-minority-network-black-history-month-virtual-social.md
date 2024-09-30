@@ -11,6 +11,7 @@ event:
   deadline: 2024-10-30T17:30:19.076Z
   location: MS Teams
   link: Please email for MS Teams link!
+  email: Please email for MS Teams link!
 ---
 <!--StartFragment-->
 
