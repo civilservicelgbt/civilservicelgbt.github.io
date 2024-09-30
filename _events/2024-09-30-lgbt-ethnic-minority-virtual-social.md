@@ -9,7 +9,8 @@ event:
   end: 2024-11-27T17:30:17.080Z
   deadline: 2024-11-27T17:15:17.085Z
   location: MS Teams
-  link: Please email for link to join!
+  link: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
+  email: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
 ---
 Hi all,
 
