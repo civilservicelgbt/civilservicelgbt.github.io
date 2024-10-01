@@ -2,7 +2,7 @@
 layout: event
 title: CS LGBT+ Network Social - Liverpool - November 2024
 excerpt: Join fellow Civil Servants for the monthly Liverpool social this
-  October. This is open to all Civil Servants in the LGBT+ Network.
+  November. This is open to all Civil Servants in the LGBT+ Network.
 date: 2024-10-01T12:49:39.134Z
 event:
   host: Civil Service LGBT+ Network
