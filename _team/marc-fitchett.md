@@ -5,7 +5,7 @@ role: local organiser
 email: scotland@civilservice.lgbt
 project: Local organiser
 region: Scotland
-archive: "false"
+archive: "true"
 image: /assets/images/uploads/team/marc-fitchett.jpeg
 ---
 
