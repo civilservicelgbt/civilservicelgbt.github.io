@@ -5,9 +5,9 @@ excerpt: "Virtual Social "
 date: 2024-09-30T14:15:17.065Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-11-27T16:45:17.074Z
-  end: 2024-11-27T17:30:17.080Z
-  deadline: 2024-11-27T17:15:17.085Z
+  start: 2024-11-26T16:45:17.074Z
+  end: 2024-11-26T17:30:17.080Z
+  deadline: 2024-11-26T17:15:17.085Z
   location: MS Teams
   link: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
   email: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
