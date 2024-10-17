@@ -8,9 +8,9 @@ excerpt: >
 date: 2024-10-08T15:33:12.279Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-12-05T17:00:12.314Z
+  start: 2024-11-28T17:00:12.314Z
   end: ""
-  deadline: 2024-12-05T09:00:00.000Z
+  deadline: 2024-11-28T09:00:00.000Z
   location: Maverick, Union Street, Belfast
   email: northernireland@civilservice.lgbt
   no-register: Registration is not mandatory
