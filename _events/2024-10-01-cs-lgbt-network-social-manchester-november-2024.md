@@ -6,9 +6,9 @@ excerpt: Join fellow Civil Servants for the monthly Manchester social this
 date: 2024-10-01T14:28:43.615Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-11-07T17:00:00.000Z
+  start: 2024-11-14T17:00:00.000Z
   end: ""
-  deadline: 2024-11-07T16:00:00.000Z
+  deadline: 2024-11-14T16:00:00.000Z
   location: VIA, 28/30 Canal Street, Manchester, M1 3EZ
   email: northwest@civilservice.lgbt
   no-register: Registration is not mandatory
