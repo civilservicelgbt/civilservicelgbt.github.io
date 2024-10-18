@@ -8,7 +8,7 @@ event:
   start: 2024-12-07T15:00:00.000Z
   end: ""
   deadline: 2024-12-07T12:00:00.000Z
-  location: Be At One Liverpool 13-21 Seel Street, Liverpool, Merseyside, L1 4AU
+  location: 18-20 North John Street, Liverpool, L2 9RL
   email: northwest@civilservice.lgbt
   no-register: Registration is not mandatory
 category:
