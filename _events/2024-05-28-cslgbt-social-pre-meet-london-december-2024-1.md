@@ -1,6 +1,6 @@
 ---
 layout: event
-title: CSLGBT+ Social Pre-Meet - London - November 2024
+title: CSLGBT+ Social Pre-Meet - London - November 2024 - CANCELLED
 excerpt: The London LGBT+ team would love to invite you to join them at the
   pre-meet before the monthly LGBT+ social at Retro Bar. This event is open to
   everyone who identifies themselves as part of the LGBT+ network.
@@ -16,6 +16,8 @@ event:
 category:
   - london
 ---
+T﻿his pre-meet has been cancelled due to unavailability of volunteers. The main November social is still going ahead.
+
 The London LGBT+ team would love to invite you to join them at the pre-meet before the monthly LGBT+ social at Retro Bar. This event is open to everyone who identifies themselves as part of the LGBT+ network.
 
 The pre-meet gives a space to those who may feel more comfortable getting to know a smaller group of people before going to the larger social, or for anyone who prefers a café setting over a pub setting for a monthly chat after work.
