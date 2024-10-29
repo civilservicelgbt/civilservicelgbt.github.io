@@ -1,8 +1,9 @@
 ---
 layout: team
-person-name: Ellie G
+person-name: Ellie
 role: vice chair
-project: Allies
+email: allyship@civilservice.lgbt
+project: Allyship
 archive: "false"
 image: /assets/images/uploads/eg-pic.jpg
 ---
