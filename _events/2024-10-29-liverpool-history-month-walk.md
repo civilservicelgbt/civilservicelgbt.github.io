@@ -19,8 +19,8 @@ category:
 
 To join in, simply bring your smartphone and headphones. Download the audio trail, and let the voices of Liverpool's LGBT+ community guide you on this unforgettable journey. Discover, reflect, and connect—experience history like never before! 🌟
 
-Entry is free however they do suggest a donation which you can do on the day or online if you wish
+Entry is free however they do suggest a donation which you can do on the day or online if you wish.
 
-Also there is the opportunity to book  [The Holly Johnson Story | National Museums Liverpool](https://www.liverpoolmuseums.org.uk/whatson/museum-of-liverpool/exhibition/holly-johnson-story) which costs around £5
+Also there is the opportunity to book [The Holly Johnson Story at National Museums Liverpool](https://www.liverpoolmuseums.org.uk/whatson/museum-of-liverpool/exhibition/holly-johnson-story) which costs around £5.
 
-For more information check out [LGBTQ+ audio trail | National Museums Liverpool](https://www.liverpoolmuseums.org.uk/lgbtq-history/lgbtq-audio-trail)
+For more information check out the[ LGBTQ+ audio trail at National Museums Liverpool](https://www.liverpoolmuseums.org.uk/lgbtq-history/lgbtq-audio-trail).
