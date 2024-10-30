@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Yorkshire and Humber (York) Winter Social
-excerpt: Join the Civil Service LGBT+ Network for this festive social.
+excerpt: Join the Civil Service LGBT+ Network for this winter social.
 date: 2024-10-30T08:32:07.046Z
 event:
   host: Civil Service LGBT+ Network
