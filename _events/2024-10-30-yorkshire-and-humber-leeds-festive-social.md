@@ -14,4 +14,4 @@ event:
 category:
   - yorkshire-and-humber
 ---
-Join us for our CS LGBT+ Festive Social, in Leeds, following our regional [engagement event](https://www.civilservice.lgbt/event/2024-10-30-yorkshire-and-humber-regional-engagement-meeting).   We’ll be having a few drinks, before heading into Leeds around 6.30pm, to peruse the Christmas Markets and some food.
+Join us for our CS LGBT+ Festive Social, in Leeds, following our regional [engagement event](https://www.civilservice.lgbt/event/2024-10-30-yorkshire-and-humber-regional-engagement-meeting).   We’ll be having a few drinks, before heading into Leeds around 6.30pm, to peruse the Christmas Markets and some food and or Christmas shopping.
