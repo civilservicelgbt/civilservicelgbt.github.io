@@ -22,3 +22,5 @@ We’ll also share important updates from the CS LGBT+  Network and hear your t
 After the meeting you are welcome to join the network for a festive drink and walk around the Leeds Christmas Markets.
 
 Registration is mandatory, to enable access to the building.
+
+F﻿ollowing this meeting there is a festive social taking place, please see the details on the [event page](https://www.civilservice.lgbt/event/2024-10-30-yorkshire-and-humber-leeds-festive-social).
