@@ -1,6 +1,6 @@
 ---
 layout: team
-person-name: Ellie -- Allyship
+person-name: Ellie
 role: vice chair
 email: allyship@civilservice.lgbt
 project: Allyship
