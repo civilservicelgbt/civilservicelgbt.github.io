@@ -1,6 +1,6 @@
 ---
 layout: team
-person-name: Dee -- Career Development
+person-name: Dee
 role: vice chair
 email: dee@civilservice.lgbt
 project: Career development
