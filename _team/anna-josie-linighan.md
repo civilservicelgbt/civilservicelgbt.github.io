@@ -1,6 +1,6 @@
 ---
 layout: team
-person-name: Anna-Josie -- Women's Inclusion
+person-name: Anna-Josie
 role: vice chair
 email: annajosie@civilservice.lgbt
 project: Women's inclusion
