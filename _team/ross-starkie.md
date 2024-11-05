@@ -1,6 +1,6 @@
 ---
 layout: team
-person-name: Ross Starkie -- Regional Delivery & Pride
+person-name: Ross Starkie
 role: vice chair
 email: vice-chair-regions@civilservice.lgbt
 project: Regional Delivery & Pride
