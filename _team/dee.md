@@ -1,19 +1,12 @@
 ---
-# Adding or removing a '#' in front of a line will toggle that information off and on from being processed. 
-
 layout: team
-title: "Dee"
-person-name: "Dee"
-role: "vice chair"
-project: "Career development"
-# region: ""
-email: "dee@civilservice.lgbt"
-# image: ""
+person-name: Dee -- Career Development
+role: vice chair
+email: dee@civilservice.lgbt
+project: Career development
+archive: "false"
 permalink: /team/dee
-# redirect_from: 
-# - 
-# redirect_to: 
-# - 
+title: Dee
 ---
 
 Hi, I'm Dee (she/her) and I am part of the Civil Service HR Function. 
