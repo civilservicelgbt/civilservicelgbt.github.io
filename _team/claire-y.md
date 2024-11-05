@@ -1,9 +1,9 @@
 ---
 layout: team
-person-name: Claire Y -- Ethnic Minority Inclusion
+person-name: Claire Y -- Minority Ethnic Inclusion
 role: vice chair
 email: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
-project: Ethnic minority inclusion
+project: Minority Ethnic Inclusion
 region: null
 archive: "false"
 ---
