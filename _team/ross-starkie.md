@@ -1,6 +1,6 @@
 ---
 layout: team
-person-name: Ross Starkie
+person-name: Ross Starkie -- Regions & Nations
 role: vice chair
 email: vice-chair-regions@civilservice.lgbt
 project: Regional Delivery
