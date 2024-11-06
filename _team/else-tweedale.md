@@ -1,6 +1,6 @@
 ---
 layout: team
-person-name: Else
+person-name: Elsa
 role: vice chair
 email: parents-carers-partners@civilservice.lgbt
 project: Parents, Carers & Partners
