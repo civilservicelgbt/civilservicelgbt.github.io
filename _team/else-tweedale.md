@@ -1,6 +1,6 @@
 ---
 layout: team
-person-name: Else Tweedale
+person-name: Else
 role: vice chair
 email: parents-carers-partners@civilservice.lgbt
 project: Parents, Carers & Partners
