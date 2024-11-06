@@ -7,7 +7,7 @@ project: Co-Chair
 archive: "false"
 image: /assets/images/uploads/profile-jeff.jpg
 ---
-I'm Jefferson Welsby, one of two Co-Chairs of the Civil Service LGBT+ Network. 
+I'm Jefferson Welsby, one of two Co-Chairs of the Civil Service LGBT+ Network.
 
 I﻿ have worked in the Civil Service for over 10 years. I started my career in HM Prison Service back in 2010 operationally. After leaving HMP I secured employment with then Thomson Airways (now TUI) before returning to the Civil Service in 2015, joining the Department for Work and Pensions where I have remained since.
 
