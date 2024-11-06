@@ -5,6 +5,7 @@ role: vice chair
 email: vice-chair-regions@civilservice.lgbt
 project: Regional Delivery & Pride
 region: null
+permalink: /team/ross
 archive: "false"
 image: /assets/images/uploads/ross_starkie.jpg
 ---
