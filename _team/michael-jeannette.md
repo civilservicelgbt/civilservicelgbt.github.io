@@ -1,6 +1,6 @@
 ---
 layout: team
-person-name: Michael Jeannette
+person-name: Michael
 role: vice chair
 project: Bi+ inclusion
 archive: "false"
