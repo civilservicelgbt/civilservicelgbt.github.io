@@ -4,8 +4,8 @@ person-name: Michael Jeannette
 role: vice chair
 project: Bi+ inclusion
 archive: "false"
-permalink: /team/michael-jeannette
-title: Michael Jeannette
+permalink: /team/michael
+title: Michael
 image: /assets/images/uploads/mj.jpeg
 ---
 Hello! I’m Michael, Vice chair of the BiSpace.
