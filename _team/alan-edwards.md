@@ -4,6 +4,7 @@ person-name: Alan Edwards
 role: vice chair
 email: alan.edwards@civilservice.lgbt
 project: Trans and non-binary inclusion
+archive: "true"
 image: /assets/images/uploads/team/alan-edwards.jpeg
 ---
 
