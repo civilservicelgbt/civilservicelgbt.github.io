@@ -18,4 +18,4 @@ The Civil Service LGBT+ Network is run entirely by a team of volunteers. These v
 
 Co-Chairs: Jefferson Welsby, Saorsa-Amatheia Tweedale
 
-V﻿ice Chairs: Anna-Jose \[Women's Inclusion], Claire Y \[Minority Ethnic Inclusion], Cee \[Career Development], Ellie \[Allyship], Elsa Tweedale \[Parents, Carers & Partners], Michael Jeanetter \[Bi+ Inclusion], Ross Starkie \[Regional Delivery & Pride], Trixxy \[Trans & Non-Binary Inclusion]
+V﻿ice Chairs: Anna-Jose \[Women's Inclusion], Claire Y \[Minority Ethnic Inclusion], Dee \[Career Development], Ellie \[Allyship], Elsa Tweedale \[Parents, Carers & Partners], Michael Jeanetter \[Bi+ Inclusion], Ross Starkie \[Regional Delivery & Pride], Trixxy \[Trans & Non-Binary Inclusion]
