@@ -4,6 +4,7 @@ person-name: Saorsa-Amatheia
 role: chair
 email: chairs@civilservice.lgbt
 project: Co-Chair
+permalink: /team/saorsa-amatheia
 archive: "false"
 image: /assets/images/uploads/saorsa.jpg
 ---
