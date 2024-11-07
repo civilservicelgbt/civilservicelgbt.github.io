@@ -4,6 +4,7 @@ person-name: Jefferson
 role: chair
 email: chairs@civilservice.lgbt
 project: Co-Chair
+permalink: /team/jefferson
 archive: "false"
 image: /assets/images/uploads/profile-jeff.jpg
 ---
