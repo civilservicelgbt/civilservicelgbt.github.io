@@ -4,6 +4,7 @@ person-name: Anna-Josie
 role: vice chair
 email: annajosie@civilservice.lgbt
 project: Women's inclusion
+permalink: /team/anna-josie
 archive: "false"
 image: /assets/images/uploads/anna-profile.jpg
 ---
