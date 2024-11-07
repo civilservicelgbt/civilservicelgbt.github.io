@@ -4,6 +4,7 @@ person-name: Elsa
 role: vice chair
 email: parents-carers-partners@civilservice.lgbt
 project: Parents, Carers & Partners
+permalink: /team/elsa
 archive: "false"
 image: /assets/images/uploads/elsa.jpg
 ---
