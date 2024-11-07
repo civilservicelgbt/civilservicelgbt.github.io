@@ -4,6 +4,7 @@ person-name: Ellie
 role: vice chair
 email: allyship@civilservice.lgbt
 project: Allyship
+permalink: /team/ellie
 archive: "false"
 image: /assets/images/uploads/eg-pic.jpg
 ---
