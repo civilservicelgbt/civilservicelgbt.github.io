@@ -5,6 +5,7 @@ role: vice chair
 email: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
 project: Minority Ethnic Inclusion
 region: null
+permalink: /team/claire
 archive: "false"
 ---
 Hello!
