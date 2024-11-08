@@ -1,7 +1,7 @@
 ---
 layout: event
 title: London Gay Men's Chorus x Planning Inspectorate Rainbow Network
-excerpt: Join PIINS for this festive musical event.
+excerpt: Join PINS for this festive musical event.
 date: 2024-11-08T15:07:24.401Z
 event:
   host: Rainbow Netwrok at the Planning Inspectorate
