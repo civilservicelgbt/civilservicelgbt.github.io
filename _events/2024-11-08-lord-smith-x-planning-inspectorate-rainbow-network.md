@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Lord Smith x Planning Inspectorate Rainbow Network
-excerpt: Join PIINS and Lord Smith of Finsbury to speak for LGBT+ History Month
+excerpt: Join PINS and Lord Smith of Finsbury to speak for LGBT+ History Month
 date: 2024-11-08T15:13:20.452Z
 event:
   host: Rainbow Network at the Planning Inspectorate
