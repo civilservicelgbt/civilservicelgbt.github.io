@@ -1,10 +1,11 @@
 ---
 layout: team
-person-name: Derek Bradford
+person-name: Derek
 role: local organiser
 email: scotland@civilservice.lgbt
 project: Local Organiser
 region: Scotland
+permalink: /team/derek
 archive: "false"
 image: /assets/images/uploads/derek.jpg
 ---
