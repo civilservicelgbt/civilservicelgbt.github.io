@@ -1,12 +1,12 @@
 ---
 layout: team
-person-name: John Peart
+person-name: John
 role: "project team"
 email: john.peart@dsit.gov.uk
 project: Mentoring
 archive: false
-permalink: /team/john-peart
-title: John Peart
+permalink: /team/john
+title: John
 image: /assets/images/uploads/team/john-peart.jpg
 ---
 
