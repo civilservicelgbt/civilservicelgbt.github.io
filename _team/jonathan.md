@@ -1,8 +1,9 @@
 ---
 layout: team
-person-name: "Jonathan Kerr"
+person-name: "Jonathan"
 role: "project team"
 project: "mentoring"
+permalink: /team/johnathan
 image: "/assets/images/uploads/team/jonathan-kerr.jpg"
 ---
 
