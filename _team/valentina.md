@@ -8,6 +8,7 @@ region: London
 permalink: /team/valentina
 image: /assets/images/uploads/valentina.jpg
 ---
+
 I joined the Civil Service in September 2020 working within HM Revenue & Customs in the Debt Enforcement Team.
 
 I started attending Civil Service socials just to network with the hope of finding other LGBT+ civil servants. With London, being so diverse in people and cultures I thought the events run by the network are perfect to go to. 
