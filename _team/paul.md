@@ -1,19 +1,11 @@
 ---
-# Adding or removing a '#' in front of a line will toggle that information off and on from being processed. 
-
 layout: team
-title: "Paul Fogg"
-person-name: "Paul Fogg"
+title: "Paul"
+person-name: "Paul"
 role: "project team"
 project: "bi+ inclusion"
-# region: ""
-# email: ""
 image: "/assets/images/uploads/team/paul-fogg.jpg"
-permalink: /team/paul-fogg
-# redirect_from: 
-# - 
-# redirect_to: 
-# - 
+permalink: /team/paul
 ---
 
 Hi, I'm Foggy.
