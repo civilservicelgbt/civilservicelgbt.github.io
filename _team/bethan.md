@@ -1,12 +1,12 @@
 ---
 layout: team
-person-name: Bethan Cable
+person-name: Bethan
 role: local organiser
 email: wales@civilservice.lgbt
 project: Local Organiser
 region: Wales
 archive: "false"
-permalink: /team/bethan-cable
+permalink: /team/bethan
 image: /assets/images/uploads/team/bethan-cable.jpg
 ---
 Having worked for the UK Government’s Crown Commercial Service for over ten years, I am now on a two-year secondment as Border Communications lead in the Welsh Government, where I am also the Bi Rep for their LGBTQI+ network, PRISM.
