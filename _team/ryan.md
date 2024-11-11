@@ -1,10 +1,11 @@
 ---
 layout: team
-person-name: Ryan O'Hara
+person-name: Ryan
 role: local organiser
 email: northernireland@civilservice.lgbt
 project: Local Organiser
 region: Northern Ireland
+permalink: /team/ryan
 archive: "false"
 image: /assets/images/uploads/ryan.jfif
 ---
