@@ -2,14 +2,14 @@
 # Adding or removing a '#' in front of a line will toggle that information off and on from being processed. 
 
 layout: team
-title: "Nora Wilen"
-person-name: "Nora Wilen"
+title: "Nora"
+person-name: "Nora"
 role: "local organiser"
 # project: ""
 region: "West Midlands"
 email: "WestMidlands@civilservice.lgbt"
 image: "/assets/images/uploads/team/Nora-Wilen.jpeg.jpg"
-permalink: /team/nora-wilen
+permalink: /team/nora
 # redirect_from: 
 # - 
 # redirect_to: 
