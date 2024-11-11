@@ -3,6 +3,7 @@ layout: team
 person-name: "Gwilym Stone"
 role: "local organiser"
 region: "South East"
+permalink: /team/gwilym
 email: "southeast@civilservice.lgbt"
 image: "/assets/images/uploads/team/gwilym-stone.jpg"
 ---
