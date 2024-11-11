@@ -5,6 +5,7 @@ role: local organiser
 email: NorthernIreland@civilservice.lgbt
 project: Local Organiser
 region: Northern Ireland
+permalink: /team/ted
 archive: "false"
 image: /assets/images/uploads/ted.jpg
 ---
