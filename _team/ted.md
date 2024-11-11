@@ -1,6 +1,6 @@
 ---
 layout: team
-person-name: Ted B
+person-name: Ted
 role: local organiser
 email: NorthernIreland@civilservice.lgbt
 project: Local Organiser
