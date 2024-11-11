@@ -1,10 +1,11 @@
 ---
 layout: team
-person-name: Harry Potter
+person-name: Harry
 role: local organiser
 email: scotland@civilservice.lgbt
 project: Local Organiser
 region: Scotland
+permalink: /team/harry
 archive: "false"
 image: /assets/images/uploads/hp-lo-pic.jpg
 ---
