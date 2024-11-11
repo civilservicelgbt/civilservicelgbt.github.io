@@ -1,13 +1,11 @@
 ---
 layout: event
 title: "CS LGBT+ Network & Northern Ireland Civil Service LGBT+ Network -
-  Christmas Crafting event  "
+  Christmas Crafting Event  "
 excerpt: >
-  Join fellow Civil Servants as we get creative with our Xmas craft.
-
-  This is open to all Civil Servants in the LGBT+ Network and their supportive family & friends.
-
-  Places are limited, so will be on a first come first serve basis.
+  Join fellow Civil Servants as we get creative with our Xmas craft. This is
+  open to all Civil Servants in the LGBT+ Network and their supportive family &
+  friends. Places are limited, so will be on a first come first serve basis.
 date: 2024-11-11T11:00:53.767Z
 event:
   host: CS LGBT+ Network and Northern Ireland Civil Service LGBT+ Network
@@ -28,7 +26,7 @@ Join us on the 28th of November 15:00-16:30 for our Christmas crafty afternoon, 
 
 We will have 2 crafts available;
 
-1. Xmas crotchet tree decoration.
+1. Xmas crochet tree decoration.
 2. Xmas suncatchers decoration.
 
 We will have facilitators available to help us out. 
