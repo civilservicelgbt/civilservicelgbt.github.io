@@ -5,7 +5,7 @@ role: local organiser
 email: london@civilservice.lgbt
 project: Local Organiser
 region: London
-permalink: /team/alex-s
+permalink: /team/alex
 archive: "false"
 image: /assets/images/uploads/alex-s.jpg
 ---
