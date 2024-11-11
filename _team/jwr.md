@@ -1,10 +1,11 @@
 ---
 layout: team
-person-name: "James Reid  "
+person-name: "JWR"
 role: local organiser
 email: yorkshireandhumber@civilservice.lgbt
 project: Regional Delivery
 region: Yorkshire and Humber
+permalink: /team/jwr
 archive: "false"
 image: /assets/images/uploads/jwr.webp
 ---
