@@ -1,8 +1,9 @@
 ---
 layout: team
-person-name: "Diana Reynolds"
+person-name: "Diana"
 role: "project team"
 project: "Bi+ inclusion"
+permalink: /team/diana
 image: "/assets/images/uploads/team/diana-reynolds.jpeg"
 ---
 
