@@ -1,10 +1,11 @@
 ---
 layout: team
-person-name: Jack Ryan
+person-name: Jack
 role: local organiser
 email: northwest@civilservice.lgbt
 project: Local Organiser
 region: North West
+permalink: /team/jack
 archive: "false"
 image: /assets/images/uploads/jr.jpg
 ---
