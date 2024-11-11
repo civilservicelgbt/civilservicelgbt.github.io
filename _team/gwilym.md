@@ -1,6 +1,6 @@
 ---
 layout: team
-person-name: "Gwilym Stone"
+person-name: "Gwilym"
 role: "local organiser"
 region: "South East"
 permalink: /team/gwilym
