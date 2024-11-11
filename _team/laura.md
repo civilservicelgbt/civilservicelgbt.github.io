@@ -1,10 +1,11 @@
 ---
 layout: team
-person-name: Laura Pincher
+person-name: Laura
 role: local organiser
 email: westmidlands@civilservice.lgbt
 project: Local Organiser
 region: West Midlands
+permalink: /team/laura
 archive: "false"
 image: /assets/images/uploads/laurap.jpg
 ---
