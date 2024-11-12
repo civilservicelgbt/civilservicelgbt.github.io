@@ -6,7 +6,7 @@ excerpt: Join fellow Civil Servants for a social this December. This is open to
 date: 2024-11-11T11:41:27.900Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-12-07T17:00:27.914Z
+  start: 2024-12-06T17:00:27.914Z
   end: ""
   deadline: 2024-12-06T17:00:00.000Z
   location: The Lord Roberts 24 Broad Street, Nottingham, United Kingdom
