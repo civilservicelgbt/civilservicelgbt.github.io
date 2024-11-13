@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Civil Service LGBT+ Book Club
+title: Civil Service LGBT+ Network Book Club
 excerpt: Book Club has been around for less than a year but it already has over
   150 members. Here's what Ian had to say about it.
 date: 2024-11-13T08:56:55.307Z
