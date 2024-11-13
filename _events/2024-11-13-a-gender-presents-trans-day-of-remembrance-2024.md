@@ -7,9 +7,9 @@ excerpt: Join fellow Civil Servants for a vigil on Transgender Day of
 date: 2024-11-13T13:08:23.289Z
 event:
   host: a:gender
-  start: 2024-11-13T12:30:00.000Z
-  end: 2024-11-13T13:30:00.000Z
-  deadline: 2024-11-13T12:30:00.000Z
+  start: 2024-11-20T12:30:00.000Z
+  end: 2024-11-20T13:30:00.000Z
+  deadline: 2024-11-20T12:30:00.000Z
   location: MS Teams
   email: agender@homeoffice.gov.uk
   no-register: Please register to receive the MS Teams link
