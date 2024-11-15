@@ -1,11 +1,16 @@
 ---
 layout: team
-person-name: "Katherine"
-role: "local organiser"
-region: "South West"
-email: "southwest@civilservice.lgbt"
+person-name: Katharine
+role: local organiser
+email: southwest@civilservice.lgbt
+project: Local Organiser
+region: South West
+archive: "false"
 permalink: /team/katharine
-image: "/assets/images/uploads/team/katherine-sendell.png"
+image: /assets/images/uploads/newidpic.jpg
 ---
+I've been a regional lead for the South West since 2018 organising and hosting socials and other events for our fabulous community of civil servants. In my day job, I work in digital delivery at the Cabinet Office and am based in the amazing city of Bristol.
 
-I joined the Civil Service in 2015 as an apprentice working on the Civil Service Jobs website. Having such a small Cabinet Office presence in Bristol made it easier to be part of the core Civil Service LGBT+ network than the Cabinet Office one, so along with Andrew Cowler I became a regional organiser and rep for the south west region of the network in 2018. I've loved seeing our little community grow in numbers, and meeting and having the opportunity to work with so many colleagues from different departments has been amazing.
+My hope and aim is that every LGBTQ+ civil servant in the South West (and beyond) feels safe, seen and supported by the CS LGBT+ Network and has a community they can rely on.
+
+If you have ideas for events, want to get involved or just want to talk more about what we do in the South West, don't hesitate to get in touch!
