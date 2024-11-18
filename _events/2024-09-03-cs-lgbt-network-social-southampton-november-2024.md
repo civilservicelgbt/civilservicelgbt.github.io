@@ -10,7 +10,7 @@ event:
   deadline: 2024-11-21T14:30:00.000Z
   email: southeast@civilservice.lgbt
   no-register: Registration is not mandatory
-  location: TBC
+  location: Raven and Bine, 16 Carlton Place, Southampton, SO15 2DY
 category:
   - south-east
 ---
