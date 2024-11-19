@@ -1,7 +1,7 @@
 ---
 layout: team
 title: "Louise"
-person-name: "Louise Bayliss-Chapman"
+person-name: "Louise"
 role: "project team"
 project: "Bi+ inclusion"
 image: "/assets/images/uploads/team/louise-bayliss-chapman.jpg.JPG"
