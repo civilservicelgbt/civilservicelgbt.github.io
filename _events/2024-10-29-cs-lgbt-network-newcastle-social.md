@@ -10,7 +10,7 @@ event:
   start: 2024-11-28T17:30:00.000Z
   end: 2024-11-28T19:30:00.000Z
   deadline: 2024-11-27T12:00:00.000Z
-  location: Bobby's Bar Newcastle, 78 Scotswood Rd, Newcastle upon Tyne NE4 7JH
+  location: The Yard 2 Scotswood Road, Newcastle Upon Tyne NE4 7JB
   email: northeast@civilservice.lgbt
   no-register: Registration is not mandatory
 category:
