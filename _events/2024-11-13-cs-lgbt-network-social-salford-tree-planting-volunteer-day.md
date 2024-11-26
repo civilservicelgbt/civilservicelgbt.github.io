@@ -1,9 +1,9 @@
 ---
 layout: event
-title: CS LGBT+ Network Social - Salford Tree Planting - Volunteer Day
-excerpt: Join us for a Tree Planting Volunteer Day at Weaste Cemetery on 28th
-  November, starting at 10 am. Help us green up the area and contribute to a
-  more sustainable future. No experience needed.
+title: POSTPONED - CS LGBT+ Network Social - Salford Tree Planting - Volunteer Day
+excerpt: POSTPONED - Join us for a Tree Planting Volunteer Day at Weaste
+  Cemetery on 28th November, starting at 10 am. Help us green up the area and
+  contribute to a more sustainable future. No experience needed.
 date: 2024-11-13T07:27:36.133Z
 event:
   host: Civil Service LGBT+ Network, DTS and CGI
@@ -16,6 +16,8 @@ event:
 category:
   - north-west
 ---
+P﻿OSTPONED - This event has been postponed due to unforeseen circumstances. Please keep an eye on the website for future opportunities, including a rearranged date for tree planting.
+
 Join us for a Tree Planting Volunteer Day at Weaste Cemetery on 28th November, starting at 10 am. Help us green up the area and contribute to a more sustainable future. No experience needed – just bring your enthusiasm! Wear sturdy boots, a warm coat, and waterproofs if it’s wet. We’ll provide tools, gloves, and motivation to keep you going. Whether you're planting one tree or many, your efforts make a difference! Come along and be part of a fantastic community effort to improve our environment. The Cemetery is a short walk away from Langworthy Tram Stop.
 
 There will be a volunteer contingent from Government Departments and the CS LGBT+ Network, this tree planting will not only be exclusively with members of our Network.
