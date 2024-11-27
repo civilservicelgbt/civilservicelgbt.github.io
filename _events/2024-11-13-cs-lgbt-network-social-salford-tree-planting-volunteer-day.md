@@ -1,24 +1,24 @@
 ---
 layout: event
-title: POSTPONED - CS LGBT+ Network Social - Salford Tree Planting - Volunteer Day
-excerpt: POSTPONED - Join us for a Tree Planting Volunteer Day at Weaste
-  Cemetery on 28th November, starting at 10 am. Help us green up the area and
+title: REARRANGED - CS LGBT+ Network Social - Salford Tree Planting - Volunteer Day
+excerpt: REARRANGED - Join us for a Tree Planting Volunteer Day at Weaste
+  Cemetery on 2 December, starting at 10 am. Help us green up the area and
   contribute to a more sustainable future. No experience needed.
 date: 2024-11-13T07:27:36.133Z
 event:
   host: Civil Service LGBT+ Network, DTS and CGI
-  start: 2024-11-28T10:00:00.000Z
+  start: 2024-12-02T10:00:00.000Z
   end: ""
-  deadline: 2024-11-27T16:00:00.000Z
+  deadline: 2024-12-01T16:00:00.000Z
   location: Weaste Cemetery, Cemetery Road (off Eccles New Road), Weaste, Salford M5 5NR
   email: northwest@civilservice.lgbt
   no-register: Please register for this event
 category:
   - north-west
 ---
-P﻿OSTPONED - This event has been postponed due to unforeseen circumstances. Please keep an eye on the website for future opportunities, including a rearranged date for tree planting.
+R﻿EARRANGED - This is the new rearranged date for the tree planting. This was originally advertised for 28 November 2024. 
 
-Join us for a Tree Planting Volunteer Day at Weaste Cemetery on 28th November, starting at 10 am. Help us green up the area and contribute to a more sustainable future. No experience needed – just bring your enthusiasm! Wear sturdy boots, a warm coat, and waterproofs if it’s wet. We’ll provide tools, gloves, and motivation to keep you going. Whether you're planting one tree or many, your efforts make a difference! Come along and be part of a fantastic community effort to improve our environment. The Cemetery is a short walk away from Langworthy Tram Stop.
+Join us for a Tree Planting Volunteer Day at Weaste Cemetery on 2 December, starting at 10 am. Help us green up the area and contribute to a more sustainable future. No experience needed – just bring your enthusiasm! Wear sturdy boots, a warm coat, and waterproofs if it’s wet. We’ll provide tools, gloves, and motivation to keep you going. Whether you're planting one tree or many, your efforts make a difference! Come along and be part of a fantastic community effort to improve our environment. The Cemetery is a short walk away from Langworthy Tram Stop.
 
 There will be a volunteer contingent from Government Departments and the CS LGBT+ Network, this tree planting will not only be exclusively with members of our Network.
 
