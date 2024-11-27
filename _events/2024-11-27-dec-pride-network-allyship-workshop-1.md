@@ -29,7 +29,7 @@ This workshop will:\
 ✨ Offer a safe space to ask questions and build your confidence.\
 ✨ Empower you to be a stronger ally!
 
-There will be a [pre-event coffee morning](https://www.civilservice.lgbt/event/2024-11-27-dec-pride-network-coffee-morning/) and post event social in the Juniper tree, (look out for the inflatable unicorn) the event will end when people want to go home.  
+There will be a [pre-event coffee morning](https://www.civilservice.lgbt/event/2024-11-27-dec-pride-network-coffee-morning/) and post event [social in the Juniper tree](https://www.civilservice.lgbt/event/2024-11-27-dec-cs-lgbt-network-social-february-2025/), (look out for the inflatable unicorn) the event will end when people want to go home.  
 
 If you have never been to the DEC before or are unsure where to go, please ask at reception for directions
 
