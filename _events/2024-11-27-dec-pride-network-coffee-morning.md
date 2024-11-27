@@ -20,8 +20,8 @@ F﻿ollowing this there will be two identical workshops being run on Allyship - 
 
 P﻿lease sign up to the workshop you would like to attend. Sessions can be attended in person or online.
 
-\-﻿ Morning 11:00 - 12:00 - A link to this event is here.
+\-﻿ Morning 11:00 - 12:00 - A link to this event is [here](https://www.civilservice.lgbt/event/2024-11-27-dec-pride-network-allyship-workshop/).
 
-\-﻿ Afternoon 14:00 - 15:00 - A link to this event is here.
+\-﻿ Afternoon 14:00 - 15:00 - A link to this event is [here](https://www.civilservice.lgbt/event/2024-11-27-dec-pride-network-allyship-workshop-1/).
 
-T﻿here will also be a post work social at the The Juniper Tree, 25 Grange Road. Full details of this social can be seen here.
+T﻿here will also be a post work social at the The Juniper Tree, 25 Grange Road. Full details of this social can be seen [here](https://www.civilservice.lgbt/event/2024-11-27-dec-cs-lgbt-network-social-february-2025/).
