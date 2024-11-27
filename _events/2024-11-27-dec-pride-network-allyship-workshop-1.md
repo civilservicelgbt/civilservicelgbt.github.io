@@ -4,7 +4,7 @@ title: DEC Pride Network Allyship Workshop
 excerpt: Join members of the DEC Pride Network for a workshop on Allysip.
 date: 2024-11-27T08:39:37.621Z
 event:
-  host: Civil Service LGBT+ Network
+  host: DEC Pride Network
   start: 2025-02-19T14:00:00.000Z
   end: 2025-02-19T15:00:00.000Z
   deadline: 2025-02-18T12:00:00.000Z
