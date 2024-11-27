@@ -2,7 +2,7 @@
 layout: event
 title: REARRANGED - CS LGBT+ Network Social - Salford Tree Planting - Volunteer Day
 excerpt: REARRANGED - Join us for a Tree Planting Volunteer Day at Weaste
-  Cemetery on 28th November, starting at 10 am. Help us green up the area and
+  Cemetery on 2 December, starting at 10 am. Help us green up the area and
   contribute to a more sustainable future. No experience needed.
 date: 2024-11-13T07:27:36.133Z
 event:
