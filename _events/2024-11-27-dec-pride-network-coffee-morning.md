@@ -4,7 +4,7 @@ title: DEC Pride Network Coffee Morning - February
 excerpt: Meet up with fellow civil servants for a DEC Pride Network coffee morning.
 date: 2024-11-27T08:20:51.658Z
 event:
-  host: Civil Service LGBT+ Network
+  host: DEC Pride Network
   start: 2025-02-19T09:30:51.672Z
   end: 2025-02-19T10:30:00.000Z
   deadline: 2025-02-18T12:00:00.000Z
