@@ -1,6 +1,6 @@
 ---
 layout: event
-title: DEC Pride Network Coffee Morning
+title: DEC Pride Network Coffee Morning - February
 excerpt: Meet up with fellow civil servants for a DEC Pride Network coffee morning.
 date: 2024-11-27T08:20:51.658Z
 event:
