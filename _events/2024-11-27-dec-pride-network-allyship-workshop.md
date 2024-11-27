@@ -4,7 +4,7 @@ title: DEC Pride Network Allyship Workshop
 excerpt: Join members of the DEC Pride Network for a workshop on Allysip.
 date: 2024-11-27T08:34:59.602Z
 event:
-  host: Civil Service LGBT+ Network
+  host: DEC Pride Network
   start: 2025-02-19T11:00:00.000Z
   end: 2025-02-19T12:00:00.000Z
   deadline: 2025-02-18T12:00:00.000Z
@@ -22,14 +22,14 @@ The Darlington Economic Campus (DEC) Pride Network are thrilled to announce two 
 
 It is open to all Civil Servants—whether you're new to allyship or looking to deepen your knowledge, we’d love to see you there. Let’s work together to make our modern workplace truly inclusive!
 
-I﻿f you would prefer to attend in the afternoon 1400 - 1500 then please use the links in the afternoon event page here.
+I﻿f you would prefer to attend in the afternoon 1400 - 1500 then please use the links in the afternoon event page [here](https://www.civilservice.lgbt/event/2024-11-27-dec-pride-network-allyship-workshop-1/).
 
 This workshop will:\
 ✨ Provide practical guidance on fostering an inclusive workplace.\
 ✨ Offer a safe space to ask questions and build your confidence.\
 ✨ Empower you to be a stronger ally!
 
-There will be a pre-event coffee morning and post event social in the Juniper tree, (look out for the inflatable unicorn) the event will end when people want to go home.  
+There will be a [pre-event coffee morning](https://www.civilservice.lgbt/event/2024-11-27-dec-pride-network-coffee-morning/) and post event [social in the Juniper tree](https://www.civilservice.lgbt/event/2024-11-27-dec-cs-lgbt-network-social-february-2025/), (look out for the inflatable unicorn) the event will end when people want to go home.  
 
 If you have never been to the DEC before or are unsure where to go, please ask at reception for directions
 
