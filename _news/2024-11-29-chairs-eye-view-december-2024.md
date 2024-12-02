@@ -26,7 +26,7 @@ The [London Film Club](https://www.civilservice.lgbt/event/2024-09-09-london-fil
 
 As well as the in-person socials there are several virtual events throughout December. The Planning Inspectorate’s Rainbow Network has organised a virtual event with representatives from the London Gay Men’s Chorus - Europe’s largest gay choir. Come along to hear their story, learn about their performances, charity and outreach work. We may even hear some music…\
 \
-[Please contact Jeanie or Sarah if you’re interested in joining this event on Thursday 6th of December.](https://www.civilservice.lgbt/event/2024-11-08-london-gay-mens-chorus-x-planning-inspectorate-rainbow-network/)
+[Please contact Jeanie or Sarah if you’re interested in joining this event on Thursday 5th of December.](https://www.civilservice.lgbt/event/2024-11-08-london-gay-mens-chorus-x-planning-inspectorate-rainbow-network/)
 
 Saorsa and I will be hosting an informal Coffee & Chat with a festive twist on the Tuesday 17th of December 2024 12:30-13:30. If you’d like to join us for this event you can [sign up here](https://events.teams.microsoft.com/event/566845b2-b88b-4c7c-91d0-38dc01eec498@96f1f6e9-1057-4117-ac28-80cdfe86f8c3). Please sign up using your work email.
 
