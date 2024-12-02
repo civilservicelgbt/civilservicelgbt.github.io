@@ -1,6 +1,6 @@
 ---
 layout: event
-title: CS LGBT+ Network Newcastle Social
+title: CS LGBT+ Network Newcastle Social - December
 excerpt: Meet up with fellow civil servants for November Social night in
   Newcastle on Thursday 19 December. This is open to all Civil Servants in the
   LGBT+ Network, and a:gender.
