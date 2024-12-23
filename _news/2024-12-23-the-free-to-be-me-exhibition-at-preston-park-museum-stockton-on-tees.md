@@ -44,3 +44,5 @@ The video – Masked.  In 2017 Ellie delivered her Trans101 awareness sessions 
 Lastly a picture of the Free To Be Me wall mural which lies on the wall outside the ARC Arts Centre Stockton and serves as a welcome to all who visit. The Free to be me Project champions inclusion in Stockton and beyond with an ever growing range of community initiatives, it includes the over 50’s group and the SYSTEMIC choir and is based on the premise that is explained in Ellie’s quote “any of us can be bullied or discriminated against, until we are all truly free to be our authentic self we will never enjoy the safer more inclusive society that benefits us all”.
 
 It is hoped the exhibition will raise the profile of the local LGBT+ community, create a greater understanding of the issues transgender people face, educate the public and reduce discrimination.
+
+The exhibition runs from now until February at Preston Park and costs £5 entry which lasts for a year and after the exhibition closes the Free to be Me Project intends to work with the museum on many more exciting projects in the future.
