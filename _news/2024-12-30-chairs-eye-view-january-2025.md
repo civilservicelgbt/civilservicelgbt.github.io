@@ -28,28 +28,30 @@ author: Civil Service LGBT+ Network Co-Chairs
 > And I did not speak out
 >
 > Because I was not a socialist
-
-Then they came for the trade unionists
-
-And I did not speak out
-
-Because I was not a trade unionist
-
-
-
-Then they came for the Jews
-
-And I did not speak out
-
-Because I was not a Jew
-
-
-
-Then they came for me
-
-And there was no one left
-
-To speak out for me
+>
+>
+>
+> Then they came for the trade unionists
+>
+> And I did not speak out
+>
+> Because I was not a trade unionist
+>
+>
+>
+> Then they came for the Jews
+>
+> And I did not speak out
+>
+> Because I was not a Jew
+>
+>
+>
+> Then they came for me
+>
+> And there was no one left
+>
+> To speak out for me
 
  **Pastor Martin Niemoller  (1892-1984)**
 
