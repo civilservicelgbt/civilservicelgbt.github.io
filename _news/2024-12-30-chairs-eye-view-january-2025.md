@@ -15,8 +15,6 @@ author: Civil Service LGBT+ Network Co-Chairs
 
 **Rev Martin Luther King Jnr (1929-1968)**
 
-
-
 > First they came for the Communists
 >
 > And I did not speak out
@@ -30,34 +28,30 @@ author: Civil Service LGBT+ Network Co-Chairs
 > And I did not speak out
 >
 > Because I was not a socialist
->
->
->
-> Then they came for the trade unionists
->
-> And I did not speak out
->
-> Because I was not a trade unionist
->
->
->
-> Then they came for the Jews
->
-> And I did not speak out
->
-> Because I was not a Jew
->
->
->
-> Then they came for me
->
-> And there was no one left
->
-> To speak out for me
+
+Then they came for the trade unionists
+
+And I did not speak out
+
+Because I was not a trade unionist
+
+
+
+Then they came for the Jews
+
+And I did not speak out
+
+Because I was not a Jew
+
+
+
+Then they came for me
+
+And there was no one left
+
+To speak out for me
 
  **Pastor Martin Niemoller  (1892-1984)**
-
-
 
 The 20th January marks the 30th Martin Luther King Jnr day, held as a public holiday in the USA.  A well-known civil rights campaigner, assassinated in 1968, his message of principled, non-violent opposition to injustice resonates around the world: especially in times of rising hate. His message, to me, was one of love and understanding to combat the hatred and intolerance of difference.
 
