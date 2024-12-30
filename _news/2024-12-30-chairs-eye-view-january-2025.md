@@ -63,6 +63,6 @@ And 19th January is World Religion Day. Both Rev Martin Luther King Jnr and Past
 
 As we celebrate the New Year, and some of us make our new year resolutions, it seems to me that these three dates, all falling at the start of the year as they do, call on all of us to reach out our arms to our fellow human beings in order to lift them up regardless of any differences we may have. To look with fresh eyes at the world and recommit to eradicating poverty, injustice, and intolerance. And to stand together and speak out against violence, hatred and dehumanisation.
 
-By standing together in our common humanity, we can make this world a better place for all. And that is my New Years Resolution. What’s yours?
+By standing together in our common humanity, we can make this world a better place for all. And that is my New Years Resolution, what’s yours?
 
 Saorsa-Amatheia Tweedale
