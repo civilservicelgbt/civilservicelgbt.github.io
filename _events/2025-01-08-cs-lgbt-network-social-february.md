@@ -1,17 +1,17 @@
 ---
 layout: event
-title: CS LGBT+ Network Social – February
+title: CS LGBT+ Network Social – February - East Midlands
 excerpt: "Out and about with Linden: Nottingham book launch."
 date: 2025-01-08T12:12:33.789Z
 event:
   host: Nottingham Central Library
   start: 2024-02-06T18:30:00.000Z
-  end: ""
+  end: 2024-02-06T21:00:00.000Z
   deadline: 2024-02-06T18:30:00.000Z
   location: Nottingham Central Library, 1 Carrington Street Nottingham NG1 7FH
   no-register: This is a public event hosted by The Linden Archives.
 category:
-  - north-east
+  - east-midlands
 ---
 An evening with photographer Stuart Linden Rhodes showing a collection of photographs from the Linden Archives telling stories behind the photographs.
 
