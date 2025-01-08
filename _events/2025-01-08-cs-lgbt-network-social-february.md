@@ -5,9 +5,9 @@ excerpt: "Out and about with Linden: Nottingham book launch."
 date: 2025-01-08T12:12:33.789Z
 event:
   host: Nottingham Central Library
-  start: 2025-01-08T12:12:33.808Z
-  end: 2025-01-08T12:12:33.819Z
-  deadline: 2025-01-08T12:12:33.830Z
+  start: 2024-02-06T18:30:00.000Z
+  end: ""
+  deadline: 2024-02-06T18:30:00.000Z
   location: Nottingham Central Library, 1 Carrington Street Nottingham NG1 7FH
   no-register: This is a public event hosted by The Linden Archives.
 category:
