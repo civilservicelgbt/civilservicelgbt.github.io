@@ -5,6 +5,7 @@ role: local organiser
 email: london@civilservice.lgbt
 project: Local Organiser
 region: London
+archive: "true"
 permalink: /team/valentina
 image: /assets/images/uploads/valentina.jpg
 ---
