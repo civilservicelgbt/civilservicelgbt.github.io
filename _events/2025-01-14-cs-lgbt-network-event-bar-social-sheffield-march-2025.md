@@ -16,7 +16,7 @@ event:
 category:
   - yorkshire-and-humber
 ---
-Join fellow civil servants for our regular Bar Social in Sheffield.   It’s an opportunity to meet fellow civil servants, in a safe space, and network.  We’ll be meeting at our regular spot, Hooting Owl Lounge York, an inclusive and accessible LGBT+ safe space.
+Join fellow civil servants for our regular Bar Social in Sheffield.   It’s an opportunity to meet fellow civil servants, in a safe space, and network.  We’ll be meeting at our regular spot, Rutland Arms, an inclusive safe space.
 
 T﻿he Rutland Arms can be found at the following address, or by the [what.3.words](https://what3words.com/retail.ship.bottom) location.
 
