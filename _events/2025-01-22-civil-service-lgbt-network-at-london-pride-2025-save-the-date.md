@@ -7,9 +7,9 @@ excerpt: "The Civil Service LGBT+ Network will be attending London Pride this
 date: 2025-01-22T08:38:55.580Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2025-01-22T08:38:55.590Z
-  end: 2025-01-22T08:38:55.598Z
-  deadline: 2025-01-22T08:38:55.606Z
+  start: 2025-07-05T12:00:00.000Z
+  end: 2025-07-05T12:00:00.000Z
+  deadline: 2025-07-05T12:00:00.000Z
   no-register: Registration will open soon
   location: London
 category:
