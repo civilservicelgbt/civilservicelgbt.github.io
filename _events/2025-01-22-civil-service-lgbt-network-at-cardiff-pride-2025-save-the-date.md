@@ -7,9 +7,9 @@ excerpt: "The Civil Service LGBT+ Network will be attending Cardiff Pride this
 date: 2025-01-22T08:29:37.035Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2025-06-22T12:00:00.000Z
-  end: 2025-06-22T12:00:00.000Z
-  deadline: 2025-06-22T12:00:00.000Z
+  start: 2025-06-21T12:00:00.000Z
+  end: 2025-06-21T12:00:00.000Z
+  deadline: 2025-06-21T12:00:00.000Z
   no-register: Registration will open soon
   location: Cardiff
 category:
