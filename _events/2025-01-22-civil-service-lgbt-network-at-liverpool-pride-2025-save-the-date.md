@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ Network at Liverpool Pride 2025 - Save the Date
+title: Civil Service LGBT+ Network at Liverpool Pride 2025
 excerpt: "The Civil Service LGBT+ Network will be attending Liverpool Pride this
   year. This is open to LGBT+ Civil Servants and supportive family and friends.
   "
@@ -10,8 +10,9 @@ event:
   start: 2025-07-26T12:00:00.000Z
   end: 2025-07-26T12:00:00.000Z
   deadline: 2025-07-26T12:00:00.000Z
-  no-register: Registration will open soon
+  no-register: Registration is Mandatory
   location: Liverpool
+  link: " https://forms.gle/Mkhu3Q2CvybHujfP6"
 category:
   - pride-2025
   - north-west
