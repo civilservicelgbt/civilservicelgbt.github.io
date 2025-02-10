@@ -34,8 +34,15 @@ Y﻿ou can now register for the below parades;
 * 3﻿0/08/2025 - Didsbury \[Social]
 * 2﻿7/09/2025 - Middlesbrough
 
-C﻿ivil Service LGBT+ Network Local Organisers are also planning on attending; Glasgow, Hull, Sheffield and Sunderland. Date confirmation of these parades are pending and will be published along with registration forms in due course.
+C﻿ivil Service LGBT+ Network Local Organisers are also planning on attending; 
 
-When you register for pride events please make a note of these in your calendar and please do inform your Local Organiser, or the central mailbox if your plans change.
+* Glasgow
+* Hull
+* Sheffield
+* Sunderland
+
+Date confirmation of these parades are pending and will be published along with registration forms in due course.
+
+When you register for pride events please make a note of these in your calendar and please do inform your [Local Organiser](https://www.civilservice.lgbt/team/), or the [central mailbox](mailto:pride2025@civilservice.lgbt) if your plans change.
 
 I hope you have a fantastic pride with the Civil Service LGBT+ Network for 2025.
