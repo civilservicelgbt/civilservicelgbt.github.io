@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ Network at York Pride 2025 - Save the Date
+title: Civil Service LGBT+ Network at York Pride 2025
 excerpt: "The Civil Service LGBT+ Network will be attending York Pride this
   year. This is open to LGBT+ Civil Servants and supportive family and friends.
   "
@@ -10,8 +10,9 @@ event:
   start: 2025-06-07T12:00:05.685Z
   end: 2025-06-07T12:00:00.000Z
   deadline: 2025-06-07T12:00:00.000Z
-  no-register: Registration will open soon
+  no-register: Registration is Mandatory
   location: York
+  link: https://forms.gle/7PoLNJRfmcfz6uqA8
 category:
   - pride-2025
   - yorkshire-and-humber
