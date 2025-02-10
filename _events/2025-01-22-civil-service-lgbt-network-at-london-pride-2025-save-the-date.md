@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ Network at London Pride 2025 - Save the Date
+title: Civil Service LGBT+ Network at London Pride 2025
 excerpt: "The Civil Service LGBT+ Network will be attending London Pride this
   year. This is open to LGBT+ Civil Servants and supportive family and friends.
   "
@@ -10,8 +10,9 @@ event:
   start: 2025-07-05T12:00:00.000Z
   end: 2025-07-05T12:00:00.000Z
   deadline: 2025-07-05T12:00:00.000Z
-  no-register: Registration will open soon
+  no-register: Registration is Mandatory
   location: London
+  link: https://forms.gle/ZqxeX9e9UHgYCbWB7
 category:
   - pride-2025
   - london
