@@ -10,8 +10,9 @@ event:
   start: 2025-07-06T12:00:07.817Z
   end: ""
   deadline: 2025-07-06T12:00:00.000Z
-  no-register: Registration will open soon
+  no-register: Registration is Mandatory
   location: Cleveland (Saltburn)
+  link: https://forms.gle/8fzxiepLxRVPo6Y6A
 category:
   - pride-2025
   - north-east
