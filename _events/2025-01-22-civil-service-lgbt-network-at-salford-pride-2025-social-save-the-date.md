@@ -10,8 +10,9 @@ event:
   start: 2025-06-21T12:00:00.000Z
   end: 2025-06-21T12:00:00.000Z
   deadline: 2025-06-21T12:00:00.000Z
-  no-register: Registration will open soon
+  no-register: Registration is Mandatory
   location: Salford
+  link: https://forms.gle/gYtQy86eUxWb739Z8
 category:
   - pride-2025
   - north-west
