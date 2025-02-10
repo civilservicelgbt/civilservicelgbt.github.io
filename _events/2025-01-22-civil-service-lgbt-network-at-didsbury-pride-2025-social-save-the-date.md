@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ Network at Didsbury Pride 2025 - Social - Save the Date
+title: Civil Service LGBT+ Network at Didsbury Pride 2025 - Social
 excerpt: "The Civil Service LGBT+ Network will be attending Didsbury Pride this
   year. This is open to LGBT+ Civil Servants and supportive family and friends.
   "
@@ -10,8 +10,9 @@ event:
   start: 2025-08-30T12:00:00.000Z
   end: 2025-08-30T12:00:00.000Z
   deadline: 2025-08-30T12:00:00.000Z
-  no-register: Registration will open soon
+  no-register: Registration is Mandatory
   location: Didsbury
+  link: https://forms.gle/zvuFsQE44GcXZKHu5
 category:
   - pride-2025
   - north-west
