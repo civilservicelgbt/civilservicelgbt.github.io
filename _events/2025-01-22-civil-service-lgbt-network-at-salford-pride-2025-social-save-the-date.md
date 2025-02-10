@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ Network at Salford Pride 2025 - Social - Save the Date
+title: Civil Service LGBT+ Network at Salford Pink Picnic 2025 - Social
 excerpt: "The Civil Service LGBT+ Network will be attending Salford Pride this
   year. This is open to LGBT+ Civil Servants and supportive family and friends.
   "
