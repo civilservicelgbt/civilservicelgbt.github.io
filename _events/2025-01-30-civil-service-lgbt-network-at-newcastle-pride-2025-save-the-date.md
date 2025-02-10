@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ Network at Newcastle Pride 2025 - Save the Date
+title: Civil Service LGBT+ Network at Newcastle Pride 2025
 excerpt: "The Civil Service LGBT+ Network will be attending Newcastle Pride this
   year. This is open to LGBT+ Civil Servants and supportive family and friends.
   "
@@ -10,8 +10,9 @@ event:
   start: 2025-07-19T12:00:18.062Z
   end: ""
   deadline: 2025-07-19T12:00:00.000Z
-  no-register: Registration will open soon
+  no-register: Registration is Mandatory
   location: Newcastle
+  link: https://forms.gle/RvXH7EeW7defuTuL6
 category:
   - pride-2025
   - north-east
