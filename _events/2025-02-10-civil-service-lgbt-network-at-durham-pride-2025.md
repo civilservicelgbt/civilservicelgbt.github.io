@@ -10,8 +10,9 @@ event:
   start: 2025-05-24T12:00:32.888Z
   end: ""
   deadline: 2025-05-24T12:00:00.000Z
-  no-register: Registration will open soon
+  no-register: Registration is Mandatory
   location: Durham
+  link: https://forms.gle/7m2Ed6MqRpiPzRm16
 category:
   - pride-2025
   - north-east
