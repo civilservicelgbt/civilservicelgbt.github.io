@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ Network at Stockton-on-Tees Pride 2025 - Save the Date
+title: Civil Service LGBT+ Network at Stockton-on-Tees Pride 2025
 excerpt: "The Civil Service LGBT+ Network will be attending Stockton-on-Tees
   Pride this year. This is open to LGBT+ Civil Servants and supportive family
   and friends. "
@@ -10,8 +10,9 @@ event:
   start: 2025-07-26T12:00:00.000Z
   end: 2025-07-26T12:00:00.000Z
   deadline: 2025-07-26T12:00:00.000Z
-  no-register: Registration will open soon
+  no-register: Registration is Mandatory
   location: Stockton-on-Tees
+  link: https://forms.gle/45FdNFFpNP4sT95S8
 category:
   - pride-2025
   - north-east
