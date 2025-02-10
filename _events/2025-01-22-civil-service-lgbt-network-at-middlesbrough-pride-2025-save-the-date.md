@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Civil Service LGBT+ Network at Middlesbrough Pride 2025 - Save the Date
+title: Civil Service LGBT+ Network at Middlesbrough Pride 2025
 excerpt: "The Civil Service LGBT+ Network will be attending Middlesbrough Pride
   this year. This is open to LGBT+ Civil Servants and supportive family and
   friends. "
@@ -10,8 +10,9 @@ event:
   start: 2025-09-27T12:00:00.000Z
   end: 2025-09-27T12:00:00.000Z
   deadline: 2025-09-27T12:00:00.000Z
-  no-register: Registration will open soon
+  no-register: Registration is Mandatory
   location: "Middlesbrough "
+  link: https://forms.gle/8JqTvmjSPET7xPKE7
 category:
   - pride-2025
   - north-east
