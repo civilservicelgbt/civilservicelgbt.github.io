@@ -1,9 +1,9 @@
 ---
 layout: event
 title: Civil Service LGBT+ Network at Edinburgh Pride 2025
-excerpt: "The Civil Service LGBT+ Network will be attending Portsmouth Pride
-  this year. This is open to LGBT+ Civil Servants and supportive family and
-  friends. "
+excerpt: "The Civil Service LGBT+ Network will be attending Edinburgh Pride this
+  year. This is open to LGBT+ Civil Servants and supportive family and friends.
+  "
 date: 2025-02-10T16:01:39.410Z
 event:
   host: Civil Service LGBT+ Network
