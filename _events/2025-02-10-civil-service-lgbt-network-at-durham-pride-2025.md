@@ -7,9 +7,9 @@ excerpt: "The Civil Service LGBT+ Network will be attending Durham Pride this
 date: 2025-02-10T16:03:32.877Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2025-05-24T12:00:32.888Z
+  start: 2025-05-25T12:00:32.888Z
   end: ""
-  deadline: 2025-05-24T12:00:00.000Z
+  deadline: 2025-05-25T12:00:00.000Z
   no-register: Registration is Mandatory
   location: Durham
   link: https://forms.gle/7m2Ed6MqRpiPzRm16
