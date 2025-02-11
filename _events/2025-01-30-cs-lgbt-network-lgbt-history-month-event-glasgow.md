@@ -18,6 +18,8 @@ category:
 ---
 The Civil Service LGBT+ Network host a number of events throughout the year. This event is being held in partnership with the HMRC PRISM LGBT+ Network. So why don’t you join fellow Civil Servants on 19 February for our exciting LGBT+ History Month Event
 
+T﻿his event will run from 0900 - 1300.
+
 We will have presentations around LGBT History, alongside some stories, quizzes, and activities.
 
 Spaces will fill up fast, however we will be holding a reserve list. 
