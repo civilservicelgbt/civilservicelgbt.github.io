@@ -18,6 +18,7 @@ Y﻿ou can now register for the below parades;
 * 2﻿1/06/2025 - Edinburgh
 * 2﻿1/06/2025 - Salford Pink Picnic \[Social]
 * 2﻿2/06/2025 - Cardiff
+* 2﻿8/06/2025 - Sunderland
 * 0﻿5/07/2025 - Hartlepool
 * 0﻿5/07/2025 - London \[Balloted]
 * 0﻿6/07/2025 - Cleveland (Saltburn) \[Social]
@@ -37,9 +38,7 @@ Y﻿ou can now register for the below parades;
 C﻿ivil Service LGBT+ Network Local Organisers are also planning on attending; 
 
 * Glasgow
-* Hull
 * Sheffield
-* Sunderland
 
 Date confirmation of these parades are pending and will be published along with registration forms in due course.
 
