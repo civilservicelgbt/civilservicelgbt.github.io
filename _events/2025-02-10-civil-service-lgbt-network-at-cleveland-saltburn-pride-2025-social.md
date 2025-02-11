@@ -1,9 +1,9 @@
 ---
 layout: event
 title: Civil Service LGBT+ Network at Cleveland (Saltburn) Pride 2025 - Social
-excerpt: "The Civil Service LGBT+ Network will be attending Salford Pride this
-  year. This is open to LGBT+ Civil Servants and supportive family and friends.
-  "
+excerpt: "The Civil Service LGBT+ Network will be attending Cleveland (Saltburn)
+  Pride this year. This is open to LGBT+ Civil Servants and supportive family
+  and friends. "
 date: 2025-02-10T15:58:07.806Z
 event:
   host: Civil Service LGBT+ Network
