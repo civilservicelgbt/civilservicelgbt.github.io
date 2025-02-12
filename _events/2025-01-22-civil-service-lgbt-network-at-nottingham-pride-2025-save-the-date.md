@@ -21,7 +21,7 @@ category:
 
 The Civil Service LGBT+ Network are planning to attend Pride celebrations at this location. Details for the day will be confirmed here closer to the time. 
 
-When registrations open please register via the form linked above to be kept in the loop. You can register for all pride parades/events on one form. If you decide you would like to join another parade, you can either edit your previous form, or is you submit a new form please only then include your additional parades, we will still have your first form.
+Registration is open and this is done by one form per event.
 
 I﻿f you realise you can no longer attend this event then please do get in touch with your [local organiser](https://www.civilservice.lgbt/team/). All of our people are volunteers, please be patient if you do not get a response straight away. 
 
