@@ -4,13 +4,15 @@ title: Chair's Eye View - February 2025
 excerpt: Please see this months chair's eye view
 date: 2025-02-12T17:59:29.531Z
 author: Civil Service LGBT+ Network Co-Chairs
-image: /assets/images/uploads/lgbthm25.png
+image: ""
 ---
 LGBT+ History Month was founded in 2005 by Schools Out, following the repeal of section 28. This February, its 20 years since we first started celebrating LGBT+ History Month. It is an opportunity to celebrate and highlight all the incredible things LGBT+ people, in all our diversity, have achieved throughout history in all areas of life.
 
 The theme this year is Activism and Social Change. Throughout history, LGBT+ people have been activists and helped shape and create societal change, advancing society for everyone using many different approaches to activism.
 
 Throughout LGBT+ History Month, there are a variety of events that colleagues can attend, from lunch and learns, coffee mornings, allyship workshops, and walking tours across the UK. You can catch up with all our latest events on the events section of our website.
+
+![](/assets/images/uploads/lgbthm25.png)
 
 It’s important we continue to ensure our network thrives. We’re really focusing on making sure there are CS LGBT+ spaces across all parts of the UK. There is currently a focus on North Wales, where a small focus group of colleagues from various departments discuss and plan how we can bring and plan for a Civil Service LGBT+ presence in North Wales. To get involved with our North Wales project, or you would like to know more information, please contact [NorthWales@civilservice.lgbt](mailto:NorthWales@civilservice.lgbt). Other target areas include East of England, Scottish Highlands and Islands. If you want to get involved, please reach out to [Chairs@civilservice.lgbt](mailto:Chairs@civilservice.lgbt).
 
