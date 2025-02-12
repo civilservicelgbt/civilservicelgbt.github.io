@@ -1,21 +1,21 @@
 ---
 layout: event
-title: Civil Service LGBT+ Network at Edinburgh Pride 2025
-excerpt: "The Civil Service LGBT+ Network will be attending Edinburgh Pride this
-  year. This is open to LGBT+ Civil Servants and supportive family and friends.
-  "
+title: Civil Service LGBT+ Network at Sunderland Pride 2025
+excerpt: "The Civil Service LGBT+ Network will be attending Sunderland Pride
+  this year. This is open to LGBT+ Civil Servants and supportive family and
+  friends. "
 date: 2025-02-10T16:01:39.410Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2025-06-21T12:00:39.421Z
+  start: 2025-06-28T12:00:39.421Z
   end: ""
-  deadline: 2025-06-21T12:00:00.000Z
+  deadline: 2025-06-28T12:00:00.000Z
   no-register: Registration is Mandatory
-  location: Edinburgh
-  link: https://forms.gle/sApNNk43gb2GEuUf7
+  location: Sunderland
+  link: https://forms.gle/pLfQUcuD1ZMswak68
 category:
   - pride-2025
-  - Scotland
+  - north-east
 ---
 *P﻿lease note that the start time of this event is currently showing as 1200 - this will be adjusted when plans for the day are finalised. It will be noted here when details are final.*
 
