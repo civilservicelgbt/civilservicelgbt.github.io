@@ -5,7 +5,7 @@ role: vice chair
 email: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
 project: Ethnic minority group inclusion
 region: null
-archive: "true"
+archive: "false"
 permalink: /team/claire
 image: /assets/images/uploads/img_20250126_221540_547.webp
 ---
