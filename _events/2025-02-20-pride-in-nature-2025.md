@@ -10,6 +10,7 @@ event:
   deadline: 2025-02-26T09:30:18.461Z
   location: Live Streamed (Youtube)
   link: https://www.ticketsource.co.uk/pride-in-nature/t-pqandaz
+  email: pride@naturalengland.org.uk
 category: []
 ---
 Pride in Nature 2025 is a face-to-face event to convene leaders from across the environment sector to further the inclusion of, and celebrate the LGBTQ+ community.
