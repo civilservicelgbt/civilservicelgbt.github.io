@@ -1,6 +1,7 @@
 ---
 layout: event
-title: "‘Lunch and Learn’ Webinar: Cymraeg, Queer History and Language"
+title: "Lunch and Learn Webinar: Cymraeg Queer History and Language with Guest
+  Speaker Dr. Jonathan Morris "
 excerpt: As part of LGBT+ History Month, join your fellow Civil Servants for a
   lunch and learn webinar on Wales’s LGBTQ+ history and how it’s reflected in
   the Welsh language.
@@ -13,5 +14,7 @@ event:
   email: PRISM@gov.wales
   location: MS Teams
   no-register: "Please email us to receive an MS Teams invitation to the webinar. "
+category:
+  - wales
 ---
-Mark both LGBT+ History Month and St David’s Day with this lunchtime talk hosted by the Welsh Government’s LGBTI+ Network, PRISM. PRISM’s Lesbian Champion, Cerys, will discuss Wales’s LGBTQ+ history and how it’s reflected in the Welsh language, as well as sharing some personal experiences of identifying as LGBTQ+ and being a first-language Welsh-speaker. To sign up to attend, please email the PRISM mailbox at [PRISM@gov.wales](mailto:PRISM@gov.wales)
+Mark both LGBT+ History Month and St David’s Day with this lunchtime talk hosted by the Welsh Government’s LGBTI+ Network, PRISM, with our guest speaker Dr. Jonathan Morris of Cardiff University. PRISM’s Lesbian Champion. Cerys will discuss Wales’s LGBTQ+ history and how it’s reflected in the Welsh language, as well as sharing some personal experiences of identifying as LGBTQ+ and being a first-language Welsh-speaker, while Dr. Morris, a co-author of Queering Language Revitalisation, will discuss his work on queer Welsh linguistics. To sign up to attend, please email [PRISM@gov.wales](mailto:PRISM@gov.wales)
