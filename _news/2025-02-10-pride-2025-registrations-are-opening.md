@@ -23,6 +23,7 @@ Y﻿ou can now register for the below parades;
 * 0﻿5/07/2025 - London \[Balloted]
 * 0﻿6/07/2025 - Cleveland (Saltburn) \[Social]
 * 1﻿2/07/2025 - Bristol
+* 1﻿9/07/2025 - Glasgow
 * 1﻿9/07/2025 - Newcastle
 * 2﻿0/07/2025 - Leeds
 * 2﻿6/07/2025 - Belfast
@@ -37,7 +38,6 @@ Y﻿ou can now register for the below parades;
 
 C﻿ivil Service LGBT+ Network Local Organisers are also planning on attending; 
 
-* Glasgow
 * Sheffield
 
 Date confirmation of these parades are pending and will be published along with registration forms in due course.
