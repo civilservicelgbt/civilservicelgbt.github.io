@@ -15,6 +15,7 @@ event:
   link: https://forms.gle/zPiYyM3WyrFfomMR8
 category:
   - scotland
+  - pride-2025
 ---
 *P﻿lease note that the start time of this event is currently showing as 1200 - this will be adjusted when plans for the day are finalised. It will be noted here when details are final.*
 
