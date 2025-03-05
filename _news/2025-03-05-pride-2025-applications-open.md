@@ -10,7 +10,7 @@ category:
 ---
 # Registrations Are Open
 
-R﻿egistrations for our pride offering for Pride 2025 are open! With LGBT+ History Month over our attention turns to Pride. We are parading and attending more locations that in previous years, we do hope that you support us at Pride 2025.
+R﻿egistrations for our pride offering for Pride 2025 are open! With LGBT+ History Month over our attention turns to Pride. We are parading and attending more locations that in previous years, we do hope that you support us at Pride 2025. For details of the offering please check out the page - [Pride 2025](https://www.civilservice.lgbt/pride-2025/). 
 
 P﻿lease spread the word and make this year more successful than ever. Parading as one Civil Service is amazing, creating unity, a sense of belonging and security for our groups is brilliant and we look forward to seeing you at a parade, or parades, this year.
 
