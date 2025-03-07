@@ -14,7 +14,7 @@ event:
   email: northwest@civilservice.lgbt
   no-register: Registration is not mandatory
 category:
-  - manchester
+  - north-west
 ---
 The Civil Service LGBT+ Network host a number of events throughout the year. Our Manchester Socials happen every second Thursday of the month, so why not join us! Starting from 5pm - Late, stop by for a drink, bite or even just a chat. If you are new to the network or it’s your first event by all means reach out to the Local Organisers via email: [northwest@civilservice.lgbt](mailto:northwest@civilservice.lgbt)
 
