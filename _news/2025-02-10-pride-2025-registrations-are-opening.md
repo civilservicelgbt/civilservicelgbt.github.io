@@ -17,7 +17,7 @@ Y﻿ou can now register for the below parades;
 * 0﻿7/06/2025 - York
 * 2﻿1/06/2025 - Edinburgh
 * 2﻿1/06/2025 - Salford Pink Picnic \[Social]
-* 2﻿2/06/2025 - Cardiff
+* 2﻿1/06/2025 - Cardiff
 * 2﻿8/06/2025 - Sunderland
 * 0﻿5/07/2025 - Hartlepool
 * 0﻿5/07/2025 - London \[Balloted]
