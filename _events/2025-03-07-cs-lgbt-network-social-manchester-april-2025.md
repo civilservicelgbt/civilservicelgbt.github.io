@@ -1,12 +1,12 @@
 ---
 layout: event
-title: CS LGBT+ Network Social - Manchester – April 2025
-excerpt: "The Civil Service LGBT+ Network host a number of events throughout the
-  year. Our Manchester Socials happen every second Thursday of the month, so why
-  not join us! "
+title: CS LGBT+ Network & a:gender Social - Manchester – April 2025
+excerpt: "The Civil Service LGBT+ and a:gender Network host a number of events
+  throughout the year. Our Manchester Socials happen every second Thursday of
+  the month, so why not join us! "
 date: 2025-03-07T08:25:58.119Z
 event:
-  host: Civil Service LGBT+ Network
+  host: Civil Service LGBT+ Network & a:gender
   start: 2025-04-10T17:00:58.129Z
   end: ""
   deadline: 2025-04-10T17:00:00.000Z
