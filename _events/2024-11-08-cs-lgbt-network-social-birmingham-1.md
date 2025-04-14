@@ -9,7 +9,7 @@ event:
   start: 2025-05-01T18:00:45.630Z
   end: ""
   deadline: 2025-05-01T09:00:00.000Z
-  location: The Loft, 143 Bromsgrove Street, Birmingham, B5 6RG
+  location: Cherry Red's Cafe Bar, 88-92 John Bright St, Birmingham B1 1BN
   email: westmidlands@civilservice.lgbt
   no-register: Registration is not mandatory
 category:
