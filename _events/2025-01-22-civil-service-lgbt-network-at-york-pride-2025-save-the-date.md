@@ -23,6 +23,8 @@ The Civil Service LGBT+ Network are planning to attend Pride celebrations at thi
 
 Registration is open and this is done by one form per event.
 
+T﻿here is also a social the day before the parade for people that may be around. [Pre York Pride (York)](https://www.civilservice.lgbt/event/2025-04-29-pre-york-pride-york/)
+
 I﻿f you realise you can no longer attend this event then please do get in touch with your [local organiser](https://www.civilservice.lgbt/team/). All of our people are volunteers, please be patient if you do not get a response straight away. 
 
 F﻿or any other queries in relation to the Civil Service LGBT+ Network Pride 2025 activities please email the pride co-ordinator - [pride2025@civilservice.lgbt](mailto:pride2025@civilservice.lgbt).
