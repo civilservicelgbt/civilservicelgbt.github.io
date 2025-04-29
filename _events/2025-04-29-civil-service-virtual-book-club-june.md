@@ -6,9 +6,9 @@ excerpt: " Join the vibrant world of literature and inclusivity with our Virtual
 date: 2025-04-29T15:46:03.260Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2025-04-29T15:46:03.284Z
-  end: 2025-04-29T15:46:03.298Z
-  deadline: 2025-04-29T15:46:03.307Z
+  start: 2025-06-26T18:00:00.000Z
+  end: ""
+  deadline: 2025-05-30T16:30:00.000Z
   location: MS Teams
   email: bookclub@civilservice.lgbt
   no-register: Please register to receive the MS Teams link
