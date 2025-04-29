@@ -10,8 +10,9 @@ event:
   end: 2025-05-24T15:00:00.000Z
   deadline: 2025-05-20T18:00:00.000Z
   location: TBC
-  email: yorkshireandhumber@civilservice.lgbt
+  email: ""
   no-register: Registration is mandatory
+  link: https://forms.office.com/e/gtkMeR39Fw
 category:
   - yorkshire-and-humber
 ---
