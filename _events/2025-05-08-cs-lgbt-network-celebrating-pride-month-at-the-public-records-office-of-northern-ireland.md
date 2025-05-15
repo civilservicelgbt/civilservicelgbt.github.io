@@ -1,6 +1,6 @@
 ---
 layout: event
-title: CS LGBT+ Network- Celebrating Pride month at the Public Records Office of
+title: CS LGBT+ Network- Celebrating Pride month at the Public Record Office of
   Northern Ireland
 excerpt: Join fellow Civil Servants as we visit PRONI to explore the history of
   Belfast Pride. This event is open to all civil servants in the LGBT+ Network
@@ -20,7 +20,7 @@ category:
 ---
 The Civil Service LGBT+ Network organises informal networking and social events so that LGBT+ civil servants can meet each other. Our local organisers organise these events in various cities across the country.
 
-On the 3rd of July 2025 join us as we celebrate Belfast Pride month at the Public Records Office of Northern Ireland.
+On the 3rd of July 2025 join us as we celebrate Belfast Pride month at the Public Record Office of Northern Ireland.
 
 During our event we will be looking at the history of Belfast Pride and how it started out. We will get time to view the collections of records held from Northern Ireland Gay Rights Association (NIGRA), PA Mag Lochlainn and Cara-Friend, all while hearing about how we as a community can contribute to preserving our history.
 
