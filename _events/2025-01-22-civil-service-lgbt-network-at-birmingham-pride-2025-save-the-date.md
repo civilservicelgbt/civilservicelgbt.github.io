@@ -7,21 +7,24 @@ excerpt: "The Civil Service LGBT+ Network will be attending Birmingham Pride
 date: 2025-01-22T08:22:19.357Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2025-05-24T12:00:19.367Z
-  end: 2025-05-24T12:00:00.000Z
+  start: 2025-05-24T12:15:19.367Z
+  end: ""
   deadline: 2025-05-24T12:00:00.000Z
   no-register: Registration is Mandatory
-  location: Birmingham
+  location: Chamberlin Square, Birmingham
   link: https://forms.gle/xUhGd4HUUiaLuAqt8
 category:
   - pride-2025
   - west-midlands
 ---
-*P﻿lease note that the start time of this event is currently showing as 1200 - this will be adjusted when plans for the day are finalised. It will be noted here when details are final.*
+*T﻿his event details have been updated on 16/05/2025*
 
-The Civil Service LGBT+ Network are planning to attend Pride celebrations at this location. Details for the day will be confirmed here closer to the time. 
+P﻿lease be at Chamberlin Square no later than 1215, keep an eye out for the pink Civil Service t-shirts. We need to sign people in at registration. Our group will be called up to parade around 1300/1315, but this time may move on the day depending on how quickly the parade moves off.
 
-Registration is open and this is done by one form per event.
+THE PARADE ROUTE:
+Centenary Square (Broad Street) > Paradise Circus Tramway > New Street > left turn onto High Street > right turn onto Carrs Lane > right turn onto Moor Street Queensway / St.Martins Queensway > Smallbrook Queensway > left turn onto Hurst Street .
+
+B﻿irmingham Pride and Council have a no alcohol policy for the parade, as well as no glass or sharp objects too, please dispose of litter in bins provided along the parade. Please note that there will be media coverage throughout the parade.
 
 I﻿f you realise you can no longer attend this event then please do get in touch with your [local organiser](https://www.civilservice.lgbt/team/). All of our people are volunteers, please be patient if you do not get a response straight away. 
 
