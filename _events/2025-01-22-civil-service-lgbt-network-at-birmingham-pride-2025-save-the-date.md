@@ -19,7 +19,14 @@ category:
 ---
 *T﻿his event details have been updated on 16/05/2025*
 
-P﻿lease be at Chamberlin Square no later than 1215, keep an eye out for the pink Civil Service t-shirts. We need to sign people in at registration. Our group will be called up to parade around 1300/1315, but this time may move on the day depending on how quickly the parade moves off.
+P﻿lease be at Chamberlin Square no later than 1215, keep an eye out for the pink Civil Service t-shirts. We need to sign people in at registration and make sure all pre parade checks are done, as well as have a lovely group photo.. Our group will be called up to parade around 1300/1315, but this time may move on the day depending on how quickly the parade moves off.
+
+T﻿here are two further t-shirt collections available for attendees;
+
+* Monday 19 May 13:00-14:00
+* Thursday 22 May 12:30-13:30
+
+T﻿here is also a whatsapp group available to join as well, please email your local organiser from your .gov email address for confirmation of CS status.
 
 THE PARADE ROUTE:
 Centenary Square (Broad Street) > Paradise Circus Tramway > New Street > left turn onto High Street > right turn onto Carrs Lane > right turn onto Moor Street Queensway / St.Martins Queensway > Smallbrook Queensway > left turn onto Hurst Street .
