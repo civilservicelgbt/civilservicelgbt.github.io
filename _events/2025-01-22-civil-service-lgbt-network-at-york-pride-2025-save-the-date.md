@@ -8,7 +8,7 @@ date: 2025-01-22T08:28:05.666Z
 event:
   host: Civil Service LGBT+ Network
   start: 2025-06-07T11:00:05.685Z
-  end: 2025-06-07T12:00:00.000Z
+  end: ""
   deadline: 2025-06-07T12:00:00.000Z
   no-register: Registration is Mandatory
   location: York
