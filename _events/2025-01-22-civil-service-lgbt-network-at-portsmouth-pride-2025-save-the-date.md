@@ -7,9 +7,9 @@ excerpt: "The Civil Service LGBT+ Network will be attending Portsmouth Pride
 date: 2025-01-22T08:55:05.112Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2025-06-07T12:00:00.000Z
-  end: 2025-06-07T12:00:00.000Z
-  deadline: 2025-06-07T12:00:00.000Z
+  start: 2025-06-07T11:00:00.000Z
+  end: ""
+  deadline: 2025-05-28T12:00:00.000Z
   no-register: Registration is Mandatory
   location: Portsmouth
   link: https://forms.gle/2xiUpSvgpkfWEkcm6
@@ -17,9 +17,11 @@ category:
   - pride-2025
   - south-east
 ---
-*P﻿lease note that the start time of this event is currently showing as 1200 - this will be adjusted when plans for the day are finalised. It will be noted here when details are final.*
+*T﻿his information has been updated on 19 May 2025.*
 
-The Civil Service LGBT+ Network are planning to attend Pride celebrations at this location. Details for the day will be confirmed here closer to the time. 
+UK Pride in Portsmouth starts with a parade along the seafront, gathering from 11:00 with the aim for everyone in the parade to have arrived at the main stage in Southsea Common by 13:30. There will be entertainment on the main stage, food, market stalls etc. If you have any direct questions about this event, please email [southeast@civilservice.lgbt](mailto:southeast@civilservice.lgbt). If you want to join the Civil Service group please register and we will be in touch with our planned meeting point.
+
+The parade and the entertainment afterwards are free and open to anyone to join, but if you are joining the Civil Service group then please remember that you are to follow the Civil Service Code, and you must not be seen to be drinking or drunk whilst in your civil-service T-shirt.
 
 Registration is open and this is done by one form per event.
 
