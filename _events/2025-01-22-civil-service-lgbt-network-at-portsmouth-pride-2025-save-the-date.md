@@ -17,7 +17,7 @@ category:
   - pride-2025
   - south-east
 ---
-*T﻿his informaiton has been updated on 19 May 2025.*
+*T﻿his information has been updated on 19 May 2025.*
 
 UK Pride in Portsmouth starts with a parade along the seafront, gathering from 11:00 with the aim for everyone in the parade to have arrived at the main stage in Southsea Common by 13:30. There will be entertainment on the main stage, food, market stalls etc. If you have any direct questions about this event, please email [southeast@civilservice.lgbt](mailto:southeast@civilservice.lgbt). If you want to join the Civil Service group please register and we will be in touch with our planned meeting point.
 
