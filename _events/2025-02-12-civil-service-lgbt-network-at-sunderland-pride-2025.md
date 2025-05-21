@@ -9,7 +9,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2025-06-28T12:00:05.456Z
   end: 2025-06-28T12:00:00.000Z
-  deadline: 2025-06-28T12:00:00.000Z
+  deadline: 2025-06-18T12:00:00.000Z
   no-register: Registration is Mandatory
   location: Sunderland
   link: https://forms.gle/pLfQUcuD1ZMswak68
