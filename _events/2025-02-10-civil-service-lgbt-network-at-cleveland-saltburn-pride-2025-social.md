@@ -9,7 +9,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2025-07-06T12:00:07.817Z
   end: ""
-  deadline: 2025-07-06T12:00:00.000Z
+  deadline: 2025-06-25T12:00:00.000Z
   no-register: Registration is Mandatory
   location: Cleveland (Saltburn)
   link: https://forms.gle/8fzxiepLxRVPo6Y6A
