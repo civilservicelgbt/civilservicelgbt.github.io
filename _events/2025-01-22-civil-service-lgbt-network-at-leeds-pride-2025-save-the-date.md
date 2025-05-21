@@ -9,7 +9,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2025-07-20T12:00:00.000Z
   end: 2025-07-20T12:00:00.000Z
-  deadline: 2025-07-20T12:00:00.000Z
+  deadline: 2025-07-09T12:00:00.000Z
   no-register: Registration is Mandatory
   location: Leeds
   link: https://forms.gle/3N2XJQhkWjDTetut7
