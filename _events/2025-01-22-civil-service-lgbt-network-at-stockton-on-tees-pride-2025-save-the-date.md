@@ -9,7 +9,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2025-07-26T12:00:00.000Z
   end: 2025-07-26T12:00:00.000Z
-  deadline: 2025-07-26T12:00:00.000Z
+  deadline: 2025-07-16T12:00:00.000Z
   no-register: Registration is Mandatory
   location: Stockton-on-Tees
   link: https://forms.gle/45FdNFFpNP4sT95S8
