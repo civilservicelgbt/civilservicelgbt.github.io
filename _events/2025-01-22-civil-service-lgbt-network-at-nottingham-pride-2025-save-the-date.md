@@ -9,7 +9,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2025-07-26T12:00:00.000Z
   end: 2025-07-26T12:00:00.000Z
-  deadline: 2025-07-26T12:00:00.000Z
+  deadline: 2025-07-16T12:00:00.000Z
   no-register: Registration is Mandatory
   location: Nottingham
   link: https://forms.gle/st1JamuDfymyFrFj7
