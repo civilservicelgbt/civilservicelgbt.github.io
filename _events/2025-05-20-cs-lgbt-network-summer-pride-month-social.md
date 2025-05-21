@@ -1,6 +1,6 @@
 ---
 layout: event
-title: CS LGBT+ Network Summer Pride Month Social
+title: CS LGBT+ Network Summer Pride Social - Darlington
 excerpt: Meet up with fellow civil servants for a Summer Pride Month
   Social.  This is open to all Civil Servants in the LGBT+ Network, and
   a:gender.
