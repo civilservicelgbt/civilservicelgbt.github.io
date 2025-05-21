@@ -9,7 +9,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2025-07-05T12:00:00.000Z
   end: 2025-07-05T12:00:00.000Z
-  deadline: 2025-07-05T12:00:00.000Z
+  deadline: 2025-06-25T12:00:00.000Z
   no-register: Registration is Mandatory
   location: London
   link: https://forms.gle/ZqxeX9e9UHgYCbWB7
@@ -17,6 +17,8 @@ category:
   - pride-2025
   - london
 ---
+*T﻿he ballot for London Pride has taken place, you can still register and spaces on a reserve list are being offered as spaces become available.*
+
 *P﻿lease note that the start time of this event is currently showing as 1200 - this will be adjusted when plans for the day are finalised. It will be noted here when details are final.*
 
 The Civil Service LGBT+ Network are planning to attend Pride celebrations at this location. Details for the day will be confirmed here closer to the time. 
