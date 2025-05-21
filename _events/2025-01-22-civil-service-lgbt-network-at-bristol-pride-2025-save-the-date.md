@@ -9,7 +9,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2025-07-12T12:00:00.000Z
   end: 2025-07-12T12:00:00.000Z
-  deadline: 2025-07-12T12:00:00.000Z
+  deadline: 2025-07-02T12:00:00.000Z
   no-register: Registration is Mandatory
   location: Bristol
   link: https://forms.gle/RVSXP2YTFrkz9xUG7
