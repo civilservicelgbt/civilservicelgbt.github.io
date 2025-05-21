@@ -9,7 +9,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2025-08-09T12:00:00.000Z
   end: 2025-08-09T12:00:00.000Z
-  deadline: 2025-08-09T12:00:00.000Z
+  deadline: 2025-07-30T12:00:00.000Z
   no-register: Registration is Mandatory
   location: Darlington
   link: https://forms.gle/MsQNQhoewp6bvCNr9
