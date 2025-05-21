@@ -9,7 +9,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2025-09-27T12:00:00.000Z
   end: 2025-09-27T12:00:00.000Z
-  deadline: 2025-09-27T12:00:00.000Z
+  deadline: 2025-09-17T12:00:00.000Z
   no-register: Registration is Mandatory
   location: "Middlesbrough "
   link: https://forms.gle/8JqTvmjSPET7xPKE7
