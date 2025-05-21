@@ -9,7 +9,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2025-05-24T12:15:19.367Z
   end: ""
-  deadline: 2025-05-24T12:00:00.000Z
+  deadline: 2025-05-14T12:00:00.000Z
   no-register: Registration is Mandatory
   location: Chamberlin Square, Birmingham
   link: https://forms.gle/xUhGd4HUUiaLuAqt8
