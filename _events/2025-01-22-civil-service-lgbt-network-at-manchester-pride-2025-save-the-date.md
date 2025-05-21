@@ -9,7 +9,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2025-08-23T12:00:00.000Z
   end: 2025-08-23T12:00:00.000Z
-  deadline: 2025-08-23T12:00:00.000Z
+  deadline: 2025-08-13T12:00:00.000Z
   no-register: Registration is Mandatory
   location: Manchester
   link: https://forms.gle/65bk1HJR4KdDsfDf8
