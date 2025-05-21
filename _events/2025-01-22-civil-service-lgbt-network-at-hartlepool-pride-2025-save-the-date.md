@@ -9,7 +9,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2025-07-05T12:00:00.000Z
   end: 2025-07-05T12:00:00.000Z
-  deadline: 2025-07-05T12:00:00.000Z
+  deadline: 2025-06-25T12:00:00.000Z
   no-register: Registration is Mandatory
   location: Hartlepool
   link: https://forms.gle/Q6ziFDgzAP9xG9vq9
