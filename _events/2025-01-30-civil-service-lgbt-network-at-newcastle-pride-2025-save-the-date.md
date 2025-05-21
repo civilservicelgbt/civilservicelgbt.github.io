@@ -9,7 +9,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2025-07-19T12:00:18.062Z
   end: ""
-  deadline: 2025-07-19T12:00:00.000Z
+  deadline: 2025-07-09T12:00:00.000Z
   no-register: Registration is Mandatory
   location: Newcastle
   link: https://forms.gle/RvXH7EeW7defuTuL6
