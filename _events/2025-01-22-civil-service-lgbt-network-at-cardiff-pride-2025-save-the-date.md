@@ -9,7 +9,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2025-06-21T12:00:00.000Z
   end: 2025-06-21T12:00:00.000Z
-  deadline: 2025-06-21T12:00:00.000Z
+  deadline: 2025-06-11T12:00:00.000Z
   no-register: Registration is Mandatory
   location: Cardiff
   link: https://forms.gle/J7q5pmpErwmqmPKR8
