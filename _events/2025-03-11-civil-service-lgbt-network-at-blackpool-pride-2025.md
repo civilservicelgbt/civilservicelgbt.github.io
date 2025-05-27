@@ -6,17 +6,17 @@ excerpt: The Civil Service LGBT+ Network will be attending Blackpool Pride this
 date: 2025-03-11T13:27:50.626Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2025-06-07T12:00:50.640Z
+  start: 2025-06-07T10:00:50.640Z
   end: ""
   deadline: 2025-05-28T12:00:00.000Z
   no-register: Registration is Mandatory
-  location: Blackpool
+  location: nr.South Pier, Blackpool
   link: https://forms.gle/bPHpfwDKLBNGdCQv8
 category:
   - north-west
   - pride-2025
 ---
-*P﻿lease note that the start time of this event is currently showing as 1200 - this will be adjusted when plans for the day are finalised. It will be noted here when details are final.*
+*P﻿lease note that the start time of this event is currently showing as 1000 - this will be adjusted when plans for the day are finalised. It will be noted here when details are final.*
 
 The Civil Service LGBT+ Network are hoping to attend Pride celebrations at this location. Details for the day will be confirmed here closer to the time. This will be dependant on popularity in the lead up to the event.
 
