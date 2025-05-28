@@ -7,7 +7,7 @@ event:
   host: SPECTRUM
   start: 2025-06-30T12:00:00.000Z
   end: 2025-06-30T12:30:00.000Z
-  deadline: 2025-05-28T09:05:20.418Z
+  deadline: 2025-06-30T12:00:00.000Z
   email: SPECTRUM@homeoffice.gov.uk
   location: Belfast
 ---
