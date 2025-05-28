@@ -9,7 +9,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2025-06-19T18:00:00.000Z
   end: ""
-  deadline: 2025-05-27T15:32:25.297Z
+  deadline: 2025-06-19T18:00:00.000Z
   location: The Yard Bar Newcastle,  2 Scotswood Rd, Newcastle upon Tyne NE4 7JB
   no-register: Registration is not mandatory
   email: northeast@civilservice.lgbt
