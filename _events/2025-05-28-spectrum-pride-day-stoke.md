@@ -9,5 +9,7 @@ event:
   end: 2025-06-02T15:00:00.000Z
   deadline: 2025-06-02T10:00:00.000Z
   location: Stoke
+  no-register: ""
+  email: SPECTRUM@homeoffice.gov.uk
 ---
 We’re back in Stoke! Come along and meet us, get some free merchandise and find out how Spectrum can support you and your team.
