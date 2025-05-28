@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Pre-Pride Picnic - Queer Crafting Event
+title: Pre-Pride Picnic - Queer Crafting Event - Wales
 excerpt: "Ahead of this year's Pride, come and meet your colleagues from across
   the civil services and wider public sector for an informal arts-and-crafting
   session in Cardiff Bay! "
