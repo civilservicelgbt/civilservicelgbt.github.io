@@ -9,7 +9,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2025-06-07T11:00:00.000Z
   end: ""
-  deadline: 2025-05-28T12:00:00.000Z
+  deadline: 2025-05-28T14:00:00.000Z
   no-register: Registration is Mandatory
   location: Portsmouth
   link: https://forms.gle/2xiUpSvgpkfWEkcm6
