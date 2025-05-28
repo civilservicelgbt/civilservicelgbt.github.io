@@ -11,15 +11,17 @@ event:
   end: ""
   deadline: 2025-06-11T12:00:00.000Z
   no-register: Registration is Mandatory
-  location: Edinburgh
+  location: Queen Elizabeth House, Edinburgh
   link: https://forms.gle/sApNNk43gb2GEuUf7
 category:
   - pride-2025
   - Scotland
 ---
-*P﻿lease note that the start time of this event is currently showing as 1200 - this will be adjusted when plans for the day are finalised. It will be noted here when details are final.*
+*T﻿his event has been updated on 28/05/2025.*
 
-The Civil Service LGBT+ Network are planning to attend Pride celebrations at this location. Details for the day will be confirmed here closer to the time. 
+P﻿lease meet outside Queen Elizabeth House at midday, where the group will move off at approximately 1215 towards Parliament Square to join the parade. 
+
+T﻿here will be a t-shirt collection opportunities on or before the day, this will be confirmed with participants via email.
 
 Registration is open and this is done by one form per event.
 
