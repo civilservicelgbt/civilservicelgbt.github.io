@@ -8,7 +8,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2025-06-07T10:00:50.640Z
   end: ""
-  deadline: 2025-05-28T12:00:00.000Z
+  deadline: 2025-05-28T14:00:00.000Z
   no-register: Registration is Mandatory
   location: nr.South Pier, Blackpool
   link: https://forms.gle/bPHpfwDKLBNGdCQv8
