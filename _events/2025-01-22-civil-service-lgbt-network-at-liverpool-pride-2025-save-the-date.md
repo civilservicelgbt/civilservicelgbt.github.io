@@ -1,9 +1,8 @@
 ---
 layout: event
-title: Civil Service LGBT+ Network at Liverpool Pride 2025
-excerpt: "The Civil Service LGBT+ Network will be attending Liverpool Pride this
-  year. This is open to LGBT+ Civil Servants and supportive family and friends.
-  "
+title: Civil Service LGBT+ Network at Liverpool Pride 2025 - CHANGE OF EVENT
+excerpt: LCR Pride Foundation have taken the tough decision to cancel the pride
+  parade. As a Network we will still mark this day in some way.
 date: 2025-01-22T08:48:59.760Z
 event:
   host: Civil Service LGBT+ Network
@@ -17,6 +16,12 @@ category:
   - pride-2025
   - north-west
 ---
+*U﻿PADETD 5 JUNE 20225*
+
+L﻿CR Pride Foundation have taken the difficult decision to cancel this years parade and festival. There will still be lots going on in the city and the CS LGBT+ Network will still honour the occasion in some way. As of the above date the team are working hard to formulate a suitable plan. Please sign up to be kept in the loop. 
+
+\-﻿--
+
 *P﻿lease note that the start time of this event is currently showing as 1200 - this will be adjusted when plans for the day are finalised. It will be noted here when details are final.*
 
 The Civil Service LGBT+ Network are planning to attend Pride celebrations at this location. Details for the day will be confirmed here closer to the time. 
