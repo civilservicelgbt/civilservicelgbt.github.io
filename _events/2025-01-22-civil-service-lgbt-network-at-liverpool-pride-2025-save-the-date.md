@@ -1,22 +1,31 @@
 ---
 layout: event
-title: Civil Service LGBT+ Network at Liverpool Pride 2025 - CHANGE OF EVENT
+title: Civil Service LGBT+ Network Liverpool Pride Social
 excerpt: LCR Pride Foundation have taken the tough decision to cancel the pride
-  parade. As a Network we will still mark this day in some way.
+  parade. As a Network we will still mark this day. Please join us for a
+  Liverpool Pride Day Social.
 date: 2025-01-22T08:48:59.760Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2025-07-26T12:00:00.000Z
-  end: 2025-07-26T12:00:00.000Z
+  start: 2025-07-26T13:00:00.000Z
+  end: ""
   deadline: 2025-07-24T12:00:00.000Z
   no-register: Registration is Mandatory
-  location: Liverpool
+  location: Tempest on Tithebarn Street
   link: " https://forms.gle/Mkhu3Q2CvybHujfP6"
 category:
   - pride-2025
   - north-west
 ---
-*U﻿PADETD 5 JUNE 20225*
+*U﻿PDATED 18 JUNE 2025*
+
+The team have been working hard to ensure that the day Liverpool Pride should have been is still marked.
+
+W﻿e will be meeting at Tempest on Tithebarn Street from 1300. We will be doing some fundraising for a local charity. We will be doing a Pride Quiz, Bingo, Raffle. There will also be a chance to partake in some spoken word too if you wish. 
+
+P﻿lease register for this event for full details - If you have already signed up to parade with the CS Network you will automatically be on the list. 
+
+*U﻿PDATED 5 JUNE 20225*
 
 L﻿CR Pride Foundation have taken the difficult decision to cancel this years parade and festival. There will still be lots going on in the city and the CS LGBT+ Network will still honour the occasion in some way. As of the above date the team are working hard to formulate a suitable plan. Please sign up to be kept in the loop. 
 
