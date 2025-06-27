@@ -1,9 +1,10 @@
 ---
 layout: event
 title: Civil Service LGBT+ Network at Leeds Pride 2025
-excerpt: "The Civil Service LGBT+ Network will be attending Leeds Pride this
-  year. This is open to LGBT+ Civil Servants and supportive family and friends.
-  "
+excerpt: The Civil Service LGBT+ Network will be attending Leeds Pride this
+  year. This is open to LGBT+ Civil Servants and supportive family and friends
+  -- Please note this event is now on a reserve list for parade entry
+  wristbands.
 date: 2025-01-22T08:43:27.249Z
 event:
   host: Civil Service LGBT+ Network
@@ -17,6 +18,8 @@ category:
   - pride-2025
   - yorkshire-and-humber
 ---
+***I﻿f you are signing up to this event as of 1600 on 27 June 2025 you are now being added to the reserve list to parade as the entry is at capacity.***
+
 *P﻿lease note that the start time of this event is currently showing as 1200 - this will be adjusted when plans for the day are finalised. It will be noted here when details are final.*
 
 The Civil Service LGBT+ Network are planning to attend Pride celebrations at this location. Details for the day will be confirmed here closer to the time. 
