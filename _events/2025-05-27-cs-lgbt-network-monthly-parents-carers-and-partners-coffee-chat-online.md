@@ -7,9 +7,9 @@ excerpt: "Our friendly and informal group is open to people who care for LGBT+
 date: 2025-05-27T15:36:11.743Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2025-06-19T12:30:00.000Z
+  start: 2025-07-21T12:30:00.000Z
   end: ""
-  deadline: 2025-06-19T13:30:00.000Z
+  deadline: 2025-07-21T13:30:00.000Z
   location: MS Teams
   email: parents-carers-partners@civilservice.lgbt
   no-register: Please register to be sent the MS Teams link.
