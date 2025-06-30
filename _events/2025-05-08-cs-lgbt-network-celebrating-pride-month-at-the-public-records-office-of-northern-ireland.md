@@ -11,7 +11,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2025-07-03T14:00:00.000Z
   end: 2025-07-03T16:00:00.000Z
-  deadline: 2025-06-28T12:00:00.000Z
+  deadline: 2025-07-03T14:00:00.000Z
   email: northernireland@civilservice.lgbt
   no-register: Registration is mandatory
   location: PRONI, 3 Titanic Boulevard, Belfast
