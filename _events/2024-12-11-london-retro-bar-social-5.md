@@ -1,13 +1,13 @@
 ---
 layout: event
-title: London Retro Bar Social
+title: London Retro Bar Social - July 2025
 excerpt: First Thursday of the month means Retro Bar!
 date: 2024-12-11T08:33:58.792Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2025-06-05T18:00:00.000Z
+  start: 2025-07-03T18:00:00.000Z
   end: ""
-  deadline: 2025-06-05T18:00:00.000Z
+  deadline: 2025-07-03T18:00:00.000Z
   location: Retro Bar, 2 George Ct, London WC2N 6HH
   email: london@civilservice.lgbt
   no-register: Registration is not mandatory
