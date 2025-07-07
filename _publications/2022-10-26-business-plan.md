@@ -19,12 +19,6 @@ objectives:
 - objective: "Mentoring programme"	# Name of objective
   description: "Conclude the existing mentoring programme for LGBT+ civil servants, and run the programme again in 2022 and 2023."
   complete: false
-  team:
-  - name: "John Peart"
-  - name: "Jonathan Kerr"
-  - name: "Dee"
-  - name: "Tom Seddon"
-  - name: "Rachael Williams"
   milestones:
   - milestone: "Recruit a lead vice-chair for this work"
     date: 2021-12-31T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
@@ -65,10 +59,10 @@ objectives:
     complete: true
   - milestone: "Conclude the 2022 mentoring programme"
     date: 2022-12-01T00:00:00.00Z 		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    complete: true
   - milestone: "Survey participants in the 2022 mentoring programme"
     date: 2023-02-01T00:00:00.00Z 		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    complete: true
 
 #######################
 ## ANNUAL CONFERENCE ##
@@ -76,10 +70,6 @@ objectives:
 - objective: "Civil Service LGBT+ conference"	# Name of objective
   description: "Hold an annual conference for LGBT+ civil servants focused on workplace inclusion and career development, starting in 2022."
   complete: false
-  team:
-  - name: "James Jefferson"
-  - name: "Mark Harrop"
-  - name: "Jack Victor"
   milestones:
   - milestone: "Recruit a lead vice-chair for this work"
     date: 2021-11-30T00:00:00.00Z
@@ -124,41 +114,12 @@ objectives:
     date: 2022-10-01T00:00:00.00Z
     complete: false
 
-##############################
-## BULLYING AND HARRASSMENT ##
-##############################
-# - objective: "Bullying and harrassment"	# Name of objective
-#   description: "Create a Civil Service-wide anti-bullying campaign."
-#   complete: false
-#   milestones:
-#   - milestone: "Recruit a lead vice-chair for this work"
-#     date: 2021-12-31T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-#     complete: false
-#   - milestone: "Scope out this project"
-#     date: 2022-03-01T00:00:00.00Z 		# YYYY-MM-DD – target date for achieving milestone
-#     complete: false
-
 #############
 ## SOCIALS ##
 #############
 - objective: "Face-to-face socials and networking"	# Name of objective
   description: "Put in place a range of social and networking opportunities across the country."
   complete: false
-  team:
-  - name: "Ed"
-  - name: "Jordan Ledger"
-  - name: "Eamon Evans"
-  - name: "Ross Starkie"
-  - name: "Matt Walker"
-  - name: "Emily Bowering"
-  - name: "Sean Peacock"
-  - name: "Bethan Cable"
-  - name: "Clare Hannah"
-  - name: "Richard Newbury"
-  - name: "Gwilym Stone"
-  - name: "Katherine Sendall"
-  - name: "Sarah Adams"
-  - name: "Derek Bradford"
   milestones:
   - milestone: "Restart regular, in-person socials in London"
     date: 2021-10-30T00:00:00.00Z 		# YYYY-MM-DD – target date for achieving milestone
@@ -210,16 +171,6 @@ objectives:
 - objective: "Bi+ inclusion"	# Name of objective
   description: "Continue to run our 'BiSpace' programme for bi+ civil servants."
   complete: false
-  team:
-  - name: "Sunny Thompson"
-  - name: "Diana Reynolds"
-  - name: "Emma Altman-Richer"
-  - name: "Robin Tamblyn"
-  - name: "Michael Jeannette"
-  - name: "Robin Tamblyn"
-  - name: "Louise Bayliss-Chapman"
-  - name: "Paul Fogg"
-  - name: "Alan Edwards"
   milestones:
   - milestone: "Develop a plan for BiSpace in 2022"
     date: 2021-12-31T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
@@ -277,8 +228,6 @@ objectives:
 - objective: "Trans and non-binary inclusion"	# Name of objective
   description: "Investigate the needs of trans and non-binary staff in the Civil Service, and create a bespoke programme of work similar to 'BiSpace' for trans and non-binary staff."
   complete: false
-  team:
-  - name: "Alan Edwards"
   milestones:
   - milestone: "Recruit a lead vice-chair for this work"
     date: 2021-11-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
@@ -299,37 +248,12 @@ objectives:
     date: 2022-06-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
     complete: false
 
-- objective: "Allies"	# Name of objective
-  description: "Create a programme of work to engage allies across the Civil Service."
-  complete: false
-  milestones:
-  - milestone: "Recruit a lead vice-chair for this work"
-    date: 2022-07-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
-  - milestone: "Conduct a survey and series of workshops to understand what LGBT+ people need from allies"
-    date: 2022-07-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
-  - milestone: "Publish the findings of the survey and workshops"
-    date: 2022-09-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
-  - milestone: "Recruit a team of volunteers to develop the resources and activities for ally engagement"
-    date: 2022-09-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
-  - milestone: "Begin delivering the new ally engagement programme"
-    date: 2022-09-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
-
-
 ###########
 ## PRIDE ##
 ###########
 - objective: "Pride"	# Name of objective
   description: "Plan and deliver Pride activities across the UK and online."
   complete: false
-  team:
-  - name: "Marc Fitchett"
-  - name: "Jordan Ledger"
-  - name: "Eamon Evans"
   milestones:
   - milestone: "Recruit a lead vice-chair for this work"
     date: 2021-10-30T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
@@ -345,7 +269,7 @@ objectives:
     complete: true
   - milestone: "Submit business cases for approval"
     date: 2022-05-01T00:00:00.00Z
-    complete: false
+    complete: true
   - milestone: "Open registrations for in-person events (if applicable)"
     date: 2022-04-01T00:00:00.00Z
     complete: true
@@ -367,8 +291,6 @@ objectives:
 ##########################
 - objective: "Data on LGBT+ civil servants"	# Name of objective
   description: "Provide insights into the demographics and experiences of LGBT+ civil servants that can be easily used by networks and HR teams internally."
-  team:
-  - name: "John Smith"
   complete: false
   milestones:
   - milestone: "Recruit a lead vice-chair for this work"
@@ -378,27 +300,12 @@ objectives:
     date: 2022-06-01T00:00:00.00Z 		# YYYY-MM-DD – target date for achieving milestone
     complete: false
 
-# - objective: "Vetting transformation"	# Name of objective
-#   description: "Work with the Cabinet Office and UK Security Vetting to improve the vetting process, making it inclusive of LGBT+ staff."
-#   complete: false
-#   team:
-#   - name: "Alan Edwards"
-#   milestones:
-#   - milestone: "Publish an update on work so far"
-#     date: 2021-12-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-#     complete: false
-#   - milestone: "Organise events aimed at 'demystifying' the vetting process together with Cabinet Office and UK Security Vetting"
-#     date: 2022-03-01T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-#     complete: false
-
 ################
 ## OPERATIONS ##
 ################
 - objective: "Supporting local delivery"	# Name of objective
   description: "Put in place a range of interventions to support activities in local areas."
   complete: false
-  team:
-  - name: "Edward He"
   milestones:
   - milestone: "Recruit a lead vice-chair for this work"
     date: 2021-12-31T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
@@ -439,8 +346,6 @@ objectives:
 - objective: "Networks"	# Name of objective
   description: "Create regular ways for leaders of departmental networks to input to pan-Civil Service priorities and provide feedback on the work of the Civil Service LGBT+ Network."
   complete: false
-  team:
-  - name: "John Peart"
   milestones:
   - milestone: "Restart a quarterly Leaders of Networks forum"
     date: 2022-01-31T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
@@ -456,19 +361,19 @@ objectives:
     complete: true
   - milestone: "Hold October 2022 Leaders of Networks forum"
     date: 2022-10-28T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    complete: true
   - milestone: "Hold January 2023 Leaders of Networks forum"
     date: 2023-01-23T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    complete: true
   - milestone: "Hold April 2023 Leaders of Networks forum"
     date: 2023-04-25T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    complete: true
   - milestone: "Hold July 2023 Leaders of Networks forum"
     date: 2023-07-20T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    complete: true
   - milestone: "Hold October 2023 Leaders of Networks forum"
     date: 2023-10-25T00:00:00.00Z		# YYYY-MM-DD – target date for achieving milestone
-    complete: false
+    complete: true
 
 - objective: "Making the network work"	# Name of objective
   description: "Operational changes to the way the network is organised and operates, to make things work better for the future."
