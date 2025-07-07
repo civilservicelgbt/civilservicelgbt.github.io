@@ -14,9 +14,7 @@ redirect_from: /2014/04/08/delivered-for-you-in-20132014-our-annual-performance-
 {:toc}
 <!-- Don't touch the Table of Contents above -->
 
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
+
 
 ## Publication description
 
