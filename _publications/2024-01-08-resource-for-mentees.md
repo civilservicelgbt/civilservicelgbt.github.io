@@ -194,14 +194,6 @@ These are some resources that you might find helpful when thinking about your me
 
 #### Resources
 
-
-{:.document-box}
-> How to Ask Someone to be Your Mentor
->
-> Article by Novoresume
->
-> [Read this article (external site)](https://novoresume.com/career-blog/how-to-ask-someone-to-be-your-mentor)
-
 {:.document-box}
 > How do you find the right mentor?
 >
