@@ -11,9 +11,7 @@ layout: publication
 {:toc}
 <!-- Don't touch the Table of Contents above -->
 
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
+
 
 ## Introduction
 
@@ -65,6 +63,3 @@ To begin to address this, we will begin to work more explicitly with other Civil
 
 
 
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->

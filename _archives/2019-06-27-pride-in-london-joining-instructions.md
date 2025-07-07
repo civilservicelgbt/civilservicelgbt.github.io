@@ -12,10 +12,7 @@ excerpt: "These are the joining instructions for Civil Service Pride in London a
 <!-- Include the following to generate a Table of Contents -->
 * Table of contents will generate here
 {:toc}
-<!-- Don't touch the Table of Contents above -->
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
+
 
 This year’s Pride in London will be the biggest yet; and we’re planning a bigger set of activities for civil servants joining us in London. 
 
@@ -176,7 +173,3 @@ On the day, your main contact is **John Peart**, one of the leads for the Networ
 
 Only call or email about urgent questions — we'll all be very busy on the day, and in the run up to it, making sure things go to plan!
 
-
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->

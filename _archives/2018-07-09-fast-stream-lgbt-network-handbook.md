@@ -15,9 +15,7 @@ excerpt: >-
 {:toc}
 <!-- Don't touch the Table of Contents above -->
 
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
+
 
 ## Publication description
 
@@ -30,8 +28,5 @@ This publication is available as a PDF.
 [Download this publication](/assets/documents/2018-07-09-fast-stream-network-handbook.pdf)
 
 
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->
 
 

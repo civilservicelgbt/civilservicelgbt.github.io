@@ -12,9 +12,6 @@ permalink: "/publication/2021/08/16/chair-election-2021-election-process-guidanc
 <!-- Include the following to generate a Table of Contents -->
 * Table of contents will generate here
 {:toc}
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove code above -->
 
 ## Overview
 
@@ -57,12 +54,3 @@ To nominate yourself please email <kate.hughes@cabinetoffice.gov.uk> from your C
 This role involves a significant commitment so we would advise you to speak to your line manager prior to nominating yourself in order to identify how much time you would be able to commit to the role. Your department is not obliged to support you but is encouraged to recognise the role as your corporate contribution objective and allow you 10% FTE official time to facilitate attending meetings during the working week. The role will almost certainly require time commitment outside of work.
  
 If you have any questions about the role or the process please contact Kate on <kate.hughes@civilservice.lgbt>.
- 
-
-
-
-
-
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->

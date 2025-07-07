@@ -12,9 +12,7 @@ slug: 			/our-plan-for-improving-LGBT-civil-servant-experiences
 {:toc}
 <!-- Don't touch the Table of Contents above -->
 
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
+
 
 
 
@@ -239,6 +237,3 @@ A fundamental role of the Civil Service LGBT+ Network is to represent the views 
 
 
 
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->

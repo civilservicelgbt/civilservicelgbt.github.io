@@ -15,9 +15,7 @@ redirect_from: /2015/11/01/a-blueprint-for-improving-the-experiences-of-lgb-peop
 {:toc}
 <!-- Don't touch the Table of Contents above -->
 
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
+
 
 ## Publication description
 
@@ -33,6 +31,3 @@ This report is available as a PDF download.
 
 **[Download this publication](https://www.civilservice.lgbt/documents/store/action-plans/blueprint-for-improving-lgbt-civil-servant-experiences.pdf)**
 
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->

@@ -31,6 +31,3 @@ This report is available as a PDF download.
 **[Download this publication](https://www.civilservice.lgbt/documents/store/delivered-for-you/2014-delivered-for-you.pdf)**
 
 
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->

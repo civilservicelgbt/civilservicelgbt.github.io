@@ -12,10 +12,7 @@ excerpt: "A resource produced by the Civil Service LGBT+ Network and a:gender to
 <!-- Include the following to generate a Table of Contents -->
 * Table of contents will generate here
 {:toc}
-<!-- Don't touch the Table of Contents above -->
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="markdown-content" markdown="1">
-<!-- Don't remove the line of code above -->
+
 
 
 ## Publication description
@@ -165,6 +162,3 @@ Further support:
 * As there may be variant and wider factors to consider, please work closely with HR and LGBTI+ Networks for support.
 * Speak and work with the individual to find a comfortable solution.
 
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->
