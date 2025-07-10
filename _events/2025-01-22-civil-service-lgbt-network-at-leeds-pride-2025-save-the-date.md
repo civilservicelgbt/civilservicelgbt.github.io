@@ -8,16 +8,46 @@ excerpt: The Civil Service LGBT+ Network will be attending Leeds Pride this
 date: 2025-01-22T08:43:27.249Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2025-07-20T12:00:00.000Z
+  start: 2025-07-20T11:00:00.000Z
   end: 2025-07-20T12:00:00.000Z
   deadline: 2025-07-09T12:00:00.000Z
   no-register: Registration is Mandatory
-  location: Leeds
+  location: The Hedley Verity on Woodhouse Lane, Leeds
   link: https://forms.gle/3N2XJQhkWjDTetut7
 category:
   - pride-2025
   - yorkshire-and-humber
 ---
+***T﻿his page has been updated on 10 July 2025. Note a reserve list remains in place.*** 
+
+**P﻿lan for the Day**
+
+1100 - 1130
+
+Registered attendees to meet at The Hedley Verity on Woodhouse Lane, where we can use the facilities prior to the parade.   We will also issue t-shirts, banners, flags, and parade wristbands before setting off to the muster zone.
+
+([What3Words](https://what3words.com/gift.strike.dimes) or [Google Maps](https://www.google.com/maps/place/The+Hedley+Verity+-+Disco+Spoons/@53.8025007,-1.5466841,16z/data=!4m6!3m5!1s0x48795c1ca35dcdfb:0x6bed9a4ba2f54bd4!8m2!3d53.802!4d-1.5458!16s%2Fg%2F1tj4y6vn?entry=ttu&g_ep=EgoyMDI1MDcwNy4wIKXMDSoASAFQAw%3D%3D))
+
+1﻿130 - 1145
+
+C﻿S LGBT+ Network transits to the parade muster point
+
+1﻿145 - 1200
+
+P﻿arade information, under the direction of the Leeds Pride Organisation.
+
+1﻿200 - 1330
+
+Parade through Leeds:  it makes its way through the streets Leeds city centre, arriving at Briggate between 1pm and 1.30pm (route map attached for info).
+
+**Please note:**  appropriate / comfortable footwear is advised.  Please remember to bring a bottle of water or soft drink along with you (no alcohol though – there are control orders on parts of the route that prohibit consumption of alcohol on the streets and breaches may lead to prosecution – you have been warned!)
+
+1﻿300 onwards
+
+CS LGBT+ Network disperses; members are free to stay with local organisers at the festival site – which is free to enjoy – or do their own thing.
+
+**Please note:**  Although many site vendors will accept card-payments, cash is strongly advised (there have been issues with previous events owing to crowd size at the festival site).  There are no cash-machines nearby-by, so please prepare in-advance.
+
 ***I﻿f you are signing up to this event as of 1600 on 27 June 2025 you are now being added to the reserve list to parade as the entry is at capacity.***
 
 *P﻿lease note that the start time of this event is currently showing as 1200 - this will be adjusted when plans for the day are finalised. It will be noted here when details are final.*
