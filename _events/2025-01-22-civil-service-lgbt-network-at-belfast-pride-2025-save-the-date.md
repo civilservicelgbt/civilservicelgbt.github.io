@@ -9,7 +9,7 @@ event:
   host: Civil Service LGBT+ Network
   start: 2025-07-26T10:30:00.000Z
   end: 2025-07-26T12:00:00.000Z
-  deadline: 2025-07-16T12:00:00.000Z
+  deadline: 2025-07-25T12:00:00.000Z
   no-register: Registration is Mandatory
   location: Lanyon Plaza, Ground Floor, 7 Lanyon Place, Belfast, BT1 3LP
   link: https://forms.gle/tbyDD8yhULvcmHKx9
