@@ -7,7 +7,7 @@ excerpt: "The Civil Service LGBT+ Network will be attending Stockton-on-Tees
 date: 2025-01-22T08:47:43.808Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2025-07-26T12:00:00.000Z
+  start: 2025-07-26T11:00:00.000Z
   end: 2025-07-26T12:00:00.000Z
   deadline: 2025-07-16T12:00:00.000Z
   no-register: Registration is Mandatory
