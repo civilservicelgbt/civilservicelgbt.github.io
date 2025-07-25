@@ -22,4 +22,4 @@ Come along to meet like minded civil servants at the North East monthly social.
 
 If you have questions about this event, or you have an idea for a future event, you can contact our North East team at the below email address.
 
-n﻿ortheast@civilservice.lgbt
+[n﻿ortheast@civilservice.lgbt](<mailto:n﻿ortheast@civilservice.lgbt>)
