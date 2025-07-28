@@ -6,9 +6,9 @@ excerpt: "Join fellow civil servants for a Friday Social in Leeds.  It’s an
 date: 2025-07-25T13:19:48.214Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-10-03T17:00:00.000Z
-  end: 2024-10-03T20:00:00.000Z
-  deadline: 2024-10-03T17:00:00.000Z
+  start: 2025-10-03T17:00:00.000Z
+  end: 2025-10-03T20:00:00.000Z
+  deadline: 2025-10-03T17:00:00.000Z
   location: Bridge End Social, 24-32 Bridge End, Leeds LS1 4DJ
   email: yorkshireandhumber@civilservice.lgbt
   no-register: Registration is not mandatory
