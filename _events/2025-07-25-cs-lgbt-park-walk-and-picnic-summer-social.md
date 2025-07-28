@@ -1,14 +1,14 @@
 ---
 layout: event
-title: CS LGBT+ Park Walk and Picnic Summer Social
+title: CS LGBT+ Park Walk and Picnic Summer Social, Leeds
 excerpt: Come along for a relaxed afternoon in the park with fellow civil
   servants in Leeds and picnic lunch.
 date: 2025-07-25T13:22:18.743Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2024-08-30T12:00:00.000Z
-  end: 2024-08-30T12:00:00.000Z
-  deadline: 2024-08-30T15:00:00.000Z
+  start: 2025-08-30T12:00:00.000Z
+  end: 2025-08-30T15:00:00.000Z
+  deadline: 2025-08-30T12:00:00.000Z
   location: Roundhay Park, Mansion Ln, Roundhay, Leeds LS8 2HH
   email: yorkshireandhumber@civilservice.lgbt
   no-register: Registration is not mandatory
