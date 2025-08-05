@@ -19,7 +19,7 @@ category:
 ---
 ***T﻿his page has been updated on 05 August 2025.***
 
-You are receiving this email as you have confirmed your place in the Manchester Pride Parade on Saturday 23rd August with the Civil Service LGBT+ Network from being successful in the ballot. This is an initial communication to give you some key details and advice in terms of the days plan, unfortunately we are still waiting on Manchester Pride to confirm our parade position and meeting time but this will be shared as soon as we have it – for guidance, last year we met at Castlefield Bowl from 10:30am with an 11am deadline.
+This is an initial communication to give you some key details and advice in terms of the days plan, unfortunately we are still waiting on Manchester Pride to confirm our parade position and meeting time but this will be shared as soon as we have it – for guidance, last year we met at Castlefield Bowl from 10:30am with an 11am deadline.
 
 ***General Plan for the Day:***
 
