@@ -6,9 +6,9 @@ excerpt: Meet up with fellow civil servants in Newcastle for a Social.  This is
 date: 2025-08-06T06:54:26.448Z
 event:
   host: Civil Service LGBT+ Network
-  start: 2025-09-28T17:30:00.000Z
-  end: 2025-09-28T19:00:00.000Z
-  deadline: 2025-09-27T12:00:00.000Z
+  start: 2025-09-25T17:30:00.000Z
+  end: 2025-09-25T19:00:00.000Z
+  deadline: 2025-09-25T12:00:00.000Z
   location: The Yard Bar, 2 Scotswood Road, Newcastle NE4 7JB
   email: northeast@civilservice.lgbt
   no-register: Registration is not mandatory
