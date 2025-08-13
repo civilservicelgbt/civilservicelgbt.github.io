@@ -12,7 +12,7 @@ event:
   location: Old Market Tavern, BS2 0HB
   no-register: Registration is not mandatory, however it is appreciated so we know
     how many to expect.
-  email: south
+  email: southwest@civilservice.lgbt
 category:
   - south-west
 ---
