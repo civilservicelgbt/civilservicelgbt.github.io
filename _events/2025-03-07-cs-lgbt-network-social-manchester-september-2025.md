@@ -18,7 +18,7 @@ category:
 ---
 The Civil Service LGBT+ Network host a number of events throughout the year. Our Manchester Socials happen every second Thursday of the month, so why not join us! Starting from 5pm - Late, stop by for a drink, bite or even just a chat. If you are new to the network or it’s your first event by all means reach out to the Local Organisers via email: [northwest@civilservice.lgbt](mailto:northwest@civilservice.lgbt)
 
-Registration is not mandatory, but by all means get in touch! If turning up on the day just look out for one of our inflatable unicorn mascots or our bright pink Civil Service Pride flag! We typically have some reserved space in the basement bar area, down both sets of stairs at the left hand side of the bar as you walk in.
+Registration is not mandatory, but by all means get in touch! If turning up on the day just look out for one of our inflatable unicorn mascots! We typically have some reserved space in the basement bar area, down both sets of stairs at the left hand side of the bar as you walk in.
 
 **Please note we changed from the second Tuesday of the month to the second Thursday following feedback!**
 
