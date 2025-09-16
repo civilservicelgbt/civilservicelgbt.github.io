@@ -11,7 +11,7 @@ event:
   end: 2025-09-27T12:00:00.000Z
   deadline: 2025-09-17T12:00:00.000Z
   no-register: Registration is Mandatory
-  location: Middlesbrough Town Hall/Bedford and Baker Street
+  location: Middlesbrough Town Hall
   link: https://forms.gle/8JqTvmjSPET7xPKE7
 category:
   - pride-2025
@@ -25,7 +25,7 @@ Presented by LBGT+ charity Curious Arts in association with Middlesbrough Town H
 
 Venues include Orange Pip Market (Albert Road) and Middlesbrough Institute of Modern Art.  The indoor stage in the Town Hall and outdoor stage in the Orange Pip Market will hold live performances throughout the day.  A Pride market and arts and crafts workshops will be held in the Town Hall and all the food stalls and bars of the Orange Pip Market will be there for your enjoyment.
 
-For the Saturday pride, meet up with Martin inside the Town Hall Courtyard, the official muster point for the parade from 11.30 hours until the parade starts at 12.00, he will be wearing his pink T shirt and/or carrying a flag.  Anyone arriving after 12.00 hours please find Martin in the courtyard or just join in the parade.
+**For the Saturday pride, meet up with Martin inside the Town Hall Courtyard, the official muster point for the parade from 11.30 hours until the parade starts at 12.00**, he will be wearing his pink T shirt and/or carrying a flag.  Anyone arriving after 12.00 hours please find Martin in the courtyard or just join in the parade.
 
 T-shirts will be provided as per the registration form which the organiser will bring with him.  Wear comfy clothes including shoes, as it can be long day.  
 
