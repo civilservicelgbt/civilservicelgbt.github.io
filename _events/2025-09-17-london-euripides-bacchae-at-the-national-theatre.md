@@ -9,6 +9,8 @@ event:
   end: ""
   deadline: 2025-09-19T18:30:00.000Z
   location: The Understudy, Upper Ground, South Bank, London SE1 9PX
+  email: london@civilservice.lgbt
+  no-register: Registration is not mandatory
 category:
   - london
 ---
