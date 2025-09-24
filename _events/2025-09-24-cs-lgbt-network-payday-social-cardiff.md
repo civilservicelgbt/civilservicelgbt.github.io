@@ -19,7 +19,7 @@ Join your fellow civil servants in Cardiff for a spooooooooky Halloween payday s
 
 As ever, we'll be meeting at Mrs Potts' Chocolate House on St Mary Street from 16:30 onwards, moving on to a bar by around 18:30 - 19:00. 
 
-LGBTQ+ civil servants from both the Welsh and UK Governments are all welcome to join us (as well as our Scottish and Irish colleagues, if you’re in town). Please also feel free to bring along your supportive partners, family and friends!
+LGBTQ+ civil servants from both the Welsh and UK Governments are all welcome to join us (as well as our Scottish and Irish colleagues, if you’re in town). 
 
 Mrs Potts’ Chocolate House is wheelchair accessible (except for the bathroom, which is down a flight of stairs) and serves a range of hot and cold soft drinks plus cakes and other desserts. Vegan, gluten-free and non-dairy options are all available.
 
