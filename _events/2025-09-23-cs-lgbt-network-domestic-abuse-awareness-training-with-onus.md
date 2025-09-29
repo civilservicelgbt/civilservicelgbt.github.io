@@ -1,8 +1,9 @@
 ---
 layout: event
-title: "CS LGBT+ Network- Domestic Abuse Awareness Training with ONUS. "
-excerpt: "Upcoming training session by ONUS, scheduled to align with Domestic
-  Abuse Awareness Month, hosted by NICS LGBT+ network. "
+title: CS LGBT+ Network- Domestic Abuse Awareness Training with ONUS - Belfast
+excerpt: Upcoming training session by ONUS, scheduled to align with Domestic
+  Abuse Awareness Month, hosted by NICS LGBT+ network. This is an in person
+  event only.
 date: 2025-09-23T09:45:35.169Z
 event:
   host: ONUS & NICS
@@ -15,6 +16,8 @@ event:
 category:
   - northern-ireland
 ---
+**T﻿his is an in person event only.**
+
 Current arrangements for the upcoming training session hosted by ONUS, scheduled to align with Domestic Abuse Awareness Month:
 
 * **Date:** 21st October
