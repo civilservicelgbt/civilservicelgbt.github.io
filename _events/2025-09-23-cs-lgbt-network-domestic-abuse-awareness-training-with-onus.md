@@ -7,8 +7,8 @@ excerpt: Upcoming training session by ONUS, scheduled to align with Domestic
 date: 2025-09-23T09:45:35.169Z
 event:
   host: ONUS & NICS
-  start: 2025-10-21T10:00:00.000Z
-  end: 2025-10-21T12:00:00.000Z
+  start: 2025-10-21T10:30:00.000Z
+  end: 2025-10-21T13:30:00.000Z
   deadline: 2025-10-10T12:00:00.000Z
   location: PRONI Titanic, Belfast
   email: northernireland@civilservice.lgbt
