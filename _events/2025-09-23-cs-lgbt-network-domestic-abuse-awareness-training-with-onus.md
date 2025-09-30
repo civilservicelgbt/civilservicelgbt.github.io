@@ -22,9 +22,14 @@ Current arrangements for the upcoming training session hosted by ONUS, scheduled
 
 * **Date:** 21st October
 * **Format:** In-person
-* **Structure:** Two 45-minute morning sessions with a 15-minute break
-* * **Session 1:** Recognise
-  * **Session 2:** Support and Respond
+
+
+
+  * 10:30 – 11:15 | Session 1: Recognise
+  * 11:15 – 11:30 | Break
+  * 11:30 – 12:15 | Session 2: Support and Respond
+  * 12:15 – 12:30 | Safe Place Advocate & Close
+  * 12:30 – 13:30 | Lunch & Networking
 * **Content:** Lindsay Harrisfrom ONUS has confirmed the sessions will go into the nuances for several groups (LGBTQ+, women, minority ethnic, disabled)
 * **Additional:** There will be an opportunity for lunch and networking afterwards.
 * **Venue:** PRONI conference room (fully accessible) has been booked.
