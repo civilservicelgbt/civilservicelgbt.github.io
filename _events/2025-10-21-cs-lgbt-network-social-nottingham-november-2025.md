@@ -1,6 +1,6 @@
 ---
 layout: event
-title: CS LGBT+ Network Social – Nottingham- November 2025
+title: CS LGBT+ Network Social – Nottingham - November 2025
 excerpt: Join fellow Civil Servants for a social this November. This is open to
   all Civil Servants in the LGBT+ Network.
 date: 2025-10-21T10:34:41.158Z
