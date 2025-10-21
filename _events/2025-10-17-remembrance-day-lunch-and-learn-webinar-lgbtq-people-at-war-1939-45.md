@@ -6,7 +6,7 @@ excerpt: This Remembrance Day, mark 80 years since VE Day and the end of WW2
   resisted the Nazis.
 date: 2025-10-17T07:41:52.901Z
 event:
-  host: GCF LGBTQ+ Network and Pride in CCS
+  host: GCF LGBTQ+ Network
   start: 2025-11-11T12:00:00.000Z
   end: 2025-11-11T13:00:00.000Z
   deadline: 2025-11-11T12:00:00.000Z
