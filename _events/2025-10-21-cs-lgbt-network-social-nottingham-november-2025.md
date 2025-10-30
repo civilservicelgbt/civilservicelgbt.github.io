@@ -17,7 +17,7 @@ category:
 ---
 The Civil Service LGBT+ Network organises informal networking and social events so that LGBT+ civil servants can meet each other. Our local organisers organise these events in various cities across the country.
 
-Come along to meet like-minded civil servants at the East Midlands monthly social, this will be on November 7th.
+Come along to meet like-minded civil servants at the East Midlands monthly social, this will be on November 14th.
 
 If you have questions about this event, or you have an idea for a future event, you can contact our East Midlands team at the below email address.
 
