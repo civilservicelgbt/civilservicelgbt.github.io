@@ -5,8 +5,8 @@ role: local organiser
 email: NorthernIreland@civilservice.lgbt
 project: Local Organiser
 region: Northern Ireland
+archive: "true"
 permalink: /team/ted
-archive: "false"
 image: /assets/images/uploads/ted.jpg
 ---
 Hi everyone, my name is Ted (he/him) and I have been in the Civil Service since August of 2020. My current day job is working as project support where I lead on a few different portfolios including Mentoring and Recruitment. Shortly after joining my department, I got involved with our LGBT+ network as a local steering group representative for Northern Ireland and I am delighted to take on a wider reaching role now within the CS LGBT+ Network.
