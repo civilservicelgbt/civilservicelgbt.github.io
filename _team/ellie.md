@@ -3,9 +3,9 @@ layout: team
 person-name: Ellie
 role: vice chair
 email: allyship@civilservice.lgbt
-project: Allyship
+archive: "true"
 permalink: /team/ellie
-archive: "false"
+project: Allyship
 image: /assets/images/uploads/eg-pic.jpg
 ---
 I’m Ellie (she/her) and I first joined the Civil Service in early 2021. I’m a fierce advocate for the LGBT+ community and believe our differences and diversity make us stronger together. In my day-to-day job I am a member of the Government Risk Profession, and regularly get involved in my ALB’s various staff networks.
