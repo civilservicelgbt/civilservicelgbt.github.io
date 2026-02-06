@@ -3,7 +3,7 @@ layout: team
 person-name: Jefferson
 role: chair
 email: chairs@civilservice.lgbt
-archive: "false"
+archive: true
 permalink: /team/jefferson
 project: Co-Chair
 image: /assets/images/uploads/profile-jeff.jpg
