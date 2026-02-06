@@ -3,7 +3,7 @@ layout: team
 person-name: Saorsa-Amatheia
 role: chair
 email: chairs@civilservice.lgbt
-archive: "true"
+archive: true
 permalink: /team/saorsa-amatheia
 project: Co-Chair
 image: /assets/images/uploads/saorsa.jpg
