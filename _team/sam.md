@@ -1,7 +1,7 @@
 ---
 layout: team
 person-name: Sam
-role: local organiser
+role: interim chair
 email: london@civilservice.lgbt
 project: Local Organiser
 region: London
