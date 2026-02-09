@@ -3,7 +3,7 @@ layout: team
 person-name: Ellie
 role: vice chair
 email: allyship@civilservice.lgbt
-archive: "true"
+archive: true
 permalink: /team/ellie
 project: Allyship
 image: /assets/images/uploads/eg-pic.jpg
