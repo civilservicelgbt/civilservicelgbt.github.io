@@ -7,7 +7,7 @@ project: Local Organiser
 region: London
 archive: "false"
 permalink: /team/alex
-image: ""
+image: /assets/images/uploads/no-picture.jpg
 ---
 
 Hello! My name’s Alex, I’m a gay man and I've been a recruitment manager in DWP since I started in the Civil Service in 2021. I'm also currently the Comms lead for DWP Pride (our staff LGBT+ network). I’ve been off-and-on involved in LGBT+ campaigning for over a decade now; it’s something I’m quite passionate about.
