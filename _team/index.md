@@ -18,6 +18,6 @@ The Civil Service LGBT+ Network is run entirely by a team of volunteers. These v
 
 Interim Co-Chairs: Sam, Trixxy
 
-V﻿ice Chairs: Dee \[Career Development], Faz \[Minority Ethnic Inclusion], Michael \[Bi+ Inclusion]
+V﻿ice Chairs: Dee \[Career Development], Faz \[Minority Ethnic Inclusion]
 
 Interim Vice Chairs: Alex, Bethan \[Regions & Nations]
