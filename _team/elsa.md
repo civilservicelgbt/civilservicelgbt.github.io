@@ -3,9 +3,9 @@ layout: team
 person-name: Elsa
 role: vice chair
 email: parents-carers-partners@civilservice.lgbt
-project: Parents, Carers & Partners
-permalink: /team/elsa
 archive: "false"
+permalink: /team/elsa
+project: Parents, Carers & Partners
 image: /assets/images/uploads/elsa.jpg
 ---
 I’m Elsa Tweedale and I am one of the Vice Charis for Parents, Carers & Partners. This is a group to support Parents, Carers & Partners of LGBT+ people in the workplace.
