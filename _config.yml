@@ -261,7 +261,6 @@ collections:
         layout: page
   conference:
     output: true
-    permalink: /conference-agenda/:title/
     defaults:
       values:
         layout: agenda
