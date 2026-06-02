@@ -51,7 +51,7 @@ D﻿ate of Parade: 4 July
 
 R﻿egistration deadline: 1 July 2026
 
-[R﻿egister for Cymru (Cardiff)](https://docs.google.com/forms/d/e/1FAIpQLSfli2OQ79t0jK_celcv5r5Grgt0k0XCt46CdxlcsFMIkPTMqA/viewform)[R﻿egister for London](https://docs.google.com/forms/d/e/1FAIpQLSdLF8H4kf8C8fm3OMgpZkuTxke4i297DKex7NbaDOcAJuafPQ/viewform)
+[R﻿egister for London](https://docs.google.com/forms/d/e/1FAIpQLSdLF8H4kf8C8fm3OMgpZkuTxke4i297DKex7NbaDOcAJuafPQ/viewform)
 
 ### Bristol
 
