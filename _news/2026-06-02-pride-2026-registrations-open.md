@@ -10,18 +10,15 @@ The Civil Service LGBT+ Network participates in Pride Parades around the UK ever
 We kicked off our 2026 season in Birmingham on the 23rd of May, but many more events
 are coming up - and you can get involved!
 
-
 If you would like to join us, you will need to register through our forms - a full list of events
 will be viewable on our events page, which link through to each registration form. Please
 spread the word about our Prides to colleagues in your organisation!
 
-## 
-Balloted Prides
+## Balloted Prides
 
 Pride in London and Manchester Pride are our most popular events, but we have 100
 spaces for each. In order to manage demand, we will be running ballots on the 19th June
 2026 (for London) and the 23rd July 2026 (for Manchester). 
-
 
 If you have registered by then and are drawn in the ballot, we will email you to confirm you
 are coming. Please keep an eye on your emails - if you don't reply, we may give your space
@@ -29,10 +26,7 @@ away to other registered colleagues who were not drawn in our initial ballot. If
 longer able to attend, please let us know via london@civilservice.lgbt / northwest@civilservice.lgbt or pride2026@civilservice.lgbt, so
 we can offer another colleague your space.
 
-
 You will still be able to register to join our waitlist after the ballot.
-
-
 
 ## N﻿on-Balloted Prides
 
@@ -41,7 +35,7 @@ for any Pride Parade will generally be the Wednesday before the event. This is s
 
 Please make sure you read their emails as some parades can have specific rules about participation.
 
-## R﻿egister for non-balloted Prides
+## R﻿egister to attend
 
 ### C﻿ymru (Cardiff)
 
@@ -107,8 +101,6 @@ R﻿egistration deadline: 2 September 2026
 
 [R﻿egister for Newport](https://docs.google.com/forms/d/e/1FAIpQLSdycWuNw-xUFLJ5Cl1uBar4PcfFohiwK5QV_IiY2AyfXIcD0w/viewform)
 
-
-
 ## A﻿ttending a Pride Parade
 
 If you've not joined a Pride Parade before, please be aware there is a lot of walking involved!
@@ -129,12 +121,11 @@ should be mindful of the Civil Service Code and Standards of Behaviour. Our team
 remind you about this on the day. You will need to bring something to change into after the
 parade.
 
-## O﻿ther information 
+## O﻿ther information
 
 If you need to amend your registration, you should be able to amend this through the link
 that Google Forms sent after the original submission. If you cannot find this, you can submit
 a new form with the same email. You will need to register for each event you wish to attend.
-
 
 You will need to use your work email to register. If your organisation restricts access to
 Google Forms, you can register from a personal device - but you must still use your work
@@ -142,7 +133,6 @@ email to register. Attendance is limited to current Civil Servants only.
 If you have any queries about a Pride Parade you are attending, please contact your
 regional team - contact details available on our team page or
 alternatively pride2026@civilservice.lgbt
-
 
 Finally: We are so excited for you to join us in representing the Civil Service LGBT+ Network
 across the UK. Happy Pride!
