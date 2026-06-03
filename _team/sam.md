@@ -3,7 +3,7 @@ layout: team
 person-name: Sam
 role: chair
 email: info@civilservice.lgbt
-project: Local Organiser
+project: Chair
 region: London
 archive: "false"
 image: /assets/images/uploads/sam.jpg
