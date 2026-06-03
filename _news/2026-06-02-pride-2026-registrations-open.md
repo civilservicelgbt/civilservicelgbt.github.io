@@ -71,7 +71,7 @@ R﻿egistration deadline: 22 July 2026
 
 ### Lanarkshire (Hamilton)
 
-D﻿ate of Parade: 2 August 2026
+D﻿ate of Parade: 1 August 2026
 
 R﻿egistration deadline: 29 July 2026
 
