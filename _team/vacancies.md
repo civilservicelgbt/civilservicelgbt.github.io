@@ -16,19 +16,17 @@ We list specific gaps we've identified that we'd like more people to help with b
 
 We are currently looking for Vice Chairs for;
 
-<li>Women's inclusion
-<li>Men's inclusion
-<li>Bi+
+<li>Women's inclusion</li>
+<li>Men's inclusion</li>
+<li>Bi+</li>
 <li>Allyship</li>
-
 
 <br>We are currently looking for Local Organiser support in;
 
-<br><li>the North East
-<li>North Wales
+<li>the North East</li>
+<li>North Wales</li>
 <li>West Wales</li>
 
-  
-<br>Please get in touch with the Vice Chair for Regions and Nations if you would like to be involved.
+<br>Please get in touch with the Vice Chair for Nations and Regions if you would like to be involved. 
 
-If you spot something in [our business plan](/our-plan) you'd like to help with, email the vice-chair responsible directly.
+If you spot something on [our business plan](/ourplan) you'd like to help with, email the Vice Chair responsible directly.
