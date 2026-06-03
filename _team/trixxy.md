@@ -3,7 +3,7 @@ layout: team
 person-name: Trixxy
 role: chair
 email: info@civilservice.lgbt
-project: Trans & Non-Binary Inclusion
+project: Chair
 archive: "false"
 image: /assets/images/uploads/profile-pric-low-res.jpg
 ---
