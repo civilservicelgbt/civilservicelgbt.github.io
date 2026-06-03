@@ -1,13 +1,13 @@
 ---
 layout: team
 person-name: Trixxy
-role: vice chair
-email: trans-non-binary-inclusion@civilservice.lgbt
+role: chair
+email: info@civilservice.lgbt
 project: Trans & Non-Binary Inclusion
 archive: "false"
-image: /assets/images/uploads/trix8.jpg
+image: /assets/images/uploads/profile-pric-low-res.jpg
 ---
-Trixxy is the CS LGBT’s Network’s Trans, Intersex and Non-Binary lead, and Co-Chair of the Competition and Markets Authority’s Rainbow Network, alongside her day job as the CMA’s Strategy, Complaints & Enquiries Manager.
+Trixxy is one of the Co-Chairs of the Civil Service LGBT+ Network and Co-Chair of the Competition and Markets Authority’s Rainbow Network, alongside her day job as the CMA’s Strategy, Complaints & Enquiries Manager. Co-Chair 
 
 Her role in the Rainbow Network sees her lead a fantastic team who work to support, promote and celebrate the CMA’s LGBTQ+ staff and their allies, maintaining the CMA’s respectful and inclusive environment for all colleagues. Trixxy transitioned in March 2022, and credits her safe and supportive working environment in the CMA as a large part of helping her live authentically.
 
