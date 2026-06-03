@@ -16,8 +16,13 @@ The Civil Service LGBT+ Network is run entirely by a team of volunteers. These v
 
 **Want to get involved?** We've listed some of [our available roles](/team/vacancies/) on our website. Once you've decided what you want to help with, [contact us](/about/contact-us).
 
-Interim Co-Chairs: Sam, Trixxy
+Co-Chairs: Sam / Trixxy
 
-V﻿ice Chairs: Dee \[Career Development], Faz \[Minority Ethnic Inclusion]
+Director of Communications & Engagement, Deputy Chair: Alex
 
-Interim Vice Chairs: Alex, Bethan \[Regions & Nations]
+Vice Chair for Trans, Intersex and Non-Binary Inclusion: Leo
+Vice Chair for Technology: Katharine
+Vice Chair for Nations & Regions: Bethan
+Vice Chair for Governance: Jeanie
+Vice Chairs for Intersectionality: Antonia / Jen
+
