@@ -21,12 +21,14 @@ We are currently looking for Vice Chairs for;
 <li>Bi+
 <li>Allyship</li>
 
-We are currently looking for Local Organiser support in;
 
-<li>the North East, 
-<li><North Wales,
-<li>West Wales.</li> 
+<br>We are currently looking for Local Organiser support in;
+
+<li>the North East
+<li>North Wales
+<li>West Wales</li>
+
   
-Please get in touch with the Vice Chair for Regions and Nations if you would like to be involved.
+<br>Please get in touch with the Vice Chair for Regions and Nations if you would like to be involved.
 
 If you spot something in [our business plan](/our-plan) you'd like to help with, email the vice-chair responsible directly.
