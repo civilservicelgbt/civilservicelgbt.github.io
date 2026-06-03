@@ -24,7 +24,7 @@ We are currently looking for Vice Chairs for;
 
 <br>We are currently looking for Local Organiser support in;
 
-<li>the North East
+<br><li>the North East
 <li>North Wales
 <li>West Wales</li>
 
