@@ -20,9 +20,14 @@ Co-Chairs: Sam / Trixxy
 
 Director of Communications & Engagement, Deputy Chair: Alex
 
+
 Vice Chair for Trans, Intersex and Non-Binary Inclusion: Leo
+
 Vice Chair for Technology: Katharine
+
 Vice Chair for Nations & Regions: Bethan
+
 Vice Chair for Governance: Jeanie
+
 Vice Chairs for Intersectionality: Antonia / Jen
 
