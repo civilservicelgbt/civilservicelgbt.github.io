@@ -2,7 +2,7 @@
 layout: team
 person-name: Sam
 role: chair
-email: london@civilservice.lgbt
+email: info@civilservice.lgbt
 project: Local Organiser
 region: London
 archive: "false"
