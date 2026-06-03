@@ -4,7 +4,7 @@ person-name: Faz
 role: vice chair
 email: vice-chair-ethnic-minority-inclusion@civilservice.lgbt
 project: Ethnic minority group inclusion
-archive: "false"
+archive: "true"
 image: /assets/images/uploads/img_20250126_221540_547.webp
 ---
 I’m Faz, Vice Chair for ethnic minority inclusion – where we discuss all things race and within these different areas of our intersectionality’s.
