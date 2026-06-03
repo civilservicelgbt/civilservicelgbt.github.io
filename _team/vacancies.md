@@ -14,6 +14,19 @@ If you'd like to volunteer, [get in touch](/contact-us).
 
 We list specific gaps we've identified that we'd like more people to help with below, but these aren't the only ways to get involved. 
 
-We are currently looking for Local Organiser support in the North East, North Wales and West Wales. Please get in touch with the Vice Chair for Regions and Nations if you would like to be involved.
+We are currently looking for Vice Chairs for;
+
+<li>Women's inclusion
+<li>Men's inclusion
+<li>Bi+
+<li>Allyship</li>
+
+We are currently looking for Local Organiser support in;
+
+<li>the North East, 
+<li><North Wales,
+<li>West Wales.</li> 
+  
+Please get in touch with the Vice Chair for Regions and Nations if you would like to be involved.
 
 If you spot something in [our business plan](/our-plan) you'd like to help with, email the vice-chair responsible directly.
