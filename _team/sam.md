@@ -4,7 +4,7 @@ person-name: Sam
 role: chair
 email: info@civilservice.lgbt
 project: Chair
-region: London
+region: null
 archive: "false"
 image: /assets/images/uploads/sam.jpg
 ---
