@@ -7,7 +7,7 @@ project: Co-Chair
 archive: "false"
 image: /assets/images/uploads/profile-pric-low-res.jpg
 ---
-Trixxy is one of the Co-Chairs of the Civil Service LGBT+ Network and Co-Chair of the Competition and Markets Authority’s Rainbow Network, alongside her day job as the CMA’s Strategy, Complaints & Enquiries Manager. Co-Chair 
+Trixxy is one of the Co-Chairs of the Civil Service LGBT+ Network and Co-Chair of the Competition and Markets Authority’s Rainbow Network, alongside her day job as the CMA’s Deputy Head of External Engagement. 
 
 Her role in the Rainbow Network sees her lead a fantastic team who work to support, promote and celebrate the CMA’s LGBTQ+ staff and their allies, maintaining the CMA’s respectful and inclusive environment for all colleagues. Trixxy transitioned in March 2022, and credits her safe and supportive working environment in the CMA as a large part of helping her live authentically.
 
