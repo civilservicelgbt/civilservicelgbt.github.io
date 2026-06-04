@@ -26,6 +26,7 @@ We are currently looking for Vice Chairs for;
 <li>the North East</li>
 <li>North Wales</li>
 <li>West Wales</li>
+<li>West Midlands</li>
 
 <br>Please get in touch with the Vice Chair for Nations and Regions if you would like to be involved. 
 
