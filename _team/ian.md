@@ -9,8 +9,12 @@ archive: "false"
 permalink: /team/ian
 image: /assets/images/uploads/ian.jpeg
 ---
-Hi my name is Ian. I’m originally from Hartlepool but been a proud resident of Salford for the last 12 years. I currently work in DTS as part of the DDaT Capability and Engagement team. The job is all about developing our people, not just in terms of technical skill but also raising awareness to make sure we have an inclusive workforce and people feel they have a voice, which provides me with a lot of job satisfaction.
+Hi, I’m Ian. Originally from Hartlepool, I’ve now called Salford home for 15 years and I’m proud to be part of the community here. In 2025, I was honoured to be named Salford Citizen of the Year for my volunteer work, which meant a great deal to me and is something I’ll always be proud of.
 
-I am passionate about inclusion and learning from each other. I believe it is important to be visible and to role model the right behaviours allowing an environment where people can feel comfortable to be themselves. I have been an active member in the SPIRIT and HMCTS Pride networks so see this is an opportunity to do more on a bigger scale and I look forward to the challenge. I love the idea of meeting people around the whole country and sharing ideas and that sense of community.
+I’m currently a Service Support Manager for HMCTS. My role focuses on supporting people and services to run effectively, while also helping to create an environment where everyone feels included, valued, and heard. That balance is what I enjoy most about the job and it’s what keeps it rewarding.
 
-Random fact about myself is I’m obsessed with Jane McDonald. I even went to the Jane McDonald holiday in Rhodes this year with all the superfans. It was a holiday of a life-time and she performed 4 of the nights and there was huge LGBT+ presence on the holiday so felt a bit like a pride event. I still remember as a little kid watching her on the BBC show The Cruise which is back on iPlayer if you wanted to go down memory lane. I’m also a proud cat dad my boys are called Keith and Colin.
+I’m a big believer in inclusion and the value of learning from one another. Being visible, leading by example, and helping to create a space where people feel comfortable being themselves really matters to me. I’ve been actively involved in both the SPIRIT and HMCTS Pride networks, and I’m keen to build on that by getting involved on a wider scale. I’m especially looking forward to connecting with people across the country, sharing ideas, and strengthening that sense of community.
+
+ A random fact about me, I’m a huge Jane McDonald fan. I even went on the Jane McDonald holiday in Rhodes with a group of superfans. It honestly felt like a once in a lifetime trip. She performed on four nights and, with such a strong LGBT plus presence, it had a real Pride like atmosphere. I still remember watching her on The Cruise when I was younger, which is now back on iPlayer if anyone fancies a bit of nostalgia.
+
+At home, I’m also a very proud cat dad to Keith and Colin, who definitely keep life interesting.
