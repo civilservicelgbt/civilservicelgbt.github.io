@@ -1,21 +1,15 @@
 ---
-# Adding or removing a '#' in front of a line will toggle that information off and on from being processed. 
-
 layout: team
-title: "Nora"
-person-name: "Nora"
-role: "local organiser"
-# project: ""
-region: "West Midlands"
-email: "WestMidlands@civilservice.lgbt"
-image: "/assets/images/uploads/team/Nora-Wilen.jpeg.jpg"
+person-name: Nora
+role: local organiser
+email: WestMidlands@civilservice.lgbt
+project: Local organiser
+region: West Midlands
+archive: "false"
 permalink: /team/nora
-# redirect_from: 
-# - 
-# redirect_to: 
-# - 
+title: Nora
+image: /assets/images/uploads/team/Nora-Wilen.jpeg.jpg
 ---
+Hi! My name is Nora (she/they) and I joined the Civil Service in 2021. I’m based in Birmingham, and work as a policy professional at the Department for Transport. Outside my day job, I have two cats and a big garden which keep me busy. I also enjoy exploring new restaurants in the city and going out for hikes.
 
-Hello there! My name is Nora (she/they) and I joined the Civil Service in January 2021. I’m based in Birmingham, and I work in the Briefing and Stakeholder Engagement team within the HMPPS HQ. Outside of my day job, I have an energetic ragdoll kitten Nala and a flat full of plants that keep me busy. I also enjoy exploring new restaurants and cosy pubs with good craft beer. 
-
-Since I joined civil service during the second national lockdown, it has been a challenge to meet new people and network with other civil servants. I joined the Civil Service LGBT+ Network to meet new people I can connect with and to get more involved in the community, to help everyone feel included and welcome. I look forward to utilising my background in event organisation, and I welcome any suggestions, ideas and feedback at any time.
+Since I joined civil service during the Covid lockdown, I know how challenging it can be to meet new people and network with other civil servants. I joined the Network to get more involved in the community and to help everyone feel included and welcome. I look forward to utilising my background in event organisation, and I welcome any ideas and feedback you may have.
