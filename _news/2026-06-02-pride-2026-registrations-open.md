@@ -45,9 +45,17 @@ R﻿egistration deadline: 10 June 2026
 
 [R﻿egister for Cymru (Cardiff)](https://docs.google.com/forms/d/e/1FAIpQLSfli2OQ79t0jK_celcv5r5Grgt0k0XCt46CdxlcsFMIkPTMqA/viewform)
 
+## E﻿dinburgh
+
+D﻿ate of Parade: 20 June 2026
+
+R﻿egistration deadline 17 June 2026
+
+[R﻿egister for Edinburgh](https://docs.google.com/forms/d/e/1FAIpQLSd8cxF38IjEJhPWL0dkkZXJCo2dkJuZhkj72GAkdgCXRR5_Vg/viewform)
+
 ### L﻿ondon
 
-D﻿ate of Parade: 4 July
+D﻿ate of Parade: 4 July 2026
 
 R﻿egistration deadline: 1 July 2026
 
@@ -55,11 +63,27 @@ R﻿egistration deadline: 1 July 2026
 
 ### Bristol
 
-D﻿ate of Parade: 11 July
+D﻿ate of Parade: 11 July 2026
 
 R﻿egistration deadline: 8 July 2026
 
 [R﻿egister for Bristol](https://docs.google.com/forms/d/e/1FAIpQLScIOskqaTILS5Zd_f-j0VJSM4JNXMf6ZdXjgrqzwKkV8hnyPA/viewform)
+
+## G﻿lasgow
+
+D﻿ate of Parade: 18 July 2026
+
+R﻿egistration deadline: 15 July 2026
+
+[R﻿egister for Glasgow](https://docs.google.com/forms/d/e/1FAIpQLSdaZnf8RHnUcjMSiUcBis9o0mmEE2hTWRPRSHXhkf5fTtwCgg/viewform)
+
+## L﻿iverpool
+
+D﻿ate of Parade: 25 July 2026
+
+R﻿egistration deadline: 22 July 2026
+
+[R﻿egister for Liverpool](https://docs.google.com/forms/d/e/1FAIpQLSeWEFS_t2uEi3Qm4rHATiptMD_WJBE4TXJwy_o99mIvlEONsg/viewform)
 
 ### N﻿ottingham
 
