@@ -43,7 +43,7 @@ D﻿ate of Parade: 13 June 2026
 
 R﻿egistration deadline: 10 June 2026
 
-[R﻿egister for Cymru (Cardiff)](https://docs.google.com/forms/d/e/1FAIpQLSfli2OQ79t0jK_celcv5r5Grgt0k0XCt46CdxlcsFMIkPTMqA/viewform)
+[R﻿egister for Cymru (Cardiff)](https://docs.google.com/forms/d/e/1FAIpQLSfli2OQ79t0jK_celcv5r5Grgt0k0XCt46CdxlcsFMIkPTMqA/viewform)**R﻿egistration closed**
 
 ## E﻿dinburgh
 
