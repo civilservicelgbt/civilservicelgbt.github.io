@@ -2,7 +2,7 @@
 layout: event
 title: CS LGBT+ Network (EM) - Career Conversation Part 1
 excerpt: >
-  Virtual 'lunch and learn' experience on 25th April 2024 for the first part of
+  Virtual 'lunch and learn' experience on 30th May 2024 for the first part of
   our series focused on career progression. 
 date: 2024-03-07T13:40:23.855Z
 event:
