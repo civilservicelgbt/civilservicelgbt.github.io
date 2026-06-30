@@ -2,6 +2,7 @@
 layout: team
 person-name: Tom
 role: local organiser
+email: northwest@civilservice.lgbt
 project: Local Organiser
 region: North West
 archive: "false"
