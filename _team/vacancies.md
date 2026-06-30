@@ -25,7 +25,7 @@ We are currently looking for Vice Chairs for;
 
 <li>the North East</li>
 <li>North Wales</li>
-<li>Northern Ireland<li>
+<li>Northern Ireland</li>
 <li>Scotland</li>
 <li>West Wales</li>
 <li>West Midlands</li>
