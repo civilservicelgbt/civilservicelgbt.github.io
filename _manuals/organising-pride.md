@@ -1,8 +1,9 @@
 ---
-title:  	"Organising Civil Service Pride"
-excerpt:	"This guidance includes advice on organising annual pride participation for the Civil Service"
-category:	pride
-layout: 	manual
+layout: manual
+title: Organising Civil Service Pride
+excerpt: This guidance includes advice on organising annual pride participation
+  for the Civil Service
+category: pride
 ---
 
 ## About this guidance
