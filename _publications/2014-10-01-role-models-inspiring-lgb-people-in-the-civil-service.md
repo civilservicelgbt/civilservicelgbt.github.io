@@ -1,10 +1,8 @@
 ---
-title: 'Role Models: Inspiring LGB People in the Civil Service'
-author: Civil Service Rainbow Alliance
-excerpt: "We've published the first ever Civil Service role model guide for LGB staff."
-
 layout: publication
-
+title: "Role Models: Inspiring LGB People in the Civil Service"
+excerpt: We've published the first ever Civil Service role model guide for LGB staff.
+author: Civil Service Rainbow Alliance
 permalink: /publication/2014/10/01/role-models-inspiring-lgb-people-in-the-civil-service/
 redirect_from: /2014/10/01/role-models-inspiring-lgb-people-in-the-civil-service/
 ---
