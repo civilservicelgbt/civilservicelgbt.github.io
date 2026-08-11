@@ -75,7 +75,7 @@ D﻿ate of Parade: 25 July 2026
 
 R﻿egistration deadline: 22 July 2026
 
-[R﻿egister for Liverpool](https://docs.google.com/forms/d/e/1FAIpQLSeWEFS_t2uEi3Qm4rHATiptMD_WJBE4TXJwy_o99mIvlEONsg/viewform)
+[](https://docs.google.com/forms/d/e/1FAIpQLSfli2OQ79t0jK_celcv5r5Grgt0k0XCt46CdxlcsFMIkPTMqA/viewform)**R﻿egistration closed**
 
 ### N﻿ottingham
 
@@ -83,7 +83,7 @@ D﻿ate of Parade: 25 July 2026
 
 R﻿egistration deadline: 22 July 2026
 
-[R﻿egister for Nottingham](https://docs.google.com/forms/d/e/1FAIpQLScCt_pBrKPDerV75RvJ8_XZuE8F_9n1-m2yxyBRb7F7J6z2lw/viewform)
+[](https://docs.google.com/forms/d/e/1FAIpQLSfli2OQ79t0jK_celcv5r5Grgt0k0XCt46CdxlcsFMIkPTMqA/viewform)**R﻿egistration closed**
 
 ### Lanarkshire (Hamilton)
 
@@ -91,7 +91,7 @@ D﻿ate of Parade: 1 August 2026
 
 R﻿egistration deadline: 29 July 2026
 
-[R﻿egister for Lanarkshire (Hamilton)](https://docs.google.com/forms/d/e/1FAIpQLSeEUvQXWwDMUDJ62x0BRSEWQLeyf-OtXnbhPydQHshPhE2m8g/viewform)
+[](https://docs.google.com/forms/d/e/1FAIpQLSfli2OQ79t0jK_celcv5r5Grgt0k0XCt46CdxlcsFMIkPTMqA/viewform)**R﻿egistration closed**
 
 ### B﻿ute
 
@@ -99,7 +99,7 @@ D﻿ate of Parade: 8 August 2026
 
 R﻿egistration deadline: 5 August 2026
 
-[R﻿egister for Bute](https://docs.google.com/forms/d/e/1FAIpQLSfYBBb11V4VsrG6SouPLNWEL8pSTA7YSxbuf3HxsqRZJ-3gag/viewform)
+[](https://docs.google.com/forms/d/e/1FAIpQLSfli2OQ79t0jK_celcv5r5Grgt0k0XCt46CdxlcsFMIkPTMqA/viewform)**R﻿egistration closed**
 
 ### M﻿anchester
 
@@ -107,7 +107,7 @@ D﻿ate of Parade: 29 August 2026
 
 R﻿egistration deadline: 31 July 2026
 
-[R﻿egister for Manchester](https://docs.google.com/forms/d/e/1FAIpQLSd0TkH7lcTcERJY2Za8Vj9_ABJy4H2R7rS7KGYtRyNfphP2uQ/viewform)
+[](https://docs.google.com/forms/d/e/1FAIpQLSfli2OQ79t0jK_celcv5r5Grgt0k0XCt46CdxlcsFMIkPTMqA/viewform)**R﻿egistration closed**
 
 ### N﻿ewport
 
