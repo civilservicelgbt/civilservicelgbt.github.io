@@ -1,7 +1,8 @@
 ---
 layout: publication
-title: "Election 2023: Candidate statements"
-excerpt: Statements from the candidates running for election to be the new Chair of the Civil Service LGBT+ Network.
+title: Election 2023: Candidate statements
+excerpt: Statements from the candidates running for election to be the new Chair
+  of the Civil Service LGBT+ Network.
 author: Civil Service LGBT+ Network
 category:
   - election-2023
