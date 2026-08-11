@@ -1,10 +1,10 @@
 ---
 layout: team
-title: "Paul"
-person-name: "Paul"
-role: "project team"
-project: "bi+ inclusion"
-image: "/assets/images/uploads/team/paul-fogg.jpg"
+title: Paul
+person-name: Paul
+role: project team
+project: bi+ inclusion
+image: /assets/images/uploads/team/paul-fogg.jpg
 permalink: /team/paul
 ---
 
