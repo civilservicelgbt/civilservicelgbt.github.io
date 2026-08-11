@@ -31,3 +31,5 @@ Vice Chair for Governance: Jeanie
 
 Vice Chairs for Intersectionality: Antonia / Jen
 
+Vice Chair for Women's and FLINTA Inclusion: Ali
+
