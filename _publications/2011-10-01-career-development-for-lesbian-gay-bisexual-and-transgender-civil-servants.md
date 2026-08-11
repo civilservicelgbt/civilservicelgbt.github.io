@@ -1,9 +1,10 @@
 ---
 layout: publication
-title: "Career development for Lesbian, Gay, Bisexual and Transgender Civil Servants"
-excerpt: "A research project from YouGov on behalf of the Civil Service Rainbow Alliance (CSRA)"
-author: "Civil Service Rainbow Alliance"
-permalink: "/publication/2011/10/01/career-development-for-lesbian-gay-bisexual-and-transgender-civil-servants"
+title: Career development for Lesbian, Gay, Bisexual and Transgender Civil Servants
+excerpt: A research project from YouGov on behalf of the Civil Service Rainbow
+  Alliance (CSRA)
+author: Civil Service Rainbow Alliance
+permalink: /publication/2011/10/01/career-development-for-lesbian-gay-bisexual-and-transgender-civil-servants
 ---
 
 * Table of contents will generate here
