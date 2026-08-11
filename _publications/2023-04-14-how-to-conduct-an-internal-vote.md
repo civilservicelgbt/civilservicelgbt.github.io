@@ -1,7 +1,9 @@
 ---
 layout: publication
-title: "Election 2023: How to conduct your departmental or agency vote – guidance for network chairs"
-excerpt: Rules and procedures relating to the 2023 election for a new chair of the Civil Service LGBT+ Network.
+title: "Election 2023: How to conduct your departmental or agency vote –
+  guidance for network chairs"
+excerpt: Rules and procedures relating to the 2023 election for a new chair of
+  the Civil Service LGBT+ Network.
 author: Civil Service LGBT+ Network
 category:
   - election-2023
