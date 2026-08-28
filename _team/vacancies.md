@@ -16,7 +16,6 @@ We list specific gaps we've identified that we'd like more people to help with b
 
 We are currently looking for Vice Chairs for;
 
-<li>Women's inclusion</li>
 <li>Men's inclusion</li>
 <li>Bi+</li>
 <li>Allyship</li>
@@ -27,6 +26,7 @@ We are currently looking for Vice Chairs for;
 <li>North Wales</li>
 <li>Northern Ireland</li>
 <li>Scotland</li>
+<li>South West</li>
 <li>West Wales</li>
 <li>West Midlands</li>
 
