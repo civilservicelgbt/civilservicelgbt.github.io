@@ -115,7 +115,7 @@ D﻿ate of Parade: 5 September 2026
 
 R﻿egistration deadline: 2 September 2026
 
-[R﻿egister for Newport](https://docs.google.com/forms/d/e/1FAIpQLSdycWuNw-xUFLJ5Cl1uBar4PcfFohiwK5QV_IiY2AyfXIcD0w/viewform)
+[](https://docs.google.com/forms/d/e/1FAIpQLSfli2OQ79t0jK_celcv5r5Grgt0k0XCt46CdxlcsFMIkPTMqA/viewform)**R﻿egistration closed**
 
 ## A﻿ttending a Pride Parade
 
