@@ -1,0 +1,26 @@
+---
+layout: news
+title: Join us at our next Leaders of Network forum
+excerpt: The next Leaders of Networks forum is on 25 April 2022.
+date: 2022-03-14T00:00:00.000Z
+author: Civil Service LGBT+ Network
+permalink: /news/2022/03/14/join-us-at-our-next-leaders-of-network-forum
+category:
+  - leaders-of-networks
+image: /assets/images/uploads/leaders-of-networks-forum/leaders-of-networks-forum-logo.png
+---
+
+The [Leaders of Networks forum](/topic/leaders-of-networks) is a regular opportunity for those leading departmental and agency networks to discuss issues across the Civil Service affecting LGBT+ staff.
+
+This meeting is open to:
+
+- chairs, vice-chairs or other nominated representatives of departmental or agency LGBT+ Networks
+- volunteers that are part of the Civil Service LGBT+ Network [team](/team)
+
+The next quarterly meeting is taking place on 25 April 2022. If you would like to attend, please [register online](/event/2022/04/25/leaders-of-networks-forum). We'll send you a calendar invitation closer to the event.
+
+## What's on the agenda
+
+The agenda for each meeting is agreed in advance and circulated directly to attendees.
+
+If you would like to propose an item for a future meeting’s agenda, please email us at <info@civilservice.lgbt>.
